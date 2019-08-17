@@ -7,7 +7,7 @@ Context aware marketing
 [Twitter](http://twitter.com/ADmantX), [LinkedIn](http://www.linkedin.com/company/admantx), [Website](http://www.admantx.com), [Video](https://www.youtube.com/watch?v=_NjHQLM68PE), [Email](info@admantx.com)
  
  
- &nbsp
+</br>
 ##### [MediaMath](http://www.mediamath.com) 
  
 Founded: 2007; Region: United States, New York; Employees: 669
