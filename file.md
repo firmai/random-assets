@@ -1,16 +1,16 @@
-### [ADmantX](http://www.admantx.com) 
+##### [ADmantX](http://www.admantx.com) 
  
-Founded: 2010.0; Region: United States, Connecticut; Employees: 19
+Founded: 2010; Region: United States, Connecticut; Employees: 19
  
-Context aware marketing | Context aware marketing | Context aware marketing | Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](http://twitter.com/ADmantX), [LinkedIn](http://www.linkedin.com/company/admantx), [Website](http://www.admantx.com), [Video](https://www.youtube.com/watch?v=_NjHQLM68PE), [Email](info@admantx.com)
  
  
  
-### [MediaMath](http://www.mediamath.com) 
+ &nbsp##### [MediaMath](http://www.mediamath.com) 
  
-Founded: 2007.0; Region: United States, New York; Employees: 669
+Founded: 2007; Region: United States, New York; Employees: 669
  
 Marketing analytics | Omnichannel
  
@@ -18,19 +18,19 @@ Marketing analytics | Omnichannel
  
  
  
-### [Trax Image Recognition](http://traxretail.com/) 
+ &nbsp##### [Trax Image Recognition](http://traxretail.com/) 
  
-Founded: 2010.0; Region: Singapore, Central Singapore; Employees: 0
+Founded: 2010; Region: Singapore, Central Singapore; Employees: 0
  
-Shelf audit/analytics | Shelf audit/analytics | Shelf audit/analytics | Shelf audit/analytics
+Shelf audit/analytics
  
 [Twitter](http://twitter.com/TraxRetail), [LinkedIn](http://www.linkedin.com/company/1799284), [Facebook](http://www.facebook.com/TraxImageRecognition), [Website](http://traxretail.com/), [Video](https://www.youtube.com/watch?v=hbbOMD4epbQ), [Email](info@trax-tech.com)
  
  
  
-### [Radius](http://radius.com) 
+ &nbsp##### [Radius](http://radius.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 168
+Founded: 2008; Region: United States, California; Employees: 168
  
 Marketing analytics | Predictive sales
  
@@ -38,49 +38,49 @@ Marketing analytics | Predictive sales
  
  
  
-### [Relativity6](http://www.relativity6.com) 
+ &nbsp##### [Relativity6](http://www.relativity6.com) 
  
-Founded: 0.0; Region: United States, Massachusetts; Employees: 13
+Founded: 0; Region: United States, Massachusetts; Employees: 13
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Website](http://www.relativity6.com), [Video](https://www.youtube.com/watch?v=XbjAZ34bToc), 
  
  
  
-### [Nanigans](http://www.nanigans.com) 
+ &nbsp##### [Nanigans](http://www.nanigans.com) 
  
-Founded: 2010.0; Region: United States, Massachusetts; Employees: 0
+Founded: 2010; Region: United States, Massachusetts; Employees: 0
  
-Retargeting | Retargeting | Retargeting | Retargeting
+Retargeting
  
 [Twitter](http://twitter.com/nanigans), [LinkedIn](http://www.linkedin.com/company/nanigans), [Facebook](http://www.facebook.com/nanigans), [Website](http://www.nanigans.com), [Email](info@nanigans.com)
  
  
  
-### [SalesBrain](http://www.salesbrain.com/) 
+ &nbsp##### [SalesBrain](http://www.salesbrain.com/) 
  
-Founded: 2002.0; Region: United States, California; Employees: 10
+Founded: 2002; Region: United States, California; Employees: 10
  
-Neuromarketing for pre-testing | Neuromarketing for pre-testing | Neuromarketing for pre-testing | Neuromarketing for pre-testing
+Neuromarketing for pre-testing
  
 [Twitter](https://www.twitter.com/gosalesbrain), [LinkedIn](https://www.linkedin.com/company/salesbrain), [Facebook](https://www.facebook.com/neurostrategy), [Website](http://www.salesbrain.com/), [Video](https://www.youtube.com/watch?v=busgEMeXlV8), [Email](info@salesbrain.com)
  
  
  
-### [Crimson Hexagon](http://crimsonhexagon.com) 
+ &nbsp##### [Crimson Hexagon](http://crimsonhexagon.com) 
  
-Founded: 2007.0; Region: United States, Massachusetts; Employees: 247
+Founded: 2007; Region: United States, Massachusetts; Employees: 247
  
-Social analytics & automation | Social analytics & automation | Social analytics & automation | Social analytics & automation
+Social analytics & automation
  
 [Twitter](http://twitter.com/crimsonhexagon), [LinkedIn](http://www.linkedin.com/company/crimsonhexagon), [Facebook](http://www.facebook.com/pages/Crimson-Hexagon/127737499873), [Website](http://crimsonhexagon.com), [Video](https://www.youtube.com/watch?v=n3wM4iGpoZM), [Email](info@crimsonhexagon.com)
  
  
  
-### [RichRelevance](http://www.richrelevance.com) 
+ &nbsp##### [RichRelevance](http://www.richrelevance.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 151
+Founded: 2006; Region: United States, California; Employees: 151
  
 Recommendation engine | Merchandising optimization | Omnichannel
  
@@ -88,9 +88,9 @@ Recommendation engine | Merchandising optimization | Omnichannel
  
  
  
-### [Celect](http://celect.com) 
+ &nbsp##### [Celect](http://celect.com) 
  
-Founded: 2013.0; Region: United States, Massachusetts; Employees: 41
+Founded: 2013; Region: United States, Massachusetts; Employees: 41
  
 Recommendation engine | Pricing optimization | Merchandising optimization
  
@@ -98,19 +98,19 @@ Recommendation engine | Pricing optimization | Merchandising optimization
  
  
  
-### [Blue Yonder](http://www.blue-yonder.com/) 
+ &nbsp##### [Blue Yonder](http://www.blue-yonder.com/) 
  
-Founded: 2008.0; Region: Germany, Baden-Württemberg; Employees: 118
+Founded: 2008; Region: Germany, Baden-Württemberg; Employees: 118
  
-Pricing optimization | Pricing optimization | Pricing optimization | Pricing optimization
+Pricing optimization
  
 [Twitter](http://twitter.com/BYAnalytics_en), [LinkedIn](http://www.linkedin.com/company/blue-yonder-gmbh-&-co-kg), [Facebook](https://www.facebook.com/blueyonderpredictiveapplications), [Website](http://www.blue-yonder.com/), [Email](info@blue-yonder.com)
  
  
  
-### [AgilOne](http://www.agilone.com) 
+ &nbsp##### [AgilOne](http://www.agilone.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 114
+Founded: 2006; Region: United States, California; Employees: 114
  
 Marketing analytics | Omnichannel
  
@@ -118,9 +118,9 @@ Marketing analytics | Omnichannel
  
  
  
-### [GumGum](http://gumgum.com) 
+ &nbsp##### [GumGum](http://gumgum.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 226
+Founded: 2008; Region: United States, California; Employees: 226
  
 Social analytics & automation | Context aware marketing
  
@@ -128,9 +128,9 @@ Social analytics & automation | Context aware marketing
  
  
  
-### [NetBase Solutions](http://www.netbase.com) 
+ &nbsp##### [NetBase Solutions](http://www.netbase.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 149
+Founded: 2004; Region: United States, California; Employees: 149
  
 Social analytics & automation | Social listening & ticketing
  
@@ -138,9 +138,9 @@ Social analytics & automation | Social listening & ticketing
  
  
  
-### [DigitalGenius](http://digitalgenius.com) 
+ &nbsp##### [DigitalGenius](http://digitalgenius.com) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 70
+Founded: 2013; Region: United Kingdom, England; Employees: 70
  
 Recommendation engine | Social analytics & automation | Chatbot | Customer service response suggestions
  
@@ -148,9 +148,9 @@ Recommendation engine | Social analytics & automation | Chatbot | Customer servi
  
  
  
-### [Ditto Labs](http://dittolabs.io/) 
+ &nbsp##### [Ditto Labs](http://dittolabs.io/) 
  
-Founded: 0.0; Region: United States, Massachusetts; Employees: 19
+Founded: 0; Region: United States, Massachusetts; Employees: 19
  
 Social analytics & automation | Visual search capability
  
@@ -158,9 +158,9 @@ Social analytics & automation | Visual search capability
  
  
  
-### [Emarsys](http://emarsys.com) 
+ &nbsp##### [Emarsys](http://emarsys.com) 
  
-Founded: 2000.0; Region: Austria, Vienna; Employees: 1000
+Founded: 2000; Region: Austria, Vienna; Employees: 1000
  
 Recommendation engine | Marketing analytics | Pricing optimization | Omnichannel
  
@@ -168,9 +168,9 @@ Recommendation engine | Marketing analytics | Pricing optimization | Omnichannel
  
  
  
-### [Dataminr](http://www.dataminr.com) 
+ &nbsp##### [Dataminr](http://www.dataminr.com) 
  
-Founded: 2009.0; Region: United States, New York; Employees: 240
+Founded: 2009; Region: United States, New York; Employees: 240
  
 Social media monitoring | Social media optimization | Analytics platform | Data gathering
  
@@ -178,9 +178,9 @@ Social media monitoring | Social media optimization | Analytics platform | Data 
  
  
  
-### [BirdEye](http://birdeye.com) 
+ &nbsp##### [BirdEye](http://birdeye.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 130
+Founded: 2012; Region: United States, California; Employees: 130
  
 Social analytics & automation | Survey & review analytics | Social listening & ticketing
  
@@ -188,9 +188,9 @@ Social analytics & automation | Survey & review analytics | Social listening & t
  
  
  
-### [import.io](https://import.io) 
+ &nbsp##### [import.io](https://import.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 35
+Founded: 2012; Region: United States, California; Employees: 35
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -198,9 +198,9 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
  
  
-### [Ysance](http://www.ysance.com/en) 
+ &nbsp##### [Ysance](http://www.ysance.com/en) 
  
-Founded: 2005.0; Region: France, Île-de-France; Employees: 150
+Founded: 2005; Region: France, Île-de-France; Employees: 150
  
 Retargeting | Recommendation engine | Marketing analytics | Context aware marketing | Merchandising optimization | Social media optimization | Website Personalization | Omnichannel | Email Marketing | Advocacy & Loyalty Marketing
  
@@ -208,9 +208,9 @@ Retargeting | Recommendation engine | Marketing analytics | Context aware market
  
  
  
-### [SalesChoice](http://www.saleschoice.com) 
+ &nbsp##### [SalesChoice](http://www.saleschoice.com) 
  
-Founded: 2012.0; Region: Canada, Ontario; Employees: 15
+Founded: 2012; Region: Canada, Ontario; Employees: 15
  
 Pricing optimization | Predictive sales | Sales forecasting | Sales rep next action suggestions | Prescriptive sales | Natural Language Processing library/SDK/API | Deep learning library/SDK/API
  
@@ -218,9 +218,9 @@ Pricing optimization | Predictive sales | Sales forecasting | Sales rep next act
  
  
  
-### [Lytics](http://lytics.ai/) 
+ &nbsp##### [Lytics](http://lytics.ai/) 
  
-Founded: 2011.0; Region: Sweden, Skåne; Employees: 4
+Founded: 2011; Region: Sweden, Skåne; Employees: 4
  
 Marketing analytics | Website Personalization | Email Marketing
  
@@ -228,19 +228,19 @@ Marketing analytics | Website Personalization | Email Marketing
  
  
  
-### [BlueConic](http://www.BlueConic.com) 
+ &nbsp##### [BlueConic](http://www.BlueConic.com) 
  
-Founded: 2010.0; Region: United States, Massachusetts; Employees: 41
+Founded: 2010; Region: United States, Massachusetts; Employees: 41
  
-Retargeting | Retargeting | Retargeting | Retargeting | Retargeting
+Retargeting
  
 [Twitter](https://twitter.com/blueconic), [LinkedIn](https://www.linkedin.com/company/5057388), [Facebook](https://www.facebook.com/blueconic), [Website](http://www.BlueConic.com), [Video](https://www.youtube.com/watch?v=ajsnQixjiz0), [Email](info@blueconic.com)
  
  
  
-### [Antuit](http://www.antuit.com) 
+ &nbsp##### [Antuit](http://www.antuit.com) 
  
-Founded: 2013.0; Region: Singapore, Central Singapore; Employees: 178
+Founded: 2013; Region: Singapore, Central Singapore; Employees: 178
  
 Recommendation engine | Social analytics & automation | Marketing analytics | Pricing optimization | Omnichannel | Customer contact analytics
  
@@ -248,19 +248,19 @@ Recommendation engine | Social analytics & automation | Marketing analytics | Pr
  
  
  
-### [AirPR](http://www.airpr.com) 
+ &nbsp##### [AirPR](http://www.airpr.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 31
+Founded: 2011; Region: United States, California; Employees: 31
  
-PR analytics | PR analytics | PR analytics | PR analytics | PR analytics
+PR analytics
  
 [Twitter](http://twitter.com/AirPR), [LinkedIn](http://www.linkedin.com/company/airpr), [Facebook](http://www.facebook.com/airpr), [Website](http://www.airpr.com), [Video](https://www.youtube.com/watch?v=Pk0vpYsOrmg#t=26.246433), [Email](info@airpr.com)
  
  
  
-### [ActionIQ](http://actioniq.com) 
+ &nbsp##### [ActionIQ](http://actioniq.com) 
  
-Founded: 2014.0; Region: United States, New York; Employees: 37
+Founded: 2014; Region: United States, New York; Employees: 37
  
 Marketing analytics | Analytics platform
  
@@ -268,19 +268,19 @@ Marketing analytics | Analytics platform
  
  
  
-### [Fellow Robots](http://www.fellowrobots.com) 
+ &nbsp##### [Fellow Robots](http://www.fellowrobots.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 19
+Founded: 2011; Region: United States, California; Employees: 19
  
-Shelf audit/analytics | Shelf audit/analytics | Shelf audit/analytics | Shelf audit/analytics | Shelf audit/analytics | Shelf audit/analytics
+Shelf audit/analytics
  
 [Twitter](http://twitter.com/FellowRobots), [LinkedIn](https://www.linkedin.com/company/fellow-robots), [Facebook](http://www.facebook.com/fellowrobots), [Website](http://www.fellowrobots.com), [Email](contact@fellowrobots.com)
  
  
  
-### [BrightFunnel](http://www.brightfunnel.com) 
+ &nbsp##### [BrightFunnel](http://www.brightfunnel.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 44
+Founded: 2012; Region: United States, California; Employees: 44
  
 Marketing analytics | Sales forecasting | Sales attribution
  
@@ -288,19 +288,19 @@ Marketing analytics | Sales forecasting | Sales attribution
  
  
  
-### [Rocket Fuel](http://rocketfuel.com) 
+ &nbsp##### [Rocket Fuel](http://rocketfuel.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 832
+Founded: 2008; Region: United States, California; Employees: 832
  
-Marketing analytics | Marketing analytics | Marketing analytics | Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/rocketfuelinc), [LinkedIn](http://www.linkedin.com/company/271301), [Facebook](http://www.facebook.com/rocketfuelinc), [Website](http://rocketfuel.com), [Video](https://vimeo.com/203225248), [Email](sales@rocketfuel.com)
  
  
  
-### [Gavagai](http://www.gavagai.se) 
+ &nbsp##### [Gavagai](http://www.gavagai.se) 
  
-Founded: 2008.0; Region: Sweden, Stockholm; Employees: 18
+Founded: 2008; Region: Sweden, Stockholm; Employees: 18
  
 Social analytics & automation | Natural Language Processing library/SDK/API
  
@@ -308,9 +308,9 @@ Social analytics & automation | Natural Language Processing library/SDK/API
  
  
  
-### [Clarabridge](http://www.clarabridge.com) 
+ &nbsp##### [Clarabridge](http://www.clarabridge.com) 
  
-Founded: 2006.0; Region: United States, Virginia; Employees: 262
+Founded: 2006; Region: United States, Virginia; Employees: 262
  
 Social analytics & automation | Social media monitoring | Survey & review analytics | Customer contact analytics | Social listening & ticketing
  
@@ -318,9 +318,9 @@ Social analytics & automation | Social media monitoring | Survey & review analyt
  
  
  
-### [Tinyclues](http://www.tinyclues.com) 
+ &nbsp##### [Tinyclues](http://www.tinyclues.com) 
  
-Founded: 2010.0; Region: France, Île-de-France; Employees: 54
+Founded: 2010; Region: France, Île-de-France; Employees: 54
  
 Retargeting | Recommendation engine | Omnichannel
  
@@ -328,9 +328,9 @@ Retargeting | Recommendation engine | Omnichannel
  
  
  
-### [Cien](https://www.cien.ai) 
+ &nbsp##### [Cien](https://www.cien.ai) 
  
-Founded: 2016.0; Region: United States, Texas; Employees: 32
+Founded: 2016; Region: United States, Texas; Employees: 32
  
 Marketing analytics | Predictive sales | Sales data input automation | Sales forecasting | Customer sales contact analytics | Sales rep next action suggestions | Prescriptive sales | Sales attribution | Sales compensation
  
@@ -338,29 +338,29 @@ Marketing analytics | Predictive sales | Sales data input automation | Sales for
  
  
  
-### [Datorama](http://datorama.com) 
+ &nbsp##### [Datorama](http://datorama.com) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 202
+Founded: 2012; Region: United States, New York; Employees: 202
  
-Marketing analytics | Marketing analytics | Marketing analytics | Marketing analytics | Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/Datorama), [LinkedIn](http://www.linkedin.com/company/datorama), [Facebook](http://www.facebook.com/Datorama/232963956806382), [Website](http://datorama.com), [Email](info@datorama.com)
  
  
  
-### [SocialFlow](http://www.socialflow.com) 
+ &nbsp##### [SocialFlow](http://www.socialflow.com) 
  
-Founded: 2009.0; Region: United States, New York; Employees: 63
+Founded: 2009; Region: United States, New York; Employees: 63
  
-Social media optimization | Social media optimization | Social media optimization | Social media optimization | Social media optimization
+Social media optimization
  
 [Twitter](http://twitter.com/socialflow), [LinkedIn](http://www.linkedin.com/company/socialflow), [Facebook](http://www.facebook.com/socialflow), [Website](http://www.socialflow.com), [Video](https://www.youtube.com/watch?v=jaDuR6aJNO8&t=13s), [Email](sales@socialflow.com)
  
  
  
-### [Leadspace](http://www.leadspace.com) 
+ &nbsp##### [Leadspace](http://www.leadspace.com) 
  
-Founded: 2007.0; Region: Israel, Central District; Employees: 93
+Founded: 2007; Region: Israel, Central District; Employees: 93
  
 Marketing analytics | Predictive sales
  
@@ -368,9 +368,9 @@ Marketing analytics | Predictive sales
  
  
  
-### [Drawbridge](http://www.drawbridge.com) 
+ &nbsp##### [Drawbridge](http://www.drawbridge.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 169
+Founded: 2010; Region: United States, California; Employees: 169
  
 Retargeting | Marketing analytics | Omnichannel
  
@@ -378,9 +378,9 @@ Retargeting | Marketing analytics | Omnichannel
  
  
  
-### [boomtrain](http://boomtrain.com) 
+ &nbsp##### [boomtrain](http://boomtrain.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 82
+Founded: 2012; Region: United States, California; Employees: 82
  
 Recommendation engine | Omnichannel | Email Marketing
  
@@ -388,9 +388,9 @@ Recommendation engine | Omnichannel | Email Marketing
  
  
  
-### [Salesforce](https://www.salesforce.com) 
+ &nbsp##### [Salesforce](https://www.salesforce.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 23343
+Founded: 1999; Region: United States, California; Employees: 23343
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -398,9 +398,9 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
  
  
-### [Dynamic Yield](https://www.dynamicyield.com) 
+ &nbsp##### [Dynamic Yield](https://www.dynamicyield.com) 
  
-Founded: 2011.0; Region: United States, New York; Employees: 129
+Founded: 2011; Region: United States, New York; Employees: 129
  
 Retargeting | Recommendation engine | Context aware marketing | Mobile Marketing | Website Personalization | Omnichannel | Email Marketing | Advocacy & Loyalty Marketing
  
@@ -408,9 +408,9 @@ Retargeting | Recommendation engine | Context aware marketing | Mobile Marketing
  
  
  
-### [SmarterHQ](http://www.smarterhq.com) 
+ &nbsp##### [SmarterHQ](http://www.smarterhq.com) 
  
-Founded: 2010.0; Region: United States, Indiana; Employees: 73
+Founded: 2010; Region: United States, Indiana; Employees: 73
  
 Recommendation engine | Omnichannel | Email Marketing
  
@@ -418,19 +418,19 @@ Recommendation engine | Omnichannel | Email Marketing
  
  
  
-### [Criteo](http://www.criteo.com) 
+ &nbsp##### [Criteo](http://www.criteo.com) 
  
-Founded: 2005.0; Region: France, Île-de-France; Employees: 2601
+Founded: 2005; Region: France, Île-de-France; Employees: 2601
  
-Retargeting | Retargeting | Retargeting | Retargeting | Retargeting | Retargeting | Retargeting | Retargeting | Retargeting | Retargeting | Retargeting | Retargeting
+Retargeting
  
 [Twitter](http://twitter.com/criteo), [LinkedIn](http://www.linkedin.com/groups/CriteoLabs-Paris-3748262), [Facebook](http://www.facebook.com/GoCriteo), [Website](http://www.criteo.com), [Video](https://www.youtube.com/watch?v=CLxdRlyLqt4), [Email](corp@criteo.com)
  
  
  
-### [Youneeq](http://www.youneeq.ca) 
+ &nbsp##### [Youneeq](http://www.youneeq.ca) 
  
-Founded: 2012.0; Region: Canada, British Columbia; Employees: 8
+Founded: 2012; Region: Canada, British Columbia; Employees: 8
  
 Recommendation engine | Social analytics & automation | Marketing analytics | Context aware marketing | Mobile Marketing | Merchandising optimization | Website Personalization | Advocacy & Loyalty Marketing | 3rd party data
  
@@ -438,9 +438,9 @@ Recommendation engine | Social analytics & automation | Marketing analytics | Co
  
  
  
-### [Arimo](https://arimo.com) 
+ &nbsp##### [Arimo](https://arimo.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 37
+Founded: 2012; Region: United States, California; Employees: 37
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -448,9 +448,9 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
  
  
-### [IBM Watson](http://www.ibm.com/) 
+ &nbsp##### [IBM Watson](http://www.ibm.com/) 
  
-Founded: 1911.0; Region: United States, New York; Employees: 2001
+Founded: 1911; Region: United States, New York; Employees: 2001
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -458,9 +458,9 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
  
  
-### [msg.ai](http://msg.ai) 
+ &nbsp##### [msg.ai](http://msg.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 40
+Founded: 2015; Region: United States, California; Employees: 40
  
 Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Customer service response suggestions | Chatbot analytics
  
@@ -468,9 +468,9 @@ Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Custo
  
  
  
-### [Reflektion](http://www.reflektion.com) 
+ &nbsp##### [Reflektion](http://www.reflektion.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 68
+Founded: 2012; Region: United States, California; Employees: 68
  
 Recommendation engine | Visual search capability | Email Marketing
  
@@ -478,9 +478,9 @@ Recommendation engine | Visual search capability | Email Marketing
  
  
  
-### [BloomReach](http://www.bloomreach.com) 
+ &nbsp##### [BloomReach](http://www.bloomreach.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 245
+Founded: 2009; Region: United States, California; Employees: 245
  
 Recommendation engine | Merchandising optimization
  
@@ -488,9 +488,9 @@ Recommendation engine | Merchandising optimization
  
  
  
-### [Retention Science](http://retentionscience.com) 
+ &nbsp##### [Retention Science](http://retentionscience.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 44
+Founded: 2011; Region: United States, California; Employees: 44
  
 Recommendation engine | Marketing analytics | Omnichannel
  
@@ -498,9 +498,9 @@ Recommendation engine | Marketing analytics | Omnichannel
  
  
  
-### [ViSenze](http://www.visenze.com) 
+ &nbsp##### [ViSenze](http://www.visenze.com) 
  
-Founded: 2012.0; Region: Singapore, Central Singapore; Employees: 53
+Founded: 2012; Region: Singapore, Central Singapore; Employees: 53
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Video commerce | Image recognition library/SDK/API
  
@@ -508,19 +508,19 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
  
  
-### [Kahuna](http://www.kahuna.com) 
+ &nbsp##### [Kahuna](http://www.kahuna.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 80
+Founded: 2011; Region: United States, California; Employees: 80
  
-Omnichannel | Omnichannel | Omnichannel | Omnichannel | Omnichannel | Omnichannel
+Omnichannel
  
 [Twitter](http://twitter.com/kahuna), [LinkedIn](http://www.linkedin.com/company/kahuna-inc), [Facebook](http://www.facebook.com/useKahuna), [Website](http://www.kahuna.com), [Video](https://player.vimeo.com/video/211611113?autoplay=1), [Email](info@kahuna.com)
  
  
  
-### [Clarifai](http://clarifai.com/) 
+ &nbsp##### [Clarifai](http://clarifai.com/) 
  
-Founded: 2013.0; Region: United States, New York; Employees: 62
+Founded: 2013; Region: United States, New York; Employees: 62
  
 Recommendation engine | Visual search capability | Image recognition library/SDK/API
  
@@ -528,19 +528,19 @@ Recommendation engine | Visual search capability | Image recognition library/SDK
  
  
  
-### [Phrasee](https://phrasee.co) 
+ &nbsp##### [Phrasee](https://phrasee.co) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 20
+Founded: 2015; Region: United Kingdom, England; Employees: 20
  
-Email Marketing | Email Marketing | Email Marketing
+Email Marketing
  
 [Twitter](https://twitter.com/phrasee), [LinkedIn](https://www.linkedin.com/company/6394011), [Website](https://phrasee.co), [Video](https://vimeo.com/138874258), [Email](awesome@phrasee.co)
  
  
  
-### [imagenii](http://www.imagenii.com) 
+ &nbsp##### [imagenii](http://www.imagenii.com) 
  
-Founded: 2014.0; Region: United States, Texas; Employees: 0
+Founded: 2014; Region: United States, Texas; Employees: 0
  
 Recommendation engine | Image recognition library/SDK/API
  
@@ -548,9 +548,9 @@ Recommendation engine | Image recognition library/SDK/API
  
  
  
-### [Acquisio](http://www.acquisio.com) 
+ &nbsp##### [Acquisio](http://www.acquisio.com) 
  
-Founded: 2003.0; Region: Canada, Quebec; Employees: 170
+Founded: 2003; Region: Canada, Quebec; Employees: 170
  
 Social media optimization | Omnichannel
  
@@ -558,9 +558,9 @@ Social media optimization | Omnichannel
  
  
  
-### [Automat](http://www.automat.ai/) 
+ &nbsp##### [Automat](http://www.automat.ai/) 
  
-Founded: 2016.0; Region: Canada, Quebec; Employees: 10
+Founded: 2016; Region: Canada, Quebec; Employees: 10
  
 Marketing analytics | Omnichannel
  
@@ -568,9 +568,9 @@ Marketing analytics | Omnichannel
  
  
  
-### [MarketChorus](http://www.marketchorus.com) 
+ &nbsp##### [MarketChorus](http://www.marketchorus.com) 
  
-Founded: 2008.0; Region: United States, Texas; Employees: 10
+Founded: 2008; Region: United States, Texas; Employees: 10
  
 Recommendation engine | Context aware marketing | Pricing optimization
  
@@ -578,19 +578,19 @@ Recommendation engine | Context aware marketing | Pricing optimization
  
  
  
-### [Invoca](http://www.invoca.com) 
+ &nbsp##### [Invoca](http://www.invoca.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 135
+Founded: 2008; Region: United States, California; Employees: 135
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/Invoca), [LinkedIn](http://www.linkedin.com/company/invoca.com), [Facebook](http://www.facebook.com/invoca), [Website](http://www.invoca.com), [Video](https://www.youtube.com/watch?v=RI3VLg2fvVo), [Email](amueller@invoca.com)
  
  
  
-### [Lexalytics](http://www.lexalytics.com) 
+ &nbsp##### [Lexalytics](http://www.lexalytics.com) 
  
-Founded: 2003.0; Region: United States, Massachusetts; Employees: 38
+Founded: 2003; Region: United States, Massachusetts; Employees: 38
  
 Marketing analytics | Social media monitoring
  
@@ -598,9 +598,9 @@ Marketing analytics | Social media monitoring
  
  
  
-### [Simbe Robotics](http://www.simberobotics.com) 
+ &nbsp##### [Simbe Robotics](http://www.simberobotics.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 6
+Founded: 2014; Region: United States, California; Employees: 6
  
 Shelf audit/analytics | Merchandising optimization
  
@@ -608,9 +608,9 @@ Shelf audit/analytics | Merchandising optimization
  
  
  
-### [TellApart](http://www.tellapart.com) 
+ &nbsp##### [TellApart](http://www.tellapart.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 0
+Founded: 2009; Region: United States, California; Employees: 0
  
 Retargeting | Email Marketing
  
@@ -618,19 +618,19 @@ Retargeting | Email Marketing
  
  
  
-### [Gravity](http://www.gravity.com/) 
+ &nbsp##### [Gravity](http://www.gravity.com/) 
  
-Founded: 2009.0; Region: United States, California; Employees: 0
+Founded: 2009; Region: United States, California; Employees: 0
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/gravity), [LinkedIn](http://www.linkedin.com/company/gravity.com), [Facebook](http://www.facebook.com/gravity.com), [Website](http://www.gravity.com/), [Video](https://www.youtube.com/watch?v=Tj2R-RQ56T8), 
  
  
  
-### [PurePredictive](http://www.purepredictive.com/) 
+ &nbsp##### [PurePredictive](http://www.purepredictive.com/) 
  
-Founded: 2011.0; Region: United States, Utah; Employees: 0
+Founded: 2011; Region: United States, Utah; Employees: 0
  
 Marketing analytics | Analytics platform
  
@@ -638,9 +638,9 @@ Marketing analytics | Analytics platform
  
  
  
-### [Cortexica Vision Systems](http://www.cortexica.com) 
+ &nbsp##### [Cortexica Vision Systems](http://www.cortexica.com) 
  
-Founded: 2008.0; Region: United Kingdom, England; Employees: 38
+Founded: 2008; Region: United Kingdom, England; Employees: 38
  
 Recommendation engine | Merchandising optimization | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -648,9 +648,9 @@ Recommendation engine | Merchandising optimization | Image tagging to improve pr
  
  
  
-### [Adobe Systems](http://www.adobe.com) 
+ &nbsp##### [Adobe Systems](http://www.adobe.com) 
  
-Founded: 1982.0; Region: United States, California; Employees: 10
+Founded: 1982; Region: United States, California; Employees: 10
  
 Recommendation engine | Merchandising optimization | Visual search capability
  
@@ -658,9 +658,9 @@ Recommendation engine | Merchandising optimization | Visual search capability
  
  
  
-### [Lucena Research](http://lucenaresearch.com) 
+ &nbsp##### [Lucena Research](http://lucenaresearch.com) 
  
-Founded: 2011.0; Region: United States, Georgia; Employees: 9
+Founded: 2011; Region: United States, Georgia; Employees: 9
  
 3rd party data | Financial Analytics Platform
  
@@ -668,19 +668,19 @@ Founded: 2011.0; Region: United States, Georgia; Employees: 9
  
  
  
-### [Synetiq](http://synetiq.net) 
+ &nbsp##### [Synetiq](http://synetiq.net) 
  
-Founded: 2013.0; Region: Hungary, Budapest; Employees: 19
+Founded: 2013; Region: Hungary, Budapest; Employees: 19
  
-Neuromarketing for pre-testing | Neuromarketing for pre-testing | Neuromarketing for pre-testing
+Neuromarketing for pre-testing
  
 [Twitter](http://twitter.com/synetiqlab), [LinkedIn](http://www.linkedin.com/company/3165741), [Facebook](http://www.facebook.com/Synetiq), [Website](http://synetiq.net), [Email](info@synetiq.net)
  
  
  
-### [Staqu Technologies](http://www.staqu.com/) 
+ &nbsp##### [Staqu Technologies](http://www.staqu.com/) 
  
-Founded: 2015.0; Region: India, Haryana; Employees: 19
+Founded: 2015; Region: India, Haryana; Employees: 19
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -688,9 +688,9 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
  
  
-### [SendPulse](https://sendpulse.com) 
+ &nbsp##### [SendPulse](https://sendpulse.com) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 33
+Founded: 2015; Region: United States, New York; Employees: 33
  
 Website Personalization | Omnichannel | Email Marketing
  
@@ -698,9 +698,9 @@ Website Personalization | Omnichannel | Email Marketing
  
  
  
-### [Grey Jean Technologies](http://gjny.com/) 
+ &nbsp##### [Grey Jean Technologies](http://gjny.com/) 
  
-Founded: 0.0; Region: United States, New York; Employees: 4
+Founded: 0; Region: United States, New York; Employees: 4
  
 Retargeting | Recommendation engine
  
@@ -708,9 +708,9 @@ Retargeting | Recommendation engine
  
  
  
-### [Ematic Solutions](http://www.ematicsolutions.com/) 
+ &nbsp##### [Ematic Solutions](http://www.ematicsolutions.com/) 
  
-Founded: 2012.0; Region: Indonesia, Jakarta; Employees: 90
+Founded: 2012; Region: Indonesia, Jakarta; Employees: 90
  
 Retargeting | Email Marketing
  
@@ -718,9 +718,9 @@ Retargeting | Email Marketing
  
  
  
-### [Cortical.io](http://www.cortical.io) 
+ &nbsp##### [Cortical.io](http://www.cortical.io) 
  
-Founded: 2011.0; Region: Austria, Vienna; Employees: 15
+Founded: 2011; Region: Austria, Vienna; Employees: 15
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -728,9 +728,9 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
  
  
-### [iSENTIUM](http://www.isentium.com) 
+ &nbsp##### [iSENTIUM](http://www.isentium.com) 
  
-Founded: 2010.0; Region: United States, Florida; Employees: 15
+Founded: 2010; Region: United States, Florida; Employees: 15
  
 Social media monitoring | Financial Analytics Platform | Data gathering
  
@@ -738,69 +738,69 @@ Social media monitoring | Financial Analytics Platform | Data gathering
  
  
  
-### [Persado](http://www.persado.com/) 
+ &nbsp##### [Persado](http://www.persado.com/) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 227
+Founded: 2012; Region: United States, New York; Employees: 227
  
-Omnichannel | Omnichannel | Omnichannel
+Omnichannel
  
 [Twitter](http://www.twitter.com/persado), [LinkedIn](http://www.linkedin.com/company/persado), [Facebook](http://www.facebook.com/persado), [Website](http://www.persado.com/), [Video](https://www.youtube.com/watch?v=Ig4B5roBgao), [Email](info@persado.com)
  
  
  
-### [Salsify](http://salsify.com) 
+ &nbsp##### [Salsify](http://salsify.com) 
  
-Founded: 2012.0; Region: United States, Massachusetts; Employees: 169
+Founded: 2012; Region: United States, Massachusetts; Employees: 169
  
-Product Information Management | Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](http://twitter.com/Salsify), [LinkedIn](http://www.linkedin.com/company/salsify), [Facebook](https://www.facebook.com/512732608773036), [Website](http://salsify.com), [Email](info@salsify.com)
  
  
  
-### [Akeneo](http://www.akeneo.com) 
+ &nbsp##### [Akeneo](http://www.akeneo.com) 
  
-Founded: 2012.0; Region: France, Pays de la Loire; Employees: 72
+Founded: 2012; Region: France, Pays de la Loire; Employees: 72
  
-Product Information Management | Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](http://twitter.com/akeneopim), [LinkedIn](http://www.linkedin.com/company/akeneo), [Facebook](http://www.facebook.com/akeneopim), [Website](http://www.akeneo.com), [Email](hello@akeneo.com)
  
  
  
-### [Agility Multichannel](http://www.agilitymultichannel.com/) 
+ &nbsp##### [Agility Multichannel](http://www.agilitymultichannel.com/) 
  
-Founded: 0.0; Region: United States, Illinois; Employees: 27
+Founded: 0; Region: United States, Illinois; Employees: 27
  
-Product Information Management | Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](https://twitter.com/AgilityTweet), [LinkedIn](https://www.linkedin.com/company/agility-multichannel), [Facebook](https://www.facebook.com/AgilityMC), [Website](http://www.agilitymultichannel.com/), [Email](info@agilitymultichannel.com)
  
  
  
-### [Perfion](https://www.perfion.com/) 
+ &nbsp##### [Perfion](https://www.perfion.com/) 
  
-Founded: 0.0; Region: Denmark, North Denmark; Employees: 29
+Founded: 0; Region: Denmark, North Denmark; Employees: 29
  
-Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Website](https://www.perfion.com/), 
  
  
  
-### [OpusCapita Group Oy](http://www.opuscapita.com/) 
+ &nbsp##### [OpusCapita Group Oy](http://www.opuscapita.com/) 
  
-Founded: 0.0; Region: Finland, Uusimaa; Employees: 978
+Founded: 0; Region: Finland, Uusimaa; Employees: 978
  
-Product Information Management | Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](https://twitter.com/opuscapita), [LinkedIn](https://www.linkedin.com/company/opuscapita), [Facebook](https://www.facebook.com/OpusCapita/info/?tab=overview), [Website](http://www.opuscapita.com/), [Email](information.fi@opuscapita.com)
  
  
  
-### [Sightcorp](http://www.sightcorp.com) 
+ &nbsp##### [Sightcorp](http://www.sightcorp.com) 
  
-Founded: 2013.0; Region: Netherlands, North Holland; Employees: 17
+Founded: 2013; Region: Netherlands, North Holland; Employees: 17
  
 Social analytics & automation | Deep learning library/SDK/API | Analytics platform
  
@@ -808,9 +808,9 @@ Social analytics & automation | Deep learning library/SDK/API | Analytics platfo
  
  
  
-### [Singular Intelligence](http://www.singularintelligence.com/) 
+ &nbsp##### [Singular Intelligence](http://www.singularintelligence.com/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 0
+Founded: 2014; Region: United Kingdom, England; Employees: 0
  
 Pricing optimization | Predictive sales
  
@@ -818,9 +818,9 @@ Pricing optimization | Predictive sales
  
  
  
-### [AdRoll](http://www.adroll.com) 
+ &nbsp##### [AdRoll](http://www.adroll.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 735
+Founded: 2006; Region: United States, California; Employees: 735
  
 Recommendation engine | Social media monitoring
  
@@ -828,9 +828,9 @@ Recommendation engine | Social media monitoring
  
  
  
-### [Full Circle Insights](http://fullcircleinsights.com/) 
+ &nbsp##### [Full Circle Insights](http://fullcircleinsights.com/) 
  
-Founded: 2010.0; Region: United States, California; Employees: 47
+Founded: 2010; Region: United States, California; Employees: 47
  
 Marketing analytics | Predictive sales
  
@@ -838,9 +838,9 @@ Marketing analytics | Predictive sales
  
  
  
-### [Integral Ad Science](http://www.integralads.com) 
+ &nbsp##### [Integral Ad Science](http://www.integralads.com) 
  
-Founded: 2009.0; Region: United States, New York; Employees: 500
+Founded: 2009; Region: United States, New York; Employees: 500
  
 Marketing analytics | Context aware marketing
  
@@ -848,9 +848,9 @@ Marketing analytics | Context aware marketing
  
  
  
-### [Grapeshot](http://www.grapeshot.com) 
+ &nbsp##### [Grapeshot](http://www.grapeshot.com) 
  
-Founded: 1992.0; Region: United States, New York; Employees: 99
+Founded: 1992; Region: United States, New York; Employees: 99
  
 Retargeting | Context aware marketing
  
@@ -858,29 +858,29 @@ Retargeting | Context aware marketing
  
  
  
-### [Monetate](http://www.monetate.com) 
+ &nbsp##### [Monetate](http://www.monetate.com) 
  
-Founded: 2008.0; Region: United States, Pennsylvania; Employees: 151
+Founded: 2008; Region: United States, Pennsylvania; Employees: 151
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/monetate), [LinkedIn](http://www.linkedin.com/company/monetate-inc.), [Facebook](http://www.facebook.com/monetate), [Website](http://www.monetate.com), [Video](https://www.youtube.com/watch?v=ur2Uf1T4S7g), [Email](info@monetate.com)
  
  
  
-### [Quantcast](http://www.quantcast.com) 
+ &nbsp##### [Quantcast](http://www.quantcast.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 985
+Founded: 2006; Region: United States, California; Employees: 985
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/quantcast), [LinkedIn](http://www.linkedin.com/company/quantcast), [Facebook](http://www.facebook.com/quantcast), [Website](http://www.quantcast.com), [Video](https://www.youtube.com/watch?v=5FcfhH8gb5E), [Email](contact@quantcast.com)
  
  
  
-### [AbsolutData](http://www.absolutdata.com) 
+ &nbsp##### [AbsolutData](http://www.absolutdata.com) 
  
-Founded: 2000.0; Region: United States, California; Employees: 309
+Founded: 2000; Region: United States, California; Employees: 309
  
 Recommendation engine | Marketing analytics | Analytics platform
  
@@ -888,19 +888,19 @@ Recommendation engine | Marketing analytics | Analytics platform
  
  
  
-### [Sociomantic Labs](http://www.sociomantic.com) 
+ &nbsp##### [Sociomantic Labs](http://www.sociomantic.com) 
  
-Founded: 2009.0; Region: Germany, Berlin; Employees: 300
+Founded: 2009; Region: Germany, Berlin; Employees: 300
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/sociomantic), [LinkedIn](https://www.linkedin.com/company/sociomantic-labs), [Facebook](https://www.facebook.com/sociomantic/), [Website](http://www.sociomantic.com), [Video](https://www.youtube.com/watch?v=CZkKSzO6I_E), [Email](contact@sociomantic.com)
  
  
  
-### [AppNexus](http://www.appnexus.com) 
+ &nbsp##### [AppNexus](http://www.appnexus.com) 
  
-Founded: 2007.0; Region: United States, New York; Employees: 1100
+Founded: 2007; Region: United States, New York; Employees: 1100
  
 Marketing analytics | Omnichannel
  
@@ -908,29 +908,29 @@ Marketing analytics | Omnichannel
  
  
  
-### [dataxu](http://www.dataxu.com) 
+ &nbsp##### [dataxu](http://www.dataxu.com) 
  
-Founded: 2009.0; Region: United States, Massachusetts; Employees: 380
+Founded: 2009; Region: United States, Massachusetts; Employees: 380
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/dataxu), [LinkedIn](http://www.linkedin.com/company/dataxu), [Facebook](http://www.facebook.com/dataxu), [Website](http://www.dataxu.com), [Video](https://www.youtube.com/watch?v=ZCYttkjjtHY&t=3s), [Email](marketing@dataxu.com)
  
  
  
-### [Moat](http://www.moat.com) 
+ &nbsp##### [Moat](http://www.moat.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 299
+Founded: 2010; Region: United States, New York; Employees: 299
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/moat), [LinkedIn](https://www.linkedin.com/company/moat-com), [Facebook](http://www.facebook.com/pages/Moat/126741674063268), [Website](http://www.moat.com), [Video](https://vimeo.com/71224919), [Email](info@moat.com)
  
  
  
-### [TasteHit](https://tastehit.com) 
+ &nbsp##### [TasteHit](https://tastehit.com) 
  
-Founded: 2013.0; Region: France, Île-de-France; Employees: 8
+Founded: 2013; Region: France, Île-de-France; Employees: 8
  
 Recommendation engine | Merchandising optimization | Website Personalization
  
@@ -938,19 +938,19 @@ Recommendation engine | Merchandising optimization | Website Personalization
  
  
  
-### [Tapad](http://www.tapad.com) 
+ &nbsp##### [Tapad](http://www.tapad.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 211
+Founded: 2010; Region: United States, New York; Employees: 211
  
-Omnichannel | Omnichannel | Omnichannel
+Omnichannel
  
 [Twitter](http://twitter.com/tapad), [LinkedIn](http://www.linkedin.com/company/tapad), [Facebook](http://www.facebook.com/tapadinc), [Website](http://www.tapad.com), [Video](https://www.youtube.com/watch?v=dM-5oH9Qetk), [Email](info@tapad.com)
  
  
  
-### [Dstillery](http://dstillery.com) 
+ &nbsp##### [Dstillery](http://dstillery.com) 
  
-Founded: 2008.0; Region: United States, New York; Employees: 154
+Founded: 2008; Region: United States, New York; Employees: 154
  
 Retargeting | Marketing analytics
  
@@ -958,79 +958,79 @@ Retargeting | Marketing analytics
  
  
  
-### [LiveIntent](http://liveintent.com) 
+ &nbsp##### [LiveIntent](http://liveintent.com) 
  
-Founded: 2009.0; Region: United States, New York; Employees: 215
+Founded: 2009; Region: United States, New York; Employees: 215
  
-Email Marketing | Email Marketing | Email Marketing
+Email Marketing
  
 [Twitter](http://twitter.com/liveintent), [LinkedIn](https://www.linkedin.com/company-beta/734773/), [Facebook](http://www.facebook.com/LiveIntent), [Website](http://liveintent.com), [Video](https://www.youtube.com/watch?v=QgvslAk3uB0), [Email](aberkowitz@liveintent.com)
  
  
  
-### [Layer 6 AI](http://layer6.ai/) 
+ &nbsp##### [Layer 6 AI](http://layer6.ai/) 
  
-Founded: 0.0; Region: Canada, Ontario; Employees: 11
+Founded: 0; Region: Canada, Ontario; Employees: 11
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Website](http://layer6.ai/), 
  
  
  
-### [Demandbase](http://www.demandbase.com) 
+ &nbsp##### [Demandbase](http://www.demandbase.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 175
+Founded: 2007; Region: United States, California; Employees: 175
  
-Website Personalization | Website Personalization | Website Personalization
+Website Personalization
  
 [Twitter](http://twitter.com/Demandbase), [LinkedIn](http://www.linkedin.com/company/demandbase), [Facebook](http://www.facebook.com/DemandbaseMarketing), [Website](http://www.demandbase.com), [Video](https://www.youtube.com/watch?v=PtoUJFok5g0), [Email](info@demandbase.com)
  
  
  
-### [Zilliant](http://www.zilliant.com) 
+ &nbsp##### [Zilliant](http://www.zilliant.com) 
  
-Founded: 1999.0; Region: United States, Texas; Employees: 186
+Founded: 1999; Region: United States, Texas; Employees: 186
  
-Pricing optimization | Pricing optimization | Pricing optimization
+Pricing optimization
  
 [Twitter](http://twitter.com/zilliant), [LinkedIn](http://www.linkedin.com/company/zilliant), [Facebook](https://www.facebook.com/zilliantinc), [Website](http://www.zilliant.com), 
  
  
  
-### [Beyond Verbal](http://beyondverbal.com) 
+ &nbsp##### [Beyond Verbal](http://beyondverbal.com) 
  
-Founded: 2012.0; Region: Israel, Tel Aviv; Employees: 26
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 26
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [Twitter](http://twitter.com/beyondverbal), [LinkedIn](http://www.linkedin.com/company/beyond-verbal-communication), [Facebook](https://www.facebook.com/Beyond-Verbal-598023906893259/), [Website](http://beyondverbal.com), [Email](Info@beyondverbal.com)
  
  
  
-### [Crobox](http://crobox.com) 
+ &nbsp##### [Crobox](http://crobox.com) 
  
-Founded: 2014.0; Region: Netherlands, North Holland; Employees: 24
+Founded: 2014; Region: Netherlands, North Holland; Employees: 24
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/croboxapp), [LinkedIn](http://www.linkedin.com/company/crobox), [Facebook](https://www.facebook.com/croboxapp), [Website](http://crobox.com), [Email](rodger@crobox.com)
  
  
  
-### [Heuritech]() 
+ &nbsp##### [Heuritech]() 
  
-Founded: 0.0; Region: France, Île-de-France; Employees: 22
+Founded: 0; Region: France, Île-de-France; Employees: 22
  
-Visual search capability | Visual search capability | Visual search capability
+Visual search capability
  
 
  
  
  
-### [Jetlore](http://www.jetlore.com) 
+ &nbsp##### [Jetlore](http://www.jetlore.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 34
+Founded: 2011; Region: United States, California; Employees: 34
  
 Recommendation engine | Marketing analytics
  
@@ -1038,29 +1038,29 @@ Recommendation engine | Marketing analytics
  
  
  
-### [Findify](http://www.findify.io/) 
+ &nbsp##### [Findify](http://www.findify.io/) 
  
-Founded: 2014.0; Region: Sweden, Stockholm; Employees: 11
+Founded: 2014; Region: Sweden, Stockholm; Employees: 11
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](https://twitter.com/GetFindify), [LinkedIn](https://www.linkedin.com/company/findify/), [Facebook](https://www.facebook.com/getFindify), [Website](http://www.findify.io/), 
  
  
  
-### [Vendavo](http://www.vendavo.com) 
+ &nbsp##### [Vendavo](http://www.vendavo.com) 
  
-Founded: 1998.0; Region: United States, Colorado; Employees: 385
+Founded: 1998; Region: United States, Colorado; Employees: 385
  
-Pricing optimization | Pricing optimization | Pricing optimization
+Pricing optimization
  
 [Twitter](http://twitter.com/Vendavo), [LinkedIn](http://www.linkedin.com/company/vendavo), [Facebook](http://www.facebook.com/Vendavo), [Website](http://www.vendavo.com), [Email](marketing@vendavo.com)
  
  
  
-### [Wiser Solutions, Inc.](http://www.wiser.com) 
+ &nbsp##### [Wiser Solutions, Inc.](http://www.wiser.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 130
+Founded: 2012; Region: United States, California; Employees: 130
  
 Pricing optimization | Merchandising optimization
  
@@ -1068,9 +1068,9 @@ Pricing optimization | Merchandising optimization
  
  
  
-### [IBM Bluemix](http://www.ibm.com/) 
+ &nbsp##### [IBM Bluemix](http://www.ibm.com/) 
  
-Founded: 1911.0; Region: United States, New York; Employees: 1343
+Founded: 1911; Region: United States, New York; Employees: 1343
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -1078,19 +1078,19 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
  
  
-### [Nosto](http://www.nosto.com) 
+ &nbsp##### [Nosto](http://www.nosto.com) 
  
-Founded: 2011.0; Region: Finland, Uusimaa; Employees: 100
+Founded: 2011; Region: Finland, Uusimaa; Employees: 100
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/NostoSolutions), [LinkedIn](http://www.linkedin.com/company/nosto), [Facebook](http://www.facebook.com/NostoSolutions), [Website](http://www.nosto.com), [Email](sales@nosto.com)
  
  
  
-### [SAS](http://www.sas.com) 
+ &nbsp##### [SAS](http://www.sas.com) 
  
-Founded: 1976.0; Region: United States, North Carolina; Employees: 23378
+Founded: 1976; Region: United States, North Carolina; Employees: 23378
  
 Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
@@ -1098,39 +1098,39 @@ Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
  
  
-### [Qubit](http://www.qubit.com) 
+ &nbsp##### [Qubit](http://www.qubit.com) 
  
-Founded: 2010.0; Region: United Kingdom, England; Employees: 250
+Founded: 2010; Region: United Kingdom, England; Employees: 250
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/qubitgroup), [LinkedIn](http://www.linkedin.com/company/768977), [Facebook](http://www.facebook.com/qubit), [Website](http://www.qubit.com), [Email](info@qubit.com)
  
  
  
-### [Certona](http://www.certona.com) 
+ &nbsp##### [Certona](http://www.certona.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 145
+Founded: 2004; Region: United States, California; Employees: 145
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/Certona), [LinkedIn](https://www.linkedin.com/company/certona), [Facebook](http://www.facebook.com/pages/Certona/127008517325856), [Website](http://www.certona.com), [Email](info@certona.com)
  
  
  
-### [Optimizely](http://optimizely.com) 
+ &nbsp##### [Optimizely](http://optimizely.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 460
+Founded: 2009; Region: United States, California; Employees: 460
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/Optimizely), [LinkedIn](http://www.linkedin.com/company/optimizely), [Facebook](http://www.facebook.com/optimizely), [Website](http://optimizely.com), [Email](hello@optimizely.com)
  
  
  
-### [Blueknow](http://www.blueknow.com) 
+ &nbsp##### [Blueknow](http://www.blueknow.com) 
  
-Founded: 2009.0; Region: Spain, Catalonia; Employees: 16
+Founded: 2009; Region: Spain, Catalonia; Employees: 16
  
 Recommendation engine | Email Marketing
  
@@ -1138,9 +1138,9 @@ Recommendation engine | Email Marketing
  
  
  
-### [Talkwalker](http://www.talkwalker.com) 
+ &nbsp##### [Talkwalker](http://www.talkwalker.com) 
  
-Founded: 2009.0; Region: Luxembourg, Luxembourg; Employees: 140
+Founded: 2009; Region: Luxembourg, Luxembourg; Employees: 140
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -1148,129 +1148,129 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
  
  
-### [prudsys](https://prudsys.de) 
+ &nbsp##### [prudsys](https://prudsys.de) 
  
-Founded: 1998.0; Region: Germany, Saxony; Employees: 15
+Founded: 1998; Region: Germany, Saxony; Employees: 15
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/prudsys), [Facebook](http://www.facebook.com/prudsys), [Website](https://prudsys.de), [Email](info@prudsys.com)
  
  
  
-### [Peerius](http://peerius.com) 
+ &nbsp##### [Peerius](http://peerius.com) 
  
-Founded: 2007.0; Region: United Kingdom, England; Employees: 37
+Founded: 2007; Region: United Kingdom, England; Employees: 37
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/Peerius), [LinkedIn](http://www.linkedin.com/company/peerius), [Website](http://peerius.com), 
  
  
  
-### [STRANDS](https://finance.strands.com/) 
+ &nbsp##### [STRANDS](https://finance.strands.com/) 
  
-Founded: 2003.0; Region: Spain, Catalonia; Employees: 164
+Founded: 2003; Region: Spain, Catalonia; Employees: 164
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/StrandsFinance), [LinkedIn](http://www.linkedin.com/company/20690), [Website](https://finance.strands.com/), [Email](marketing@strands.com)
  
  
  
-### [Sailthru](http://sailthru.com) 
+ &nbsp##### [Sailthru](http://sailthru.com) 
  
-Founded: 2008.0; Region: United States, New York; Employees: 194
+Founded: 2008; Region: United States, New York; Employees: 194
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/sailthru), [LinkedIn](http://www.linkedin.com/company/sailthru), [Facebook](http://www.facebook.com/sailthru), [Website](http://sailthru.com), [Email](sales@sailthru.com)
  
  
  
-### [Adacado](http://www.adacado.com) 
+ &nbsp##### [Adacado](http://www.adacado.com) 
  
-Founded: 0.0; Region: Canada, British Columbia; Employees: 0
+Founded: 0; Region: Canada, British Columbia; Employees: 0
  
-Retargeting | Retargeting | Retargeting
+Retargeting
  
 [Twitter](https://twitter.com/adacado_ads), [LinkedIn](https://www.linkedin.com/company/adacado-inc-), [Website](http://www.adacado.com), [Email](info@adacado.com)
  
  
  
-### [Socialdraft](http://socialdraft.com/) 
+ &nbsp##### [Socialdraft](http://socialdraft.com/) 
  
-Founded: 2013.0; Region: United States, New York; Employees: 17
+Founded: 2013; Region: United States, New York; Employees: 17
  
-Social media monitoring | Social media monitoring | Social media monitoring
+Social media monitoring
  
 [Twitter](https://twitter.com/SocialDraftapp), [LinkedIn](https://www.linkedin.com/company-beta/3592696/), [Facebook](https://www.facebook.com/Socialdraft/), [Website](http://socialdraft.com/), 
  
  
  
-### [Pure360](http://pure360.com) 
+ &nbsp##### [Pure360](http://pure360.com) 
  
-Founded: 2001.0; Region: United Kingdom, England; Employees: 111
+Founded: 2001; Region: United Kingdom, England; Employees: 111
  
-Email Marketing | Email Marketing | Email Marketing
+Email Marketing
  
 [Twitter](http://twitter.com/Pure360), [LinkedIn](http://www.linkedin.com/company/pure360), [Facebook](http://www.facebook.com/Pure360EmailMarketingSoftware), [Website](http://pure360.com), [Email](international@pure360.com)
  
  
  
-### [Enterworks](http://www.enterworks.com/) 
+ &nbsp##### [Enterworks](http://www.enterworks.com/) 
  
-Founded: 1994.0; Region: United States, Virginia; Employees: 44
+Founded: 1994; Region: United States, Virginia; Employees: 44
  
-Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](https://www.twitter.com/enterworks), [Facebook](https://www.facebook.com/enterworks), [Website](http://www.enterworks.com/), 
  
  
  
-### [Riversand](http://www.riversand.com/) 
+ &nbsp##### [Riversand](http://www.riversand.com/) 
  
-Founded: 2001.0; Region: United States, Texas; Employees: 177
+Founded: 2001; Region: United States, Texas; Employees: 177
  
-Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](https://twitter.com/riversandmdm), [LinkedIn](https://www.linkedin.com/company/riversand-technologies), [Facebook](https://m.facebook.com/RiversandTechnologies), [Website](http://www.riversand.com/), 
  
  
  
-### [ROIALTY](http://www.roialty.com/) 
+ &nbsp##### [ROIALTY](http://www.roialty.com/) 
  
-Founded: 2014.0; Region: Italy, Lombardy; Employees: 0
+Founded: 2014; Region: Italy, Lombardy; Employees: 0
  
-Social media monitoring | Social media monitoring | Social media monitoring
+Social media monitoring
  
 [Twitter](https://www.twitter.com/roialty_live), [LinkedIn](https://www.linkedin.com/company/9276145?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A9276145%2Cidx%3A1-1-1%2CtarId%3A1477574205713%2Ctas%3Aroial), [Facebook](https://www.facebook.com/roialtyplatform/), [Website](http://www.roialty.com/), [Video](https://www.youtube.com/watch?v=sTLG1r5fGk4), 
  
  
  
-### [CustomerAdvocacy.com](http://www.customeradvocacy.com) 
+ &nbsp##### [CustomerAdvocacy.com](http://www.customeradvocacy.com) 
  
-Founded: 2010.0; Region: United States, Virginia; Employees: 0
+Founded: 2010; Region: United States, Virginia; Employees: 0
  
-Advocacy & Loyalty Marketing | Advocacy & Loyalty Marketing | Advocacy & Loyalty Marketing
+Advocacy & Loyalty Marketing
  
 [Twitter](http://twitter.com/custadvocacy), [LinkedIn](http://www.linkedin.com/company/customeradvocacy-com), [Facebook](http://www.facebook.com/customeradvocacy), [Website](http://www.customeradvocacy.com), [Video](https://www.youtube.com/watch?v=po0yNlofc-Y), [Email](notices@customeradvocacy.com)
  
  
  
-### [OneSpot](http://www.onespot.com) 
+ &nbsp##### [OneSpot](http://www.onespot.com) 
  
-Founded: 2005.0; Region: United States, Texas; Employees: 0
+Founded: 2005; Region: United States, Texas; Employees: 0
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/onespot), [LinkedIn](http://www.linkedin.com/company/onespot), [Facebook](http://www.facebook.com/onespotinc), [Website](http://www.onespot.com), [Email](info@onespot.com)
  
  
  
-### [Barilliance](http://www.barilliance.com) 
+ &nbsp##### [Barilliance](http://www.barilliance.com) 
  
-Founded: 2009.0; Region: Israel, Tel Aviv; Employees: 0
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 0
  
 Retargeting | Recommendation engine | Website Personalization
  
@@ -1278,19 +1278,19 @@ Retargeting | Recommendation engine | Website Personalization
  
  
  
-### [Movable Ink](http://movableink.com) 
+ &nbsp##### [Movable Ink](http://movableink.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 0
+Founded: 2010; Region: United States, New York; Employees: 0
  
-Email Marketing | Email Marketing | Email Marketing
+Email Marketing
  
 [Twitter](http://twitter.com/movableink), [LinkedIn](http://www.linkedin.com/company/movable-ink), [Facebook](http://www.facebook.com/MovableInk), [Website](http://movableink.com), [Video](https://www.youtube.com/watch?v=1qszdFjI03g), [Email](contact@movableink.com)
  
  
  
-### [Gnip](http://www.gnip.com) 
+ &nbsp##### [Gnip](http://www.gnip.com) 
  
-Founded: 2008.0; Region: United States, Colorado; Employees: 15
+Founded: 2008; Region: United States, Colorado; Employees: 15
  
 Social analytics & automation | Social listening & ticketing
  
@@ -1298,9 +1298,9 @@ Social analytics & automation | Social listening & ticketing
  
  
  
-### [Lithium Technologies](http://www.lithium.com) 
+ &nbsp##### [Lithium Technologies](http://www.lithium.com) 
  
-Founded: 2001.0; Region: United States, California; Employees: 546
+Founded: 2001; Region: United States, California; Employees: 546
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -1308,9 +1308,9 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
  
  
-### [DataSift](http://www.datasift.com) 
+ &nbsp##### [DataSift](http://www.datasift.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 70
+Founded: 2010; Region: United States, California; Employees: 70
  
 Social analytics & automation | Social media monitoring | Social listening & ticketing
  
@@ -1318,9 +1318,9 @@ Social analytics & automation | Social media monitoring | Social listening & tic
  
  
  
-### [Vendasta Technologies](http://www.vendasta.com) 
+ &nbsp##### [Vendasta Technologies](http://www.vendasta.com) 
  
-Founded: 2008.0; Region: Canada, Saskatchewan; Employees: 253
+Founded: 2008; Region: Canada, Saskatchewan; Employees: 253
  
 Marketing analytics | Social media monitoring
  
@@ -1328,9 +1328,9 @@ Marketing analytics | Social media monitoring
  
  
  
-### [Chatmeter](http://www.chatmeter.com) 
+ &nbsp##### [Chatmeter](http://www.chatmeter.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 33
+Founded: 2011; Region: United States, California; Employees: 33
  
 Social analytics & automation | Survey & review analytics
  
@@ -1338,19 +1338,19 @@ Social analytics & automation | Survey & review analytics
  
  
  
-### [inRiver](http://www.inriver.com) 
+ &nbsp##### [inRiver](http://www.inriver.com) 
  
-Founded: 2007.0; Region: Sweden, Skåne; Employees: 89
+Founded: 2007; Region: Sweden, Skåne; Employees: 89
  
-Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](http://twitter.com/inRiver_PIM), [LinkedIn](http://www.linkedin.com/company/inriver-ab), [Facebook](http://www.facebook.com/inRiverInc), [Website](http://www.inriver.com), [Email](sales@inriver.com)
  
  
  
-### [hybris](http://www.hybris.com) 
+ &nbsp##### [hybris](http://www.hybris.com) 
  
-Founded: 1997.0; Region: Canada, Quebec; Employees: 1518
+Founded: 1997; Region: Canada, Quebec; Employees: 1518
  
 Recommendation engine | Predictive sales
  
@@ -1358,39 +1358,39 @@ Recommendation engine | Predictive sales
  
  
  
-### [TrustYou](http://www.trustyou.com) 
+ &nbsp##### [TrustYou](http://www.trustyou.com) 
  
-Founded: 2008.0; Region: United States, Texas; Employees: 96
+Founded: 2008; Region: United States, Texas; Employees: 96
  
-Social analytics & automation | Social analytics & automation | Social analytics & automation
+Social analytics & automation
  
 [Twitter](http://twitter.com/TrustYou), [LinkedIn](http://www.linkedin.com/company/trustyou), [Facebook](http://www.facebook.com/TrustYou), [Website](http://www.trustyou.com), [Video](https://www.youtube.com/watch?time_continue=1&v=6a_PBYVK0B4), [Email](inquiries@trustyou.net)
  
  
  
-### [Emteq](https://emteq.net) 
+ &nbsp##### [Emteq](https://emteq.net) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 25
+Founded: 2015; Region: United Kingdom, England; Employees: 25
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [Twitter](https://www.twitter.com/emteqinc), [LinkedIn](https://www.linkedin.com/company/emteq-ltd), [Facebook](https://www.facebook.com/emteqvr), [Website](https://emteq.net), [Email](info@emteq.net)
  
  
  
-### [Deepomatic](http://www.deepomatic.com) 
+ &nbsp##### [Deepomatic](http://www.deepomatic.com) 
  
-Founded: 2014.0; Region: France, Île-de-France; Employees: 25
+Founded: 2014; Region: France, Île-de-France; Employees: 25
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://twitter.com/Deepomatic), [LinkedIn](https://www.linkedin.com/company/deepomatic), [Facebook](https://www.facebook.com/deepomatic/info?tab=page_info), [Website](http://www.deepomatic.com), [Email](hey@deepomatic.com)
  
  
  
-### [Recast.AI](https://recast.ai) 
+ &nbsp##### [Recast.AI](https://recast.ai) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 25
+Founded: 2015; Region: France, Île-de-France; Employees: 25
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -1398,49 +1398,49 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
  
  
-### [YouAppi](http://www.youappi.com) 
+ &nbsp##### [YouAppi](http://www.youappi.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 75
+Founded: 2011; Region: United States, California; Employees: 75
  
-Mobile Marketing | Mobile Marketing | Mobile Marketing
+Mobile Marketing
  
 [Twitter](http://twitter.com/YouAppi), [LinkedIn](http://www.linkedin.com/company/youappi), [Facebook](http://www.facebook.com/youAPPi), [Website](http://www.youappi.com), [Email](moshe@youAppi.com)
  
  
  
-### [Sensory Networks](http://www.sensorynetworks.com) 
+ &nbsp##### [Sensory Networks](http://www.sensorynetworks.com) 
  
-Founded: 2003.0; Region: United States, California; Employees: 26
+Founded: 2003; Region: United States, California; Employees: 26
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://www.twitter.com/intel), [LinkedIn](https://www.linkedin.com/company/intel-corporation), [Facebook](https://www.facebook.com/intel), [Website](http://www.sensorynetworks.com), [Email](info@sensorynetworks.com)
  
  
  
-### [AmplifAI](http://amplifai.co/) 
+ &nbsp##### [AmplifAI](http://amplifai.co/) 
  
-Founded: 2017.0; Region: Israel, Tel Aviv; Employees: 0
+Founded: 2017; Region: Israel, Tel Aviv; Employees: 0
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Website](http://amplifai.co/), 
  
  
  
-### [kmoEye](http://www.kmoeye.com/) 
+ &nbsp##### [kmoEye](http://www.kmoeye.com/) 
  
-Founded: 2012.0; Region: Israel, Haifa; Employees: 6
+Founded: 2012; Region: Israel, Haifa; Employees: 6
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://twitter.com/kmoEye), [Website](http://www.kmoeye.com/), 
  
  
  
-### [Imagry](http://www.imagry.co) 
+ &nbsp##### [Imagry](http://www.imagry.co) 
  
-Founded: 2015.0; Region: United States, Ohio; Employees: 6
+Founded: 2015; Region: United States, Ohio; Employees: 6
  
 Image tagging to improve product discovery | Deep learning library/SDK/API
  
@@ -1448,9 +1448,9 @@ Image tagging to improve product discovery | Deep learning library/SDK/API
  
  
  
-### [Faception](http://www.faception.com/) 
+ &nbsp##### [Faception](http://www.faception.com/) 
  
-Founded: 2014.0; Region: Israel, Tel Aviv; Employees: 6
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 6
  
 Image tagging to improve product discovery | Emotion Recognition
  
@@ -1458,19 +1458,19 @@ Image tagging to improve product discovery | Emotion Recognition
  
  
  
-### [Hager Environmental & Atmospheric Technologies](http://heatremotesensing.com) 
+ &nbsp##### [Hager Environmental & Atmospheric Technologies](http://heatremotesensing.com) 
  
-Founded: 2009.0; Region: United States, Tennessee; Employees: 6
+Founded: 2009; Region: United States, Tennessee; Employees: 6
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://twitter.com/heatrsd?ref_src=twsrc%5Etfw), [Website](http://heatremotesensing.com), 
  
  
  
-### [Cortica](http://www.cortica.com) 
+ &nbsp##### [Cortica](http://www.cortica.com) 
  
-Founded: 2007.0; Region: Israel, Tel Aviv; Employees: 76
+Founded: 2007; Region: Israel, Tel Aviv; Employees: 76
  
 Image tagging to improve product discovery | Visual search capability
  
@@ -1478,39 +1478,39 @@ Image tagging to improve product discovery | Visual search capability
  
  
  
-### [AnyVision](http://anyvision.co) 
+ &nbsp##### [AnyVision](http://anyvision.co) 
  
-Founded: 2015.0; Region: Israel, Tel Aviv; Employees: 26
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 26
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [LinkedIn](https://www.linkedin.com/company/anyvision), [Website](http://anyvision.co), [Email](info@anyvision.co.uk)
  
  
  
-### [TapReason](http://www.tapreason.com) 
+ &nbsp##### [TapReason](http://www.tapreason.com) 
  
-Founded: 2013.0; Region: Israel, Haifa; Employees: 5
+Founded: 2013; Region: Israel, Haifa; Employees: 5
  
-Mobile Marketing | Mobile Marketing | Mobile Marketing
+Mobile Marketing
  
 [Twitter](http://twitter.com/tapreason), [Facebook](http://www.facebook.com/tapreason), [Website](http://www.tapreason.com), [Email](support@tapreason.com)
  
  
  
-### [Unbxd](http://www.unbxd.com) 
+ &nbsp##### [Unbxd](http://www.unbxd.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Product Information Management | Product Information Management | Product Information Management
+Product Information Management
  
 [Twitter](http://twitter.com/unbxd), [LinkedIn](http://www.linkedin.com/company/unbxd-inc), [Facebook](http://www.facebook.com/unbxd), [Website](http://www.unbxd.com), 
  
  
  
-### [Looker](http://looker.com) 
+ &nbsp##### [Looker](http://looker.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 375
+Founded: 2011; Region: United States, California; Employees: 375
  
 Marketing analytics | Analytics platform
  
@@ -1518,39 +1518,39 @@ Marketing analytics | Analytics platform
  
  
  
-### [Boxever](http://www.boxever.com) 
+ &nbsp##### [Boxever](http://www.boxever.com) 
  
-Founded: 2011.0; Region: Ireland, Leinster; Employees: 75
+Founded: 2011; Region: Ireland, Leinster; Employees: 75
  
-Omnichannel | Omnichannel | Omnichannel
+Omnichannel
  
 [Twitter](http://twitter.com/Boxever), [LinkedIn](http://www.linkedin.com/company/boxever), [Website](http://www.boxever.com), 
  
  
  
-### [Interana](http://www.interana.com) 
+ &nbsp##### [Interana](http://www.interana.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 75
+Founded: 2013; Region: United States, California; Employees: 75
  
-Gesture Control | Gesture Control | Gesture Control
+Gesture Control
  
 [Twitter](http://twitter.com/interanacorp), [LinkedIn](http://www.linkedin.com/company/interana), [Facebook](http://www.facebook.com/pages/Interana/531573326866042), [Website](http://www.interana.com), 
  
  
  
-### [Jivox](http://www.jivox.com) 
+ &nbsp##### [Jivox](http://www.jivox.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 75
+Founded: 2007; Region: United States, California; Employees: 75
  
-Omnichannel | Omnichannel | Omnichannel
+Omnichannel
  
 [Twitter](http://twitter.com/jivox), [LinkedIn](http://www.linkedin.com/company/jivox), [Facebook](http://www.facebook.com/jivox), [Website](http://www.jivox.com), 
  
  
  
-### [Protagonist](http://www.protagonist.io) 
+ &nbsp##### [Protagonist](http://www.protagonist.io) 
  
-Founded: 2004.0; Region: United States, California; Employees: 60
+Founded: 2004; Region: United States, California; Employees: 60
  
 Marketing analytics | Omnichannel | Sales content personalization and analytics
  
@@ -1558,89 +1558,89 @@ Marketing analytics | Omnichannel | Sales content personalization and analytics
  
  
  
-### [Gnowit](http://www.gnowit.com) 
+ &nbsp##### [Gnowit](http://www.gnowit.com) 
  
-Founded: 2011.0; Region: Canada, Ontario; Employees: 5
+Founded: 2011; Region: Canada, Ontario; Employees: 5
  
-Social media monitoring | Social media monitoring | Social media monitoring
+Social media monitoring
  
 [Twitter](http://twitter.com/Gnowit), [Facebook](http://www.facebook.com/gnowit), [Website](http://www.gnowit.com), 
  
  
  
-### [Voxedia](https://voxedia.com) 
+ &nbsp##### [Voxedia](https://voxedia.com) 
  
-Founded: 2015.0; Region: Canada, Quebec; Employees: 5
+Founded: 2015; Region: Canada, Quebec; Employees: 5
  
-Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](https://www.twitter.com/infovoxedia), [Website](https://voxedia.com), 
  
  
  
-### [Imperson](http://imperson.com) 
+ &nbsp##### [Imperson](http://imperson.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Retargeting | Retargeting | Retargeting
+Retargeting
  
 [Twitter](https://twitter.com/imperson), [LinkedIn](https://www.linkedin.com/company/imperson), [Facebook](https://www.facebook.com/impersonme), [Website](http://imperson.com), [Email](info@imperson.com)
  
  
  
-### [Nuviad](http://nuviad.com/) 
+ &nbsp##### [Nuviad](http://nuviad.com/) 
  
-Founded: 2015.0; Region: Israel, Central District; Employees: 0
+Founded: 2015; Region: Israel, Central District; Employees: 0
  
-Mobile Marketing | Mobile Marketing | Mobile Marketing
+Mobile Marketing
  
 [Twitter](https://twitter.com/nuviadmobile), [LinkedIn](https://www.linkedin.com/company/9360430), [Facebook](https://www.facebook.com/nuviadmobile), [Website](http://nuviad.com/), [Email](info@nuviad.com)
  
  
  
-### [Spotad](http://www.spotad.co) 
+ &nbsp##### [Spotad](http://www.spotad.co) 
  
-Founded: 2014.0; Region: Israel, Central District; Employees: 45
+Founded: 2014; Region: Israel, Central District; Employees: 45
  
-Mobile Marketing | Mobile Marketing | Mobile Marketing
+Mobile Marketing
  
 [Twitter](https://twitter.com/Spotadco), [LinkedIn](https://www.linkedin.com/company/3492821), [Facebook](https://www.facebook.com/SpotadCo/), [Website](http://www.spotad.co), [Email](sales@spotad.co)
  
  
  
-### [viisight](http://www.viisights.com) 
+ &nbsp##### [viisight](http://www.viisights.com) 
  
-Founded: 2014.0; Region: Israel, Tel Aviv; Employees: 5
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 5
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://www.twitter.com/viisights), [LinkedIn](https://www.linkedin.com/company/viisights---intelligence-by-vision), [Facebook](https://www.facebook.com/viisights/), [Website](http://www.viisights.com), [Email](info@viisight.com)
  
  
  
-### [Bigabid](http://www.bigabid.com/) 
+ &nbsp##### [Bigabid](http://www.bigabid.com/) 
  
-Founded: 2015.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25
  
-Mobile Marketing | Mobile Marketing | Mobile Marketing
+Mobile Marketing
  
 [LinkedIn](https://www.linkedin.com/company/10033874?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10033874%2Cidx%3A1-1-1%2CtarId%3A1439187890791%2Ctas%3ABigaBid), [Website](http://www.bigabid.com/), [Email](info@bigabid.com)
  
  
  
-### [Bright Info](http://www.brightinfo.com) 
+ &nbsp##### [Bright Info](http://www.brightinfo.com) 
  
-Founded: 2013.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2013; Region: Israel, Tel Aviv; Employees: 25
  
-Website Personalization | Website Personalization | Website Personalization
+Website Personalization
  
 [Twitter](https://twitter.com/BrightInfoBuzz), [LinkedIn](https://www.linkedin.com/company/3162430?trk=tyah&trkInfo=tarId%3A1422526476891%2Ctas%3Abrightinfo%2Cidx%3A2-1-2), [Facebook](https://www.facebook.com/pages/BrightInfo/184415805090230), [Website](http://www.brightinfo.com), [Email](info@brightinfo.com)
  
  
  
-### [Vault](http://www.vaultml.com) 
+ &nbsp##### [Vault](http://www.vaultml.com) 
  
-Founded: 2015.0; Region: Israel, Tel Aviv; Employees: 0
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 0
  
 Marketing analytics | Financial Analytics Platform
  
@@ -1648,89 +1648,89 @@ Marketing analytics | Financial Analytics Platform
  
  
  
-### [Ubimo](http://www.ubimo.com) 
+ &nbsp##### [Ubimo](http://www.ubimo.com) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 25
+Founded: 2012; Region: United States, New York; Employees: 25
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://www.twitter.com/ubimoinc), [LinkedIn](https://www.linkedin.com/company/2969622), [Facebook](https://www.facebook.com/ubimo), [Website](http://www.ubimo.com), [Email](info@ubimo.com)
  
  
  
-### [Segmanta](http://segmanta.com) 
+ &nbsp##### [Segmanta](http://segmanta.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 5
+Founded: 2013; Region: United States, California; Employees: 5
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://twitter.com/segmanta), [LinkedIn](https://www.linkedin.com/company/segmanta), [Facebook](https://www.facebook.com/segmanta), [Website](http://segmanta.com), [Email](support@segmanta.com)
  
  
  
-### [BrandTotal](https://www.brandtotal.com) 
+ &nbsp##### [BrandTotal](https://www.brandtotal.com) 
  
-Founded: 2016.0; Region: Israel, Tel Aviv; Employees: 11
+Founded: 2016; Region: Israel, Tel Aviv; Employees: 11
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://twitter.com/brandtotal1), [LinkedIn](https://www.linkedin.com/company-beta/17903650/), [Facebook](https://www.facebook.com/pg/brandtotal), [Website](https://www.brandtotal.com), [Email](winthebrandwars@brandtotal.com)
  
  
  
-### [Neowize](http://www.neowize.com/) 
+ &nbsp##### [Neowize](http://www.neowize.com/) 
  
-Founded: 2016.0; Region: Israel, Tel Aviv; Employees: 5
+Founded: 2016; Region: Israel, Tel Aviv; Employees: 5
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [LinkedIn](https://www.linkedin.com/company/neowize), [Facebook](https://www.facebook.com/NeoWize), [Website](http://www.neowize.com/), [Email](contactus@neowize.com)
  
  
  
-### [Aspectiva](http://www.aspectiva.com) 
+ &nbsp##### [Aspectiva](http://www.aspectiva.com) 
  
-Founded: 2013.0; Region: Israel, Jerusalem; Employees: 25
+Founded: 2013; Region: Israel, Jerusalem; Employees: 25
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://www.twitter.com/aspectiva), [LinkedIn](https://www.linkedin.com/company/aspectiva), [Facebook](https://www.facebook.com/crunchbase/), [Website](http://www.aspectiva.com), [Email](info@aspectiva.com)
  
  
  
-### [WebyClip](http://www.webyclip.com/) 
+ &nbsp##### [WebyClip](http://www.webyclip.com/) 
  
-Founded: 2011.0; Region: Israel, Tel Aviv; Employees: 5
+Founded: 2011; Region: Israel, Tel Aviv; Employees: 5
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://twitter.com/webyclip), [LinkedIn](https://www.linkedin.com/company/webyclip), [Facebook](https://www.facebook.com/webyclip/info?tab=page_info), [Website](http://www.webyclip.com/), [Email](info@webyclip.com)
  
  
  
-### [Adello Inc](http://www.adello.com) 
+ &nbsp##### [Adello Inc](http://www.adello.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/adello), [LinkedIn](http://www.linkedin.com/company/2127056), [Facebook](http://www.facebook.com/adpedia), [Website](http://www.adello.com), 
  
  
  
-### [Standard Cognition](https://www.standardcognition.com/) 
+ &nbsp##### [Standard Cognition](https://www.standardcognition.com/) 
  
-Founded: 2017.0; Region: United States, California; Employees: 0
+Founded: 2017; Region: United States, California; Employees: 0
  
-Cashierless checkout | Cashierless checkout | Cashierless checkout
+Cashierless checkout
  
 [Twitter](https://twitter.com/standardAI), [LinkedIn](https://www.linkedin.com/company-beta/18109909/), [Website](https://www.standardcognition.com/), 
  
  
  
-### [Funnel](https://funnel.io/) 
+ &nbsp##### [Funnel](https://funnel.io/) 
  
-Founded: 2014.0; Region: Sweden, Stockholm; Employees: 0
+Founded: 2014; Region: Sweden, Stockholm; Employees: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -1738,49 +1738,49 @@ Marketing analytics | e-commerce analytics
  
  
  
-### [Competitoor](https://competitoor.com/) 
+ &nbsp##### [Competitoor](https://competitoor.com/) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 5
+Founded: 2015; Region: United Kingdom, England; Employees: 5
  
-Pricing optimization | Pricing optimization | Pricing optimization
+Pricing optimization
  
 [Twitter](https://www.twitter.com/competitoor_), [LinkedIn](https://www.linkedin.com/company/competitoor), [Website](https://competitoor.com/), 
  
  
  
-### [Wibbitz](http://www.wibbitz.com) 
+ &nbsp##### [Wibbitz](http://www.wibbitz.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 75
+Founded: 2011; Region: United States, California; Employees: 75
  
-Content Generation | Content Generation | Content Generation
+Content Generation
  
 [Twitter](http://twitter.com/wibbitz), [LinkedIn](http://www.linkedin.com/company/wibbitz), [Facebook](http://www.facebook.com/Wibbitz), [Website](http://www.wibbitz.com), 
  
  
  
-### [Xesto](http://xesto.io) 
+ &nbsp##### [Xesto](http://xesto.io) 
  
-Founded: 2014.0; Region: Canada, Ontario; Employees: 5
+Founded: 2014; Region: Canada, Ontario; Employees: 5
  
-Gesture Control | Gesture Control | Gesture Control
+Gesture Control
  
 [Twitter](https://twitter.com/xesto_io), [LinkedIn](https://www.linkedin.com/company-beta/16184925), [Facebook](https://www.facebook.com/xestoinc), [Website](http://xesto.io), 
  
  
  
-### [Wriber](http://wriber.com) 
+ &nbsp##### [Wriber](http://wriber.com) 
  
-Founded: 2012.0; Region: Canada, Ontario; Employees: 5
+Founded: 2012; Region: Canada, Ontario; Employees: 5
  
-Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](https://twitter.com/wriberinc), [Facebook](https://www.facebook.com/Wriber), [Website](http://wriber.com), 
  
  
  
-### [DeepPIXEL Inc.](http://www.deeppixel.ai) 
+ &nbsp##### [DeepPIXEL Inc.](http://www.deeppixel.ai) 
  
-Founded: 2016.0; Region: Canada, Ontario; Employees: 8
+Founded: 2016; Region: Canada, Ontario; Employees: 8
  
 Omnichannel | Chatbot | Customer service response suggestions
  
@@ -1788,189 +1788,189 @@ Omnichannel | Chatbot | Customer service response suggestions
  
  
  
-### [Mashgin](http://www.mashgin.com) 
+ &nbsp##### [Mashgin](http://www.mashgin.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 5
+Founded: 2013; Region: United States, California; Employees: 5
  
-Cashierless checkout | Cashierless checkout | Cashierless checkout
+Cashierless checkout
  
 [Twitter](http://twitter.com/mashgin), [LinkedIn](https://www.linkedin.com/company/6633054/), [Facebook](https://www.facebook.com/mashgin/), [Website](http://www.mashgin.com), 
  
  
  
-### [Mad Street Den](http://www.vue.ai) 
+ &nbsp##### [Mad Street Den](http://www.vue.ai) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://twitter.com/madstreetden), [LinkedIn](https://www.linkedin.com/company/mad-street-den), [Facebook](https://www.facebook.com/madstreetden/info?tab=overview), [Website](http://www.vue.ai), 
  
  
  
-### [ReSnap](http://www.resnap.com) 
+ &nbsp##### [ReSnap](http://www.resnap.com) 
  
-Founded: 2013.0; Region: Netherlands, Gelderland; Employees: 25
+Founded: 2013; Region: Netherlands, Gelderland; Employees: 25
  
-Visual search capability | Visual search capability | Visual search capability
+Visual search capability
  
 [Twitter](http://twitter.com/ReSnapcom), [LinkedIn](https://www.linkedin.com/company/resnap), [Facebook](http://www.facebook.com/resnapcom), [Website](http://www.resnap.com), 
  
  
  
-### [Kimera Systems](http://kimera.ai/) 
+ &nbsp##### [Kimera Systems](http://kimera.ai/) 
  
-Founded: 2012.0; Region: United States, Oregon; Employees: 5
+Founded: 2012; Region: United States, Oregon; Employees: 5
  
-Retargeting | Retargeting | Retargeting
+Retargeting
  
 [Twitter](http://twitter.com/kimerasystems), [LinkedIn](http://www.linkedin.com/company/702321), [Facebook](http://www.facebook.com/kimerasystems), [Website](http://kimera.ai/), 
  
  
  
-### [iMotions A/S](http://www.imotions.com) 
+ &nbsp##### [iMotions A/S](http://www.imotions.com) 
  
-Founded: 2005.0; Region: Denmark, Capital Region; Employees: 25
+Founded: 2005; Region: Denmark, Capital Region; Employees: 25
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [Twitter](http://twitter.com/imotionsglobal), [LinkedIn](http://www.linkedin.com/company/86975), [Facebook](https://www.facebook.com/pages/iMotions-Eye-Tracking-AS/104843899590476), [Website](http://www.imotions.com), 
  
  
  
-### [Foodvisor](http://www.foodvisor.io) 
+ &nbsp##### [Foodvisor](http://www.foodvisor.io) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 5
+Founded: 2015; Region: France, Île-de-France; Employees: 5
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://www.twitter.com/gabrielsamain), [LinkedIn](https://www.linkedin.com/in/charlesboes), [Facebook](https://www.facebook.com/foodvisor), [Website](http://www.foodvisor.io), 
  
  
  
-### [EyeSight Mobile Technologies](http://www.eyesight-tech.com) 
+ &nbsp##### [EyeSight Mobile Technologies](http://www.eyesight-tech.com) 
  
-Founded: 2005.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2005; Region: Israel, Tel Aviv; Employees: 25
  
-Gesture Control | Gesture Control | Gesture Control
+Gesture Control
  
 [Twitter](http://twitter.com/eyesightmobile), [LinkedIn](http://www.linkedin.com/company/eyesight-mobile-technologies), [Facebook](https://www.facebook.com/eyeSight-Mobile-Technologies-277966932241281/), [Website](http://www.eyesight-tech.com), 
  
  
  
-### [CrowdAI](https://crowdai.com/) 
+ &nbsp##### [CrowdAI](https://crowdai.com/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 0
+Founded: 2016; Region: United States, California; Employees: 0
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [LinkedIn](https://linkedin.com/companies/crowdai), [Website](https://crowdai.com/), 
  
  
  
-### [Birds.ai](http://www.birds.ai) 
+ &nbsp##### [Birds.ai](http://www.birds.ai) 
  
-Founded: 2016.0; Region: Netherlands, South Holland; Employees: 5
+Founded: 2016; Region: Netherlands, South Holland; Employees: 5
  
-Visual search capability | Visual search capability | Visual search capability
+Visual search capability
  
 [Twitter](https://twitter.com/birdsaii), [LinkedIn](https://www.linkedin.com/company-beta/10569590), [Facebook](https://www.facebook.com/pg/birdai/), [Website](http://www.birds.ai), [Email](info@birds.ai)
  
  
  
-### [Amplero](http://amplero.com/) 
+ &nbsp##### [Amplero](http://amplero.com/) 
  
-Founded: 2016.0; Region: United States, Washington; Employees: 25
+Founded: 2016; Region: United States, Washington; Employees: 25
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://twitter.com/ampleroinc), [LinkedIn](https://www.linkedin.com/company/amplero), [Website](http://amplero.com/), [Email](info@amplero.com)
  
  
  
-### [Alpha I](http://alpha-i.co/) 
+ &nbsp##### [Alpha I](http://alpha-i.co/) 
  
-Founded: 2000.0; Region: United Kingdom, England; Employees: 0
+Founded: 2000; Region: United Kingdom, England; Employees: 0
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://www.twitter.com/alpha__i), [LinkedIn](https://www.linkedin.com/company-beta/10909731), [Website](http://alpha-i.co/), [Email](giacomo.mariotti@alpha-i.co)
  
  
  
-### [Vispera](http://vispera.co/) 
+ &nbsp##### [Vispera](http://vispera.co/) 
  
-Founded: 2014.0; Region: Turkey, Istanbul; Employees: 25
+Founded: 2014; Region: Turkey, Istanbul; Employees: 25
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](http://twitter.com/visperaco), [LinkedIn](https://www.linkedin.com/company/9177148), [Facebook](https://www.facebook.com/vispera.co), [Website](http://vispera.co/), [Email](info@vispera.co)
  
  
  
-### [Affectiva](http://www.affectiva.com) 
+ &nbsp##### [Affectiva](http://www.affectiva.com) 
  
-Founded: 2009.0; Region: United States, Massachusetts; Employees: 75
+Founded: 2009; Region: United States, Massachusetts; Employees: 75
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [Twitter](http://twitter.com/affectiva), [LinkedIn](http://www.linkedin.com/company/722122), [Facebook](http://www.facebook.com/Affectiva), [Website](http://www.affectiva.com), 
  
  
  
-### [SimpleReach](http://simplereach.com) 
+ &nbsp##### [SimpleReach](http://simplereach.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 75
+Founded: 2010; Region: United States, California; Employees: 75
  
-Merchandising optimization | Merchandising optimization | Merchandising optimization
+Merchandising optimization
  
 [Twitter](http://twitter.com/simplereach), [LinkedIn](http://www.linkedin.com/company/simplereach), [Facebook](http://www.facebook.com/simplereach), [Website](http://simplereach.com), 
  
  
  
-### [Semusi](http://www.semusi.com) 
+ &nbsp##### [Semusi](http://www.semusi.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 5
+Founded: 2012; Region: United States, California; Employees: 5
  
-Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](http://twitter.com/Semusi_), [LinkedIn](http://www.linkedin.com/company/2885042), [Facebook](http://www.facebook.com/Semusi/615050991923840), [Website](http://www.semusi.com), 
  
  
  
-### [Appforma](http://www.appforma.com) 
+ &nbsp##### [Appforma](http://www.appforma.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Social media monitoring | Social media monitoring | Social media monitoring
+Social media monitoring
  
 [Twitter](http://twitter.com/appforma), [LinkedIn](http://www.linkedin.com/company/appforma), [Facebook](http://www.facebook.com/Appforma), [Website](http://www.appforma.com), 
  
  
  
-### [XIX.ai](http://xix.ai/) 
+ &nbsp##### [XIX.ai](http://xix.ai/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 0
+Founded: 2016; Region: United States, California; Employees: 0
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [LinkedIn](https://www.linkedin.com/company-beta/17970988/?pathWildcard=17970988), [Website](http://xix.ai/), 
  
  
  
-### [Artifacia](http://www.artifacia.com/) 
+ &nbsp##### [Artifacia](http://www.artifacia.com/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
-Image tagging to improve product discovery | Image tagging to improve product discovery | Image tagging to improve product discovery
+Image tagging to improve product discovery
  
 [Twitter](https://www.twitter.com/artifacia), [LinkedIn](https://www.linkedin.com/company/artifacia), [Facebook](https://www.facebook.com/artifacia), [Website](http://www.artifacia.com/), 
  
  
  
-### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
+ &nbsp##### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-Founded: 2015.0; Region: India, Maharashtra; Employees: 25
+Founded: 2015; Region: India, Maharashtra; Employees: 25
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -1978,109 +1978,109 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
  
  
-### [Grokstyle](https://grokstyle.com/) 
+ &nbsp##### [Grokstyle](https://grokstyle.com/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Visual search capability | Visual search capability | Visual search capability
+Visual search capability
  
 [Twitter](https://twitter.com/grokstyle), [LinkedIn](https://www.linkedin.com/company-beta/10363308/), [Facebook](https://www.facebook.com/grokstyle/), [Website](https://grokstyle.com/), 
  
  
  
-### [PlayMotion](http://www.playmotion.com) 
+ &nbsp##### [PlayMotion](http://www.playmotion.com) 
  
-Founded: 2003.0; Region: United States, California; Employees: 25
+Founded: 2003; Region: United States, California; Employees: 25
  
-Gesture Control | Gesture Control | Gesture Control
+Gesture Control
  
 [LinkedIn](http://www.linkedin.com/company/119816), [Website](http://www.playmotion.com), 
  
  
  
-### [PlayFresco](http://playfresco.com) 
+ &nbsp##### [PlayFresco](http://playfresco.com) 
  
-Founded: None; Region: United States, California; Employees: 5
+Founded: Unknown; Region: United States, California; Employees: 5
  
-Gesture Control | Gesture Control | Gesture Control
+Gesture Control
  
 [Twitter](https://www.twitter.com/brianfresco), [Facebook](https://www.facebook.com/1784130225234111), [Website](http://playfresco.com), 
  
  
  
-### [GestureTek](http://www.gesturetek.com) 
+ &nbsp##### [GestureTek](http://www.gesturetek.com) 
  
-Founded: 1986.0; Region: United States, California; Employees: 75
+Founded: 1986; Region: United States, California; Employees: 75
  
-Gesture Control | Gesture Control | Gesture Control
+Gesture Control
  
 [Twitter](http://twitter.com/gesturetek), [Facebook](https://www.facebook.com/people), [Website](http://www.gesturetek.com), 
  
  
  
-### [Audible Magic](http://audiblemagic.com) 
+ &nbsp##### [Audible Magic](http://audiblemagic.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 25
+Founded: 1999; Region: United States, California; Employees: 25
  
-Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](http://twitter.com/audiblemagic), [LinkedIn](http://www.linkedin.com/company/audible-magic), [Facebook](http://www.facebook.com/content.recognition), [Website](http://audiblemagic.com), 
  
  
  
-### [LikeWhere](http://business.likewhere.com) 
+ &nbsp##### [LikeWhere](http://business.likewhere.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 5
+Founded: 2012; Region: United States, California; Employees: 5
  
-Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](http://twitter.com/likewhere), [LinkedIn](http://www.linkedin.com/company/likewhere), [Facebook](http://www.facebook.com/likewhere), [Website](http://business.likewhere.com), 
  
  
  
-### [Conductrics](http://www.conductrics.com) 
+ &nbsp##### [Conductrics](http://www.conductrics.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 5
+Founded: 2010; Region: United States, California; Employees: 5
  
-Website Personalization | Website Personalization | Website Personalization
+Website Personalization
  
 [Twitter](http://twitter.com/conductrics), [Website](http://www.conductrics.com), 
  
  
  
-### [Paletly](http://paletly.com) 
+ &nbsp##### [Paletly](http://paletly.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 5
+Founded: 2012; Region: United States, California; Employees: 5
  
-Visual search capability | Visual search capability | Visual search capability
+Visual search capability
  
 [Twitter](http://twitter.com/Paletly), [Facebook](http://www.facebook.com/Paletly), [Website](http://paletly.com), 
  
  
  
-### [Emotient](http://emotient.com) 
+ &nbsp##### [Emotient](http://emotient.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 0
+Founded: 2012; Region: United States, California; Employees: 0
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [Twitter](http://twitter.com/EmotientInc), [LinkedIn](http://www.linkedin.com/company/emotient), [Facebook](http://www.facebook.com/Emotient), [Website](http://emotient.com), 
  
  
  
-### [DigitalMR](http://www.digital-mr.com) 
+ &nbsp##### [DigitalMR](http://www.digital-mr.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 5
+Founded: 2010; Region: United States, California; Employees: 5
  
-Social analytics & automation | Social analytics & automation | Social analytics & automation
+Social analytics & automation
  
 [Twitter](http://twitter.com/DigitalMR), [LinkedIn](http://www.linkedin.com/company/digitalmr-ltd), [Facebook](http://www.facebook.com/DigitalMR), [Website](http://www.digital-mr.com), 
  
  
  
-### [Tamr](http://www.tamr.com/) 
+ &nbsp##### [Tamr](http://www.tamr.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
 Marketing analytics | Data Transformation
  
@@ -2088,49 +2088,49 @@ Marketing analytics | Data Transformation
  
  
  
-### [Revuze](http://www.revuze.it) 
+ &nbsp##### [Revuze](http://www.revuze.it) 
  
-Founded: 2013.0; Region: Israel, Central District; Employees: 5
+Founded: 2013; Region: Israel, Central District; Employees: 5
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://www.twitter.com/revuze), [LinkedIn](https://www.linkedin.com/company/3352502?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3352502%2Cidx%3A2-1-2%2CtarId%3A1461588193049%2Ctas%3Arevuze), [Facebook](https://www.facebook.com/revuze), [Website](http://www.revuze.it), 
  
  
  
-### [Curalate](http://curalate.com) 
+ &nbsp##### [Curalate](http://curalate.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 175
+Founded: 2012; Region: United States, California; Employees: 175
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/Curalate), [LinkedIn](http://www.linkedin.com/company/curalate), [Facebook](http://www.facebook.com/curalate), [Website](http://curalate.com), 
  
  
  
-### [Synx](https://synx.co) 
+ &nbsp##### [Synx](https://synx.co) 
  
-Founded: 2014.0; Region: United States, California; Employees: 5
+Founded: 2014; Region: United States, California; Employees: 5
  
-Merchandising optimization | Merchandising optimization | Merchandising optimization
+Merchandising optimization
  
 [Twitter](https://www.linkedin.com/company/synx.co), [LinkedIn](https://www.linkedin.com/company/synx.co), [Facebook](https://www.linkedin.com/company/synx.co), [Website](https://synx.co), 
  
  
  
-### [Sensum](http://www.sensum.co) 
+ &nbsp##### [Sensum](http://www.sensum.co) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [Twitter](http://twitter.com/sensumco), [LinkedIn](https://www.linkedin.com/company/sensum-co), [Facebook](http://www.facebook.com/sensumco), [Website](http://www.sensum.co), 
  
  
  
-### [Thread Genius](http://threadgenius.co) 
+ &nbsp##### [Thread Genius](http://threadgenius.co) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 5
+Founded: 2015; Region: United States, New York; Employees: 5
  
 Recommendation engine | Visual search capability
  
@@ -2138,39 +2138,39 @@ Recommendation engine | Visual search capability
  
  
  
-### [Vidora](http://www.vidora.com) 
+ &nbsp##### [Vidora](http://www.vidora.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/vidoracorp), [LinkedIn](http://www.linkedin.com/company/vidora), [Facebook](http://www.facebook.com/vidoracorp), [Website](http://www.vidora.com), [Email](info@vidora.com)
  
  
  
-### [Muse.ai](https://muse.ai/) 
+ &nbsp##### [Muse.ai](https://muse.ai/) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
-Visual search capability | Visual search capability | Visual search capability
+Visual search capability
  
 [Twitter](https://www.twitter.com/museinsights), [Website](https://muse.ai/), 
  
  
  
-### [NextUser](http://www.nextuser.com) 
+ &nbsp##### [NextUser](http://www.nextuser.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/NextUser), [LinkedIn](http://www.linkedin.com/company/nextuser), [Facebook](http://www.facebook.com/pages/NextUser/220764274677313), [Website](http://www.nextuser.com), 
  
  
  
-### [Qloo](http://www.qloo.com) 
+ &nbsp##### [Qloo](http://www.qloo.com) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 25
+Founded: 2012; Region: United States, New York; Employees: 25
  
 Recommendation engine | Marketing analytics | Context aware marketing | Merchandising optimization | Website Personalization | Omnichannel | Content Generation | Geo-analytics platform | Driving assistant
  
@@ -2178,189 +2178,189 @@ Recommendation engine | Marketing analytics | Context aware marketing | Merchand
  
  
  
-### [Blueshift](http://www.blueshift.com/) 
+ &nbsp##### [Blueshift](http://www.blueshift.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/blueshiftlabs), [LinkedIn](http://www.linkedin.com/company/blueshift-labs-inc-), [Facebook](http://www.facebook.com/blueshiftlabs), [Website](http://www.blueshift.com/), 
  
  
  
-### [TrendRadius](http://trendradius.com) 
+ &nbsp##### [TrendRadius](http://trendradius.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 5
+Founded: 2013; Region: United States, California; Employees: 5
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://twitter.com/TrendRadius), [LinkedIn](https://www.linkedin.com/company/trendradius/), [Facebook](https://www.facebook.com/TrendRadius), [Website](http://trendradius.com), 
  
  
  
-### [Lumotune](http://www.lumotune.com) 
+ &nbsp##### [Lumotune](http://www.lumotune.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](http://twitter.com/lumotune), [LinkedIn](https://www.linkedin.com/company-beta/3136375/), [Website](http://www.lumotune.com), 
  
  
  
-### [WordStream](http://www.wordstream.com) 
+ &nbsp##### [WordStream](http://www.wordstream.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 175
+Founded: 2007; Region: United States, California; Employees: 175
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/wordstream), [LinkedIn](https://www.linkedin.com/company/wordstream), [Facebook](http://www.facebook.com/WordStream), [Website](http://www.wordstream.com), 
  
  
  
-### [Marin Software](http://www.marinsoftware.com/) 
+ &nbsp##### [Marin Software](http://www.marinsoftware.com/) 
  
-Founded: 2006.0; Region: United States, California; Employees: 0
+Founded: 2006; Region: United States, California; Employees: 0
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/MarinSoftware), [LinkedIn](http://www.linkedin.com/company/marin-software), [Facebook](http://www.facebook.com/MarinSoftware), [Website](http://www.marinsoftware.com/), 
  
  
  
-### [Supermetrics](http://supermetrics.com) 
+ &nbsp##### [Supermetrics](http://supermetrics.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 5
+Founded: 2010; Region: United States, California; Employees: 5
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/supermetrics), [LinkedIn](https://www.linkedin.com/company/supermetrics), [Website](http://supermetrics.com), 
  
  
  
-### [Burning Glass Technologies](http://www.burning-glass.com/) 
+ &nbsp##### [Burning Glass Technologies](http://www.burning-glass.com/) 
  
-Founded: 1999.0; Region: United States, California; Employees: 375
+Founded: 1999; Region: United States, California; Employees: 375
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://twitter.com/Burning_Glass), [LinkedIn](http://www.linkedin.com/company/138182), [Website](http://www.burning-glass.com/), 
  
  
  
-### [Percolate](http://percolate.com) 
+ &nbsp##### [Percolate](http://percolate.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 175
+Founded: 2011; Region: United States, California; Employees: 175
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/percolate), [LinkedIn](http://www.linkedin.com/company/percolate-inc), [Facebook](http://www.facebook.com/percolate), [Website](http://percolate.com), 
  
  
  
-### [Kapost](http://kapost.com) 
+ &nbsp##### [Kapost](http://kapost.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 375
+Founded: 2010; Region: United States, California; Employees: 375
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/kapost), [LinkedIn](http://www.linkedin.com/company/kapost), [Facebook](http://www.facebook.com/kapostcontentmarketing), [Website](http://kapost.com), 
  
  
  
-### [TapClicks](http://www.tapclicks.com) 
+ &nbsp##### [TapClicks](http://www.tapclicks.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 75
+Founded: 2009; Region: United States, California; Employees: 75
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://twitter.com/TapClicks), [LinkedIn](http://www.linkedin.com/company/tapclicks), [Facebook](http://www.facebook.com/TapClicks), [Website](http://www.tapclicks.com), 
  
  
  
-### [Bizible](http://bizible.com) 
+ &nbsp##### [Bizible](http://bizible.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 175
+Founded: 2011; Region: United States, California; Employees: 175
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/bizible), [LinkedIn](http://www.linkedin.com/company/2452388), [Facebook](http://www.facebook.com/bizible), [Website](http://bizible.com), 
  
  
  
-### [Socialbakers](http://www.socialbakers.com) 
+ &nbsp##### [Socialbakers](http://www.socialbakers.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 375
+Founded: 2008; Region: United States, California; Employees: 375
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/socialbakers), [LinkedIn](https://www.linkedin.com/company/2056516), [Facebook](http://www.facebook.com/socialbakers), [Website](http://www.socialbakers.com), 
  
  
  
-### [Segment](http://segment.com) 
+ &nbsp##### [Segment](http://segment.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 175
+Founded: 2011; Region: United States, California; Employees: 175
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/segment), [LinkedIn](http://www.linkedin.com/company/2425698), [Website](http://segment.com), 
  
  
  
-### [Simply Measured](http://simplymeasured.com) 
+ &nbsp##### [Simply Measured](http://simplymeasured.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 175
+Founded: 2010; Region: United States, California; Employees: 175
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/simplymeasured), [LinkedIn](http://www.linkedin.com/company/simply-measured), [Facebook](http://www.facebook.com/simplymeasured), [Website](http://simplymeasured.com), 
  
  
  
-### [AdStage](https://www.adstage.io) 
+ &nbsp##### [AdStage](https://www.adstage.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/adstage), [LinkedIn](http://www.linkedin.com/company/2757895), [Facebook](http://www.facebook.com/getadstage), [Website](https://www.adstage.io), 
  
  
  
-### [Bitly](http://bitly.com) 
+ &nbsp##### [Bitly](http://bitly.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 75
+Founded: 2008; Region: United States, California; Employees: 75
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/bitly), [LinkedIn](http://www.linkedin.com/company/552285), [Facebook](http://www.facebook.com/bitly), [Website](http://bitly.com), 
  
  
  
-### [Keyhole.co](http://keyhole.co) 
+ &nbsp##### [Keyhole.co](http://keyhole.co) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/keyholeco), [LinkedIn](https://www.linkedin.com/company/keyhole-co), [Facebook](https://www.facebook.com/keyholeco), [Website](http://keyhole.co), 
  
  
  
-### [Cyfe](http://www.cyfe.com) 
+ &nbsp##### [Cyfe](http://www.cyfe.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 0
+Founded: 2012; Region: United States, California; Employees: 0
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](http://twitter.com/cyfe), [Facebook](http://www.facebook.com/Cyfe/307811752577436), [Website](http://www.cyfe.com), 
  
  
  
-### [Klipfolio](http://www.klipfolio.com) 
+ &nbsp##### [Klipfolio](http://www.klipfolio.com) 
  
-Founded: 2001.0; Region: United States, California; Employees: 75
+Founded: 2001; Region: United States, California; Employees: 75
  
 Marketing analytics | e-commerce analytics
  
@@ -2368,9 +2368,9 @@ Marketing analytics | e-commerce analytics
  
  
  
-### [Heap](http://heapanalytics.com) 
+ &nbsp##### [Heap](http://heapanalytics.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
 Marketing analytics | e-commerce analytics
  
@@ -2378,9 +2378,9 @@ Marketing analytics | e-commerce analytics
  
  
  
-### [Kairos AR](https://www.kairos.com) 
+ &nbsp##### [Kairos AR](https://www.kairos.com) 
  
-Founded: 2012.0; Region: United States, Florida; Employees: 25
+Founded: 2012; Region: United States, Florida; Employees: 25
  
 Emotion Recognition | Data labeling
  
@@ -2388,69 +2388,69 @@ Emotion Recognition | Data labeling
  
  
  
-### [Hookit.cc](http://hookit.cc) 
+ &nbsp##### [Hookit.cc](http://hookit.cc) 
  
-Founded: 2012.0; Region: United States, California; Employees: 5
+Founded: 2012; Region: United States, California; Employees: 5
  
-Recommendation engine | Recommendation engine | Recommendation engine
+Recommendation engine
  
 [Twitter](http://twitter.com/hookitcc), [LinkedIn](http://www.linkedin.com/company/hookit), [Facebook](http://www.facebook.com/Hookit.cc), [Website](http://hookit.cc), 
  
  
  
-### [Intelligence Node](http://www.intelligencenode.com/) 
+ &nbsp##### [Intelligence Node](http://www.intelligencenode.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 75
+Founded: 2012; Region: United States, California; Employees: 75
  
-Merchandising optimization | Merchandising optimization | Merchandising optimization
+Merchandising optimization
  
 [Twitter](http://twitter.com/bigdataNODE), [LinkedIn](http://www.linkedin.com/company/intelligencenode), [Facebook](http://www.facebook.com/intelligencenode), [Website](http://www.intelligencenode.com/), 
  
  
  
-### [Acrolinx](http://www.acrolinx.com) 
+ &nbsp##### [Acrolinx](http://www.acrolinx.com) 
  
-Founded: 2002.0; Region: Germany, Berlin; Employees: 175
+Founded: 2002; Region: Germany, Berlin; Employees: 175
  
-Context aware marketing | Context aware marketing | Context aware marketing
+Context aware marketing
  
 [Twitter](http://twitter.com/acrolinx), [LinkedIn](https://www.linkedin.com/company/431282), [Facebook](http://www.facebook.com/Acrolinx/127089923970436), [Website](http://www.acrolinx.com), [Email](contact@acrolinx.com)
  
  
  
-### [Clicksco](http://clicksco.com/) 
+ &nbsp##### [Clicksco](http://clicksco.com/) 
  
-Founded: 2009.0; Region: United Kingdom, England; Employees: 0
+Founded: 2009; Region: United Kingdom, England; Employees: 0
  
-Marketing analytics | Marketing analytics | Marketing analytics
+Marketing analytics
  
 [Twitter](https://twitter.com/clicksco), [LinkedIn](https://www.linkedin.com/company-beta/1753439), [Website](http://clicksco.com/), [Email](uk@clicksco.com)
  
  
  
-### [XXII GROUP](http://www.xxii.fr) 
+ &nbsp##### [XXII GROUP](http://www.xxii.fr) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 75
+Founded: 2015; Region: France, Île-de-France; Employees: 75
  
-Emotion Recognition | Emotion Recognition | Emotion Recognition
+Emotion Recognition
  
 [Twitter](https://www.twitter.com/xxii_group), [LinkedIn](https://www.linkedin.com/company/xxii), [Facebook](https://www.facebook.com/xxiigroup), [Website](http://www.xxii.fr), [Email](hello@xxii.fr)
  
  
  
-### [Convirza](https://www.convirza.com/) 
+ &nbsp##### [Convirza](https://www.convirza.com/) 
  
-Founded: 2001.0; Region: United States, Utah; Employees: 55
+Founded: 2001; Region: United States, Utah; Employees: 55
  
-Call analytics | Call analytics | Call analytics | Call analytics | Call analytics | Call analytics
+Call analytics
  
 [Twitter](https://twitter.com/convirza), [LinkedIn](https://www.linkedin.com/company/convirza), [Facebook](https://www.facebook.com/convirza), [Website](https://www.convirza.com/), [Video](https://www.youtube.com/watch?v=dxC_MSqwSp4), [Email](mallen@convirza.com)
  
  
  
-### [Deepgram](https://www.deepgram.com/) 
+ &nbsp##### [Deepgram](https://www.deepgram.com/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 9
+Founded: 2015; Region: United States, California; Employees: 9
  
 Call analytics | Legal advisory
  
@@ -2458,9 +2458,9 @@ Call analytics | Legal advisory
  
  
  
-### [Interactions](http://www.interactions.com) 
+ &nbsp##### [Interactions](http://www.interactions.com) 
  
-Founded: 0.0; Region: United States, Massachusetts; Employees: 458
+Founded: 0; Region: United States, Massachusetts; Employees: 458
  
 Chatbot | Intelligent call routing
  
@@ -2468,9 +2468,9 @@ Chatbot | Intelligent call routing
  
  
  
-### [NICE Systems](http://nice.com) 
+ &nbsp##### [NICE Systems](http://nice.com) 
  
-Founded: 1986.0; Region: Israel, Central District; Employees: 4741
+Founded: 1986; Region: Israel, Central District; Employees: 4741
  
 Intelligent call routing | Call analytics | Call intent discovery | Survey & review analytics | Customer service response suggestions | Customer contact analytics | Robotic Process Automation (RPA)
  
@@ -2478,9 +2478,9 @@ Intelligent call routing | Call analytics | Call intent discovery | Survey & rev
  
  
  
-### [Go Moment](http://www.gomoment.com) 
+ &nbsp##### [Go Moment](http://www.gomoment.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 20
+Founded: 2012; Region: United States, California; Employees: 20
  
 Retail sales bot | Chatbot | HR retention management
  
@@ -2488,9 +2488,9 @@ Retail sales bot | Chatbot | HR retention management
  
  
  
-### [NetBase Solutions](http://www.netbase.com) 
+ &nbsp##### [NetBase Solutions](http://www.netbase.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 149
+Founded: 2004; Region: United States, California; Employees: 149
  
 Social analytics & automation | Social listening & ticketing
  
@@ -2498,9 +2498,9 @@ Social analytics & automation | Social listening & ticketing
  
  
  
-### [DigitalGenius](http://digitalgenius.com) 
+ &nbsp##### [DigitalGenius](http://digitalgenius.com) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 70
+Founded: 2013; Region: United Kingdom, England; Employees: 70
  
 Recommendation engine | Social analytics & automation | Chatbot | Customer service response suggestions
  
@@ -2508,9 +2508,9 @@ Recommendation engine | Social analytics & automation | Chatbot | Customer servi
  
  
  
-### [Pypestream](https://pypestream.com/) 
+ &nbsp##### [Pypestream](https://pypestream.com/) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 54
+Founded: 2015; Region: United States, New York; Employees: 54
  
 Sales rep chat/email bot | Chatbot
  
@@ -2518,9 +2518,9 @@ Sales rep chat/email bot | Chatbot
  
  
  
-### [BirdEye](http://birdeye.com) 
+ &nbsp##### [BirdEye](http://birdeye.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 130
+Founded: 2012; Region: United States, California; Employees: 130
  
 Social analytics & automation | Survey & review analytics | Social listening & ticketing
  
@@ -2528,39 +2528,39 @@ Social analytics & automation | Survey & review analytics | Social listening & t
  
  
  
-### [ReviewTrackers](http://www.reviewtrackers.com) 
+ &nbsp##### [ReviewTrackers](http://www.reviewtrackers.com) 
  
-Founded: 2012.0; Region: United States, Illinois; Employees: 61
+Founded: 2012; Region: United States, Illinois; Employees: 61
  
-Survey & review analytics | Survey & review analytics | Survey & review analytics | Survey & review analytics
+Survey & review analytics
  
 [Twitter](http://twitter.com/reviewtrackers), [LinkedIn](http://www.linkedin.com/company/review-trackers), [Facebook](http://www.facebook.com/reviewtrackers), [Website](http://www.reviewtrackers.com), [Email](info@reviewtrackers.com)
  
  
  
-### [Hiya](http://www.hiya.com) 
+ &nbsp##### [Hiya](http://www.hiya.com) 
  
-Founded: 2016.0; Region: United States, Washington; Employees: 25
+Founded: 2016; Region: United States, Washington; Employees: 25
  
-Call intent discovery | Call intent discovery | Call intent discovery
+Call intent discovery
  
 [Twitter](https://twitter.com/hiya), [LinkedIn](https://www.linkedin.com/company/hiyainc), [Facebook](https://www.facebook.com/Hiyainc), [Website](http://www.hiya.com), 
  
  
  
-### [Intercom](http://www.intercom.com) 
+ &nbsp##### [Intercom](http://www.intercom.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 576
+Founded: 2011; Region: United States, California; Employees: 576
  
-Customer service response suggestions | Customer service response suggestions | Customer service response suggestions | Customer service response suggestions | Customer service response suggestions
+Customer service response suggestions
  
 [Twitter](http://twitter.com/intercom), [LinkedIn](http://www.linkedin.com/company/2491343), [Facebook](http://www.facebook.com/intercominc), [Website](http://www.intercom.com), [Email](team@intercom.com)
  
  
  
-### [Nuance Communications](http://www.nuance.com) 
+ &nbsp##### [Nuance Communications](http://www.nuance.com) 
  
-Founded: 1992.0; Region: United States, Massachusetts; Employees: 7291
+Founded: 1992; Region: United States, Massachusetts; Employees: 7291
  
 Chatbot | Voice authentication
  
@@ -2568,19 +2568,19 @@ Chatbot | Voice authentication
  
  
  
-### [Aivo](http://www.aivo.co) 
+ &nbsp##### [Aivo](http://www.aivo.co) 
  
-Founded: 2011.0; Region: Argentina, Cordoba; Employees: 49
+Founded: 2011; Region: Argentina, Cordoba; Employees: 49
  
-Chatbot | Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Twitter](http://twitter.com/aivo_en), [LinkedIn](http://www.linkedin.com/company/aivo-), [Facebook](http://www.facebook.com/aivo.co), [Website](http://www.aivo.co), [Video](https://www.youtube.com/watch?v=KEHMP6TkbSU), [Email](info@aivo.co)
  
  
  
-### [Antuit](http://www.antuit.com) 
+ &nbsp##### [Antuit](http://www.antuit.com) 
  
-Founded: 2013.0; Region: Singapore, Central Singapore; Employees: 178
+Founded: 2013; Region: Singapore, Central Singapore; Employees: 178
  
 Recommendation engine | Social analytics & automation | Marketing analytics | Pricing optimization | Omnichannel | Customer contact analytics
  
@@ -2588,29 +2588,29 @@ Recommendation engine | Social analytics & automation | Marketing analytics | Pr
  
  
  
-### [Zendesk](http://zendesk.com) 
+ &nbsp##### [Zendesk](http://zendesk.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 1739
+Founded: 2007; Region: United States, California; Employees: 1739
  
-Customer contact analytics | Customer contact analytics | Customer contact analytics | Customer contact analytics | Customer contact analytics
+Customer contact analytics
  
 [Twitter](http://twitter.com/zendesk), [LinkedIn](http://www.linkedin.com/company/zendesk), [Facebook](http://www.facebook.com/zendesk), [Website](http://zendesk.com), [Video](https://www.youtube.com/watch?v=6W-60Hz_l0U), [Email](contact@zendesk.com)
  
  
  
-### [Afiniti](https://www.afiniti.com) 
+ &nbsp##### [Afiniti](https://www.afiniti.com) 
  
-Founded: 2009.0; Region: United States, Washington, D.C.; Employees: 357
+Founded: 2009; Region: United States, Washington, D.C.; Employees: 357
  
-Intelligent call routing | Intelligent call routing | Intelligent call routing | Intelligent call routing | Intelligent call routing | Intelligent call routing
+Intelligent call routing
  
 [Twitter](https://twitter.com/afiniti), [LinkedIn](https://www.linkedin.com/company/10378992?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_10378992%2Cidx%3A0), [Facebook](https://www.facebook.com/afinitiai/?fref=ts), [Website](https://www.afiniti.com), [Video](https://www.youtube.com/watch?v=MrZ5kJNqSlw), 
  
  
  
-### [Wise.io](http://wise.io) 
+ &nbsp##### [Wise.io](http://wise.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 12
+Founded: 2012; Region: United States, California; Employees: 12
  
 Customer sales contact analytics | Chatbot | Intelligent call routing | Customer service response suggestions
  
@@ -2618,9 +2618,9 @@ Customer sales contact analytics | Chatbot | Intelligent call routing | Customer
  
  
  
-### [Clarabridge](http://www.clarabridge.com) 
+ &nbsp##### [Clarabridge](http://www.clarabridge.com) 
  
-Founded: 2006.0; Region: United States, Virginia; Employees: 262
+Founded: 2006; Region: United States, Virginia; Employees: 262
  
 Social analytics & automation | Social media monitoring | Survey & review analytics | Customer contact analytics | Social listening & ticketing
  
@@ -2628,9 +2628,9 @@ Social analytics & automation | Social media monitoring | Survey & review analyt
  
  
  
-### [Creative Virtual](http://www.creativevirtual.com) 
+ &nbsp##### [Creative Virtual](http://www.creativevirtual.com) 
  
-Founded: 2003.0; Region: United Kingdom, England; Employees: 75
+Founded: 2003; Region: United Kingdom, England; Employees: 75
  
 Chatbot | Customer service response suggestions
  
@@ -2638,9 +2638,9 @@ Chatbot | Customer service response suggestions
  
  
  
-### [Salesforce](https://www.salesforce.com) 
+ &nbsp##### [Salesforce](https://www.salesforce.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 23343
+Founded: 1999; Region: United States, California; Employees: 23343
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -2648,9 +2648,9 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
  
  
-### [Luminoso](http://www.luminoso.com) 
+ &nbsp##### [Luminoso](http://www.luminoso.com) 
  
-Founded: 2010.0; Region: United States, Massachusetts; Employees: 45
+Founded: 2010; Region: United States, Massachusetts; Employees: 45
  
 Intelligent call routing | Call intent discovery | Survey & review analytics | Call classification | Analytics platform | Real-Time Analytics
  
@@ -2658,19 +2658,19 @@ Intelligent call routing | Call intent discovery | Survey & review analytics | C
  
  
  
-### [InteliWISE USA](http://www.inteliwise.com) 
+ &nbsp##### [InteliWISE USA](http://www.inteliwise.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 12
+Founded: 2005; Region: United States, California; Employees: 12
  
-Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Twitter](http://twitter.com/inteliwise), [LinkedIn](http://www.linkedin.com/company/inteliwise), [Facebook](http://www.facebook.com/InteliwiseVirtualAgent), [Website](http://www.inteliwise.com), [Video](https://www.youtube.com/watch?v=_cQz1l9ijgU), [Email](info@inteliwise.com)
  
  
  
-### [msg.ai](http://msg.ai) 
+ &nbsp##### [msg.ai](http://msg.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 40
+Founded: 2015; Region: United States, California; Employees: 40
  
 Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Customer service response suggestions | Chatbot analytics
  
@@ -2678,9 +2678,9 @@ Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Custo
  
  
  
-### [H2O.ai](http://h2o.ai/) 
+ &nbsp##### [H2O.ai](http://h2o.ai/) 
  
-Founded: 2011.0; Region: United States, California; Employees: 77
+Founded: 2011; Region: United States, California; Employees: 77
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -2688,9 +2688,9 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
  
  
-### [Personetics Technologies](http://www.personetics.com) 
+ &nbsp##### [Personetics Technologies](http://www.personetics.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 88
+Founded: 2010; Region: United States, New York; Employees: 88
  
 Chatbot | Robo-Advisory
  
@@ -2698,9 +2698,9 @@ Chatbot | Robo-Advisory
  
  
  
-### [SmartAction](http://www.smartaction.ai) 
+ &nbsp##### [SmartAction](http://www.smartaction.ai) 
  
-Founded: 2009.0; Region: United States, California; Employees: 75
+Founded: 2009; Region: United States, California; Employees: 75
  
 Intelligent call routing | Customer service chatbot (self-service solution) | Voice authentication | Billing | Debt Collection
  
@@ -2708,39 +2708,39 @@ Intelligent call routing | Customer service chatbot (self-service solution) | Vo
  
  
  
-### [MindMeld](https://www.mindmeld.com) 
+ &nbsp##### [MindMeld](https://www.mindmeld.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Twitter](http://twitter.com/getmindmeld), [LinkedIn](https://www.linkedin.com/company/mindmeld-inc), [Facebook](http://www.facebook.com/getmindmeld), [Website](https://www.mindmeld.com), [Email](info@mindmeld.com)
  
  
  
-### [Inbenta](https://www.inbenta.com) 
+ &nbsp##### [Inbenta](https://www.inbenta.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 166
+Founded: 2005; Region: United States, California; Employees: 166
  
-Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Twitter](https://twitter.com/inbenta), [LinkedIn](http://www.linkedin.com/company/inbenta), [Facebook](http://www.facebook.com/pages/INBENTA/59316959321), [Website](https://www.inbenta.com), [Video](https://www.youtube.com/watch?v=EdUVW8yAc1o), [Email](jforrester@inbenta.com)
  
  
  
-### [Eloquent Labs](https://www.eloquent.ai/) 
+ &nbsp##### [Eloquent Labs](https://www.eloquent.ai/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 4
+Founded: 2016; Region: United States, California; Employees: 4
  
-Chatbot | Chatbot | Chatbot
+Chatbot
  
 [LinkedIn](https://www.linkedin.com/company/eloquent-labs), [Website](https://www.eloquent.ai/), 
  
  
  
-### [CogniCor Technologies](http://www.cognicor.com) 
+ &nbsp##### [CogniCor Technologies](http://www.cognicor.com) 
  
-Founded: 2011.0; Region: Spain, Catalonia; Employees: 30
+Founded: 2011; Region: Spain, Catalonia; Employees: 30
  
 Chatbot | Customer service chatbot (self-service solution)
  
@@ -2748,29 +2748,29 @@ Chatbot | Customer service chatbot (self-service solution)
  
  
  
-### [True AI](http://trueai.io) 
+ &nbsp##### [True AI](http://trueai.io) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 7
+Founded: 2015; Region: United Kingdom, England; Employees: 7
  
-Customer service response suggestions | Customer service response suggestions | Customer service response suggestions
+Customer service response suggestions
  
 [Twitter](https://www.twitter.com/trueaicompany), [LinkedIn](https://www.linkedin.com/company/true-ai), [Website](http://trueai.io), [Video](https://www.youtube.com/watch?v=TsrrzzjA3lo), 
  
  
  
-### [Gridspace](http://www.gridspace.com/) 
+ &nbsp##### [Gridspace](http://www.gridspace.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 13
+Founded: 2013; Region: United States, California; Employees: 13
  
-Call analytics | Call analytics | Call analytics
+Call analytics
  
 [Twitter](http://twitter.com/gridspaceinc), [LinkedIn](http://www.linkedin.com/company/gridspace-inc), [Facebook](http://www.facebook.com/gridspaceinc), [Website](http://www.gridspace.com/), [Email](inquiries@gridspace.com)
  
  
  
-### [Cortical.io](http://www.cortical.io) 
+ &nbsp##### [Cortical.io](http://www.cortical.io) 
  
-Founded: 2011.0; Region: Austria, Vienna; Employees: 15
+Founded: 2011; Region: Austria, Vienna; Employees: 15
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -2778,9 +2778,9 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
  
  
-### [WorkFusion](http://www.workfusion.com/) 
+ &nbsp##### [WorkFusion](http://www.workfusion.com/) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 140
+Founded: 2010; Region: United States, New York; Employees: 140
  
 Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
@@ -2788,49 +2788,49 @@ Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
  
  
-### [Five9](http://www.five9.com) 
+ &nbsp##### [Five9](http://www.five9.com) 
  
-Founded: 2001.0; Region: United States, California; Employees: 727
+Founded: 2001; Region: United States, California; Employees: 727
  
-Customer contact analytics | Customer contact analytics | Customer contact analytics
+Customer contact analytics
  
 [Twitter](http://twitter.com/Five9), [LinkedIn](http://www.linkedin.com/company/five9), [Facebook](http://www.facebook.com/callcentersoftware), [Website](http://www.five9.com), [Email](info@five9.com)
  
  
  
-### [Botanalytics](https://botanalytics.co) 
+ &nbsp##### [Botanalytics](https://botanalytics.co) 
  
-Founded: 2016.0; Region: United States, California; Employees: 12
+Founded: 2016; Region: United States, California; Employees: 12
  
-Chatbot analytics | Chatbot analytics | Chatbot analytics
+Chatbot analytics
  
 [Twitter](https://twitter.com/botanalyticsco), [LinkedIn](https://www.linkedin.com/company/botanalytics), [Facebook](https://www.facebook.com/botanalyticsco), [Website](https://botanalytics.co), [Video](https://www.youtube.com/watch?v=HbxfKrt74N8), 
  
  
  
-### [Botmetrics](http://www.getbotmetrics.com) 
+ &nbsp##### [Botmetrics](http://www.getbotmetrics.com) 
  
-Founded: 0.0; Region: United States, California; Employees: 1
+Founded: 0; Region: United States, California; Employees: 1
  
-Chatbot analytics | Chatbot analytics | Chatbot analytics
+Chatbot analytics
  
 [Website](http://www.getbotmetrics.com), 
  
  
  
-### [Nanorep](http://nanorep.com) 
+ &nbsp##### [Nanorep](http://nanorep.com) 
  
-Founded: 2009.0; Region: Israel, Tel Aviv; Employees: 76
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 76
  
-Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Twitter](http://twitter.com/nanoRep), [LinkedIn](http://www.linkedin.com/company/nanorep), [Facebook](http://www.facebook.com/nanorep), [Website](http://nanorep.com), [Email](ContactUs@nanorep.com)
  
  
  
-### [Semantic Machines](http://www.semanticmachines.com/) 
+ &nbsp##### [Semantic Machines](http://www.semanticmachines.com/) 
  
-Founded: 2014.0; Region: United States, Massachusetts; Employees: 25
+Founded: 2014; Region: United States, Massachusetts; Employees: 25
  
 Sales rep chat/email bot | Chatbot
  
@@ -2838,9 +2838,9 @@ Sales rep chat/email bot | Chatbot
  
  
  
-### [Kore.ai](https://kore.ai/) 
+ &nbsp##### [Kore.ai](https://kore.ai/) 
  
-Founded: 2013.0; Region: United States, Florida; Employees: 192
+Founded: 2013; Region: United States, Florida; Employees: 192
  
 Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
@@ -2848,19 +2848,19 @@ Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
  
  
-### [Next IT](http://www.NextIT.com) 
+ &nbsp##### [Next IT](http://www.NextIT.com) 
  
-Founded: 2002.0; Region: United States, Washington; Employees: 200
+Founded: 2002; Region: United States, Washington; Employees: 200
  
-Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Twitter](http://twitter.com/Next_IT), [LinkedIn](http://www.linkedin.com/company/next-it), [Facebook](http://www.facebook.com/NextITCorp), [Website](http://www.NextIT.com), [Email](Contact@NextIT.com)
  
  
  
-### [Dashbot](http://www.dashbot.io) 
+ &nbsp##### [Dashbot](http://www.dashbot.io) 
  
-Founded: 2016.0; Region: United States, California; Employees: 10
+Founded: 2016; Region: United States, California; Employees: 10
  
 Chatbot analytics | Chatbot testing
  
@@ -2868,9 +2868,9 @@ Chatbot analytics | Chatbot testing
  
  
  
-### [Octane AI](http://octaneai.com) 
+ &nbsp##### [Octane AI](http://octaneai.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 11
+Founded: 2016; Region: United States, California; Employees: 11
  
 Customer service chatbot (self-service solution) | Chatbot analytics
  
@@ -2878,9 +2878,9 @@ Customer service chatbot (self-service solution) | Chatbot analytics
  
  
  
-### [LeanData](http://www.leandatainc.com) 
+ &nbsp##### [LeanData](http://www.leandatainc.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 33
+Founded: 2012; Region: United States, California; Employees: 33
  
 Sales attribution | Customer contact analytics
  
@@ -2888,19 +2888,19 @@ Sales attribution | Customer contact analytics
  
  
  
-### [Amazon](http://amazon.com) 
+ &nbsp##### [Amazon](http://amazon.com) 
  
-Founded: 1994.0; Region: United States, Washington; Employees: 197842
+Founded: 1994; Region: United States, Washington; Employees: 197842
  
-Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution)
+Customer service chatbot (self-service solution)
  
 [Twitter](http://twitter.com/amazon), [LinkedIn](http://www.linkedin.com/company/amazon), [Facebook](http://www.facebook.com/Amazon), [Website](http://amazon.com), 
  
  
  
-### [Botego](http://www.botego.com/) 
+ &nbsp##### [Botego](http://www.botego.com/) 
  
-Founded: 2007.0; Region: United States, New York; Employees: 25
+Founded: 2007; Region: United States, New York; Employees: 25
  
 Chatbot | Digital assistant
  
@@ -2908,9 +2908,9 @@ Chatbot | Digital assistant
  
  
  
-### [Gupshup](https://www.gupshup.io/) 
+ &nbsp##### [Gupshup](https://www.gupshup.io/) 
  
-Founded: 0.0; Region: United States, California; Employees: 125
+Founded: 0; Region: United States, California; Employees: 125
  
 Chatbot | Customer service chatbot (self-service solution) | Chatbot analytics | Chatbot testing
  
@@ -2918,9 +2918,9 @@ Chatbot | Customer service chatbot (self-service solution) | Chatbot analytics |
  
  
  
-### [Talkwalker](http://www.talkwalker.com) 
+ &nbsp##### [Talkwalker](http://www.talkwalker.com) 
  
-Founded: 2009.0; Region: Luxembourg, Luxembourg; Employees: 140
+Founded: 2009; Region: Luxembourg, Luxembourg; Employees: 140
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -2928,59 +2928,59 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
  
  
-### [Wantoo](http://wantoo.io/) 
+ &nbsp##### [Wantoo](http://wantoo.io/) 
  
-Founded: 2015.0; Region: Canada, British Columbia; Employees: 0
+Founded: 2015; Region: Canada, British Columbia; Employees: 0
  
-Survey & review analytics | Survey & review analytics | Survey & review analytics
+Survey & review analytics
  
 [Twitter](https://twitter.com/allwantoo), [LinkedIn](https://www.linkedin.com/company/wantoo), [Facebook](https://www.facebook.com/allwantoo), [Website](http://wantoo.io/), 
  
  
  
-### [Reputology](https://www.reputology.com/) 
+ &nbsp##### [Reputology](https://www.reputology.com/) 
  
-Founded: 0.0; Region: United States, California; Employees: 5
+Founded: 0; Region: United States, California; Employees: 5
  
-Survey & review analytics | Survey & review analytics | Survey & review analytics
+Survey & review analytics
  
 [Twitter](https://twitter.com/reputology?lang=en), [Facebook](https://www.facebook.com/reputology/), [Website](https://www.reputology.com/), [Video](https://www.youtube.com/watch?v=leq3iCiczoM), [Email](support@reputology.com)
  
  
  
-### [Reply.ai](http://reply.ai) 
+ &nbsp##### [Reply.ai](http://reply.ai) 
  
-Founded: 2016.0; Region: United States, New York; Employees: 17
+Founded: 2016; Region: United States, New York; Employees: 17
  
-Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution)
+Customer service chatbot (self-service solution)
  
 [Twitter](https://twitter.com/replydotai), [LinkedIn](https://www.linkedin.com/company/10652705), [Facebook](https://www.facebook.com/Replyai/), [Website](http://reply.ai), [Email](hello@reply.ai)
  
  
  
-### [Artificial Solutions](http://www.artificial-solutions.com) 
+ &nbsp##### [Artificial Solutions](http://www.artificial-solutions.com) 
  
-Founded: 2001.0; Region: Spain, Catalonia; Employees: 137
+Founded: 2001; Region: Spain, Catalonia; Employees: 137
  
-Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution)
+Customer service chatbot (self-service solution)
  
 [Twitter](http://twitter.com/ArtiSol), [Facebook](http://www.facebook.com/artificialsolutions), [Website](http://www.artificial-solutions.com), [Email](info@artificial-solutions.com)
  
  
  
-### [IPsoft](http://www.ipsoft.com) 
+ &nbsp##### [IPsoft](http://www.ipsoft.com) 
  
-Founded: 1998.0; Region: United States, New York; Employees: 1773
+Founded: 1998; Region: United States, New York; Employees: 1773
  
-Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution)
+Customer service chatbot (self-service solution)
  
 [Twitter](http://twitter.com/ipsoft), [LinkedIn](http://www.linkedin.com/company/ipsoft), [Facebook](https://www.facebook.com/ipsoftinc), [Website](http://www.ipsoft.com), 
  
  
  
-### [Talkdesk](http://talkdesk.com) 
+ &nbsp##### [Talkdesk](http://talkdesk.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 282
+Founded: 2011; Region: United States, California; Employees: 282
  
 Intelligent call routing | Call analytics | Customer service chatbot (self-service solution)
  
@@ -2988,9 +2988,9 @@ Intelligent call routing | Call analytics | Customer service chatbot (self-servi
  
  
  
-### [Gnip](http://www.gnip.com) 
+ &nbsp##### [Gnip](http://www.gnip.com) 
  
-Founded: 2008.0; Region: United States, Colorado; Employees: 15
+Founded: 2008; Region: United States, Colorado; Employees: 15
  
 Social analytics & automation | Social listening & ticketing
  
@@ -2998,9 +2998,9 @@ Social analytics & automation | Social listening & ticketing
  
  
  
-### [Lithium Technologies](http://www.lithium.com) 
+ &nbsp##### [Lithium Technologies](http://www.lithium.com) 
  
-Founded: 2001.0; Region: United States, California; Employees: 546
+Founded: 2001; Region: United States, California; Employees: 546
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -3008,9 +3008,9 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
  
  
-### [DataSift](http://www.datasift.com) 
+ &nbsp##### [DataSift](http://www.datasift.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 70
+Founded: 2010; Region: United States, California; Employees: 70
  
 Social analytics & automation | Social media monitoring | Social listening & ticketing
  
@@ -3018,19 +3018,19 @@ Social analytics & automation | Social media monitoring | Social listening & tic
  
  
  
-### [ReviewPush](http://www.reviewpush.com/) 
+ &nbsp##### [ReviewPush](http://www.reviewpush.com/) 
  
-Founded: 2011.0; Region: United States, Texas; Employees: 8
+Founded: 2011; Region: United States, Texas; Employees: 8
  
-Survey & review analytics | Survey & review analytics | Survey & review analytics
+Survey & review analytics
  
 [Twitter](https://twitter.com/reviewpush), [LinkedIn](https://www.linkedin.com/company/reviewpush), [Facebook](https://www.facebook.com/ReviewPush), [Website](http://www.reviewpush.com/), [Video](https://vimeo.com/123643084), [Email](contact@reviewpush.com)
  
  
  
-### [Chatmeter](http://www.chatmeter.com) 
+ &nbsp##### [Chatmeter](http://www.chatmeter.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 33
+Founded: 2011; Region: United States, California; Employees: 33
  
 Social analytics & automation | Survey & review analytics
  
@@ -3038,19 +3038,19 @@ Social analytics & automation | Survey & review analytics
  
  
  
-### [Reputation.com](http://www.reputation.com) 
+ &nbsp##### [Reputation.com](http://www.reputation.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 298
+Founded: 2006; Region: United States, California; Employees: 298
  
-Social listening & ticketing | Social listening & ticketing | Social listening & ticketing
+Social listening & ticketing
  
 [Twitter](http://twitter.com/Reputation_Com), [LinkedIn](https://www.linkedin.com/company/reputation-com), [Facebook](http://www.facebook.com/reputation.com), [Website](http://www.reputation.com), [Email](help@reputation.com)
  
  
  
-### [fred knows](http://www.fredknows.IT) 
+ &nbsp##### [fred knows](http://www.fredknows.IT) 
  
-Founded: 2015.0; Region: Germany, Berlin; Employees: 11
+Founded: 2015; Region: Germany, Berlin; Employees: 11
  
 Chatbot | Customer service chatbot (self-service solution)
  
@@ -3058,9 +3058,9 @@ Chatbot | Customer service chatbot (self-service solution)
  
  
  
-### [Recast.AI](https://recast.ai) 
+ &nbsp##### [Recast.AI](https://recast.ai) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 25
+Founded: 2015; Region: France, Île-de-France; Employees: 25
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -3068,59 +3068,59 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
  
  
-### [Techsee](http://www.techsee.me) 
+ &nbsp##### [Techsee](http://www.techsee.me) 
  
-Founded: 2015.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25
  
-Call analytics | Call analytics | Call analytics
+Call analytics
  
 [Twitter](https://twitter.com/techsee_me), [LinkedIn](https://www.linkedin.com/company/10024226), [Facebook](https://www.facebook.com/TechSee-786286871505772/), [Website](http://www.techsee.me), 
  
  
  
-### [ClickFox](http://www.clickfox.com) 
+ &nbsp##### [ClickFox](http://www.clickfox.com) 
  
-Founded: 2000.0; Region: United States, Georgia; Employees: 75
+Founded: 2000; Region: United States, Georgia; Employees: 75
  
-Customer contact analytics | Customer contact analytics | Customer contact analytics
+Customer contact analytics
  
 [Twitter](http://twitter.com/ClickFox), [LinkedIn](http://www.linkedin.com/company/clickfox), [Facebook](http://www.facebook.com/clickfox), [Website](http://www.clickfox.com), 
  
  
  
-### [Appuri](http://www.appuri.com) 
+ &nbsp##### [Appuri](http://www.appuri.com) 
  
-Founded: 2012.0; Region: United States, Washington; Employees: 25
+Founded: 2012; Region: United States, Washington; Employees: 25
  
-Customer contact analytics | Customer contact analytics | Customer contact analytics
+Customer contact analytics
  
 [Twitter](https://twitter.com/appuricorp), [LinkedIn](https://www.linkedin.com/company/appuri-inc-), [Facebook](https://www.facebook.com/appuriinc), [Website](http://www.appuri.com), 
  
  
  
-### [StellaService](http://stellaservice.com) 
+ &nbsp##### [StellaService](http://stellaservice.com) 
  
-Founded: 2009.0; Region: United States, New York; Employees: 175
+Founded: 2009; Region: United States, New York; Employees: 175
  
-Customer contact analytics | Customer contact analytics | Customer contact analytics
+Customer contact analytics
  
 [Twitter](http://twitter.com/StellaService), [LinkedIn](http://www.linkedin.com/company/stellaservice), [Facebook](http://www.facebook.com/StellaService), [Website](http://stellaservice.com), 
  
  
  
-### [CallRail](https://www.callrail.com) 
+ &nbsp##### [CallRail](https://www.callrail.com) 
  
-Founded: 2011.0; Region: United States, Georgia; Employees: 75
+Founded: 2011; Region: United States, Georgia; Employees: 75
  
-Call analytics | Call analytics | Call analytics
+Call analytics
  
 [Twitter](http://twitter.com/callrail), [LinkedIn](http://www.linkedin.com/company/callrail), [Facebook](https://www.facebook.com/callrail), [Website](https://www.callrail.com), 
  
  
  
-### [DeepPIXEL Inc.](http://www.deeppixel.ai) 
+ &nbsp##### [DeepPIXEL Inc.](http://www.deeppixel.ai) 
  
-Founded: 2016.0; Region: Canada, Ontario; Employees: 8
+Founded: 2016; Region: Canada, Ontario; Employees: 8
  
 Omnichannel | Chatbot | Customer service response suggestions
  
@@ -3128,9 +3128,9 @@ Omnichannel | Chatbot | Customer service response suggestions
  
  
  
-### [Pat Inc](http://www.pat.ai) 
+ &nbsp##### [Pat Inc](http://www.pat.ai) 
  
-Founded: 2016.0; Region: United States, California; Employees: 7
+Founded: 2016; Region: United States, California; Employees: 7
  
 Sales rep chat/email bot | Call intent discovery | Customer service chatbot (self-service solution) | Conversational Analytics | Digital assistant
  
@@ -3138,49 +3138,49 @@ Sales rep chat/email bot | Call intent discovery | Customer service chatbot (sel
  
  
  
-### [VoiceOps](https://voiceops.com) 
+ &nbsp##### [VoiceOps](https://voiceops.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Call analytics | Call analytics | Call analytics
+Call analytics
  
 [Twitter](https://twitter.com/voice_ops), [LinkedIn](https://www.linkedin.com/company-beta/12176639/?pathWildcard=12176639), [Website](https://voiceops.com), [Email](contact@voiceops.com)
  
  
  
-### [Serdoo](https://www.serdoo.com) 
+ &nbsp##### [Serdoo](https://www.serdoo.com) 
  
-Founded: 2016.0; Region: United States, Illinois; Employees: 0
+Founded: 2016; Region: United States, Illinois; Employees: 0
  
-Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Website](https://www.serdoo.com), 
  
  
  
-### [Siwa Inc.](http://siwa.ai) 
+ &nbsp##### [Siwa Inc.](http://siwa.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Chatbot | Chatbot | Chatbot
+Chatbot
  
 [Twitter](https://twitter.com/SiwaInc), [LinkedIn](https://www.linkedin.com/company/10210279), [Website](http://siwa.ai), 
  
  
  
-### [Bottr](https://bottr.me) 
+ &nbsp##### [Bottr](https://bottr.me) 
  
-Founded: 2015.0; Region: United States, California; Employees: 0
+Founded: 2015; Region: United States, California; Employees: 0
  
-Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution) | Customer service chatbot (self-service solution)
+Customer service chatbot (self-service solution)
  
 [Twitter](https://twitter.com/bottr_me), [LinkedIn](https://www.linkedin.com/company/13210330), [Facebook](https://www.facebook.com/bottrme), [Website](https://bottr.me), 
  
  
  
-### [AppZen](http://www.appzen.com) 
+ &nbsp##### [AppZen](http://www.appzen.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 18
+Founded: 2012; Region: United States, California; Employees: 18
  
 Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
@@ -3188,9 +3188,9 @@ Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
  
  
-### [NICE Systems](http://nice.com) 
+ &nbsp##### [NICE Systems](http://nice.com) 
  
-Founded: 1986.0; Region: Israel, Central District; Employees: 4741
+Founded: 1986; Region: Israel, Central District; Employees: 4741
  
 Intelligent call routing | Call analytics | Call intent discovery | Survey & review analytics | Customer service response suggestions | Customer contact analytics | Robotic Process Automation (RPA)
  
@@ -3198,29 +3198,29 @@ Intelligent call routing | Call analytics | Call intent discovery | Survey & rev
  
  
  
-### [Vekia](http://www.vekia.fr/) 
+ &nbsp##### [Vekia](http://www.vekia.fr/) 
  
-Founded: 2008.0; Region: France, Hauts-de-France; Employees: 57
+Founded: 2008; Region: France, Hauts-de-France; Employees: 57
  
-Inventory & supply chain optimization | Inventory & supply chain optimization | Inventory & supply chain optimization | Inventory & supply chain optimization
+Inventory & supply chain optimization
  
 [Twitter](https://twitter.com/vekia_fr), [LinkedIn](https://www.linkedin.com/company/vekia), [Facebook](https://www.facebook.com/vekia.sas), [Website](http://www.vekia.fr/), 
  
  
  
-### [Falkonry](http://falkonry.com/) 
+ &nbsp##### [Falkonry](http://falkonry.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/falkonry), [LinkedIn](https://www.linkedin.com/company/falkonry), [Facebook](http://facebook.com/falkonry), [Website](http://falkonry.com/), [Email](info@falkonry.com)
  
  
  
-### [MotionsCloud](http://motionscloud.com) 
+ &nbsp##### [MotionsCloud](http://motionscloud.com) 
  
-Founded: 2016.0; Region: Germany, Baden-Württemberg; Employees: 5
+Founded: 2016; Region: Germany, Baden-Württemberg; Employees: 5
  
 Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
@@ -3228,9 +3228,9 @@ Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
  
  
-### [CrossChx, Inc.](http://www.crosschx.com) 
+ &nbsp##### [CrossChx, Inc.](http://www.crosschx.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 80
+Founded: 2012; Region: United States, California; Employees: 80
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -3238,19 +3238,19 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
  
  
-### [Jacada](http://www.jacada.com) 
+ &nbsp##### [Jacada](http://www.jacada.com) 
  
-Founded: 1990.0; Region: United States, Georgia; Employees: 187
+Founded: 1990; Region: United States, Georgia; Employees: 187
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](http://twitter.com/Jacada), [LinkedIn](http://www.linkedin.com/company/jacada), [Facebook](http://www.facebook.com/JacadaInc), [Website](http://www.jacada.com), 
  
  
  
-### [Pegasystems](http://www.pega.com) 
+ &nbsp##### [Pegasystems](http://www.pega.com) 
  
-Founded: 1983.0; Region: United States, Massachusetts; Employees: 3527
+Founded: 1983; Region: United States, Massachusetts; Employees: 3527
  
 Robotic Process Automation (RPA) | Analytics platform
  
@@ -3258,19 +3258,19 @@ Robotic Process Automation (RPA) | Analytics platform
  
  
  
-### [Genfour](http://genfour.net) 
+ &nbsp##### [Genfour](http://genfour.net) 
  
-Founded: 2012.0; Region: United Kingdom, Wales; Employees: 39
+Founded: 2012; Region: United Kingdom, Wales; Employees: 39
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](https://twitter.com/_genfour), [LinkedIn](https://www.linkedin.com/company-beta/2873186/?pathWildcard=2873186), [Website](http://genfour.net), [Email](info@genfour.net)
  
  
  
-### [Flutura Business Solutions](http://www.flutura.com) 
+ &nbsp##### [Flutura Business Solutions](http://www.flutura.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 85
+Founded: 2012; Region: United States, California; Employees: 85
  
 Predictive maintenance | Manufacturing Analytics
  
@@ -3278,39 +3278,39 @@ Predictive maintenance | Manufacturing Analytics
  
  
  
-### [Another Monday](https://anothermonday.com/) 
+ &nbsp##### [Another Monday](https://anothermonday.com/) 
  
-Founded: 2005.0; Region: Germany, North Rhine-Westphalia; Employees: 80
+Founded: 2005; Region: Germany, North Rhine-Westphalia; Employees: 80
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Website](https://anothermonday.com/), [Video](https://youtu.be/mTV6GNU15ow), 
  
  
  
-### [UiPath](http://www.uipath.com) 
+ &nbsp##### [UiPath](http://www.uipath.com) 
  
-Founded: 2015.0; Region: Romania, Bucureşti; Employees: 270
+Founded: 2015; Region: Romania, Bucureşti; Employees: 270
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](http://www.twitter.com/uipath), [LinkedIn](https://www.linkedin.com/company-beta/1523656/), [Facebook](https://www.facebook.com/UiPathRPA), [Website](http://www.uipath.com), [Video](https://www.youtube.com/watch?v=_s2T6TdwcEc), 
  
  
  
-### [Maana](http://www.maana.io) 
+ &nbsp##### [Maana](http://www.maana.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 51
+Founded: 2012; Region: United States, California; Employees: 51
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/maanaknowledge), [LinkedIn](https://www.linkedin.com/company/maana), [Website](http://www.maana.io), 
  
  
  
-### [Arimo](https://arimo.com) 
+ &nbsp##### [Arimo](https://arimo.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 37
+Founded: 2012; Region: United States, California; Employees: 37
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -3318,19 +3318,19 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
  
  
-### [Kofax](http://www.kofax.com) 
+ &nbsp##### [Kofax](http://www.kofax.com) 
  
-Founded: 1991.0; Region: United States, California; Employees: 1465
+Founded: 1991; Region: United States, California; Employees: 1465
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](http://twitter.com/kofax), [LinkedIn](http://www.linkedin.com/company/kofax), [Facebook](http://www.facebook.com/kofax.inc), [Website](http://www.kofax.com), [Email](info@kofax.com)
  
  
  
-### [deepsense.ai](http://deepsense.ai/) 
+ &nbsp##### [deepsense.ai](http://deepsense.ai/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 75
+Founded: 2014; Region: United States, California; Employees: 75
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -3338,9 +3338,9 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
  
  
-### [Senseye](http://www.senseye.io/) 
+ &nbsp##### [Senseye](http://www.senseye.io/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 47
+Founded: 2014; Region: United Kingdom, England; Employees: 47
  
 Predictive maintenance | Analytics platform
  
@@ -3348,9 +3348,9 @@ Predictive maintenance | Analytics platform
  
  
  
-### [RapidMiner](http://www.rapidminer.com) 
+ &nbsp##### [RapidMiner](http://www.rapidminer.com) 
  
-Founded: 2007.0; Region: United States, Massachusetts; Employees: 90
+Founded: 2007; Region: United States, Massachusetts; Employees: 90
  
 Predictive maintenance | Analytics platform
  
@@ -3358,9 +3358,9 @@ Predictive maintenance | Analytics platform
  
  
  
-### [Numenta](http://www.numenta.com) 
+ &nbsp##### [Numenta](http://www.numenta.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 22
+Founded: 2005; Region: United States, California; Employees: 22
  
 Natural Language Processing library/SDK/API | Robotics | Financial Analytics Platform
  
@@ -3368,9 +3368,9 @@ Natural Language Processing library/SDK/API | Robotics | Financial Analytics Pla
  
  
  
-### [Orbital Insight](http://www.orbitalinsight.com/) 
+ &nbsp##### [Orbital Insight](http://www.orbitalinsight.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 80
+Founded: 2013; Region: United States, California; Employees: 80
  
 Inventory & supply chain optimization | Geo-analytics platform | Insurance (InsurTech)
  
@@ -3378,9 +3378,9 @@ Inventory & supply chain optimization | Geo-analytics platform | Insurance (Insu
  
  
  
-### [WorkFusion](http://www.workfusion.com/) 
+ &nbsp##### [WorkFusion](http://www.workfusion.com/) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 140
+Founded: 2010; Region: United States, New York; Employees: 140
  
 Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
@@ -3388,9 +3388,9 @@ Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
  
  
-### [Rimilia](https://www.rimilia.com/) 
+ &nbsp##### [Rimilia](https://www.rimilia.com/) 
  
-Founded: 2008.0; Region: United Kingdom, England; Employees: 90
+Founded: 2008; Region: United Kingdom, England; Employees: 90
  
 Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulatory compliance | Debt Collection
  
@@ -3398,29 +3398,29 @@ Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulato
  
  
  
-### [Siemens](http://www.siemens.co.in/sts) 
+ &nbsp##### [Siemens](http://www.siemens.co.in/sts) 
  
-Founded: 0.0; Region: Germany, Bavaria; Employees: 4116
+Founded: 0; Region: Germany, Bavaria; Employees: 4116
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Website](http://www.siemens.co.in/sts), 
  
  
  
-### [Schneider Electric](http://www.schneider-electric.com) 
+ &nbsp##### [Schneider Electric](http://www.schneider-electric.com) 
  
-Founded: 1836.0; Region: France, Île-de-France; Employees: 60206
+Founded: 1836; Region: France, Île-de-France; Employees: 60206
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/SchneiderElec), [LinkedIn](http://www.linkedin.com/company/schneider-electric), [Facebook](http://www.facebook.com/SchneiderElectric), [Website](http://www.schneider-electric.com), 
  
  
  
-### [Sisense](http://www.sisense.com) 
+ &nbsp##### [Sisense](http://www.sisense.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 361
+Founded: 2010; Region: United States, New York; Employees: 361
  
 Predictive maintenance | Analytics platform
  
@@ -3428,39 +3428,39 @@ Predictive maintenance | Analytics platform
  
  
  
-### [Alluvium](http://www.alluvium.io) 
+ &nbsp##### [Alluvium](http://www.alluvium.io) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 10
+Founded: 2015; Region: United States, New York; Employees: 10
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://www.twitter.com/alluvium), [Website](http://www.alluvium.io), [Email](info@alluvium.io)
  
  
  
-### [Presenso](http://www.presenso.com/) 
+ &nbsp##### [Presenso](http://www.presenso.com/) 
  
-Founded: 2015.0; Region: Israel, Haifa; Employees: 14
+Founded: 2015; Region: Israel, Haifa; Employees: 14
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [LinkedIn](https://www.linkedin.com/company/7943199?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A7943199%2Cidx%3A1-3-3%2CtarId%3A1467218600568%2Ctas%3A%20DeepSense), [Website](http://www.presenso.com/), [Video](https://youtu.be/8A45_VO2IdE), [Email](info@presenso.com)
  
  
  
-### [Uptake](http://www.uptake.com) 
+ &nbsp##### [Uptake](http://www.uptake.com) 
  
-Founded: 2014.0; Region: United States, Illinois; Employees: 615
+Founded: 2014; Region: United States, Illinois; Employees: 615
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/uptake), [LinkedIn](http://linkedin.com/company/uptake), [Facebook](http://facebook.com/uptake), [Website](http://www.uptake.com), [Email](info@uptake.com)
  
  
  
-### [Sight Machine](http://sightmachine.com) 
+ &nbsp##### [Sight Machine](http://sightmachine.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 78
+Founded: 2012; Region: United States, California; Employees: 78
  
 Predictive maintenance | Manufacturing Analytics
  
@@ -3468,39 +3468,39 @@ Predictive maintenance | Manufacturing Analytics
  
  
  
-### [Predikto](http://www.predikto.com) 
+ &nbsp##### [Predikto](http://www.predikto.com) 
  
-Founded: 2013.0; Region: United States, Georgia; Employees: 26
+Founded: 2013; Region: United States, Georgia; Employees: 26
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/PrediktoIoT), [LinkedIn](http://www.linkedin.com/company/predikto-analytics), [Website](http://www.predikto.com), [Email](info@predikto.com)
  
  
  
-### [Turbo Monitoring](http://www.turbomonitoring.com/) 
+ &nbsp##### [Turbo Monitoring](http://www.turbomonitoring.com/) 
  
-Founded: 2011.0; Region: Germany, Bavaria; Employees: 0
+Founded: 2011; Region: Germany, Bavaria; Employees: 0
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Website](http://www.turbomonitoring.com/), 
  
  
  
-### [DataRPM](http://www.DataRPM.com) 
+ &nbsp##### [DataRPM](http://www.DataRPM.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 57
+Founded: 2012; Region: United States, California; Employees: 57
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/datarpm), [LinkedIn](http://www.linkedin.com/company/2287612), [Facebook](http://www.facebook.com/datarpm), [Website](http://www.DataRPM.com), [Email](sundeep@datarpm.com)
  
  
  
-### [GreyOrange](http://www.greyorange.com/) 
+ &nbsp##### [GreyOrange](http://www.greyorange.com/) 
  
-Founded: 2011.0; Region: Singapore, Central Singapore; Employees: 1000
+Founded: 2011; Region: Singapore, Central Singapore; Employees: 1000
  
 Inventory & supply chain optimization | Robotics
  
@@ -3508,69 +3508,69 @@ Inventory & supply chain optimization | Robotics
  
  
  
-### [Sarcos](http://www.sarcos.com/) 
+ &nbsp##### [Sarcos](http://www.sarcos.com/) 
  
-Founded: 1983.0; Region: United States, Utah; Employees: 50
+Founded: 1983; Region: United States, Utah; Employees: 50
  
-Robotics | Robotics | Robotics
+Robotics
  
 [LinkedIn](https://www.linkedin.com/company/sarcos), [Facebook](https://www.facebook.com/Sarcos-442881822545260/), [Website](http://www.sarcos.com/), [Email](sales@sarcos.com)
  
  
  
-### [Clearpath Robotics](https://www.clearpathrobotics.com/) 
+ &nbsp##### [Clearpath Robotics](https://www.clearpathrobotics.com/) 
  
-Founded: 0.0; Region: Canada, Ontario; Employees: 50
+Founded: 0; Region: Canada, Ontario; Employees: 50
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Website](https://www.clearpathrobotics.com/), 
  
  
  
-### [Fero Labs](https://www.ferolabs.com/) 
+ &nbsp##### [Fero Labs](https://www.ferolabs.com/) 
  
-Founded: 2011.0; Region: United States, New York; Employees: 5
+Founded: 2011; Region: United States, New York; Employees: 5
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [LinkedIn](https://www.linkedin.com/company/ferolabs), [Website](https://www.ferolabs.com/), 
  
  
  
-### [Kindred.ai](https://www.kindred.ai) 
+ &nbsp##### [Kindred.ai](https://www.kindred.ai) 
  
-Founded: 0.0; Region: Canada, British Columbia; Employees: 44
+Founded: 0; Region: Canada, British Columbia; Employees: 44
  
-Collaborative Robot | Collaborative Robot | Collaborative Robot
+Collaborative Robot
  
 [Website](https://www.kindred.ai), [Email](info@kindred.ai)
  
  
  
-### [Arago](https://arago.co) 
+ &nbsp##### [Arago](https://arago.co) 
  
-Founded: 1995.0; Region: Germany, Hesse; Employees: 124
+Founded: 1995; Region: Germany, Hesse; Employees: 124
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](https://twitter.com/aragogmbh), [LinkedIn](http://www.linkedin.com/company/arago-ag), [Facebook](https://www.facebook.com/aragoAutomationExperts), [Website](https://arago.co), [Email](contact@arago.co)
  
  
  
-### [Vicarious](http://vicarious.com) 
+ &nbsp##### [Vicarious](http://vicarious.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 2
+Founded: 2010; Region: United States, California; Employees: 2
  
-Collaborative Robot | Collaborative Robot | Collaborative Robot
+Collaborative Robot
  
 [Twitter](http://twitter.com/vicariousinc), [LinkedIn](http://www.linkedin.com/company/vicarious-fpc-inc), [Facebook](http://www.facebook.com/vicariousinc), [Website](http://vicarious.com), [Email](info@vicarious.com)
  
  
  
-### [SAS](http://www.sas.com) 
+ &nbsp##### [SAS](http://www.sas.com) 
  
-Founded: 1976.0; Region: United States, North Carolina; Employees: 23378
+Founded: 1976; Region: United States, North Carolina; Employees: 23378
  
 Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
@@ -3578,19 +3578,19 @@ Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
  
  
-### [Brain Corp](https://www.braincorp.com/) 
+ &nbsp##### [Brain Corp](https://www.braincorp.com/) 
  
-Founded: 0.0; Region: United States, California; Employees: 41
+Founded: 0; Region: United States, California; Employees: 41
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Website](https://www.braincorp.com/), [Video](https://www.youtube.com/watch?v=BHuJkJt4ZSk), 
  
  
  
-### [Infor](http://www.infor.com) 
+ &nbsp##### [Infor](http://www.infor.com) 
  
-Founded: 2002.0; Region: United States, New York; Employees: 15453
+Founded: 2002; Region: United States, New York; Employees: 15453
  
 Predictive maintenance | Analytics platform
  
@@ -3598,349 +3598,349 @@ Predictive maintenance | Analytics platform
  
  
  
-### [Symphony Ventures](http://www.symphonyhq.com/) 
+ &nbsp##### [Symphony Ventures](http://www.symphonyhq.com/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 91
+Founded: 2014; Region: United Kingdom, England; Employees: 91
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](https://twitter.com/SymphonyVenture), [LinkedIn](https://www.linkedin.com/company/symphony-ventures), [Facebook](https://www.facebook.com/SymphonyVentures), [Website](http://www.symphonyhq.com/), [Email](enquiries@symphonyhq.com)
  
  
  
-### [Blue Prism](http://www.blueprism.com/) 
+ &nbsp##### [Blue Prism](http://www.blueprism.com/) 
  
-Founded: 2001.0; Region: United States, Texas; Employees: 650
+Founded: 2001; Region: United States, Texas; Employees: 650
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](https://www.twitter.com/blue_prism), [LinkedIn](https://www.linkedin.com/company/blue-prism-limited/), [Facebook](https://www.facebook.com/BluePrismOfficial/), [Website](http://www.blueprism.com/), [Video](https://youtu.be/13-1HzOftl0), 
  
  
  
-### [Cisco](http://www.cisco.com) 
+ &nbsp##### [Cisco](http://www.cisco.com) 
  
-Founded: 1984.0; Region: United States, California; Employees: 87159
+Founded: 1984; Region: United States, California; Employees: 87159
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/cisco), [LinkedIn](http://www.linkedin.com/company/cisco), [Facebook](http://www.facebook.com/Cisco), [Website](http://www.cisco.com), 
  
  
  
-### [Bosch](http://www.bosch.com) 
+ &nbsp##### [Bosch](http://www.bosch.com) 
  
-Founded: 1886.0; Region: Germany, Baden-Württemberg; Employees: 93820
+Founded: 1886; Region: Germany, Baden-Württemberg; Employees: 93820
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/BoschGlobal), [LinkedIn](http://www.linkedin.com/company/bosch), [Facebook](http://www.facebook.com/BoschGlobal), [Website](http://www.bosch.com), [Email](contact@bosch.com)
  
  
  
-### [General Electric (GE)](http://www.ge.com) 
+ &nbsp##### [General Electric (GE)](http://www.ge.com) 
  
-Founded: 1878.0; Region: United States, Connecticut; Employees: 230795
+Founded: 1878; Region: United States, Connecticut; Employees: 230795
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/generalelectric), [LinkedIn](http://www.linkedin.com/company/ge), [Facebook](http://www.facebook.com/ge), [Website](http://www.ge.com), 
  
  
  
-### [Augury](http://www.augury.com/) 
+ &nbsp##### [Augury](http://www.augury.com/) 
  
-Founded: 2011.0; Region: United States, New York; Employees: 66
+Founded: 2011; Region: United States, New York; Employees: 66
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/augurysys), [LinkedIn](http://www.linkedin.com/company/augury-systems), [Facebook](https://www.facebook.com/augurysys), [Website](http://www.augury.com/), [Email](info@augury.com)
  
  
  
-### [OnviSource](http://www.onvisource.com) 
+ &nbsp##### [OnviSource](http://www.onvisource.com) 
  
-Founded: 2004.0; Region: United States, Texas; Employees: 71
+Founded: 2004; Region: United States, Texas; Employees: 71
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](https://www.twitter.com/onvisource), [LinkedIn](https://www.linkedin.com/company/onvisource), [Facebook](https://www.facebook.com/onvisource), [Website](http://www.onvisource.com), 
  
  
  
-### [OpenConnect](https://www.openconnect.com) 
+ &nbsp##### [OpenConnect](https://www.openconnect.com) 
  
-Founded: 0.0; Region: United States, Texas; Employees: 44
+Founded: 0; Region: United States, Texas; Employees: 44
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Website](https://www.openconnect.com), 
  
  
  
-### [ServiceMax](http://www.servicemax.com) 
+ &nbsp##### [ServiceMax](http://www.servicemax.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 482
+Founded: 2007; Region: United States, California; Employees: 482
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/ServiceMax), [LinkedIn](http://www.linkedin.com/company/servicemax), [Facebook](http://www.facebook.com/servicemaxinc), [Website](http://www.servicemax.com), [Email](info@servicemax.com)
  
  
  
-### [Aspen Technology](http://www.aspentech.com) 
+ &nbsp##### [Aspen Technology](http://www.aspentech.com) 
  
-Founded: 1981.0; Region: United States, Massachusetts; Employees: 1710
+Founded: 1981; Region: United States, Massachusetts; Employees: 1710
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/AspenTech?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [LinkedIn](http://www.linkedin.com/company/aspen-technology), [Facebook](http://www.facebook.com/aspentech), [Website](http://www.aspentech.com), [Email](info@aspentech.com)
  
  
  
-### [Northwest Analytics](http://www.nwasoft.com) 
+ &nbsp##### [Northwest Analytics](http://www.nwasoft.com) 
  
-Founded: 1980.0; Region: United States, Oregon; Employees: 33
+Founded: 1980; Region: United States, Oregon; Employees: 33
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/NWAnalytics), [LinkedIn](http://www.linkedin.com/company/northwest-analytics), [Website](http://www.nwasoft.com), 
  
  
  
-### [Authentise](http://www.authentise.com) 
+ &nbsp##### [Authentise](http://www.authentise.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 12
+Founded: 2012; Region: United States, California; Employees: 12
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/authentise), [LinkedIn](http://www.linkedin.com/company/authentise), [Facebook](http://www.facebook.com/authentise), [Website](http://www.authentise.com), 
  
  
  
-### [Element Analytics](http://www.elementanalytics.com/) 
+ &nbsp##### [Element Analytics](http://www.elementanalytics.com/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 26
+Founded: 2015; Region: United States, California; Employees: 26
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Website](http://www.elementanalytics.com/), [Email](info@elementanalytics.com)
  
  
  
-### [Infinite Uptime](http://www.infinite-uptime.com/) 
+ &nbsp##### [Infinite Uptime](http://www.infinite-uptime.com/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 4
+Founded: 2015; Region: United States, California; Employees: 4
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [LinkedIn](https://www.linkedin.com/company/7940478), [Website](http://www.infinite-uptime.com/), 
  
  
  
-### [COPA-DATA](https://www.copadata.com/ja-jp) 
+ &nbsp##### [COPA-DATA](https://www.copadata.com/ja-jp) 
  
-Founded: 1987.0; Region: Austria, Salzburg; Employees: 128
+Founded: 1987; Region: Austria, Salzburg; Employees: 128
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/copadata), [LinkedIn](https://www.linkedin.com/company-beta/313685/?pathWildcard=313685), [Facebook](https://www.facebook.com/CopaDataGmbh), [Website](https://www.copadata.com/ja-jp), 
  
  
  
-### [Device Insight](http://www.device-insight.com/) 
+ &nbsp##### [Device Insight](http://www.device-insight.com/) 
  
-Founded: 2003.0; Region: Germany, Bavaria; Employees: 27
+Founded: 2003; Region: Germany, Bavaria; Employees: 27
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://www.twitter.com/deviceinsight_), [LinkedIn](https://www.linkedin.com/company/device-insight-gmbh), [Facebook](https://www.facebook.com/deviceinsight), [Website](http://www.device-insight.com/), [Email](info@device-insight.com)
  
  
  
-### [ClearBlade](http://www.clearblade.com) 
+ &nbsp##### [ClearBlade](http://www.clearblade.com) 
  
-Founded: 2007.0; Region: United States, Texas; Employees: 26
+Founded: 2007; Region: United States, Texas; Employees: 26
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/ClearBlade), [LinkedIn](http://www.linkedin.com/company/clearblade), [Facebook](https://www.facebook.com/ClearBlade/), [Website](http://www.clearblade.com), [Email](info@clearblade.com)
  
  
  
-### [Acumence](http://www.acumence.com/index.php) 
+ &nbsp##### [Acumence](http://www.acumence.com/index.php) 
  
-Founded: 1997.0; Region: United States, Illinois; Employees: 0
+Founded: 1997; Region: United States, Illinois; Employees: 0
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Website](http://www.acumence.com/index.php), 
  
  
  
-### [Rethink Robotics](http://www.Rethinkrobotics.com) 
+ &nbsp##### [Rethink Robotics](http://www.Rethinkrobotics.com) 
  
-Founded: 2008.0; Region: United States, Massachusetts; Employees: 121
+Founded: 2008; Region: United States, Massachusetts; Employees: 121
  
-Collaborative Robot | Collaborative Robot | Collaborative Robot
+Collaborative Robot
  
 [Twitter](http://twitter.com/RethinkRobotics), [LinkedIn](http://www.linkedin.com/company/rethink-robotics), [Facebook](http://www.facebook.com/rethinkrobotics), [Website](http://www.Rethinkrobotics.com), [Email](info@Rethinkrobotics.com)
  
  
  
-### [Robotiq](http://robotiq.com/) 
+ &nbsp##### [Robotiq](http://robotiq.com/) 
  
-Founded: None; Region: Canada, Quebec; Employees: 65
+Founded: Unknown; Region: Canada, Quebec; Employees: 65
  
-Collaborative Robot | Collaborative Robot | Collaborative Robot
+Collaborative Robot
  
 [Twitter](https://twitter.com/Robotiq_Inc), [LinkedIn](https://www.linkedin.com/company/robotiq), [Facebook](https://www.facebook.com/robotiq), [Website](http://robotiq.com/), 
  
  
  
-### [Epson Robots](http://epsonrobots.com) 
+ &nbsp##### [Epson Robots](http://epsonrobots.com) 
  
-Founded: None; Region: United States, California; Employees: 1047
+Founded: Unknown; Region: United States, California; Employees: 1047
  
-Collaborative Robot | Collaborative Robot | Collaborative Robot
+Collaborative Robot
  
 [Twitter](https://twitter.com/EpsonRobots), [Facebook](https://www.facebook.com/epson-robots-321903402194), [Website](http://epsonrobots.com), [Email](info@robots.epson.com)
  
  
  
-### [FESTO](http://www.festo.com/net/startpage/) 
+ &nbsp##### [FESTO](http://www.festo.com/net/startpage/) 
  
-Founded: 1925.0; Region: Germany, Baden-Württemberg; Employees: 6058
+Founded: 1925; Region: Germany, Baden-Württemberg; Employees: 6058
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://www.twitter.com/festoag), [LinkedIn](https://www.linkedin.com/company/festo), [Facebook](https://www.facebook.com/festoag), [Website](http://www.festo.com/net/startpage/), 
  
  
  
-### [Universal Robots](http://www.universal-robots.com) 
+ &nbsp##### [Universal Robots](http://www.universal-robots.com) 
  
-Founded: 2005.0; Region: Denmark, South Denmark; Employees: 289
+Founded: 2005; Region: Denmark, South Denmark; Employees: 289
  
-Collaborative Robot | Collaborative Robot | Collaborative Robot
+Collaborative Robot
  
 [Twitter](http://twitter.com/Universal_Robot), [LinkedIn](http://www.linkedin.com/company/235176), [Facebook](http://www.facebook.com/UniversalRobots), [Website](http://www.universal-robots.com), [Email](sales@universal-robots.com)
  
  
  
-### [KONUX](http://konux.com) 
+ &nbsp##### [KONUX](http://konux.com) 
  
-Founded: 2014.0; Region: Germany, Bavaria; Employees: 34
+Founded: 2014; Region: Germany, Bavaria; Employees: 34
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://www.twitter.com/wearekonux), [LinkedIn](http://www.linkedin.com/company/5003582), [Facebook](https://www.facebook.com/konux), [Website](http://konux.com), [Email](info@konux.de)
  
  
  
-### [FogHorn](http://www.foghorn-systems.com) 
+ &nbsp##### [FogHorn](http://www.foghorn-systems.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 44
+Founded: 2014; Region: United States, California; Employees: 44
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/FogHorn_IoT), [LinkedIn](https://www.linkedin.com/company/foghorn-systems), [Facebook](https://www.facebook.com/foghorniot), [Website](http://www.foghorn-systems.com), [Email](info@foghorn-systems.com)
  
  
  
-### [MachineMetrics](http://www.machinemetrics.com/) 
+ &nbsp##### [MachineMetrics](http://www.machinemetrics.com/) 
  
-Founded: 2014.0; Region: United States, Massachusetts; Employees: 21
+Founded: 2014; Region: United States, Massachusetts; Employees: 21
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/MachineMetrics), [LinkedIn](https://www.linkedin.com/company/machinemetrics), [Facebook](https://www.facebook.com/machinemetrics/timeline?ref=page_internal), [Website](http://www.machinemetrics.com/), [Email](info@machinemetrics.com)
  
  
  
-### [DATTUS](https://www.dattus.com/) 
+ &nbsp##### [DATTUS](https://www.dattus.com/) 
  
-Founded: 2013.0; Region: United States, Indiana; Employees: 17
+Founded: 2013; Region: United States, Indiana; Employees: 17
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/getdattus), [LinkedIn](https://www.linkedin.com/company/dattus), [Website](https://www.dattus.com/), [Email](info@dattus.com)
  
  
  
-### [SageClarity](http://sageclarity.com) 
+ &nbsp##### [SageClarity](http://sageclarity.com) 
  
-Founded: 2010.0; Region: United States, Illinois; Employees: 4
+Founded: 2010; Region: United States, Illinois; Employees: 4
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Website](http://sageclarity.com), 
  
  
  
-### [EATON](http://www.eaton.com) 
+ &nbsp##### [EATON](http://www.eaton.com) 
  
-Founded: 1911.0; Region: United States, Ohio; Employees: 41673
+Founded: 1911; Region: United States, Ohio; Employees: 41673
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/eatoncorp), [LinkedIn](http://www.linkedin.com/company/eaton-corporation), [Facebook](http://www.facebook.com/eatoncorporation), [Website](http://www.eaton.com), 
  
  
  
-### [VIMANA](http://vimana.global) 
+ &nbsp##### [VIMANA](http://vimana.global) 
  
-Founded: 2015.0; Region: United States, California; Employees: 42
+Founded: 2015; Region: United States, California; Employees: 42
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Website](http://vimana.global), [Email](info@vimana.global)
  
  
  
-### [Omative Systems](http://www.omative.com/) 
+ &nbsp##### [Omative Systems](http://www.omative.com/) 
  
-Founded: 2003.0; Region: Israel, Jerusalem; Employees: 2
+Founded: 2003; Region: Israel, Jerusalem; Employees: 2
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Website](http://www.omative.com/), 
  
  
  
-### [Actvcontent](http://www.actvcontent.com) 
+ &nbsp##### [Actvcontent](http://www.actvcontent.com) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/Actvcontent), [LinkedIn](http://www.linkedin.com/actvcontent), [Facebook](http://www.facebook.com/Actvcontent), [Website](http://www.actvcontent.com), [Email](info@actvcontent.com)
  
  
  
-### [C-Labs](http://www.c-labs.com/) 
+ &nbsp##### [C-Labs](http://www.c-labs.com/) 
  
-Founded: 2009.0; Region: United States, Washington; Employees: 12
+Founded: 2009; Region: United States, Washington; Employees: 12
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/CLabsGlobal), [LinkedIn](https://www.linkedin.com/company/c-labs-llc), [Facebook](https://www.facebook.com/CLabsGlobal), [Website](http://www.c-labs.com/), [Email](info@c-labs.com)
  
  
  
-### [SensrTrx](http://www.sensrtrx.com) 
+ &nbsp##### [SensrTrx](http://www.sensrtrx.com) 
  
-Founded: 2015.0; Region: United States, Missouri; Employees: 2
+Founded: 2015; Region: United States, Missouri; Employees: 2
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://www.twitter.com/sensrtrx), [LinkedIn](https://www.linkedin.com/company/10353643), [Website](http://www.sensrtrx.com), 
  
  
  
-### [Eigen Innovations](http://www.eigeninnovations.com/) 
+ &nbsp##### [Eigen Innovations](http://www.eigeninnovations.com/) 
  
-Founded: 2012.0; Region: Canada, New Brunswick; Employees: 17
+Founded: 2012; Region: Canada, New Brunswick; Employees: 17
  
 Predictive maintenance | Manufacturing Analytics
  
@@ -3948,279 +3948,279 @@ Predictive maintenance | Manufacturing Analytics
  
  
  
-### [Instrumental](http://www.instrumental.com) 
+ &nbsp##### [Instrumental](http://www.instrumental.com) 
  
-Founded: 2015.0; Region: United States, California; Employees: 20
+Founded: 2015; Region: United States, California; Employees: 20
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://www.twitter.com/instrumentalinc), [LinkedIn](https://www.linkedin.com/company-beta/10938710/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJWP4H2X7T6KIKQMt7gINjw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), [Website](http://www.instrumental.com), [Email](communications@instrumental.com)
  
  
  
-### [Qualtera](http://www.qualtera.com/) 
+ &nbsp##### [Qualtera](http://www.qualtera.com/) 
  
-Founded: 2010.0; Region: France, Occitanie; Employees: 29
+Founded: 2010; Region: France, Occitanie; Employees: 29
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [LinkedIn](https://www.linkedin.com/company/qualtera), [Website](http://www.qualtera.com/), [Email](info@qualtera.com)
  
  
  
-### [Progress](https://www.progress.com) 
+ &nbsp##### [Progress](https://www.progress.com) 
  
-Founded: 1981.0; Region: United States, Massachusetts; Employees: 2923
+Founded: 1981; Region: United States, Massachusetts; Employees: 2923
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/ProgressSW), [LinkedIn](https://www.linkedin.com/company/progress-software), [Facebook](https://www.facebook.com/progresssw), [Website](https://www.progress.com), 
  
  
  
-### [Ingersoll Rand](http://company.ingersollrand.com/ircorp/en/index.html) 
+ &nbsp##### [Ingersoll Rand](http://company.ingersollrand.com/ircorp/en/index.html) 
  
-Founded: 1871.0; Region: Ireland, Leinster; Employees: 26635
+Founded: 1871; Region: Ireland, Leinster; Employees: 26635
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/IngersollRand), [LinkedIn](https://www.linkedin.com/company/ingersoll-rand), [Facebook](http://www.facebook.com/IngersollRandplc), [Website](http://company.ingersollrand.com/ircorp/en/index.html), 
  
  
  
-### [Panoramic Power](http://www.panpwr.com) 
+ &nbsp##### [Panoramic Power](http://www.panpwr.com) 
  
-Founded: 2009.0; Region: Israel, Central District; Employees: 57
+Founded: 2009; Region: Israel, Central District; Employees: 57
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/PanPwr), [LinkedIn](http://www.linkedin.com/company/1432503), [Facebook](https://www.facebook.com/panoramicpower), [Website](http://www.panpwr.com), [Email](info@panpwr.com)
  
  
  
-### [Splunk](http://www.splunk.com) 
+ &nbsp##### [Splunk](http://www.splunk.com) 
  
-Founded: 2003.0; Region: United States, California; Employees: 3128
+Founded: 2003; Region: United States, California; Employees: 3128
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/splunk), [LinkedIn](http://www.linkedin.com/company/splunk), [Facebook](http://www.facebook.com/splunk), [Website](http://www.splunk.com), [Email](info@splunk.com)
  
  
  
-### [Aptean](http://www.aptean.com/en/Solutions/By-Product-Name-AZ/Made2Manage-ERP) 
+ &nbsp##### [Aptean](http://www.aptean.com/en/Solutions/By-Product-Name-AZ/Made2Manage-ERP) 
  
-Founded: 1997.0; Region: United States, Indiana; Employees: 2071
+Founded: 1997; Region: United States, Indiana; Employees: 2071
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/Aptean), [LinkedIn](https://www.linkedin.com/company/aptean), [Facebook](http://www.facebook.com/Aptean), [Website](http://www.aptean.com/en/Solutions/By-Product-Name-AZ/Made2Manage-ERP), [Email](info@aptean.com)
  
  
  
-### [Oracle](http://oracle.com) 
+ &nbsp##### [Oracle](http://oracle.com) 
  
-Founded: 1977.0; Region: United States, California; Employees: 161264
+Founded: 1977; Region: United States, California; Employees: 161264
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/Oracle), [LinkedIn](http://www.linkedin.com/company/1028), [Facebook](http://www.facebook.com/Oracle), [Website](http://oracle.com), [Email](oraclesales_us@oracle.com)
  
  
  
-### [IQMS](http://www.iqms.com) 
+ &nbsp##### [IQMS](http://www.iqms.com) 
  
-Founded: 1989.0; Region: United States, California; Employees: 302
+Founded: 1989; Region: United States, California; Employees: 302
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/iqmserp), [LinkedIn](http://www.linkedin.com/company/iqms), [Facebook](http://www.facebook.com/pages/IQMS/353551780860), [Website](http://www.iqms.com), [Email](marketing@iqms.com)
  
  
  
-### [ColdLight Solutions](http://www.coldlight.com) 
+ &nbsp##### [ColdLight Solutions](http://www.coldlight.com) 
  
-Founded: 2007.0; Region: United States, Pennsylvania; Employees: 165
+Founded: 2007; Region: United States, Pennsylvania; Employees: 165
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/coldlightco), [LinkedIn](http://www.linkedin.com/company/coldlight-solutions), [Website](http://www.coldlight.com), [Email](sales@coldlight.com)
  
  
  
-### [ABB](http://www.abb.com) 
+ &nbsp##### [ABB](http://www.abb.com) 
  
-Founded: 1988.0; Region: Switzerland, Zurich; Employees: 87520
+Founded: 1988; Region: Switzerland, Zurich; Employees: 87520
  
-Collaborative Robot | Collaborative Robot | Collaborative Robot
+Collaborative Robot
  
 [Twitter](http://twitter.com/ABBgroupnews), [LinkedIn](http://www.linkedin.com/company/277579), [Facebook](http://www.facebook.com/ABB), [Website](http://www.abb.com), 
  
  
  
-### [Parametric Technology (PTC)](http://www.ptc.com) 
+ &nbsp##### [Parametric Technology (PTC)](http://www.ptc.com) 
  
-Founded: 1985.0; Region: United States, Massachusetts; Employees: 6268
+Founded: 1985; Region: United States, Massachusetts; Employees: 6268
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/PTC), [LinkedIn](http://www.linkedin.com/company/ptc), [Facebook](http://www.facebook.com/PTC.Inc), [Website](http://www.ptc.com), 
  
  
  
-### [ZenRobotics](http://www.zenrobotics.com) 
+ &nbsp##### [ZenRobotics](http://www.zenrobotics.com) 
  
-Founded: 2007.0; Region: Finland, Uusimaa; Employees: 75
+Founded: 2007; Region: Finland, Uusimaa; Employees: 75
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://www.twitter.com/zenrobotics), [LinkedIn](https://www.linkedin.com/company-beta/597876/), [Facebook](https://www.facebook.com/zenrobotics), [Website](http://www.zenrobotics.com), [Email](info@zenrobotics.com)
  
  
  
-### [Siemens AG](http://www.siemens.com) 
+ &nbsp##### [Siemens AG](http://www.siemens.com) 
  
-Founded: 1847.0; Region: Germany, Bavaria; Employees: 239028
+Founded: 1847; Region: Germany, Bavaria; Employees: 239028
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/Siemens), [LinkedIn](http://www.linkedin.com/company/siemens), [Facebook](http://www.facebook.com/Siemens), [Website](http://www.siemens.com), [Email](contact@siemens.com)
  
  
  
-### [FORCAM](http://orcam.com) 
+ &nbsp##### [FORCAM](http://orcam.com) 
  
-Founded: 2010.0; Region: Israel, Jerusalem; Employees: 78
+Founded: 2010; Region: Israel, Jerusalem; Employees: 78
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/OrCam), [LinkedIn](http://www.linkedin.com/company/orcam), [Facebook](http://www.facebook.com/orcamtech), [Website](http://orcam.com), [Email](careers@orcam.com)
  
  
  
-### [Johnson Controls International](http://www.johnsoncontrols.com) 
+ &nbsp##### [Johnson Controls International](http://www.johnsoncontrols.com) 
  
-Founded: 1885.0; Region: United States, Wisconsin; Employees: 2
+Founded: 1885; Region: United States, Wisconsin; Employees: 2
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/johnsoncontrol), [LinkedIn](https://www.linkedin.com/company/2247), [Facebook](https://www.facebook.com/JohnsonControls), [Website](http://www.johnsoncontrols.com), 
  
  
  
-### [Honeywell](http://www.honeywell.com) 
+ &nbsp##### [Honeywell](http://www.honeywell.com) 
  
-Founded: 1985.0; Region: United States, New Jersey; Employees: 107485
+Founded: 1985; Region: United States, New Jersey; Employees: 107485
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/HoneywellNow), [LinkedIn](https://www.linkedin.com/company/1344), [Facebook](http://www.facebook.com/pages/Honeywell-International-Inc/293855263965203), [Website](http://www.honeywell.com), 
  
  
  
-### [Rockwell Automation](http://www.rockwellautomation.com) 
+ &nbsp##### [Rockwell Automation](http://www.rockwellautomation.com) 
  
-Founded: 1903.0; Region: United States, Wisconsin; Employees: 19165
+Founded: 1903; Region: United States, Wisconsin; Employees: 19165
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/ROKAutomation), [LinkedIn](http://www.linkedin.com/company/rockwell-automation), [Facebook](http://www.facebook.com/ROKAutomation), [Website](http://www.rockwellautomation.com), 
  
  
  
-### [OSIsoft](http://www.osisoft.com) 
+ &nbsp##### [OSIsoft](http://www.osisoft.com) 
  
-Founded: 1980.0; Region: United States, California; Employees: 1307
+Founded: 1980; Region: United States, California; Employees: 1307
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/OSIsoft), [LinkedIn](http://www.linkedin.com/company/osisoft), [Facebook](http://www.facebook.com/OSIsoft), [Website](http://www.osisoft.com), [Email](sales@osisoft.com)
  
  
  
-### [Mtell](http://www.mtell.com) 
+ &nbsp##### [Mtell](http://www.mtell.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 8
+Founded: 2006; Region: United States, California; Employees: 8
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/mtellcorp), [Facebook](https://www.facebook.com/mtellcorp), [Website](http://www.mtell.com), [Email](sales@mtell.com)
  
  
  
-### [Autodesk](http://www.autodesk.com) 
+ &nbsp##### [Autodesk](http://www.autodesk.com) 
  
-Founded: 1982.0; Region: United States, California; Employees: 9654
+Founded: 1982; Region: United States, California; Employees: 9654
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](http://twitter.com/autodesk), [LinkedIn](http://www.linkedin.com/company/autodesk), [Facebook](http://www.facebook.com/autodesk), [Website](http://www.autodesk.com), [Email](india.info@designerscommunity.org)
  
  
  
-### [ThingTrax](http://www.thingtrax.com/) 
+ &nbsp##### [ThingTrax](http://www.thingtrax.com/) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 5
+Founded: 2015; Region: United Kingdom, England; Employees: 5
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [Twitter](https://twitter.com/thingtrax), [LinkedIn](https://www.linkedin.com/company/thingtrax), [Facebook](https://www.facebook.com/thingtrax), [Website](http://www.thingtrax.com/), [Email](info@thingtrax.com)
  
  
  
-### [Starship Technologies](https://www.starship.xyz/) 
+ &nbsp##### [Starship Technologies](https://www.starship.xyz/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 75
+Founded: 2014; Region: United Kingdom, England; Employees: 75
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/StarshipRobots), [LinkedIn](https://www.linkedin.com/company/starship-technologies), [Facebook](https://www.facebook.com/starshiptech/), [Website](https://www.starship.xyz/), [Email](info@starship.xyz)
  
  
  
-### [Milvus Robotics](http://milvusrobotics.com) 
+ &nbsp##### [Milvus Robotics](http://milvusrobotics.com) 
  
-Founded: 2011.0; Region: Turkey, Ankara; Employees: 6
+Founded: 2011; Region: Turkey, Ankara; Employees: 6
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Website](http://milvusrobotics.com), 
  
  
  
-### [Intuition Robotics](http://www.intuitionrobotics.com) 
+ &nbsp##### [Intuition Robotics](http://www.intuitionrobotics.com) 
  
-Founded: 2015.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/intuitionrobo), [LinkedIn](https://www.linkedin.com/company/intuition-robotics), [Facebook](https://www.facebook.com/intuitionrobotics/), [Website](http://www.intuitionrobotics.com), [Email](info@intuitionrobotics.com)
  
  
  
-### [Celaton](http://www.celaton.com) 
+ &nbsp##### [Celaton](http://www.celaton.com) 
  
-Founded: 2004.0; Region: United Kingdom, England; Employees: 35
+Founded: 2004; Region: United Kingdom, England; Employees: 35
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](http://twitter.com/celaton), [LinkedIn](http://www.linkedin.com/company/100064), [Website](http://www.celaton.com), 
  
  
  
-### [EZ-Robot Inc.](http://www.ez-robot.com) 
+ &nbsp##### [EZ-Robot Inc.](http://www.ez-robot.com) 
  
-Founded: 2011.0; Region: Canada, Alberta; Employees: 25
+Founded: 2011; Region: Canada, Alberta; Employees: 25
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/ez_robot), [LinkedIn](https://www.linkedin.com/company/ez-robot), [Facebook](https://www.facebook.com/ezrobotinc), [Website](http://www.ez-robot.com), 
  
  
  
-### [C2RO Cloud Robotics](http://c2ro.com) 
+ &nbsp##### [C2RO Cloud Robotics](http://c2ro.com) 
  
-Founded: 2016.0; Region: Canada, Quebec; Employees: 25
+Founded: 2016; Region: Canada, Quebec; Employees: 25
  
 Robotics | Collaborative Robot | Image recognition and visual analytics
  
@@ -4228,99 +4228,99 @@ Robotics | Collaborative Robot | Image recognition and visual analytics
  
  
  
-### [Rovenso](http://rovenso.com) 
+ &nbsp##### [Rovenso](http://rovenso.com) 
  
-Founded: 2014.0; Region: Switzerland, Vaud; Employees: 5
+Founded: 2014; Region: Switzerland, Vaud; Employees: 5
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/rovenso_ch), [LinkedIn](https://www.linkedin.com/company/rovenso), [Facebook](https://www.facebook.com/RovensoRobotics), [Website](http://rovenso.com), 
  
  
  
-### [Andrew Alliance](http://andrewalliance.com) 
+ &nbsp##### [Andrew Alliance](http://andrewalliance.com) 
  
-Founded: 2011.0; Region: Switzerland, Geneva; Employees: 25
+Founded: 2011; Region: Switzerland, Geneva; Employees: 25
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/AAndrewAlliance), [LinkedIn](http://www.linkedin.com/company/2683423), [Facebook](https://www.facebook.com/theandrewalliance), [Website](http://andrewalliance.com), [Email](contact@andrewAlliance.com)
  
  
  
-### [Acutronic Robotics](https://www.acutronicrobotics.com/) 
+ &nbsp##### [Acutronic Robotics](https://www.acutronicrobotics.com/) 
  
-Founded: 2016.0; Region: Switzerland, Zurich; Employees: 0
+Founded: 2016; Region: Switzerland, Zurich; Employees: 0
  
-Robotics | Robotics | Robotics
+Robotics
  
 [LinkedIn](https://www.linkedin.com/company/10966562/), [Website](https://www.acutronicrobotics.com/), 
  
  
  
-### [ANYbotics](https://www.anybotics.com) 
+ &nbsp##### [ANYbotics](https://www.anybotics.com) 
  
-Founded: 2016.0; Region: Switzerland, Zurich; Employees: 25
+Founded: 2016; Region: Switzerland, Zurich; Employees: 25
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/anybotics), [LinkedIn](https://www.linkedin.com/company/11012141/), [Facebook](https://www.facebook.com/pg/anybotics/), [Website](https://www.anybotics.com), 
  
  
  
-### [Veo Robotics](https://www.veobot.com/) 
+ &nbsp##### [Veo Robotics](https://www.veobot.com/) 
  
-Founded: 2016.0; Region: United States, Massachusetts; Employees: 0
+Founded: 2016; Region: United States, Massachusetts; Employees: 0
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/veobot), [LinkedIn](https://www.linkedin.com/company/10932250), [Facebook](https://www.facebook.com/veobot/), [Website](https://www.veobot.com/), 
  
  
  
-### [ClearMetal](http://www.clearmetal.com/) 
+ &nbsp##### [ClearMetal](http://www.clearmetal.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 5
+Founded: 2014; Region: United States, California; Employees: 5
  
-Inventory & supply chain optimization | Inventory & supply chain optimization | Inventory & supply chain optimization
+Inventory & supply chain optimization
  
 [LinkedIn](https://www.linkedin.com/company/clearmetal), [Facebook](https://www.facebook.com/clearmetal/), [Website](http://www.clearmetal.com/), 
  
  
  
-### [Ambyint](http://ambyint.com/) 
+ &nbsp##### [Ambyint](http://ambyint.com/) 
  
-Founded: 2015.0; Region: Canada, Alberta; Employees: 25
+Founded: 2015; Region: Canada, Alberta; Employees: 25
  
-Manufacturing Analytics | Manufacturing Analytics | Manufacturing Analytics
+Manufacturing Analytics
  
 [Twitter](https://www.twitter.com/ambyint), [LinkedIn](https://www.linkedin.com/company/ambyint), [Facebook](https://www.facebook.com/503070679827394), [Website](http://ambyint.com/), 
  
  
  
-### [Nanotronics Imaging](http://www.nanotronics.co/) 
+ &nbsp##### [Nanotronics Imaging](http://www.nanotronics.co/) 
  
-Founded: 2010.0; Region: United States, Ohio; Employees: 25
+Founded: 2010; Region: United States, Ohio; Employees: 25
  
-Manufacturing Analytics | Manufacturing Analytics | Manufacturing Analytics
+Manufacturing Analytics
  
 [Twitter](https://twitter.com/nanotronics?lang=en), [LinkedIn](http://www.linkedin.com/company/nanotronics-imaging), [Facebook](http://www.facebook.com/NanotronicsImaging), [Website](http://www.nanotronics.co/), 
  
  
  
-### [Beanworks](https://www.beanworks.com/) 
+ &nbsp##### [Beanworks](https://www.beanworks.com/) 
  
-Founded: 2012.0; Region: Canada, British Columbia; Employees: 25
+Founded: 2012; Region: Canada, British Columbia; Employees: 25
  
-Robotic Process Automation (RPA) | Robotic Process Automation (RPA) | Robotic Process Automation (RPA)
+Robotic Process Automation (RPA)
  
 [Twitter](https://twitter.com/BeanworksAP), [LinkedIn](https://www.linkedin.com/company-beta/2971979/), [Facebook](https://www.facebook.com/BeanworksAP/), [Website](https://www.beanworks.com/), 
  
  
  
-### [Acerta Analytics Solutions](http://acerta.ca/) 
+ &nbsp##### [Acerta Analytics Solutions](http://acerta.ca/) 
  
-Founded: 2015.0; Region: Canada, Ontario; Employees: 15
+Founded: 2015; Region: Canada, Ontario; Employees: 15
  
 Predictive maintenance | Manufacturing Analytics | Self driving cars
  
@@ -4328,79 +4328,79 @@ Predictive maintenance | Manufacturing Analytics | Self driving cars
  
  
  
-### [Imubit Inc.](http://www.imubit.com) 
+ &nbsp##### [Imubit Inc.](http://www.imubit.com) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Predictive maintenance | Predictive maintenance | Predictive maintenance
+Predictive maintenance
  
 [LinkedIn](https://www.linkedin.com/company/imubit), [Website](http://www.imubit.com), 
  
  
  
-### [Cogniac](https://cogniac.co/) 
+ &nbsp##### [Cogniac](https://cogniac.co/) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
-Manufacturing Analytics | Manufacturing Analytics | Manufacturing Analytics
+Manufacturing Analytics
  
 [Website](https://cogniac.co/), 
  
  
  
-### [Anki](http://anki.com) 
+ &nbsp##### [Anki](http://anki.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 175
+Founded: 2010; Region: United States, California; Employees: 175
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/anki), [LinkedIn](https://www.linkedin.com/company/anki), [Facebook](http://www.facebook.com/Anki), [Website](http://anki.com), 
  
  
  
-### [Abundant Robotics](http://www.abundantrobotics.com/) 
+ &nbsp##### [Abundant Robotics](http://www.abundantrobotics.com/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 0
+Founded: 2016; Region: United States, California; Employees: 0
  
-Robotics | Robotics | Robotics
+Robotics
  
 [LinkedIn](https://www.linkedin.com/company/abundant-robotics), [Website](http://www.abundantrobotics.com/), 
  
  
  
-### [Neato Robotics, Inc.](http://www.neatorobotics.com) 
+ &nbsp##### [Neato Robotics, Inc.](http://www.neatorobotics.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 75
+Founded: 2005; Region: United States, California; Employees: 75
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/NeatoRobotics), [LinkedIn](https://www.linkedin.com/company/130746), [Facebook](http://www.facebook.com/NeatoRobotics), [Website](http://www.neatorobotics.com), 
  
  
  
-### [Wonder Workshop (Formerly Play-i)](http://makewonder.com) 
+ &nbsp##### [Wonder Workshop (Formerly Play-i)](http://makewonder.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 75
+Founded: 2012; Region: United States, California; Employees: 75
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/WonderWorkshop), [LinkedIn](http://www.linkedin.com/company/play-i), [Facebook](http://www.facebook.com/makewonder), [Website](http://makewonder.com), 
  
  
  
-### [SP Robotic Works Pvt Ltd](http://www.sproboticworks.com/) 
+ &nbsp##### [SP Robotic Works Pvt Ltd](http://www.sproboticworks.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/kidobotikz), [LinkedIn](https://www.linkedin.com/company/sp-robotic-works-pvt-ltd-), [Facebook](https://www.facebook.com/Kidobotikz/), [Website](http://www.sproboticworks.com/), 
  
  
  
-### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
+ &nbsp##### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-Founded: 2015.0; Region: India, Maharashtra; Employees: 25
+Founded: 2015; Region: India, Maharashtra; Employees: 25
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -4408,49 +4408,49 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
  
  
-### [Avidbots](http://www.avidbots.com/) 
+ &nbsp##### [Avidbots](http://www.avidbots.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 75
+Founded: 2014; Region: United States, California; Employees: 75
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/avidbots), [LinkedIn](http://www.linkedin.com/company/avidbots-corp), [Facebook](http://www.facebook.com/pages/Avidbots/1374314459469895), [Website](http://www.avidbots.com/), 
  
  
  
-### [Jibo](https://www.jibo.com/) 
+ &nbsp##### [Jibo](https://www.jibo.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/JiboRobot), [LinkedIn](http://www.linkedin.com/company/jibo-inc-), [Facebook](http://www.facebook.com/jiborobot/info), [Website](https://www.jibo.com/), 
  
  
  
-### [Monsieur](http://monsieur.co) 
+ &nbsp##### [Monsieur](http://monsieur.co) 
  
-Founded: 2012.0; Region: United States, California; Employees: 5
+Founded: 2012; Region: United States, California; Employees: 5
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/Monsieur), [LinkedIn](https://www.linkedin.com/company/monsieur-llc), [Facebook](http://www.facebook.com/getMonsieur), [Website](http://monsieur.co), 
  
  
  
-### [iRobot](http://www.irobot.com) 
+ &nbsp##### [iRobot](http://www.irobot.com) 
  
-Founded: 1990.0; Region: United States, California; Employees: 750
+Founded: 1990; Region: United States, California; Employees: 750
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](http://twitter.com/iRobot), [LinkedIn](http://www.linkedin.com/company/irobot), [Facebook](https://www.facebook.com/iRobot/), [Website](http://www.irobot.com), 
  
  
  
-### [Universal Logic Inc. (formerly Universal Robotics Inc.)](http://www.universallogic.com) 
+ &nbsp##### [Universal Logic Inc. (formerly Universal Robotics Inc.)](http://www.universallogic.com) 
  
-Founded: 2001.0; Region: United States, Tennessee; Employees: 0
+Founded: 2001; Region: United States, Tennessee; Employees: 0
  
 Robotics | Image recognition and visual analytics
  
@@ -4458,9 +4458,9 @@ Robotics | Image recognition and visual analytics
  
  
  
-### [SparkCognition](http://sparkcognition.com) 
+ &nbsp##### [SparkCognition](http://sparkcognition.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 200
+Founded: 2013; Region: United States, California; Employees: 200
  
 Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
@@ -4468,69 +4468,69 @@ Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
  
  
-### [Skydio](https://www.skydio.com/) 
+ &nbsp##### [Skydio](https://www.skydio.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 5
+Founded: 2014; Region: United States, California; Employees: 5
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/SkydioHQ), [LinkedIn](https://www.linkedin.com/company/skydio-inc), [Website](https://www.skydio.com/), 
  
  
  
-### [SupplyAI: Cognified Commerce](http://www.supply.ai) 
+ &nbsp##### [SupplyAI: Cognified Commerce](http://www.supply.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Inventory & supply chain optimization | Inventory & supply chain optimization | Inventory & supply chain optimization
+Inventory & supply chain optimization
  
 [Twitter](http://www.twitter.com/supplyAI), [LinkedIn](https://www.linkedin.com/company/dataculture), [Facebook](http://www.facebook.com/SupplyAI), [Website](http://www.supply.ai), 
  
  
  
-### [Pathover](https://www.pathover.com) 
+ &nbsp##### [Pathover](https://www.pathover.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Manufacturing Analytics | Manufacturing Analytics | Manufacturing Analytics
+Manufacturing Analytics
  
 [Twitter](https://twitter.com/pathovertech), [LinkedIn](https://www.linkedin.com/company/pathover), [Facebook](https://www.facebook.com/pathovertech), [Website](https://www.pathover.com), 
  
  
  
-### [Marble](http://www.marble.io/) 
+ &nbsp##### [Marble](http://www.marble.io/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Twitter](https://twitter.com/marblerobot), [LinkedIn](https://www.linkedin.com/company/1293554), [Facebook](https://www.facebook.com/marblerobot/), [Website](http://www.marble.io/), 
  
  
  
-### [Majik Systems](http://majik.io) 
+ &nbsp##### [Majik Systems](http://majik.io) 
  
-Founded: 2013.0; Region: Canada, Ontario; Employees: 5
+Founded: 2013; Region: Canada, Ontario; Employees: 5
  
-Manufacturing Analytics | Manufacturing Analytics | Manufacturing Analytics
+Manufacturing Analytics
  
 [Twitter](http://twitter.com/MAJiKsystems), [LinkedIn](https://www.linkedin.com/company/majik-systems-inc-), [Facebook](https://www.facebook.com/majiksystems), [Website](http://majik.io), 
  
  
  
-### [Universal Logic Inc.](http://www.universallogic.com) 
+ &nbsp##### [Universal Logic Inc.](http://www.universallogic.com) 
  
-Founded: 2001.0; Region: United States, Tennessee; Employees: 0
+Founded: 2001; Region: United States, Tennessee; Employees: 0
  
-Robotics | Robotics | Robotics
+Robotics
  
 [Website](http://www.universallogic.com), [Email](davidpeters@universalrobotics.com)
  
  
  
-### [Trifacta](http://trifacta.com) 
+ &nbsp##### [Trifacta](http://trifacta.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 122
+Founded: 2012; Region: United States, California; Employees: 122
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -4538,9 +4538,9 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
  
  
-### [Relatas - Sales AI](https://relatas.com/) 
+ &nbsp##### [Relatas - Sales AI](https://relatas.com/) 
  
-Founded: 2015.0; Region: India, Karnataka; Employees: 7
+Founded: 2015; Region: India, Karnataka; Employees: 7
  
 Predictive sales | Sales data input automation | Customer sales contact analytics | Sales rep next action suggestions | Sales content personalization and analytics
  
@@ -4548,9 +4548,9 @@ Predictive sales | Sales data input automation | Customer sales contact analytic
  
  
  
-### [Velocify](http://www.velocify.com) 
+ &nbsp##### [Velocify](http://www.velocify.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 198
+Founded: 2004; Region: United States, California; Employees: 198
  
 Predictive sales | Sales rep response suggestions | Sales rep next action suggestions
  
@@ -4558,9 +4558,9 @@ Predictive sales | Sales rep response suggestions | Sales rep next action sugges
  
  
  
-### [SalesLoft](http://salesloft.com) 
+ &nbsp##### [SalesLoft](http://salesloft.com) 
  
-Founded: 2011.0; Region: United States, Georgia; Employees: 148
+Founded: 2011; Region: United States, Georgia; Employees: 148
  
 Predictive sales | Sales content personalization and analytics
  
@@ -4568,9 +4568,9 @@ Predictive sales | Sales content personalization and analytics
  
  
  
-### [Radius](http://radius.com) 
+ &nbsp##### [Radius](http://radius.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 168
+Founded: 2008; Region: United States, California; Employees: 168
  
 Marketing analytics | Predictive sales
  
@@ -4578,39 +4578,39 @@ Marketing analytics | Predictive sales
  
  
  
-### [Highspot](https://www.highspot.com) 
+ &nbsp##### [Highspot](https://www.highspot.com) 
  
-Founded: 2012.0; Region: United States, Washington; Employees: 40
+Founded: 2012; Region: United States, Washington; Employees: 40
  
-Sales content personalization and analytics | Sales content personalization and analytics | Sales content personalization and analytics | Sales content personalization and analytics
+Sales content personalization and analytics
  
 [Twitter](http://twitter.com/Highspot), [LinkedIn](http://www.linkedin.com/company/highspot), [Facebook](https://www.facebook.com/highspotinc/info/?tab=overview), [Website](https://www.highspot.com), [Video](https://www.youtube.com/watch?v=hpw4U1Xt858), [Email](sales@highspot.com)
  
  
  
-### [Zero Keyboard](http://zerokeyboard.com/) 
+ &nbsp##### [Zero Keyboard](http://zerokeyboard.com/) 
  
-Founded: 0.0; Region: United States, California; Employees: 10
+Founded: 0; Region: United States, California; Employees: 10
  
-Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Website](http://zerokeyboard.com/), [Video](https://www.youtube.com/watch?v=i7fbf3XJ5fo), 
  
  
  
-### [TalkIQ](https://www.talkiq.com) 
+ &nbsp##### [TalkIQ](https://www.talkiq.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 20
+Founded: 2014; Region: United States, California; Employees: 20
  
-Sales call analytics | Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Twitter](https://twitter.com/talk_iq), [LinkedIn](https://www.linkedin.com/company/talkiq), [Facebook](https://www.facebook.com/Talk-IQ-379929835511695/), [Website](https://www.talkiq.com), [Video](https://www.youtube.com/watch?v=COTTAHwnMzw), 
  
  
  
-### [Salesflare](http://www.salesflare.com) 
+ &nbsp##### [Salesflare](http://www.salesflare.com) 
  
-Founded: 2014.0; Region: Belgium, Flanders; Employees: 6
+Founded: 2014; Region: Belgium, Flanders; Employees: 6
  
 Sales data input automation | Meeting setup automation
  
@@ -4618,9 +4618,9 @@ Sales data input automation | Meeting setup automation
  
  
  
-### [Go Moment](http://www.gomoment.com) 
+ &nbsp##### [Go Moment](http://www.gomoment.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 20
+Founded: 2012; Region: United States, California; Employees: 20
  
 Retail sales bot | Chatbot | HR retention management
  
@@ -4628,9 +4628,9 @@ Retail sales bot | Chatbot | HR retention management
  
  
  
-### [Mariana](http://marianaiq.com) 
+ &nbsp##### [Mariana](http://marianaiq.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 6
+Founded: 2014; Region: United States, California; Employees: 6
  
 Predictive sales | Sales forecasting
  
@@ -4638,19 +4638,19 @@ Predictive sales | Sales forecasting
  
  
  
-### [Chorus.ai](http://www.chorus.ai) 
+ &nbsp##### [Chorus.ai](http://www.chorus.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 35
+Founded: 2015; Region: United States, California; Employees: 35
  
-Sales call analytics | Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Twitter](https://twitter.com/chorus_ai), [LinkedIn](https://www.linkedin.com/company/chorus.ai), [Facebook](https://www.facebook.com/chorusai), [Website](http://www.chorus.ai), [Email](contact@chorus.ai)
  
  
  
-### [Pypestream](https://pypestream.com/) 
+ &nbsp##### [Pypestream](https://pypestream.com/) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 54
+Founded: 2015; Region: United States, New York; Employees: 54
  
 Sales rep chat/email bot | Chatbot
  
@@ -4658,9 +4658,9 @@ Sales rep chat/email bot | Chatbot
  
  
  
-### [FunnelWise](https://www.funnelwise.com/) 
+ &nbsp##### [FunnelWise](https://www.funnelwise.com/) 
  
-Founded: 2014.0; Region: United States, Iowa; Employees: 40
+Founded: 2014; Region: United States, Iowa; Employees: 40
  
 Predictive sales | Customer sales contact analytics | Sales rep next action suggestions
  
@@ -4668,9 +4668,9 @@ Predictive sales | Customer sales contact analytics | Sales rep next action sugg
  
  
  
-### [Nimble CRM](http://www.nimble.com) 
+ &nbsp##### [Nimble CRM](http://www.nimble.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 24
+Founded: 2009; Region: United States, California; Employees: 24
  
 Sales data input automation | Sales rep response suggestions
  
@@ -4678,59 +4678,59 @@ Sales data input automation | Sales rep response suggestions
  
  
  
-### [Ebsta](http://www.ebsta.com) 
+ &nbsp##### [Ebsta](http://www.ebsta.com) 
  
-Founded: 2012.0; Region: United Kingdom, England; Employees: 42
+Founded: 2012; Region: United Kingdom, England; Employees: 42
  
-Sales data input automation | Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Twitter](http://twitter.com/ebstahq), [LinkedIn](http://www.linkedin.com/company/ebsta), [Facebook](https://www.facebook.com/ebstahq), [Website](http://www.ebsta.com), [Email](info@ebsta.com)
  
  
  
-### [Cirrus Insight](https://www.cirrusinsight.com) 
+ &nbsp##### [Cirrus Insight](https://www.cirrusinsight.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 77
+Founded: 2011; Region: United States, California; Employees: 77
  
-Sales data input automation | Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Twitter](http://twitter.com/cirrusinsight), [LinkedIn](http://www.linkedin.com/company/cirruspath), [Facebook](http://www.facebook.com/cirrusinsight), [Website](https://www.cirrusinsight.com), [Email](sales@cirruspath.com)
  
  
  
-### [Showpad](http://www.showpad.com) 
+ &nbsp##### [Showpad](http://www.showpad.com) 
  
-Founded: 2011.0; Region: Belgium, Flanders; Employees: 224
+Founded: 2011; Region: Belgium, Flanders; Employees: 224
  
-Sales content personalization and analytics | Sales content personalization and analytics | Sales content personalization and analytics | Sales content personalization and analytics
+Sales content personalization and analytics
  
 [Twitter](http://twitter.com/showpad), [LinkedIn](http://www.linkedin.com/company/2446860), [Facebook](http://www.facebook.com/ShowpadApp), [Website](http://www.showpad.com), [Email](info@showpad.com)
  
  
  
-### [SalesforceIQ](https://www.salesforceiq.com) 
+ &nbsp##### [SalesforceIQ](https://www.salesforceiq.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 133
+Founded: 2013; Region: United States, California; Employees: 133
  
-Sales data input automation | Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Twitter](https://twitter.com/salesforceiq), [LinkedIn](https://www.linkedin.com/company/salesforceiq), [Facebook](https://www.facebook.com/salesforceiq), [Website](https://www.salesforceiq.com), 
  
  
  
-### [InsideView](http://www.insideview.com) 
+ &nbsp##### [InsideView](http://www.insideview.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 317
+Founded: 2005; Region: United States, California; Employees: 317
  
-Lead generation | Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/Insideview), [LinkedIn](http://www.linkedin.com/company/insideview-inc), [Facebook](http://www.facebook.com/pages/InsideView/93221447946), [Website](http://www.insideview.com), [Email](info@insideview.com)
  
  
  
-### [import.io](https://import.io) 
+ &nbsp##### [import.io](https://import.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 35
+Founded: 2012; Region: United States, California; Employees: 35
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -4738,29 +4738,29 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
  
  
-### [Yesware](http://www.yesware.com) 
+ &nbsp##### [Yesware](http://www.yesware.com) 
  
-Founded: 2010.0; Region: United States, Massachusetts; Employees: 93
+Founded: 2010; Region: United States, Massachusetts; Employees: 93
  
-Sales data input automation | Sales data input automation | Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Twitter](http://twitter.com/yesware), [LinkedIn](http://www.linkedin.com/company/1214297), [Facebook](http://www.facebook.com/pages/Yesware/251132138245608), [Website](http://www.yesware.com), [Email](support@yesware.com)
  
  
  
-### [DiscoverOrg](http://www.discoverorg.com) 
+ &nbsp##### [DiscoverOrg](http://www.discoverorg.com) 
  
-Founded: 2006.0; Region: United States, Washington; Employees: 389
+Founded: 2006; Region: United States, Washington; Employees: 389
  
-Lead generation | Lead generation | Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/discoverorg), [LinkedIn](http://www.linkedin.com/company/discoverorg), [Facebook](http://www.facebook.com/DiscoveryDB), [Website](http://www.discoverorg.com), [Email](info@discoverorg.com)
  
  
  
-### [ToutApp](https://toutapp.com) 
+ &nbsp##### [ToutApp](https://toutapp.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 49
+Founded: 2011; Region: United States, California; Employees: 49
  
 Sales data input automation | Customer sales contact analytics | Sales rep next action suggestions | Sales content personalization and analytics
  
@@ -4768,9 +4768,9 @@ Sales data input automation | Customer sales contact analytics | Sales rep next 
  
  
  
-### [SalesChoice](http://www.saleschoice.com) 
+ &nbsp##### [SalesChoice](http://www.saleschoice.com) 
  
-Founded: 2012.0; Region: Canada, Ontario; Employees: 15
+Founded: 2012; Region: Canada, Ontario; Employees: 15
  
 Pricing optimization | Predictive sales | Sales forecasting | Sales rep next action suggestions | Prescriptive sales | Natural Language Processing library/SDK/API | Deep learning library/SDK/API
  
@@ -4778,9 +4778,9 @@ Pricing optimization | Predictive sales | Sales forecasting | Sales rep next act
  
  
  
-### [IKO System](http://www.iko-system.com) 
+ &nbsp##### [IKO System](http://www.iko-system.com) 
  
-Founded: 2010.0; Region: France, Île-de-France; Employees: 34
+Founded: 2010; Region: France, Île-de-France; Employees: 34
  
 Sales data input automation | Lead generation
  
@@ -4788,19 +4788,19 @@ Sales data input automation | Lead generation
  
  
  
-### [Nova](http://www.nova.ai/) 
+ &nbsp##### [Nova](http://www.nova.ai/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 18
+Founded: 2015; Region: United States, California; Employees: 18
  
-Sales rep chat/email bot | Sales rep chat/email bot | Sales rep chat/email bot | Sales rep chat/email bot | Sales rep chat/email bot
+Sales rep chat/email bot
  
 [Twitter](https://twitter.com/novadotai), [LinkedIn](https://www.linkedin.com/company/6609832?trk=prof-exp-company-name), [Facebook](https://www.facebook.com/launchrock), [Website](http://www.nova.ai/), [Email](info@nova.ai)
  
  
  
-### [Fusemachines](http://fusemachines.com/) 
+ &nbsp##### [Fusemachines](http://fusemachines.com/) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 164
+Founded: 2012; Region: United States, New York; Employees: 164
  
 Predictive sales | Sales forecasting | Sales rep response suggestions | Meeting setup automation
  
@@ -4808,9 +4808,9 @@ Predictive sales | Sales forecasting | Sales rep response suggestions | Meeting 
  
  
  
-### [Spiro Technologies](http://spiro.ai) 
+ &nbsp##### [Spiro Technologies](http://spiro.ai) 
  
-Founded: 2014.0; Region: United States, Massachusetts; Employees: 14
+Founded: 2014; Region: United States, Massachusetts; Employees: 14
  
 Sales data input automation | Sales rep next action suggestions
  
@@ -4818,9 +4818,9 @@ Sales data input automation | Sales rep next action suggestions
  
  
  
-### [Clari](http://www.clari.com) 
+ &nbsp##### [Clari](http://www.clari.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 107
+Founded: 2012; Region: United States, California; Employees: 107
  
 Predictive sales | Sales forecasting
  
@@ -4828,9 +4828,9 @@ Predictive sales | Sales forecasting
  
  
  
-### [Qurious.io](http://www.qurious.io/) 
+ &nbsp##### [Qurious.io](http://www.qurious.io/) 
  
-Founded: 0.0; Region: United States, California; Employees: 0
+Founded: 0; Region: United States, California; Employees: 0
  
 Sales call analytics | Sales rep response suggestions
  
@@ -4838,19 +4838,19 @@ Sales call analytics | Sales rep response suggestions
  
  
  
-### [EverString](http://everstring.com) 
+ &nbsp##### [EverString](http://everstring.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 106
+Founded: 2012; Region: United States, California; Employees: 106
  
-Predictive sales | Predictive sales | Predictive sales | Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/EverString), [LinkedIn](http://www.linkedin.com/company/everstring-technology), [Facebook](https://www.facebook.com/everstringtechnology), [Website](http://everstring.com), 
  
  
  
-### [BrightFunnel](http://www.brightfunnel.com) 
+ &nbsp##### [BrightFunnel](http://www.brightfunnel.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 44
+Founded: 2012; Region: United States, California; Employees: 44
  
 Marketing analytics | Sales forecasting | Sales attribution
  
@@ -4858,9 +4858,9 @@ Marketing analytics | Sales forecasting | Sales attribution
  
  
  
-### [Wise.io](http://wise.io) 
+ &nbsp##### [Wise.io](http://wise.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 12
+Founded: 2012; Region: United States, California; Employees: 12
  
 Customer sales contact analytics | Chatbot | Intelligent call routing | Customer service response suggestions
  
@@ -4868,19 +4868,19 @@ Customer sales contact analytics | Chatbot | Intelligent call routing | Customer
  
  
  
-### [Mintigo](http://www.mintigo.com) 
+ &nbsp##### [Mintigo](http://www.mintigo.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 81
+Founded: 2009; Region: United States, California; Employees: 81
  
-Predictive sales | Predictive sales | Predictive sales | Predictive sales | Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/mintigo), [LinkedIn](http://www.linkedin.com/company/mintigo), [Facebook](http://www.facebook.com/Mintigo), [Website](http://www.mintigo.com), [Video](https://www.youtube.com/watch?v=K52v3oJ_dJw), [Email](info@mintigo.com)
  
  
  
-### [Cien](https://www.cien.ai) 
+ &nbsp##### [Cien](https://www.cien.ai) 
  
-Founded: 2016.0; Region: United States, Texas; Employees: 32
+Founded: 2016; Region: United States, Texas; Employees: 32
  
 Marketing analytics | Predictive sales | Sales data input automation | Sales forecasting | Customer sales contact analytics | Sales rep next action suggestions | Prescriptive sales | Sales attribution | Sales compensation
  
@@ -4888,9 +4888,9 @@ Marketing analytics | Predictive sales | Sales data input automation | Sales for
  
  
  
-### [6sense](http://www.6sense.com) 
+ &nbsp##### [6sense](http://www.6sense.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 64
+Founded: 2013; Region: United States, California; Employees: 64
  
 Predictive sales | Sales forecasting
  
@@ -4898,9 +4898,9 @@ Predictive sales | Sales forecasting
  
  
  
-### [Leadspace](http://www.leadspace.com) 
+ &nbsp##### [Leadspace](http://www.leadspace.com) 
  
-Founded: 2007.0; Region: Israel, Central District; Employees: 93
+Founded: 2007; Region: Israel, Central District; Employees: 93
  
 Marketing analytics | Predictive sales
  
@@ -4908,29 +4908,29 @@ Marketing analytics | Predictive sales
  
  
  
-### [Tact](https://tact.ai) 
+ &nbsp##### [Tact](https://tact.ai) 
  
-Founded: 2012.0; Region: United States, California; Employees: 70
+Founded: 2012; Region: United States, California; Employees: 70
  
-Customer sales contact analytics | Customer sales contact analytics | Customer sales contact analytics | Customer sales contact analytics | Customer sales contact analytics
+Customer sales contact analytics
  
 [Twitter](https://twitter.com/tact_ai), [LinkedIn](https://www.linkedin.com/company/tact.ai), [Facebook](http://www.facebook.com/TactileHQ), [Website](https://tact.ai), [Video](https://www.youtube.com/watch?v=0P6Tj8zTd4Y), 
  
  
  
-### [Gong.io](https://www.gong.io/) 
+ &nbsp##### [Gong.io](https://www.gong.io/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 26
+Founded: 2015; Region: United States, California; Employees: 26
  
-Sales call analytics | Sales call analytics | Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Twitter](https://twitter.com/gong_io), [LinkedIn](https://www.linkedin.com/company/gong---a-stealth-mode-start-up-company), [Facebook](https://www.facebook.com/To.Gong.IO/), [Website](https://www.gong.io/), [Email](info@gong.io)
  
  
  
-### [Aviso](http://www.aviso.com) 
+ &nbsp##### [Aviso](http://www.aviso.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 65
+Founded: 2012; Region: United States, California; Employees: 65
  
 Predictive sales | Sales forecasting
  
@@ -4938,9 +4938,9 @@ Predictive sales | Sales forecasting
  
  
  
-### [Lattice Engines](http://www.lattice-engines.com) 
+ &nbsp##### [Lattice Engines](http://www.lattice-engines.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 146
+Founded: 2006; Region: United States, California; Employees: 146
  
 Predictive sales | Sales forecasting
  
@@ -4948,9 +4948,9 @@ Predictive sales | Sales forecasting
  
  
  
-### [Salesforce](https://www.salesforce.com) 
+ &nbsp##### [Salesforce](https://www.salesforce.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 23343
+Founded: 1999; Region: United States, California; Employees: 23343
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -4958,19 +4958,19 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
  
  
-### [Episerver](http://www.episerver.com) 
+ &nbsp##### [Episerver](http://www.episerver.com) 
  
-Founded: 1994.0; Region: United States, New Hampshire; Employees: 350
+Founded: 1994; Region: United States, New Hampshire; Employees: 350
  
-Lead generation | Lead generation | Lead generation | Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/episerver), [LinkedIn](http://www.linkedin.com/company/episerver-ab), [Facebook](http://www.facebook.com/EPiServer), [Website](http://www.episerver.com), [Email](info@episerver.com)
  
  
  
-### [Arimo](https://arimo.com) 
+ &nbsp##### [Arimo](https://arimo.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 37
+Founded: 2012; Region: United States, California; Employees: 37
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -4978,9 +4978,9 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
  
  
-### [msg.ai](http://msg.ai) 
+ &nbsp##### [msg.ai](http://msg.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 40
+Founded: 2015; Region: United States, California; Employees: 40
  
 Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Customer service response suggestions | Chatbot analytics
  
@@ -4988,9 +4988,9 @@ Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Custo
  
  
  
-### [H2O.ai](http://h2o.ai/) 
+ &nbsp##### [H2O.ai](http://h2o.ai/) 
  
-Founded: 2011.0; Region: United States, California; Employees: 77
+Founded: 2011; Region: United States, California; Employees: 77
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -4998,9 +4998,9 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
  
  
-### [InsideSales.com](http://www.insidesales.com) 
+ &nbsp##### [InsideSales.com](http://www.insidesales.com) 
  
-Founded: 2004.0; Region: United States, Utah; Employees: 602
+Founded: 2004; Region: United States, Utah; Employees: 602
  
 Predictive sales | Sales forecasting | Customer sales contact analytics
  
@@ -5008,9 +5008,9 @@ Predictive sales | Sales forecasting | Customer sales contact analytics
  
  
  
-### [NEXD](https://www.nexd.ai) 
+ &nbsp##### [NEXD](https://www.nexd.ai) 
  
-Founded: 2015.0; Region: United States, Texas; Employees: 14
+Founded: 2015; Region: United States, Texas; Employees: 14
  
 Sales data input automation | Sales rep next action suggestions
  
@@ -5018,19 +5018,19 @@ Sales data input automation | Sales rep next action suggestions
  
  
  
-### [SalesPredict](http://www.salespredict.com) 
+ &nbsp##### [SalesPredict](http://www.salespredict.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 22
+Founded: 2012; Region: United States, California; Employees: 22
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/SalesPredict), [LinkedIn](http://www.linkedin.com/company/salespredict), [Facebook](http://www.facebook.com/salespredict), [Website](http://www.salespredict.com), [Video](https://www.youtube.com/watch?v=om6tECrJ-So&feature=youtu.be-So&feature=youtu.be), [Email](info@salespredict.com)
  
  
  
-### [Julie Desk](https://www.juliedesk.com/) 
+ &nbsp##### [Julie Desk](https://www.juliedesk.com/) 
  
-Founded: 2014.0; Region: France, Île-de-France; Employees: 14
+Founded: 2014; Region: France, Île-de-France; Employees: 14
  
 Meeting setup automation | Digital assistant
  
@@ -5038,9 +5038,9 @@ Meeting setup automation | Digital assistant
  
  
  
-### [Zensight](http://www.zensight.ai/) 
+ &nbsp##### [Zensight](http://www.zensight.ai/) 
  
-Founded: 0.0; Region: United States, Massachusetts; Employees: 6
+Founded: 0; Region: United States, Massachusetts; Employees: 6
  
 Predictive sales | Sales forecasting
  
@@ -5048,49 +5048,49 @@ Predictive sales | Sales forecasting
  
  
  
-### [Saleswhale](http://saleswhale.com) 
+ &nbsp##### [Saleswhale](http://saleswhale.com) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Sales rep chat/email bot | Sales rep chat/email bot | Sales rep chat/email bot
+Sales rep chat/email bot
  
 [Twitter](http://twitter.com/saleswhaleio), [LinkedIn](http://www.linkedin.com/company/saleswhale), [Facebook](http://www.facebook.com/saleswhaleio), [Website](http://saleswhale.com), 
  
  
  
-### [Sudo](https://www.sudo.ai/) 
+ &nbsp##### [Sudo](https://www.sudo.ai/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 10
+Founded: 2016; Region: United States, California; Employees: 10
  
-Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Website](https://www.sudo.ai/), 
  
  
  
-### [Nitrio](http://nitr.io) 
+ &nbsp##### [Nitrio](http://nitr.io) 
  
-Founded: 2014.0; Region: United States, California; Employees: 3
+Founded: 2014; Region: United States, California; Employees: 3
  
-Sales rep response suggestions | Sales rep response suggestions | Sales rep response suggestions
+Sales rep response suggestions
  
 [Website](http://nitr.io), [Email](info@nitr.io)
  
  
  
-### [Conversica](http://www.conversica.com) 
+ &nbsp##### [Conversica](http://www.conversica.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 155
+Founded: 2007; Region: United States, California; Employees: 155
  
-Meeting setup automation | Meeting setup automation | Meeting setup automation | Meeting setup automation
+Meeting setup automation
  
 [Twitter](http://twitter.com/myconversica), [LinkedIn](http://www.linkedin.com/company/conversica), [Facebook](http://www.facebook.com/conversica), [Website](http://www.conversica.com), [Email](info@conversica.com)
  
  
  
-### [Outreach](http://www.outreach.io/) 
+ &nbsp##### [Outreach](http://www.outreach.io/) 
  
-Founded: 2013.0; Region: United States, Washington; Employees: 190
+Founded: 2013; Region: United States, Washington; Employees: 190
  
 Sales data input automation | Sales content personalization and analytics
  
@@ -5098,9 +5098,9 @@ Sales data input automation | Sales content personalization and analytics
  
  
  
-### [Singular Intelligence](http://www.singularintelligence.com/) 
+ &nbsp##### [Singular Intelligence](http://www.singularintelligence.com/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 0
+Founded: 2014; Region: United Kingdom, England; Employees: 0
  
 Pricing optimization | Predictive sales
  
@@ -5108,9 +5108,9 @@ Pricing optimization | Predictive sales
  
  
  
-### [Full Circle Insights](http://fullcircleinsights.com/) 
+ &nbsp##### [Full Circle Insights](http://fullcircleinsights.com/) 
  
-Founded: 2010.0; Region: United States, California; Employees: 47
+Founded: 2010; Region: United States, California; Employees: 47
  
 Marketing analytics | Predictive sales
  
@@ -5118,59 +5118,59 @@ Marketing analytics | Predictive sales
  
  
  
-### [TopOPPS](http://www.topopps.com) 
+ &nbsp##### [TopOPPS](http://www.topopps.com) 
  
-Founded: 2014.0; Region: United States, Missouri; Employees: 35
+Founded: 2014; Region: United States, Missouri; Employees: 35
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/TopOPPSHQ), [LinkedIn](http://www.linkedin.com/company/topopps), [Facebook](http://www.facebook.com/topopps), [Website](http://www.topopps.com), [Video](http://topopps.com/personalized-demo/), [Email](amy@topopps.com)
  
  
  
-### [Xactly](http://www.xactlycorp.com) 
+ &nbsp##### [Xactly](http://www.xactlycorp.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 583
+Founded: 2005; Region: United States, California; Employees: 583
  
-Sales compensation | Sales compensation | Sales compensation
+Sales compensation
  
 [Twitter](http://twitter.com/Xactly), [LinkedIn](http://www.linkedin.com/company/xactly-corporation), [Facebook](http://www.facebook.com/XactlyCorp), [Website](http://www.xactlycorp.com), [Email](info@xactlycorp.com)
  
  
  
-### [Optymyze](http://www.optymyze.com) 
+ &nbsp##### [Optymyze](http://www.optymyze.com) 
  
-Founded: 0.0; Region: United States, Pennsylvania; Employees: 586
+Founded: 0; Region: United States, Pennsylvania; Employees: 586
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/optymyze), [LinkedIn](http://www.linkedin.com/company/optymyze), [Website](http://www.optymyze.com), 
  
  
  
-### [LatentView Analytics](http://www.latentview.com) 
+ &nbsp##### [LatentView Analytics](http://www.latentview.com) 
  
-Founded: 2006.0; Region: United States, New Jersey; Employees: 554
+Founded: 2006; Region: United States, New Jersey; Employees: 554
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/latentview), [LinkedIn](http://www.linkedin.com/company/Latentview), [Facebook](http://www.facebook.com/LatentView), [Website](http://www.latentview.com), [Email](info@latentview.com)
  
  
  
-### [BRIDGEi2i Analytics Solutions](http://www.bridgei2i.com) 
+ &nbsp##### [BRIDGEi2i Analytics Solutions](http://www.bridgei2i.com) 
  
-Founded: 2011.0; Region: India, Karnataka; Employees: 500
+Founded: 2011; Region: India, Karnataka; Employees: 500
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/BRIDGEi2i), [LinkedIn](http://www.linkedin.com/company/bridgei2i-analytics-solutions), [Facebook](http://www.facebook.com/BRIDGEi2i), [Website](http://www.bridgei2i.com), [Email](sandip.saha@bridgei2i.com)
  
  
  
-### [GrowthIntel](http://growthintel.com) 
+ &nbsp##### [GrowthIntel](http://growthintel.com) 
  
-Founded: 2011.0; Region: United Kingdom, England; Employees: 17
+Founded: 2011; Region: United Kingdom, England; Employees: 17
  
 Predictive sales | Lead generation
  
@@ -5178,9 +5178,9 @@ Predictive sales | Lead generation
  
  
  
-### [Semantic Machines](http://www.semanticmachines.com/) 
+ &nbsp##### [Semantic Machines](http://www.semanticmachines.com/) 
  
-Founded: 2014.0; Region: United States, Massachusetts; Employees: 25
+Founded: 2014; Region: United States, Massachusetts; Employees: 25
  
 Sales rep chat/email bot | Chatbot
  
@@ -5188,19 +5188,19 @@ Sales rep chat/email bot | Chatbot
  
  
  
-### [BrightTarget](http://www.brighttarget.com/) 
+ &nbsp##### [BrightTarget](http://www.brighttarget.com/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 9
+Founded: 2014; Region: United Kingdom, England; Employees: 9
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](https://twitter.com/brighttarget), [LinkedIn](https://www.linkedin.com/company/brighttarget), [Website](http://www.brighttarget.com/), 
  
  
  
-### [Kore.ai](https://kore.ai/) 
+ &nbsp##### [Kore.ai](https://kore.ai/) 
  
-Founded: 2013.0; Region: United States, Florida; Employees: 192
+Founded: 2013; Region: United States, Florida; Employees: 192
  
 Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
@@ -5208,29 +5208,29 @@ Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
  
  
-### [Datanyze](http://www.datanyze.com) 
+ &nbsp##### [Datanyze](http://www.datanyze.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 57
+Founded: 2012; Region: United States, California; Employees: 57
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/datanyze), [LinkedIn](http://www.linkedin.com/company/datanyze), [Facebook](http://www.facebook.com/datanyze), [Website](http://www.datanyze.com), [Email](contact@datanyze.com)
  
  
  
-### [InsightSquared](http://www.insightsquared.com) 
+ &nbsp##### [InsightSquared](http://www.insightsquared.com) 
  
-Founded: 2010.0; Region: United States, Massachusetts; Employees: 163
+Founded: 2010; Region: United States, Massachusetts; Employees: 163
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/insightsquared), [LinkedIn](http://www.linkedin.com/company/insightsquared), [Facebook](http://www.facebook.com/insightsquared), [Website](http://www.insightsquared.com), [Email](info@insightsquared.com)
  
  
  
-### [LeanData](http://www.leandatainc.com) 
+ &nbsp##### [LeanData](http://www.leandatainc.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 33
+Founded: 2012; Region: United States, California; Employees: 33
  
 Sales attribution | Customer contact analytics
  
@@ -5238,109 +5238,109 @@ Sales attribution | Customer contact analytics
  
  
  
-### [Infer](http://www.infer.com) 
+ &nbsp##### [Infer](http://www.infer.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 48
+Founded: 2010; Region: United States, California; Employees: 48
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/InferInc), [LinkedIn](http://www.linkedin.com/company/3062993), [Facebook](http://www.facebook.com/inferinc), [Website](http://www.infer.com), [Email](contact@infer.com)
  
  
  
-### [KnowledgeTree](http://www.knowledgetree.com) 
+ &nbsp##### [KnowledgeTree](http://www.knowledgetree.com) 
  
-Founded: 2006.0; Region: United States, North Carolina; Employees: 31
+Founded: 2006; Region: United States, North Carolina; Employees: 31
  
-Sales content personalization and analytics | Sales content personalization and analytics | Sales content personalization and analytics
+Sales content personalization and analytics
  
 [Twitter](http://twitter.com/knowledgetree), [LinkedIn](http://www.linkedin.com/company/knowledgetree-inc.), [Facebook](https://www.facebook.com/KnowledgeTreeInc), [Website](http://www.knowledgetree.com), [Email](sales@knowledgetree.com)
  
  
  
-### [Attentive.us](https://attentive.us/) 
+ &nbsp##### [Attentive.us](https://attentive.us/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](https://twitter.com/attentiveus), [LinkedIn](https://www.linkedin.com/company/attentive), [Facebook](https://www.facebook.com/attentiveus), [Website](https://attentive.us/), 
  
  
  
-### [Cogito](http://www.cogitocorp.com) 
+ &nbsp##### [Cogito](http://www.cogitocorp.com) 
  
-Founded: 2007.0; Region: United States, Massachusetts; Employees: 75
+Founded: 2007; Region: United States, Massachusetts; Employees: 75
  
-Sales rep response suggestions | Sales rep response suggestions | Sales rep response suggestions
+Sales rep response suggestions
  
 [Twitter](http://twitter.com/CogitoCorp), [LinkedIn](http://www.linkedin.com/company/cogito-corp-), [Website](http://www.cogitocorp.com), [Email](info@cogitocorp.com)
  
  
  
-### [RainKing](http://www.rainkingonline.com) 
+ &nbsp##### [RainKing](http://www.rainkingonline.com) 
  
-Founded: 2007.0; Region: United States, Maryland; Employees: 329
+Founded: 2007; Region: United States, Maryland; Employees: 329
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/RainKing_Online), [LinkedIn](http://www.linkedin.com/company/148095), [Facebook](http://www.facebook.com/rainkingsolutions), [Website](http://www.rainkingonline.com), [Email](contactus@rainkingonline.com)
  
  
  
-### [Leadiro](http://www.leadiro.com) 
+ &nbsp##### [Leadiro](http://www.leadiro.com) 
  
-Founded: 2016.0; Region: United Kingdom, England; Employees: 6
+Founded: 2016; Region: United Kingdom, England; Employees: 6
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](https://twitter.com/leadiro), [LinkedIn](https://www.linkedin.com/company/leadiro), [Facebook](https://www.facebook.com/leadiro), [Website](http://www.leadiro.com), 
  
  
  
-### [Lead411](http://www.lead411.com) 
+ &nbsp##### [Lead411](http://www.lead411.com) 
  
-Founded: 2001.0; Region: United States, Colorado; Employees: 17
+Founded: 2001; Region: United States, Colorado; Employees: 17
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/lead411), [LinkedIn](http://www.linkedin.com/company/lead411), [Facebook](http://www.facebook.com/Lead411/299486146429), [Website](http://www.lead411.com), 
  
  
  
-### [LeadGenius](https://leadgenius.com) 
+ &nbsp##### [LeadGenius](https://leadgenius.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 551
+Founded: 2011; Region: United States, California; Employees: 551
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/LeadGenius), [LinkedIn](https://www.linkedin.com/company/leadgenius), [Facebook](https://www.facebook.com/LeadGeniusInc), [Website](https://leadgenius.com), [Email](marketing@leadgenius.com)
  
  
  
-### [ZoomInfo](http://www.zoominfo.com) 
+ &nbsp##### [ZoomInfo](http://www.zoominfo.com) 
  
-Founded: 2000.0; Region: United States, Massachusetts; Employees: 230
+Founded: 2000; Region: United States, Massachusetts; Employees: 230
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/ZoomInfo), [LinkedIn](http://www.linkedin.com/company/zoominfo), [Facebook](http://www.facebook.com/ZoomInformation), [Website](http://www.zoominfo.com), 
  
  
  
-### [Speed To Contact](http://www.speedtocontact.com/) 
+ &nbsp##### [Speed To Contact](http://www.speedtocontact.com/) 
  
-Founded: 2010.0; Region: United States, California; Employees: 6
+Founded: 2010; Region: United States, California; Employees: 6
  
-Sales rep chat/email bot | Sales rep chat/email bot | Sales rep chat/email bot
+Sales rep chat/email bot
  
 [Twitter](https://www.twitter.com/speedtocontact), [Facebook](https://www.facebook.com/speedtocontact), [Website](http://www.speedtocontact.com/), 
  
  
  
-### [hybris](http://www.hybris.com) 
+ &nbsp##### [hybris](http://www.hybris.com) 
  
-Founded: 1997.0; Region: Canada, Quebec; Employees: 1518
+Founded: 1997; Region: Canada, Quebec; Employees: 1518
  
 Recommendation engine | Predictive sales
  
@@ -5348,39 +5348,39 @@ Recommendation engine | Predictive sales
  
  
  
-### [ContactUs.com](http://www.contactus.com) 
+ &nbsp##### [ContactUs.com](http://www.contactus.com) 
  
-Founded: 2012.0; Region: United States, Florida; Employees: 3
+Founded: 2012; Region: United States, Florida; Employees: 3
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/ContactUsCom), [Facebook](http://www.facebook.com/ContactUscom), [Website](http://www.contactus.com), 
  
  
  
-### [Close.io](http://close.io) 
+ &nbsp##### [Close.io](http://close.io) 
  
-Founded: 2013.0; Region: United States, California; Employees: 27
+Founded: 2013; Region: United States, California; Employees: 27
  
-Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Twitter](http://twitter.com/closeio), [Website](http://close.io), [Email](info@close.io)
  
  
  
-### [Bananatag](http://www.bananatag.com) 
+ &nbsp##### [Bananatag](http://www.bananatag.com) 
  
-Founded: 2011.0; Region: Canada, British Columbia; Employees: 43
+Founded: 2011; Region: Canada, British Columbia; Employees: 43
  
-Sales data input automation | Sales data input automation | Sales data input automation
+Sales data input automation
  
 [Twitter](http://twitter.com/bananatag), [LinkedIn](http://www.linkedin.com/company/bananatag), [Facebook](http://www.facebook.com/trackemail), [Website](http://www.bananatag.com), [Email](info@bananatag.com)
  
  
  
-### [Recast.AI](https://recast.ai) 
+ &nbsp##### [Recast.AI](https://recast.ai) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 25
+Founded: 2015; Region: France, Île-de-France; Employees: 25
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -5388,49 +5388,49 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
  
  
-### [Pixoneye](http://www.pixoneye.com/) 
+ &nbsp##### [Pixoneye](http://www.pixoneye.com/) 
  
-Founded: 2014.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 25
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](https://twitter.com/Pixoneye), [LinkedIn](https://www.linkedin.com/company/5350028?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1427619097622%2Ctas%3Apixoneye), [Facebook](https://www.facebook.com/pixoneye), [Website](http://www.pixoneye.com/), [Email](office@pixoneye.com)
  
  
  
-### [Optimove](http://www.optimove.com) 
+ &nbsp##### [Optimove](http://www.optimove.com) 
  
-Founded: 2009.0; Region: Israel, Tel Aviv; Employees: 175
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 175
  
-Predictive sales | Predictive sales | Predictive sales
+Predictive sales
  
 [Twitter](http://twitter.com/optimove), [LinkedIn](http://www.linkedin.com/company/227901), [Facebook](http://www.facebook.com/optimove), [Website](http://www.optimove.com), [Email](info@optimove.com)
  
  
  
-### [Intervyo](http://www.intervyo.com) 
+ &nbsp##### [Intervyo](http://www.intervyo.com) 
  
-Founded: 2014.0; Region: Israel, Tel Aviv; Employees: 6
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 6
  
-Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Website](http://www.intervyo.com), [Email](contact@intervyo.com)
  
  
  
-### [Colabo](http://colabo.com) 
+ &nbsp##### [Colabo](http://colabo.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 26
+Founded: 2010; Region: United States, California; Employees: 26
  
-Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Twitter](http://twitter.com/colaboinc), [LinkedIn](http://www.linkedin.com/company/colabo), [Facebook](http://www.facebook.com/ColaboInc), [Website](http://colabo.com), [Email](info@colabo.com)
  
  
  
-### [Protagonist](http://www.protagonist.io) 
+ &nbsp##### [Protagonist](http://www.protagonist.io) 
  
-Founded: 2004.0; Region: United States, California; Employees: 60
+Founded: 2004; Region: United States, California; Employees: 60
  
 Marketing analytics | Omnichannel | Sales content personalization and analytics
  
@@ -5438,59 +5438,59 @@ Marketing analytics | Omnichannel | Sales content personalization and analytics
  
  
  
-### [LeadSift](http://www.leadsift.com) 
+ &nbsp##### [LeadSift](http://www.leadsift.com) 
  
-Founded: 2012.0; Region: Canada, Nova Scotia; Employees: 5
+Founded: 2012; Region: Canada, Nova Scotia; Employees: 5
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [Twitter](http://twitter.com/leadsift), [LinkedIn](http://www.linkedin.com/company/2540568), [Facebook](http://www.facebook.com/LeadSift), [Website](http://www.leadsift.com), 
  
  
  
-### [Propulse Analytics](http://propulseanalytics.com) 
+ &nbsp##### [Propulse Analytics](http://propulseanalytics.com) 
  
-Founded: 2015.0; Region: Canada, Quebec; Employees: 5
+Founded: 2015; Region: Canada, Quebec; Employees: 5
  
-Sales forecasting | Sales forecasting | Sales forecasting
+Sales forecasting
  
 [Twitter](https://twitter.com/PropulseAI), [LinkedIn](https://www.linkedin.com/company/10327834), [Website](http://propulseanalytics.com), 
  
  
  
-### [Personali](http://www.personali.com/) 
+ &nbsp##### [Personali](http://www.personali.com/) 
  
-Founded: 2011.0; Region: United States, New York; Employees: 25
+Founded: 2011; Region: United States, New York; Employees: 25
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [LinkedIn](http://www.linkedin.com/company/personali), [Facebook](https://www.facebook.com/personali.inc/), [Website](http://www.personali.com/), [Email](info@personali.com)
  
  
  
-### [Stellar](https://www.stellar.org) 
+ &nbsp##### [Stellar](https://www.stellar.org) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Twitter](http://twitter.com/stellarorg), [LinkedIn](https://www.linkedin.com/company/3877937), [Facebook](http://www.facebook.com/stellarfoundation), [Website](https://www.stellar.org), [Email](hello@stellar.org)
  
  
  
-### [Tethr](https://www.tethr.com/) 
+ &nbsp##### [Tethr](https://www.tethr.com/) 
  
-Founded: 2013.0; Region: United States, Texas; Employees: 25
+Founded: 2013; Region: United States, Texas; Employees: 25
  
-Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Twitter](http://twitter.com/tethr_io), [LinkedIn](https://www.linkedin.com/company/wearetethr/), [Website](https://www.tethr.com/), [Email](info@tethr.com)
  
  
  
-### [Pat Inc](http://www.pat.ai) 
+ &nbsp##### [Pat Inc](http://www.pat.ai) 
  
-Founded: 2016.0; Region: United States, California; Employees: 7
+Founded: 2016; Region: United States, California; Employees: 7
  
 Sales rep chat/email bot | Call intent discovery | Customer service chatbot (self-service solution) | Conversational Analytics | Digital assistant
  
@@ -5498,19 +5498,19 @@ Sales rep chat/email bot | Call intent discovery | Customer service chatbot (sel
  
  
  
-### [SESTEK](http://www.sestek.com) 
+ &nbsp##### [SESTEK](http://www.sestek.com) 
  
-Founded: 2000.0; Region: Turkey, Istanbul; Employees: 25
+Founded: 2000; Region: Turkey, Istanbul; Employees: 25
  
-Sales call analytics | Sales call analytics | Sales call analytics
+Sales call analytics
  
 [Twitter](http://twitter.com/Sestek), [LinkedIn](http://www.linkedin.com/company/sestek), [Facebook](http://www.facebook.com/pages/Sestek/162650103780285), [Website](http://www.sestek.com), 
  
  
  
-### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
+ &nbsp##### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-Founded: 2015.0; Region: India, Maharashtra; Employees: 25
+Founded: 2015; Region: India, Maharashtra; Employees: 25
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -5518,49 +5518,49 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
  
  
-### [Tempo AI](http://tempo.ai) 
+ &nbsp##### [Tempo AI](http://tempo.ai) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Meeting setup automation | Meeting setup automation | Meeting setup automation
+Meeting setup automation
  
 [Twitter](http://twitter.com/tempoai), [LinkedIn](http://www.linkedin.com/company/2504844), [Facebook](http://www.facebook.com/tempoai), [Website](http://tempo.ai), 
  
  
  
-### [Kemvi](http://kemvi.com) 
+ &nbsp##### [Kemvi](http://kemvi.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 0
+Founded: 2014; Region: United States, California; Employees: 0
  
-Lead generation | Lead generation | Lead generation
+Lead generation
  
 [LinkedIn](https://www.linkedin.com/company/4989821), [Website](http://kemvi.com), 
  
  
  
-### [Staffjoy](https://www.staffjoy.com/) 
+ &nbsp##### [Staffjoy](https://www.staffjoy.com/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Meeting setup automation | Meeting setup automation | Meeting setup automation
+Meeting setup automation
  
 [Twitter](https://twitter.com/staffjoy), [LinkedIn](https://www.linkedin.com/company/6612912), [Facebook](https://www.facebook.com/staffjoyapp?_rdr=p), [Website](https://www.staffjoy.com/), [Email](help@staffjoy.com)
  
  
  
-### [Segmentify](https://www.segmentify.com/) 
+ &nbsp##### [Segmentify](https://www.segmentify.com/) 
  
-Founded: 2015.0; Region: Turkey, Istanbul; Employees: 32
+Founded: 2015; Region: Turkey, Istanbul; Employees: 32
  
-Sales content personalization and analytics | Sales content personalization and analytics | Sales content personalization and analytics
+Sales content personalization and analytics
  
 [Twitter](https://twitter.com/segmentifycom), [LinkedIn](https://www.linkedin.com/company/segmentify), [Facebook](https://www.facebook.com/Segmentify), [Website](https://www.segmentify.com/), [Video](https://www.youtube.com/watch?v=toHDsxR2kFs), [Email](info@segmentify.com)
  
  
  
-### [Trifacta](http://trifacta.com) 
+ &nbsp##### [Trifacta](http://trifacta.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 122
+Founded: 2012; Region: United States, California; Employees: 122
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -5568,9 +5568,9 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
  
  
-### [CrossChx, Inc.](http://www.crosschx.com) 
+ &nbsp##### [CrossChx, Inc.](http://www.crosschx.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 80
+Founded: 2012; Region: United States, California; Employees: 80
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -5578,9 +5578,9 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
  
  
-### [import.io](https://import.io) 
+ &nbsp##### [import.io](https://import.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 35
+Founded: 2012; Region: United States, California; Employees: 35
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -5588,9 +5588,9 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
  
  
-### [AltexSoft](http://www.altexsoft.com) 
+ &nbsp##### [AltexSoft](http://www.altexsoft.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 200
+Founded: 2007; Region: United States, California; Employees: 200
  
 AI Consultancy | AI developer | Data cleaning&validation | Image recognition and visual analytics | Voice recognition and sound analytics | e-commerce analytics
  
@@ -5598,39 +5598,39 @@ AI Consultancy | AI developer | Data cleaning&validation | Image recognition and
  
  
  
-### [Stepsize](http://stepsize.com/) 
+ &nbsp##### [Stepsize](http://stepsize.com/) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 5
+Founded: 2015; Region: United Kingdom, England; Employees: 5
  
-AppDev | AppDev | AppDev
+AppDev
  
 [Twitter](https://twitter.com/StepsizeHQ), [LinkedIn](https://www.linkedin.com/company/stepsize), [Facebook](https://www.facebook.com/stepsizeHQ), [Website](http://stepsize.com/), 
  
  
  
-### [Actifio](http://www.actifio.com) 
+ &nbsp##### [Actifio](http://www.actifio.com) 
  
-Founded: 2009.0; Region: United States, Massachusetts; Employees: 375
+Founded: 2009; Region: United States, Massachusetts; Employees: 375
  
-Data Management & Monitoring | Data Management & Monitoring | Data Management & Monitoring
+Data Management & Monitoring
  
 [Twitter](http://twitter.com/actifio), [LinkedIn](http://www.linkedin.com/company/399246), [Facebook](http://www.facebook.com/actifio), [Website](http://www.actifio.com), 
  
  
  
-### [Optalysys Ltd](http://www.optalysys.com) 
+ &nbsp##### [Optalysys Ltd](http://www.optalysys.com) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 5
+Founded: 2013; Region: United Kingdom, England; Employees: 5
  
-Data Management & Monitoring | Data Management & Monitoring | Data Management & Monitoring
+Data Management & Monitoring
  
 [Twitter](http://twitter.com/optalysys), [LinkedIn](http://www.linkedin.com/company/optalysys), [Facebook](http://www.facebook.com/optalysys), [Website](http://www.optalysys.com), 
  
  
  
-### [LARI](https://www.lari.digital) 
+ &nbsp##### [LARI](https://www.lari.digital) 
  
-Founded: 2017.0; Region: Switzerland, Zurich; Employees: 6
+Founded: 2017; Region: Switzerland, Zurich; Employees: 6
  
 Machine learning library/SDK/API | Data Management & Monitoring
  
@@ -5638,9 +5638,9 @@ Machine learning library/SDK/API | Data Management & Monitoring
  
  
  
-### [Informatica](https://www.informatica.com) 
+ &nbsp##### [Informatica](https://www.informatica.com) 
  
-Founded: 1993.0; Region: United States, California; Employees: 3000
+Founded: 1993; Region: United States, California; Employees: 3000
  
 Data Integration | Data cleaning&validation
  
@@ -5648,9 +5648,9 @@ Data Integration | Data cleaning&validation
  
  
  
-### [HouseCanary](http://www.housecanary.com) 
+ &nbsp##### [HouseCanary](http://www.housecanary.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 100
+Founded: 2014; Region: United States, California; Employees: 100
  
 Data preparation platform | Analytics platform | Geo-analytics platform | Robo-Advisory
  
@@ -5658,139 +5658,139 @@ Data preparation platform | Analytics platform | Geo-analytics platform | Robo-A
  
  
  
-### [Unity Technologies](http://unity3d.com) 
+ &nbsp##### [Unity Technologies](http://unity3d.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 3000
+Founded: 2004; Region: United States, California; Employees: 3000
  
-AppDev | AppDev | AppDev
+AppDev
  
 [Twitter](http://twitter.com/unity3d), [LinkedIn](http://www.linkedin.com/company/unity-technologies), [Facebook](http://www.facebook.com/unity3d), [Website](http://unity3d.com), 
  
  
  
-### [Lightbend](http://www.lightbend.com/) 
+ &nbsp##### [Lightbend](http://www.lightbend.com/) 
  
-Founded: 2011.0; Region: United States, California; Employees: 75
+Founded: 2011; Region: United States, California; Employees: 75
  
-AppDev | AppDev | AppDev
+AppDev
  
 [Twitter](http://twitter.com/lightbend), [LinkedIn](https://www.linkedin.com/company-beta/7789814/?pathWildcard=7789814), [Facebook](https://www.facebook.com/typesafe/?ref=hl), [Website](http://www.lightbend.com/), 
  
  
  
-### [Cask](http://cask.co) 
+ &nbsp##### [Cask](http://cask.co) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-AppDev | AppDev | AppDev
+AppDev
  
 [Twitter](http://twitter.com/caskdata), [LinkedIn](http://www.linkedin.com/company/cask-data), [Facebook](http://www.facebook.com/cask), [Website](http://cask.co), 
  
  
  
-### [Apigee](http://www.apigee.com) 
+ &nbsp##### [Apigee](http://www.apigee.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 75
+Founded: 2004; Region: United States, California; Employees: 75
  
-AppDev | AppDev | AppDev
+AppDev
  
 [Twitter](http://twitter.com/Apigee), [LinkedIn](http://www.linkedin.com/company/apigee), [Facebook](http://www.facebook.com/apigee), [Website](http://www.apigee.com), 
  
  
  
-### [Rocana](http://rocana.com) 
+ &nbsp##### [Rocana](http://rocana.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 75
+Founded: 2014; Region: United States, California; Employees: 75
  
-Data Management & Monitoring | Data Management & Monitoring | Data Management & Monitoring
+Data Management & Monitoring
  
 [Twitter](http://twitter.com/rocanainc), [LinkedIn](http://www.linkedin.com/company/3570802), [Facebook](https://www.facebook.com/rocana.inc1), [Website](http://rocana.com), 
  
  
  
-### [AppDynamics](http://www.appdynamics.com) 
+ &nbsp##### [AppDynamics](http://www.appdynamics.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 750
+Founded: 2008; Region: United States, California; Employees: 750
  
-Data Management & Monitoring | Data Management & Monitoring | Data Management & Monitoring
+Data Management & Monitoring
  
 [Twitter](http://twitter.com/AppDynamics), [LinkedIn](http://www.linkedin.com/company/appdynamics), [Facebook](https://www.facebook.com/AppDynamics-193264136815), [Website](http://www.appdynamics.com), 
  
  
  
-### [Numerify](http://www.numerify.com) 
+ &nbsp##### [Numerify](http://www.numerify.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 175
+Founded: 2012; Region: United States, California; Employees: 175
  
-Data Management & Monitoring | Data Management & Monitoring | Data Management & Monitoring
+Data Management & Monitoring
  
 [Twitter](http://www.twitter.com/numerify), [LinkedIn](http://www.linkedin.com/company/numerify), [Facebook](http://www.facebook.com/numerify), [Website](http://www.numerify.com), 
  
  
  
-### [New Relic](http://newrelic.com) 
+ &nbsp##### [New Relic](http://newrelic.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 3000
+Founded: 2008; Region: United States, California; Employees: 3000
  
-Data Management & Monitoring | Data Management & Monitoring | Data Management & Monitoring
+Data Management & Monitoring
  
 [Twitter](http://twitter.com/newrelic), [LinkedIn](http://www.linkedin.com/company/new-relic-inc.), [Facebook](http://www.facebook.com/NewRelic), [Website](http://newrelic.com), 
  
  
  
-### [TileDB](http://tiledb.io/) 
+ &nbsp##### [TileDB](http://tiledb.io/) 
  
-Founded: 2017.0; Region: United States, Massachusetts; Employees: 5
+Founded: 2017; Region: United States, Massachusetts; Employees: 5
  
-Data Management & Monitoring | Data Management & Monitoring | Data Management & Monitoring
+Data Management & Monitoring
  
 [Twitter](https://twitter.com/tiledb), [LinkedIn](https://www.linkedin.com/company/11301003/), [Website](http://tiledb.io/), 
  
  
  
-### [Bedrock Data](http://www.bedrockdata.com) 
+ &nbsp##### [Bedrock Data](http://www.bedrockdata.com) 
  
-Founded: 2012.0; Region: United States, Massachusetts; Employees: 25
+Founded: 2012; Region: United States, Massachusetts; Employees: 25
  
-Data Integration | Data Integration | Data Integration
+Data Integration
  
 [Twitter](http://twitter.com/bedrockdata), [LinkedIn](http://www.linkedin.com/company/bedrock-data-inc), [Facebook](http://www.facebook.com/BedrockDataSync), [Website](http://www.bedrockdata.com), 
  
  
  
-### [MuleSoft](http://www.mulesoft.com) 
+ &nbsp##### [MuleSoft](http://www.mulesoft.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 750
+Founded: 2006; Region: United States, California; Employees: 750
  
-Data Integration | Data Integration | Data Integration
+Data Integration
  
 [Twitter](http://twitter.com/MuleSoft), [LinkedIn](http://www.linkedin.com/company/www.mulesoft.com), [Facebook](http://www.facebook.com/MuleSoft), [Website](http://www.mulesoft.com), 
  
  
  
-### [NexLP](http://www.nexlp.com/) 
+ &nbsp##### [NexLP](http://www.nexlp.com/) 
  
-Founded: 2014.0; Region: United States, Illinois; Employees: 5
+Founded: 2014; Region: United States, Illinois; Employees: 5
  
-Data Integration | Data Integration | Data Integration
+Data Integration
  
 [Twitter](https://www.twitter.com/nexlp_inc), [LinkedIn](https://www.linkedin.com/company/nexlp), [Website](http://www.nexlp.com/), 
  
  
  
-### [CrowdFlower Inc.](https://www.crowdflower.com/) 
+ &nbsp##### [CrowdFlower Inc.](https://www.crowdflower.com/) 
  
-Founded: 2007.0; Region: United States, California; Employees: 75
+Founded: 2007; Region: United States, California; Employees: 75
  
-Data Integration | Data Integration | Data Integration
+Data Integration
  
 [Twitter](https://twitter.com/CrowdFlower), [LinkedIn](https://www.linkedin.com/company/932698/), [Website](https://www.crowdflower.com/), 
  
  
  
-### [Tamr](http://www.tamr.com/) 
+ &nbsp##### [Tamr](http://www.tamr.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
 Marketing analytics | Data Transformation
  
@@ -5798,49 +5798,49 @@ Marketing analytics | Data Transformation
  
  
  
-### [SeetaTech](http://www.seetatech.com/) 
+ &nbsp##### [SeetaTech](http://www.seetatech.com/) 
  
-Founded: None; Region: China, Beijing; Employees: 0
+Founded: Unknown; Region: China, Beijing; Employees: 0
  
-AppDev | AppDev | AppDev
+AppDev
  
 [Website](http://www.seetatech.com/), 
  
  
  
-### [Sentenai](http://www.sentenai.com/) 
+ &nbsp##### [Sentenai](http://www.sentenai.com/) 
  
-Founded: 2015.0; Region: United States, Massachusetts; Employees: 5
+Founded: 2015; Region: United States, Massachusetts; Employees: 5
  
-Data Integration | Data Integration | Data Integration
+Data Integration
  
 [Twitter](https://twitter.com/sentenai), [LinkedIn](https://www.linkedin.com/company/sentenai), [Website](http://www.sentenai.com/), 
  
  
  
-### [MoBagel](https://mobagel.com) 
+ &nbsp##### [MoBagel](https://mobagel.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 25
+Founded: 2009; Region: United States, California; Employees: 25
  
-Data Transformation | Data Transformation | Data Transformation
+Data Transformation
  
 [Twitter](https://twitter.com/mobagel), [LinkedIn](https://www.linkedin.com/company/mobagel), [Facebook](https://www.facebook.com/mobagel/), [Website](https://mobagel.com), 
  
  
  
-### [CloudFactory](http://cloudfactory.com) 
+ &nbsp##### [CloudFactory](http://cloudfactory.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 175
+Founded: 2010; Region: United States, California; Employees: 175
  
-Data labeling | Data labeling | Data labeling
+Data labeling
  
 [Twitter](http://twitter.com/thecloudfactory), [LinkedIn](http://www.linkedin.com/company/2613668), [Facebook](http://www.facebook.com/CloudFactoryHQ), [Website](http://cloudfactory.com), 
  
  
  
-### [Kairos AR](https://www.kairos.com) 
+ &nbsp##### [Kairos AR](https://www.kairos.com) 
  
-Founded: 2012.0; Region: United States, Florida; Employees: 25
+Founded: 2012; Region: United States, Florida; Employees: 25
  
 Emotion Recognition | Data labeling
  
@@ -5848,29 +5848,29 @@ Emotion Recognition | Data labeling
  
  
  
-### [Scale](https://scaleapi.com) 
+ &nbsp##### [Scale](https://scaleapi.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Data labeling | Data labeling | Data labeling
+Data labeling
  
 [Twitter](https://www.twitter.com/scaleapi), [Facebook](https://www.facebook.com/scaleapi), [Website](https://scaleapi.com), 
  
  
  
-### [INNAAS](http://www.innaas.com) 
+ &nbsp##### [INNAAS](http://www.innaas.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Data Transformation | Data Transformation | Data Transformation
+Data Transformation
  
 [Twitter](https://twitter.com/innaas), [LinkedIn](https://www.linkedin.com/company/5043000), [Facebook](https://www.facebook.com/innaasofficial), [Website](http://www.innaas.com), 
  
  
  
-### [Trifacta](http://trifacta.com) 
+ &nbsp##### [Trifacta](http://trifacta.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 122
+Founded: 2012; Region: United States, California; Employees: 122
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -5878,19 +5878,19 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
  
  
-### [Ravelin](http://ravelin.com) 
+ &nbsp##### [Ravelin](http://ravelin.com) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 35
+Founded: 2014; Region: United Kingdom, England; Employees: 35
  
-Fraud Detection | Fraud Detection | Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](https://twitter.com/ravelinhq), [LinkedIn](https://www.linkedin.com/company/ravelin-technology), [Facebook](https://www.facebook.com/ravelin-1652550834967267), [Website](http://ravelin.com), 
  
  
  
-### [CheckRecipient](http://checkrecipient.com/) 
+ &nbsp##### [CheckRecipient](http://checkrecipient.com/) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 19
+Founded: 2013; Region: United Kingdom, England; Employees: 19
  
 Secure communications | Regulatory compliance
  
@@ -5898,9 +5898,9 @@ Secure communications | Regulatory compliance
  
  
  
-### [AppZen](http://www.appzen.com) 
+ &nbsp##### [AppZen](http://www.appzen.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 18
+Founded: 2012; Region: United States, California; Employees: 18
  
 Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
@@ -5908,9 +5908,9 @@ Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
  
  
-### [Dataminr](http://www.dataminr.com) 
+ &nbsp##### [Dataminr](http://www.dataminr.com) 
  
-Founded: 2009.0; Region: United States, New York; Employees: 240
+Founded: 2009; Region: United States, New York; Employees: 240
  
 Social media monitoring | Social media optimization | Analytics platform | Data gathering
  
@@ -5918,9 +5918,9 @@ Social media monitoring | Social media optimization | Analytics platform | Data 
  
  
  
-### [MotionsCloud](http://motionscloud.com) 
+ &nbsp##### [MotionsCloud](http://motionscloud.com) 
  
-Founded: 2016.0; Region: Germany, Baden-Württemberg; Employees: 5
+Founded: 2016; Region: Germany, Baden-Württemberg; Employees: 5
  
 Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
@@ -5928,9 +5928,9 @@ Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
  
  
-### [RavenPack](http://ravenpack.com) 
+ &nbsp##### [RavenPack](http://ravenpack.com) 
  
-Founded: 2003.0; Region: United States, California; Employees: 65
+Founded: 2003; Region: United States, California; Employees: 65
  
 Analytics platform | Analytics Services | Data Visualization | Real-Time Analytics | Fraud Detection | Financial Analytics Platform
  
@@ -5938,9 +5938,9 @@ Analytics platform | Analytics Services | Data Visualization | Real-Time Analyti
  
  
  
-### [Versive](http://www.versive.com) 
+ &nbsp##### [Versive](http://www.versive.com) 
  
-Founded: 2012.0; Region: United States, Washington; Employees: 61
+Founded: 2012; Region: United States, Washington; Employees: 61
  
 Financial Analytics Platform | Regulatory compliance
  
@@ -5948,9 +5948,9 @@ Financial Analytics Platform | Regulatory compliance
  
  
  
-### [Anodot](http://www.anodot.com/) 
+ &nbsp##### [Anodot](http://www.anodot.com/) 
  
-Founded: 2014.0; Region: Israel, Central District; Employees: 38
+Founded: 2014; Region: Israel, Central District; Employees: 38
  
 Analytics platform | Financial Analytics Platform
  
@@ -5958,19 +5958,19 @@ Analytics platform | Financial Analytics Platform
  
  
  
-### [Fyle](http://www.fyle.in) 
+ &nbsp##### [Fyle](http://www.fyle.in) 
  
-Founded: 2016.0; Region: India, Karnataka; Employees: 9
+Founded: 2016; Region: India, Karnataka; Employees: 9
  
-Expense reporting | Expense reporting | Expense reporting | Expense reporting | Expense reporting
+Expense reporting
  
 [Twitter](https://www.twitter.com/fyleapp), [LinkedIn](https://www.linkedin.com/company/fyle), [Facebook](https://www.facebook.com/fyleapp), [Website](http://www.fyle.in), 
  
  
  
-### [Alpine Data Labs](http://www.alpinedata.com) 
+ &nbsp##### [Alpine Data Labs](http://www.alpinedata.com) 
  
-Founded: 0.0; Region: United States, California; Employees: 49
+Founded: 0; Region: United States, California; Employees: 49
  
 Analytics platform | Financial Analytics Platform
  
@@ -5978,9 +5978,9 @@ Analytics platform | Financial Analytics Platform
  
  
  
-### [Narrative Science](http://www.narrativescience.com) 
+ &nbsp##### [Narrative Science](http://www.narrativescience.com) 
  
-Founded: 2010.0; Region: United States, Illinois; Employees: 117
+Founded: 2010; Region: United States, Illinois; Employees: 117
  
 Natural Language Processing library/SDK/API | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -5988,9 +5988,9 @@ Natural Language Processing library/SDK/API | Fraud Detection | Financial Analyt
  
  
  
-### [Ayasdi](http://www.ayasdi.com) 
+ &nbsp##### [Ayasdi](http://www.ayasdi.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 131
+Founded: 2008; Region: United States, California; Employees: 131
  
 Fraud Detection | Financial Analytics Platform | Regulatory compliance | Patient data analytics | Assisted or automated diagnosis & prescription | Healthcare market research | Device and drug comparative effectiveness
  
@@ -5998,9 +5998,9 @@ Fraud Detection | Financial Analytics Platform | Regulatory compliance | Patient
  
  
  
-### [Arimo](https://arimo.com) 
+ &nbsp##### [Arimo](https://arimo.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 37
+Founded: 2012; Region: United States, California; Employees: 37
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -6008,9 +6008,9 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
  
  
-### [Sift Science](http://siftscience.com) 
+ &nbsp##### [Sift Science](http://siftscience.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 103
+Founded: 2011; Region: United States, California; Employees: 103
  
 Analytics & predictive intelligence for security | Fraud Detection
  
@@ -6018,9 +6018,9 @@ Analytics & predictive intelligence for security | Fraud Detection
  
  
  
-### [DataRobot](http://datarobot.com) 
+ &nbsp##### [DataRobot](http://datarobot.com) 
  
-Founded: 2012.0; Region: United States, Massachusetts; Employees: 206
+Founded: 2012; Region: United States, Massachusetts; Employees: 206
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform | Credit Lending / Scoring | Patient data analytics
  
@@ -6028,9 +6028,9 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
  
  
-### [H2O.ai](http://h2o.ai/) 
+ &nbsp##### [H2O.ai](http://h2o.ai/) 
  
-Founded: 2011.0; Region: United States, California; Employees: 77
+Founded: 2011; Region: United States, California; Employees: 77
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -6038,9 +6038,9 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
  
  
-### [deepsense.ai](http://deepsense.ai/) 
+ &nbsp##### [deepsense.ai](http://deepsense.ai/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 75
+Founded: 2014; Region: United States, California; Employees: 75
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -6048,9 +6048,9 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
  
  
-### [Personetics Technologies](http://www.personetics.com) 
+ &nbsp##### [Personetics Technologies](http://www.personetics.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 88
+Founded: 2010; Region: United States, New York; Employees: 88
  
 Chatbot | Robo-Advisory
  
@@ -6058,19 +6058,19 @@ Chatbot | Robo-Advisory
  
  
  
-### [Onfido](http://www.onfido.com) 
+ &nbsp##### [Onfido](http://www.onfido.com) 
  
-Founded: 2012.0; Region: United Kingdom, England; Employees: 149
+Founded: 2012; Region: United Kingdom, England; Employees: 149
  
-Fraud Detection | Fraud Detection | Fraud Detection | Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/Onfido), [LinkedIn](http://www.linkedin.com/company/2697456), [Facebook](http://www.facebook.com/onfido), [Website](http://www.onfido.com), [Video](https://www.youtube.com/watch?v=ysHY5-3HxmA), [Email](info@onfido.com)
  
  
  
-### [SmartAction](http://www.smartaction.ai) 
+ &nbsp##### [SmartAction](http://www.smartaction.ai) 
  
-Founded: 2009.0; Region: United States, California; Employees: 75
+Founded: 2009; Region: United States, California; Employees: 75
  
 Intelligent call routing | Customer service chatbot (self-service solution) | Voice authentication | Billing | Debt Collection
  
@@ -6078,19 +6078,19 @@ Intelligent call routing | Customer service chatbot (self-service solution) | Vo
  
  
  
-### [Tractable](https://tractable.ai/) 
+ &nbsp##### [Tractable](https://tractable.ai/) 
  
-Founded: 0.0; Region: United Kingdom, England; Employees: 41
+Founded: 0; Region: United Kingdom, England; Employees: 41
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Website](https://tractable.ai/), [Video](https://www.youtube.com/watch?v=g_KYLIYfd3Y), 
  
  
  
-### [Digital Reasoning](http://digitalreasoning.com) 
+ &nbsp##### [Digital Reasoning](http://digitalreasoning.com) 
  
-Founded: 2000.0; Region: United States, Tennessee; Employees: 172
+Founded: 2000; Region: United States, Tennessee; Employees: 172
  
 Fraud Detection | Regulatory compliance | Patient data analytics
  
@@ -6098,9 +6098,9 @@ Fraud Detection | Regulatory compliance | Patient data analytics
  
  
  
-### [AlphaSense](http://www.alpha-sense.com) 
+ &nbsp##### [AlphaSense](http://www.alpha-sense.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 86
+Founded: 2010; Region: United States, New York; Employees: 86
  
 Natural Language Processing library/SDK/API | Data gathering
  
@@ -6108,29 +6108,29 @@ Natural Language Processing library/SDK/API | Data gathering
  
  
  
-### [Walnut Algorithms](http://www.walnutalgorithms.com) 
+ &nbsp##### [Walnut Algorithms](http://www.walnutalgorithms.com) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 16
+Founded: 2015; Region: France, Île-de-France; Employees: 16
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Twitter](https://twitter.com/Walnut_Algo), [LinkedIn](https://www.linkedin.com/company/walnut-algorithms), [Facebook](https://www.facebook.com/walnutalgorithms), [Website](http://www.walnutalgorithms.com), [Email](contact@walnut-algo.com)
  
  
  
-### [Jewel Paymentech](http://www.jewelpaymentech.com/) 
+ &nbsp##### [Jewel Paymentech](http://www.jewelpaymentech.com/) 
  
-Founded: 2014.0; Region: Singapore, Central Singapore; Employees: 17
+Founded: 2014; Region: Singapore, Central Singapore; Employees: 17
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [LinkedIn](https://www.linkedin.com/company/jewel-paymentech), [Facebook](https://www.facebook.com/jewelpaymentech), [Website](http://www.jewelpaymentech.com/), [Email](info@jewelpaymentech.com)
  
  
  
-### [Neurensic](http://www.neurensic.com) 
+ &nbsp##### [Neurensic](http://www.neurensic.com) 
  
-Founded: 2015.0; Region: United States, Illinois; Employees: 16
+Founded: 2015; Region: United States, Illinois; Employees: 16
  
 Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -6138,9 +6138,9 @@ Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
  
  
-### [Numenta](http://www.numenta.com) 
+ &nbsp##### [Numenta](http://www.numenta.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 22
+Founded: 2005; Region: United States, California; Employees: 22
  
 Natural Language Processing library/SDK/API | Robotics | Financial Analytics Platform
  
@@ -6148,9 +6148,9 @@ Natural Language Processing library/SDK/API | Robotics | Financial Analytics Pla
  
  
  
-### [RiskGenius](https://riskgenius.com/) 
+ &nbsp##### [RiskGenius](https://riskgenius.com/) 
  
-Founded: 0.0; Region: United States, Kansas; Employees: 4
+Founded: 0; Region: United States, Kansas; Employees: 4
  
 Insurance (InsurTech) | Regulatory compliance
  
@@ -6158,9 +6158,9 @@ Insurance (InsurTech) | Regulatory compliance
  
  
  
-### [Clone Algo](http://www.clonealgo.us) 
+ &nbsp##### [Clone Algo](http://www.clonealgo.us) 
  
-Founded: 0.0; Region: Singapore, Central Singapore; Employees: 9
+Founded: 0; Region: Singapore, Central Singapore; Employees: 9
  
 Insurance (InsurTech) | Financial Analytics Platform
  
@@ -6168,29 +6168,29 @@ Insurance (InsurTech) | Financial Analytics Platform
  
  
  
-### [Acuity Trading](http://www.acuitytrading.com) 
+ &nbsp##### [Acuity Trading](http://www.acuitytrading.com) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 2
+Founded: 2013; Region: United Kingdom, England; Employees: 2
  
-Data gathering | Data gathering | Data gathering
+Data gathering
  
 [Twitter](https://www.twitter.com/acuitytrading), [Facebook](https://www.facebook.com/acuitytradingltd), [Website](http://www.acuitytrading.com), [Video](https://www.youtube.com/watch?v=maAih9BtQWI), [Email](info@acuitytrading.com)
  
  
  
-### [Zeitgold](https://www.zeitgold.com/) 
+ &nbsp##### [Zeitgold](https://www.zeitgold.com/) 
  
-Founded: 2015.0; Region: Germany, Berlin; Employees: 21
+Founded: 2015; Region: Germany, Berlin; Employees: 21
  
-Expense reporting | Expense reporting | Expense reporting
+Expense reporting
  
 [LinkedIn](https://www.linkedin.com/company/zeitgold), [Facebook](https://www.facebook.com/zeitgoldberlin/), [Website](https://www.zeitgold.com/), [Email](info@zeitgold.com)
  
  
  
-### [ComplyAdvantage](https://complyadvantage.com) 
+ &nbsp##### [ComplyAdvantage](https://complyadvantage.com) 
  
-Founded: 2014.0; Region: United States, New York; Employees: 55
+Founded: 2014; Region: United States, New York; Employees: 55
  
 Fraud Detection | Regulatory compliance
  
@@ -6198,9 +6198,9 @@ Fraud Detection | Regulatory compliance
  
  
  
-### [Skytree](http://www.skytree.net) 
+ &nbsp##### [Skytree](http://www.skytree.net) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
 Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial Analytics Platform | Data gathering
  
@@ -6208,9 +6208,9 @@ Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial
  
  
  
-### [Lucena Research](http://lucenaresearch.com) 
+ &nbsp##### [Lucena Research](http://lucenaresearch.com) 
  
-Founded: 2011.0; Region: United States, Georgia; Employees: 9
+Founded: 2011; Region: United States, Georgia; Employees: 9
  
 3rd party data | Financial Analytics Platform
  
@@ -6218,19 +6218,19 @@ Founded: 2011.0; Region: United States, Georgia; Employees: 9
  
  
  
-### [BehavioSec](http://www.behaviosec.com) 
+ &nbsp##### [BehavioSec](http://www.behaviosec.com) 
  
-Founded: 2007.0; Region: Sweden, Stockholm; Employees: 24
+Founded: 2007; Region: Sweden, Stockholm; Employees: 24
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/BehavioSec), [LinkedIn](http://www.linkedin.com/company/behaviosec), [Facebook](https://www.facebook.com/behaviosec), [Website](http://www.behaviosec.com), [Video](https://www.youtube.com/watch?v=-3gdjE7lxso), [Email](info@behaviosec.com)
  
  
  
-### [Cortical.io](http://www.cortical.io) 
+ &nbsp##### [Cortical.io](http://www.cortical.io) 
  
-Founded: 2011.0; Region: Austria, Vienna; Employees: 15
+Founded: 2011; Region: Austria, Vienna; Employees: 15
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -6238,9 +6238,9 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
  
  
-### [SigOpt](https://sigopt.com/) 
+ &nbsp##### [SigOpt](https://sigopt.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 8
+Founded: 2014; Region: United States, California; Employees: 8
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -6248,9 +6248,9 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
  
  
-### [Sentient Technologies](http://Sentient.Ai) 
+ &nbsp##### [Sentient Technologies](http://Sentient.Ai) 
  
-Founded: 2007.0; Region: United States, California; Employees: 108
+Founded: 2007; Region: United States, California; Employees: 108
  
 Analytics platform | Financial Analytics Platform
  
@@ -6258,9 +6258,9 @@ Analytics platform | Financial Analytics Platform
  
  
  
-### [Opera Solutions](http://www.operasolutions.com) 
+ &nbsp##### [Opera Solutions](http://www.operasolutions.com) 
  
-Founded: 2004.0; Region: United States, New Jersey; Employees: 609
+Founded: 2004; Region: United States, New Jersey; Employees: 609
  
 Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -6268,19 +6268,19 @@ Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
  
  
-### [Cape Analytics](https://capeanalytics.com/) 
+ &nbsp##### [Cape Analytics](https://capeanalytics.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 21
+Founded: 2014; Region: United States, California; Employees: 21
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [LinkedIn](https://www.linkedin.com/company/cape-analytics-inc), [Website](https://capeanalytics.com/), [Video](https://www.youtube.com/watch?v=LKjq0t85Y0g), 
  
  
  
-### [iSENTIUM](http://www.isentium.com) 
+ &nbsp##### [iSENTIUM](http://www.isentium.com) 
  
-Founded: 2010.0; Region: United States, Florida; Employees: 15
+Founded: 2010; Region: United States, Florida; Employees: 15
  
 Social media monitoring | Financial Analytics Platform | Data gathering
  
@@ -6288,19 +6288,19 @@ Social media monitoring | Financial Analytics Platform | Data gathering
  
  
  
-### [CreditVidya](http://www.creditvidya.com/) 
+ &nbsp##### [CreditVidya](http://www.creditvidya.com/) 
  
-Founded: 2012.0; Region: India, Maharashtra; Employees: 57
+Founded: 2012; Region: India, Maharashtra; Employees: 57
  
-Credit Lending / Scoring | Credit Lending / Scoring | Credit Lending / Scoring
+Credit Lending / Scoring
  
 [Twitter](https://twitter.com/creditvidya), [LinkedIn](https://www.linkedin.com/company/creditvidya), [Facebook](https://www.facebook.com/creditvidya), [Website](http://www.creditvidya.com/), [Email](info@creditvidya.com)
  
  
  
-### [Orbital Insight](http://www.orbitalinsight.com/) 
+ &nbsp##### [Orbital Insight](http://www.orbitalinsight.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 80
+Founded: 2013; Region: United States, California; Employees: 80
  
 Inventory & supply chain optimization | Geo-analytics platform | Insurance (InsurTech)
  
@@ -6308,49 +6308,49 @@ Inventory & supply chain optimization | Geo-analytics platform | Insurance (Insu
  
  
  
-### [Creamfinance](https://www.creamfinance.com/) 
+ &nbsp##### [Creamfinance](https://www.creamfinance.com/) 
  
-Founded: 2012.0; Region: Poland, Mazovia; Employees: 92
+Founded: 2012; Region: Poland, Mazovia; Employees: 92
  
-Credit Lending / Scoring | Credit Lending / Scoring | Credit Lending / Scoring
+Credit Lending / Scoring
  
 [Twitter](https://twitter.com/creamfinance), [LinkedIn](http://www.linkedin.com/company/creamfinance), [Website](https://www.creamfinance.com/), [Video](https://www.youtube.com/watch?v=edZxmWvws-w), [Email](info@creamfinance.com)
  
  
  
-### [Cleo](https://www.meetcleo.com) 
+ &nbsp##### [Cleo](https://www.meetcleo.com) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 5
+Founded: 2015; Region: United Kingdom, England; Employees: 5
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](https://twitter.com/meet_cleo), [LinkedIn](https://www.linkedin.com/company/cleo-ai), [Facebook](https://www.facebook.com/meetcleo), [Website](https://www.meetcleo.com), [Video](https://www.youtube.com/watch?v=1quDVPziC8g), 
  
  
  
-### [Feedzai](http://www.feedzai.com) 
+ &nbsp##### [Feedzai](http://www.feedzai.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 168
+Founded: 2009; Region: United States, California; Employees: 168
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/feedzai), [LinkedIn](https://www.linkedin.com/company/feedzai), [Facebook](https://www.facebook.com/feedzai), [Website](http://www.feedzai.com), [Video](https://www.youtube.com/watch?v=PWw3-kPIObI), [Email](info@feedzai.com)
  
  
  
-### [Socure](http://www.socure.com) 
+ &nbsp##### [Socure](http://www.socure.com) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 34
+Founded: 2012; Region: United States, New York; Employees: 34
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/socureme), [LinkedIn](http://www.linkedin.com/company/socure), [Facebook](http://www.facebook.com/socure), [Website](http://www.socure.com), [Video](https://www.youtube.com/watch?v=1MXxEaCd3BQ), [Email](info@socure.com)
  
  
  
-### [WorkFusion](http://www.workfusion.com/) 
+ &nbsp##### [WorkFusion](http://www.workfusion.com/) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 140
+Founded: 2010; Region: United States, New York; Employees: 140
  
 Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
@@ -6358,9 +6358,9 @@ Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
  
  
-### [Paxata](http://www.paxata.com) 
+ &nbsp##### [Paxata](http://www.paxata.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 116
+Founded: 2012; Region: United States, California; Employees: 116
  
 Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial Analytics Platform | Regulatory compliance | Data gathering | Patient data analytics
  
@@ -6368,49 +6368,49 @@ Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial 
  
  
  
-### [Clarity Money](http://www.claritymoney.com) 
+ &nbsp##### [Clarity Money](http://www.claritymoney.com) 
  
-Founded: 2016.0; Region: United States, New York; Employees: 21
+Founded: 2016; Region: United States, New York; Employees: 21
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](https://twitter.com/claritymoney), [LinkedIn](https://www.linkedin.com/company/clarity-money), [Facebook](https://www.facebook.com/claritymoney/), [Website](http://www.claritymoney.com), [Video](https://www.youtube.com/watch?v=m1jeXEP2HYw), 
  
  
  
-### [Aire](http://aire.io) 
+ &nbsp##### [Aire](http://aire.io) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 18
+Founded: 2014; Region: United Kingdom, England; Employees: 18
  
-Credit Lending / Scoring | Credit Lending / Scoring | Credit Lending / Scoring
+Credit Lending / Scoring
  
 [Twitter](http://twitter.com/AireScore), [LinkedIn](http://www.linkedin.com/company/aire-io), [Facebook](http://www.facebook.com/airescore), [Website](http://aire.io), [Email](partners@aire.io)
  
  
  
-### [Kensho](https://www.kensho.com) 
+ &nbsp##### [Kensho](https://www.kensho.com) 
  
-Founded: 2013.0; Region: United States, Massachusetts; Employees: 83
+Founded: 2013; Region: United States, Massachusetts; Employees: 83
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Twitter](https://twitter.com/kensho), [LinkedIn](https://www.linkedin.com/company/kensh-technologies), [Website](https://www.kensho.com), [Video](https://www.youtube.com/watch?v=dCIvN7wnsYo), [Email](info@kensho.com)
  
  
  
-### [SmartZip Analytics](http://www.SmartZip.com) 
+ &nbsp##### [SmartZip Analytics](http://www.SmartZip.com) 
  
-Founded: 0.0; Region: United States, California; Employees: 176
+Founded: 0; Region: United States, California; Employees: 176
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Website](http://www.SmartZip.com), [Video](https://www.youtube.com/watch?v=qlSmuXdjtlU), 
  
  
  
-### [Trooly](http://troo.ly) 
+ &nbsp##### [Trooly](http://troo.ly) 
  
-Founded: 2014.0; Region: United States, California; Employees: 20
+Founded: 2014; Region: United States, California; Employees: 20
  
 Fraud Detection | Regulatory compliance
  
@@ -6418,19 +6418,19 @@ Fraud Detection | Regulatory compliance
  
  
  
-### [Applied Data Finance](http://www.applieddatafinance.com/) 
+ &nbsp##### [Applied Data Finance](http://www.applieddatafinance.com/) 
  
-Founded: 2014.0; Region: United States, New York; Employees: 76
+Founded: 2014; Region: United States, New York; Employees: 76
  
-Credit Lending / Scoring | Credit Lending / Scoring | Credit Lending / Scoring
+Credit Lending / Scoring
  
 [Website](http://www.applieddatafinance.com/), [Email](contact@applieddatafinance.com)
  
  
  
-### [indico data solutions](http://indico.io) 
+ &nbsp##### [indico data solutions](http://indico.io) 
  
-Founded: 2013.0; Region: United States, Massachusetts; Employees: 15
+Founded: 2013; Region: United States, Massachusetts; Employees: 15
  
 Image recognition library/SDK/API | Data gathering
  
@@ -6438,9 +6438,9 @@ Image recognition library/SDK/API | Data gathering
  
  
  
-### [Descartes Labs](http://www.descarteslabs.com/) 
+ &nbsp##### [Descartes Labs](http://www.descarteslabs.com/) 
  
-Founded: 2014.0; Region: United States, New Mexico; Employees: 37
+Founded: 2014; Region: United States, New Mexico; Employees: 37
  
 Geo-analytics platform | Data gathering
  
@@ -6448,9 +6448,9 @@ Geo-analytics platform | Data gathering
  
  
  
-### [Shift Technology](http://www.shift-technology.com/) 
+ &nbsp##### [Shift Technology](http://www.shift-technology.com/) 
  
-Founded: 2013.0; Region: France, Île-de-France; Employees: 61
+Founded: 2013; Region: France, Île-de-France; Employees: 61
  
 Fraud Detection | Insurance (InsurTech)
  
@@ -6458,9 +6458,9 @@ Fraud Detection | Insurance (InsurTech)
  
  
  
-### [ZestFinance](http://zestfinance.com) 
+ &nbsp##### [ZestFinance](http://zestfinance.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 85
+Founded: 2009; Region: United States, California; Employees: 85
  
 Financial Analytics Platform | Credit Lending / Scoring
  
@@ -6468,9 +6468,9 @@ Financial Analytics Platform | Credit Lending / Scoring
  
  
  
-### [Rimilia](https://www.rimilia.com/) 
+ &nbsp##### [Rimilia](https://www.rimilia.com/) 
  
-Founded: 2008.0; Region: United Kingdom, England; Employees: 90
+Founded: 2008; Region: United Kingdom, England; Employees: 90
  
 Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulatory compliance | Debt Collection
  
@@ -6478,9 +6478,9 @@ Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulato
  
  
  
-### [Legion Technologies](https://legion.co/) 
+ &nbsp##### [Legion Technologies](https://legion.co/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 25
+Founded: 2016; Region: United States, California; Employees: 25
  
 Performance management | HR retention management | HR analytics | Employee Monitoring | Regulatory compliance
  
@@ -6488,9 +6488,9 @@ Performance management | HR retention management | HR analytics | Employee Monit
  
  
  
-### [PredicSis](http://predicsis.ai) 
+ &nbsp##### [PredicSis](http://predicsis.ai) 
  
-Founded: 2013.0; Region: France, Brittany; Employees: 17
+Founded: 2013; Region: France, Brittany; Employees: 17
  
 Fraud Detection | Credit Lending / Scoring
  
@@ -6498,9 +6498,9 @@ Fraud Detection | Credit Lending / Scoring
  
  
  
-### [Dimebox](https://dimebox.com/) 
+ &nbsp##### [Dimebox](https://dimebox.com/) 
  
-Founded: 2014.0; Region: Netherlands, North Holland; Employees: 32
+Founded: 2014; Region: Netherlands, North Holland; Employees: 32
  
 Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -6508,9 +6508,9 @@ Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory
  
  
  
-### [Bigstream Solutions](http://bigstream.co/) 
+ &nbsp##### [Bigstream Solutions](http://bigstream.co/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 15
+Founded: 2015; Region: United States, California; Employees: 15
  
 Analytics platform | Fraud Detection
  
@@ -6518,29 +6518,29 @@ Analytics platform | Fraud Detection
  
  
  
-### [Algoriz](https://algoriz.com/) 
+ &nbsp##### [Algoriz](https://algoriz.com/) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 2
+Founded: 2015; Region: United States, New York; Employees: 2
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [LinkedIn](https://www.linkedin.com/company-beta/18030451/), [Website](https://algoriz.com/), 
  
  
  
-### [Understory](http://understoryweather.com) 
+ &nbsp##### [Understory](http://understoryweather.com) 
  
-Founded: 2012.0; Region: United States, Massachusetts; Employees: 17
+Founded: 2012; Region: United States, Massachusetts; Employees: 17
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://twitter.com/UnderstoryWx), [LinkedIn](http://www.linkedin.com/company/2951959), [Facebook](http://www.facebook.com/SubsidenceInc), [Website](http://understoryweather.com), [Video](https://www.youtube.com/watch?v=FqHg_Wqfqus), [Email](info@understoryweather.com)
  
  
  
-### [FeedStock](https://feedstock.com/) 
+ &nbsp##### [FeedStock](https://feedstock.com/) 
  
-Founded: 2015.0; Region: United Kingdom, England; Employees: 12
+Founded: 2015; Region: United Kingdom, England; Employees: 12
  
 Financial Analytics Platform | Regulatory compliance | Data gathering
  
@@ -6548,329 +6548,329 @@ Financial Analytics Platform | Regulatory compliance | Data gathering
  
  
  
-### [Captricity](http://captricity.com) 
+ &nbsp##### [Captricity](http://captricity.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 77
+Founded: 2011; Region: United States, California; Employees: 77
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://twitter.com/captricity), [LinkedIn](http://www.linkedin.com/company/captricity), [Facebook](http://www.facebook.com/captricity), [Website](http://captricity.com), [Video](https://www.youtube.com/watch?v=WWEMwC_MqB4), [Email](hello@captricity.com)
  
  
  
-### [Zendrive](http://www.zendrive.com) 
+ &nbsp##### [Zendrive](http://www.zendrive.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 65
+Founded: 2013; Region: United States, California; Employees: 65
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://twitter.com/zendrive), [LinkedIn](http://www.linkedin.com/company/zendrive), [Facebook](http://www.facebook.com/getzendrive), [Website](http://www.zendrive.com), [Email](info@zendrive.com)
  
  
  
-### [ForwardLane](http://www.forwardlane.com) 
+ &nbsp##### [ForwardLane](http://www.forwardlane.com) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 13
+Founded: 2015; Region: United States, New York; Employees: 13
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Twitter](https://twitter.com/Forward_Lane), [LinkedIn](https://www.linkedin.com/company/10452735), [Website](http://www.forwardlane.com), [Video](https://www.youtube.com/watch?v=2oh_pPHwPA8), 
  
  
  
-### [Cyence](https://www.cyence.net/) 
+ &nbsp##### [Cyence](https://www.cyence.net/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 65
+Founded: 2014; Region: United States, California; Employees: 65
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://twitter.com/CyencePlatform), [LinkedIn](https://www.linkedin.com/company/cyence), [Website](https://www.cyence.net/), [Email](contact@cyence.net)
  
  
  
-### [Trumid Financial](https://www.trumid.com/) 
+ &nbsp##### [Trumid Financial](https://www.trumid.com/) 
  
-Founded: 2014.0; Region: United States, New York; Employees: 48
+Founded: 2014; Region: United States, New York; Employees: 48
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [LinkedIn](https://www.linkedin.com/company/trumid), [Website](https://www.trumid.com/), [Email](info@trumid.com)
  
  
  
-### [Homebot](http://homebot.ai/) 
+ &nbsp##### [Homebot](http://homebot.ai/) 
  
-Founded: 2015.0; Region: United States, Colorado; Employees: 6
+Founded: 2015; Region: United States, Colorado; Employees: 6
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](https://twitter.com/homebotapp), [LinkedIn](https://www.linkedin.com/company/homebot), [Facebook](https://www.facebook.com/homebotapp/), [Website](http://homebot.ai/), 
  
  
  
-### [Active.ai](http://active.ai/) 
+ &nbsp##### [Active.ai](http://active.ai/) 
  
-Founded: 2016.0; Region: Singapore, Central Singapore; Employees: 30
+Founded: 2016; Region: Singapore, Central Singapore; Employees: 30
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](https://twitter.com/activeaibot), [LinkedIn](https://www.linkedin.com/company/active-intelligence-pte-ltd), [Facebook](https://en-gb.facebook.com/active.ai.9), [Website](http://active.ai/), 
  
  
  
-### [Aidyia](http://www.aidyia.com) 
+ &nbsp##### [Aidyia](http://www.aidyia.com) 
  
-Founded: 0.0; Region: Hong Kong, Central and Western; Employees: 7
+Founded: 0; Region: Hong Kong, Central and Western; Employees: 7
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Website](http://www.aidyia.com), 
  
  
  
-### [Binatix](http://www.binatix.com) 
+ &nbsp##### [Binatix](http://www.binatix.com) 
  
-Founded: 0.0; Region: United States, California; Employees: 5
+Founded: 0; Region: United States, California; Employees: 5
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [LinkedIn](https://www.linkedin.com/company-beta/930454/), [Website](http://www.binatix.com), [Email](info@binatix.com)
  
  
  
-### [Fortia Financial Solutions](http://fortia.fr) 
+ &nbsp##### [Fortia Financial Solutions](http://fortia.fr) 
  
-Founded: 2012.0; Region: France, Île-de-France; Employees: 19
+Founded: 2012; Region: France, Île-de-France; Employees: 19
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](https://twitter.com/fortia_s), [LinkedIn](https://www.linkedin.com/company/fortia-financial-solutions), [Website](http://fortia.fr), [Email](contact@fortia.fr)
  
  
  
-### [TrueAccord](https://www.trueaccord.com) 
+ &nbsp##### [TrueAccord](https://www.trueaccord.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 51
+Founded: 2013; Region: United States, California; Employees: 51
  
-Debt Collection | Debt Collection | Debt Collection
+Debt Collection
  
 [Twitter](http://twitter.com/trueaccord), [LinkedIn](https://www.linkedin.com/company/trueaccord), [Facebook](http://www.facebook.com/TrueAccord), [Website](https://www.trueaccord.com), 
  
  
  
-### [collectAI](http://www.collect.ai/) 
+ &nbsp##### [collectAI](http://www.collect.ai/) 
  
-Founded: 2016.0; Region: Germany, Hamburg; Employees: 23
+Founded: 2016; Region: Germany, Hamburg; Employees: 23
  
-Debt Collection | Debt Collection | Debt Collection
+Debt Collection
  
 [Twitter](http://www.twitter.com/collectAI), [LinkedIn](https://www.linkedin.com/company-beta/10567750/), [Facebook](http://www.facebook.com/collectAI), [Website](http://www.collect.ai/), [Email](info@collect.ai)
  
  
  
-### [Fraugster](https://fraugster.com/) 
+ &nbsp##### [Fraugster](https://fraugster.com/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 24
+Founded: 2014; Region: United Kingdom, England; Employees: 24
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](https://twitter.com/fraugster), [LinkedIn](https://www.linkedin.com/company/fraugster), [Facebook](https://www.facebook.com/fraugster), [Website](https://fraugster.com/), [Video](https://vimeo.com/174329336), 
  
  
  
-### [Polly Portfolio](https://www.pollyport.com) 
+ &nbsp##### [Polly Portfolio](https://www.pollyport.com) 
  
-Founded: 0.0; Region: United States, New York; Employees: 0
+Founded: 0; Region: United States, New York; Employees: 0
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Website](https://www.pollyport.com), [Video](https://www.youtube.com/watch?v=OTUEauWhO3E), 
  
  
  
-### [Enter](http://enter.financial) 
+ &nbsp##### [Enter](http://enter.financial) 
  
-Founded: 2013.0; Region: United States, California; Employees: 0
+Founded: 2013; Region: United States, California; Employees: 0
  
-Billing | Billing | Billing
+Billing
  
 [Twitter](https://www.twitter.com/enterhq), [Website](http://enter.financial), [Video](https://www.youtube.com/watch?v=_ItXfC0DTac), [Email](support@enter.financial)
  
  
  
-### [Transactis](http://www.transactis.com) 
+ &nbsp##### [Transactis](http://www.transactis.com) 
  
-Founded: 2001.0; Region: United States, New York; Employees: 0
+Founded: 2001; Region: United States, New York; Employees: 0
  
-Billing | Billing | Billing
+Billing
  
 [Twitter](https://twitter.com/TransactisUS), [LinkedIn](http://www.linkedin.com/company/transactis_2), [Website](http://www.transactis.com), [Video](https://www.youtube.com/watch?v=s0lHlcXhCdw), [Email](info@transactis.com)
  
  
  
-### [PayNearMe](http://www.paynearme.com) 
+ &nbsp##### [PayNearMe](http://www.paynearme.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 0
+Founded: 2009; Region: United States, California; Employees: 0
  
-Billing | Billing | Billing
+Billing
  
 [Twitter](http://twitter.com/PayNearMe), [LinkedIn](http://www.linkedin.com/company/1137260), [Facebook](http://www.facebook.com/PayNearMe), [Website](http://www.paynearme.com), [Video](https://www.youtube.com/watch?v=5SnEiN-Fqno), [Email](info@paynearme.com)
  
  
  
-### [AlgoDynamix](http://www.algodynamix.com) 
+ &nbsp##### [AlgoDynamix](http://www.algodynamix.com) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 4
+Founded: 2014; Region: United Kingdom, England; Employees: 4
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Twitter](https://www.twitter.com/algodynamix), [LinkedIn](https://www.linkedin.com/company/algodynamix), [Website](http://www.algodynamix.com), [Video](https://www.youtube.com/watch?v=J0JH-joMjfQ), 
  
  
  
-### [Brolly](http://www.heybrolly.com) 
+ &nbsp##### [Brolly](http://www.heybrolly.com) 
  
-Founded: 2016.0; Region: United Kingdom, England; Employees: 0
+Founded: 2016; Region: United Kingdom, England; Employees: 0
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://www.twitter.com/heybrolly), [LinkedIn](https://www.linkedin.com/company/10206742?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10206742%2Cidx%3A2-1-2%2CtarId%3A1469612166813%2Ctas%3Abrolly), [Website](http://www.heybrolly.com), 
  
  
  
-### [Featurespace](http://www.featurespace.co.uk) 
+ &nbsp##### [Featurespace](http://www.featurespace.co.uk) 
  
-Founded: 2008.0; Region: United Kingdom, England; Employees: 75
+Founded: 2008; Region: United Kingdom, England; Employees: 75
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/FeaturespaceLtd), [LinkedIn](https://www.linkedin.com/company/featurespace), [Facebook](https://www.facebook.com/featurespace-196112120442254), [Website](http://www.featurespace.co.uk), [Email](info@featurespace.com)
  
  
  
-### [Zelros](http://www.zelros.com/) 
+ &nbsp##### [Zelros](http://www.zelros.com/) 
  
-Founded: 2016.0; Region: France, Île-de-France; Employees: 12
+Founded: 2016; Region: France, Île-de-France; Employees: 12
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://twitter.com/zelrosAI), [LinkedIn](https://www.linkedin.com/company/zelros), [Website](http://www.zelros.com/), 
  
  
  
-### [Forter](http://www.forter.com) 
+ &nbsp##### [Forter](http://www.forter.com) 
  
-Founded: 2013.0; Region: United States, New York; Employees: 76
+Founded: 2013; Region: United States, New York; Employees: 76
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/forterfraudfree), [LinkedIn](http://www.linkedin.com/company/forter), [Facebook](http://www.facebook.com/pages/Forter/390562221081226), [Website](http://www.forter.com), [Email](info@forter.com)
  
  
  
-### [SamurAI](http://samurai.finance/) 
+ &nbsp##### [SamurAI](http://samurai.finance/) 
  
-Founded: None; Region: Israel, Tel Aviv; Employees: 0
+Founded: Unknown; Region: Israel, Tel Aviv; Employees: 0
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Website](http://samurai.finance/), 
  
  
  
-### [FeedVisor](http://feedvisor.com) 
+ &nbsp##### [FeedVisor](http://feedvisor.com) 
  
-Founded: 2011.0; Region: United States, New York; Employees: 176
+Founded: 2011; Region: United States, New York; Employees: 176
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](http://twitter.com/feedvisor), [LinkedIn](http://www.linkedin.com/company/feedvisor), [Facebook](http://www.facebook.com/feedvisor), [Website](http://feedvisor.com), [Email](info@feedvisor.com)
  
  
  
-### [Driveway](http://driveway.ai) 
+ &nbsp##### [Driveway](http://driveway.ai) 
  
-Founded: 2011.0; Region: United States, California; Employees: 26
+Founded: 2011; Region: United States, California; Employees: 26
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://twitter.com/drivewayinc), [LinkedIn](http://www.linkedin.com/company/driveway-software), [Facebook](http://www.facebook.com/drivewaysoft), [Website](http://driveway.ai), [Email](info@driveway.ai)
  
  
  
-### [ThetaRay](http://www.thetaray.com) 
+ &nbsp##### [ThetaRay](http://www.thetaray.com) 
  
-Founded: 2013.0; Region: Israel, Jerusalem; Employees: 26
+Founded: 2013; Region: Israel, Jerusalem; Employees: 26
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://twitter.com/ThetaRayTeam), [LinkedIn](http://www.linkedin.com/company/thetaray), [Facebook](http://www.facebook.com/thetaray), [Website](http://www.thetaray.com), [Email](info@ThetaRay.com)
  
  
  
-### [Lemonade](http://www.lemonade.com) 
+ &nbsp##### [Lemonade](http://www.lemonade.com) 
  
-Founded: 2015.0; Region: United States, New York; Employees: 26
+Founded: 2015; Region: United States, New York; Employees: 26
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://twitter.com/lemonade_inc), [LinkedIn](https://www.linkedin.com/company-beta/1201453), [Facebook](https://www.facebook.com/Lemonade), [Website](http://www.lemonade.com), 
  
  
  
-### [Riskified](https://www.riskified.com/) 
+ &nbsp##### [Riskified](https://www.riskified.com/) 
  
-Founded: 2012.0; Region: Israel, Tel Aviv; Employees: 176
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 176
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/Riskified), [LinkedIn](https://www.linkedin.com/company/riskified), [Facebook](https://www.facebook.com/pages/Riskified/476715575798818), [Website](https://www.riskified.com/), [Email](sales@riskified.com)
  
  
  
-### [RevenueStream](http://www.revenue-stream.com/) 
+ &nbsp##### [RevenueStream](http://www.revenue-stream.com/) 
  
-Founded: 2012.0; Region: Israel, Tel Aviv; Employees: 26
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 26
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [LinkedIn](http://www.linkedin.com/company/revenuestream), [Website](http://www.revenue-stream.com/), 
  
  
  
-### [Evercompliant](http://www.evercompliant.com/) 
+ &nbsp##### [Evercompliant](http://www.evercompliant.com/) 
  
-Founded: 2007.0; Region: Israel, Tel Aviv; Employees: 26
+Founded: 2007; Region: Israel, Tel Aviv; Employees: 26
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://twitter.com/evercompliant), [LinkedIn](http://www.linkedin.com/company/2154803), [Facebook](https://www.facebook.com/evercompliant/), [Website](http://www.evercompliant.com/), [Email](info@evercompliant.com)
  
  
  
-### [Atidot](http://atidot.com/) 
+ &nbsp##### [Atidot](http://atidot.com/) 
  
-Founded: None; Region: Israel, Tel Aviv; Employees: 0
+Founded: Unknown; Region: Israel, Tel Aviv; Employees: 0
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://twitter.com/atidotisrael), [LinkedIn](https://www.linkedin.com/company/atidot), [Website](http://atidot.com/), 
  
  
  
-### [Zighra](http://www.zighra.com) 
+ &nbsp##### [Zighra](http://www.zighra.com) 
  
-Founded: 2009.0; Region: Canada, Ontario; Employees: 5
+Founded: 2009; Region: Canada, Ontario; Employees: 5
  
-Fraud Detection | Fraud Detection | Fraud Detection
+Fraud Detection
  
 [Twitter](http://twitter.com/zfraudshield), [LinkedIn](https://www.linkedin.com/company/zighra), [Facebook](https://www.facebook.com/ZwypeLock/), [Website](http://www.zighra.com), 
  
  
  
-### [Vault](http://www.vaultml.com) 
+ &nbsp##### [Vault](http://www.vaultml.com) 
  
-Founded: 2015.0; Region: Israel, Tel Aviv; Employees: 0
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 0
  
 Marketing analytics | Financial Analytics Platform
  
@@ -6878,49 +6878,49 @@ Marketing analytics | Financial Analytics Platform
  
  
  
-### [Compit](http://360by360competition.com/) 
+ &nbsp##### [Compit](http://360by360competition.com/) 
  
-Founded: 2013.0; Region: Italy, Lombardy; Employees: 0
+Founded: 2013; Region: Italy, Lombardy; Employees: 0
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](https://www.twitter.com/360by360), [LinkedIn](https://www.linkedin.com/company/360by360-competition), [Facebook](https://www.facebook.com/360by360Competition), [Website](http://360by360competition.com/), 
  
  
  
-### [I Know First](http://www.iknowfirst.com) 
+ &nbsp##### [I Know First](http://www.iknowfirst.com) 
  
-Founded: 2009.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 25
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](http://twitter.com/i_Know_First), [LinkedIn](http://www.linkedin.com/company/i-know-first-daily-market-forecast), [Facebook](http://www.facebook.com/IKnowFirst.stock.market.forecast), [Website](http://www.iknowfirst.com), [Email](join@iknowfirst.com)
  
  
  
-### [TipRanks](http://www.tipranks.com) 
+ &nbsp##### [TipRanks](http://www.tipranks.com) 
  
-Founded: 2012.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 25
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](http://twitter.com/TipRanks), [LinkedIn](https://www.linkedin.com/company/tipranks), [Facebook](http://www.facebook.com/TipRanks), [Website](http://www.tipranks.com), [Email](info@tipranks.com)
  
  
  
-### [Meteo Logic](http://www.meteo-logic.com) 
+ &nbsp##### [Meteo Logic](http://www.meteo-logic.com) 
  
-Founded: 2011.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2011; Region: Israel, Tel Aviv; Employees: 25
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Twitter](http://twitter.com/meteologic), [LinkedIn](http://www.linkedin.com/company/meteo-logic), [Facebook](http://www.facebook.com/pages/Meteo-Logic-Weather-Forecasting-to), [Website](http://www.meteo-logic.com), [Email](info@meteo-logic.com)
  
  
  
-### [Amenity Analytics](http://amenityanalytics.com) 
+ &nbsp##### [Amenity Analytics](http://amenityanalytics.com) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
 Analytics platform | Robo-Advisory
  
@@ -6928,9 +6928,9 @@ Analytics platform | Robo-Advisory
  
  
  
-### [HouseCanary](http://www.housecanary.com) 
+ &nbsp##### [HouseCanary](http://www.housecanary.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 100
+Founded: 2014; Region: United States, California; Employees: 100
  
 Data preparation platform | Analytics platform | Geo-analytics platform | Robo-Advisory
  
@@ -6938,59 +6938,59 @@ Data preparation platform | Analytics platform | Geo-analytics platform | Robo-A
  
  
  
-### [Apiax](http://www.apiax.com) 
+ &nbsp##### [Apiax](http://www.apiax.com) 
  
-Founded: 2017.0; Region: Switzerland, Zurich; Employees: 5
+Founded: 2017; Region: Switzerland, Zurich; Employees: 5
  
-Regulatory compliance | Regulatory compliance | Regulatory compliance
+Regulatory compliance
  
 [Twitter](https://twitter.com/ApiaxCOM), [LinkedIn](https://www.linkedin.com/company/apiax), [Facebook](https://www.facebook.com/apiax/), [Website](http://www.apiax.com), 
  
  
  
-### [ SpotDraft](https://www.spotdraft.com/) 
+ &nbsp##### [ SpotDraft](https://www.spotdraft.com/) 
  
-Founded: 2017.0; Region: India, Uttar Pradesh; Employees: 5
+Founded: 2017; Region: India, Uttar Pradesh; Employees: 5
  
-Regulatory compliance | Regulatory compliance | Regulatory compliance
+Regulatory compliance
  
 [Twitter](https://twitter.com/spotdraftHQ), [LinkedIn](https://www.linkedin.com/company/13233729/), [Facebook](https://www.facebook.com/getspotdraft/), [Website](https://www.spotdraft.com/), 
  
  
  
-### [Pit.AI Technologies](https://www.pit.ai/) 
+ &nbsp##### [Pit.AI Technologies](https://www.pit.ai/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [LinkedIn](https://www.linkedin.com/company/pit.ai-technologies), [Website](https://www.pit.ai/), 
  
  
  
-### [Cerebellum Capital](http://www.cerebellumcapital.com) 
+ &nbsp##### [Cerebellum Capital](http://www.cerebellumcapital.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 5
+Founded: 2008; Region: United States, California; Employees: 5
  
-Robo-Advisory | Robo-Advisory | Robo-Advisory
+Robo-Advisory
  
 [Website](http://www.cerebellumcapital.com), 
  
  
  
-### [Fluid AI](http://fluid.ai) 
+ &nbsp##### [Fluid AI](http://fluid.ai) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Twitter](https://www.twitter.com/trutechwebs), [Facebook](https://www.facebook.com/trutechwebs), [Website](http://fluid.ai), 
  
  
  
-### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
+ &nbsp##### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-Founded: 2015.0; Region: India, Maharashtra; Employees: 25
+Founded: 2015; Region: India, Maharashtra; Employees: 25
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -6998,99 +6998,99 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
  
  
-### [InMyBag](https://inmybag.co/) 
+ &nbsp##### [InMyBag](https://inmybag.co/) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://www.twitter.com/inmybagbaby), [Facebook](https://www.facebook.com/pg/InMyBagBaby/about/?), [Website](https://inmybag.co/), 
  
  
  
-### [Cuvva](https://cuvva.com) 
+ &nbsp##### [Cuvva](https://cuvva.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://twitter.com/cuvva), [LinkedIn](https://www.linkedin.com/company/10361805), [Facebook](https://www.facebook.com/getcuvvad), [Website](https://cuvva.com), 
  
  
  
-### [Insly](http://insly.com) 
+ &nbsp##### [Insly](http://insly.com) 
  
-Founded: 2000.0; Region: United States, California; Employees: 25
+Founded: 2000; Region: United States, California; Employees: 25
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](http://twitter.com/insly_com), [LinkedIn](http://www.linkedin.com/company/insly), [Facebook](http://www.facebook.com/inslycom), [Website](http://insly.com), 
  
  
  
-### [RightIndem](http://rightindem.com/) 
+ &nbsp##### [RightIndem](http://rightindem.com/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 25
+Founded: 2016; Region: United States, California; Employees: 25
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://twitter.com/rightindem), [LinkedIn](https://www.linkedin.com/company/rightindem), [Facebook](https://www.facebook.com/rightindem/), [Website](http://rightindem.com/), 
  
  
  
-### [AI Labs](http://www.ailabs.co/#intro) 
+ &nbsp##### [AI Labs](http://www.ailabs.co/#intro) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
-Financial Analytics Platform | Financial Analytics Platform | Financial Analytics Platform
+Financial Analytics Platform
  
 [Twitter](https://twitter.com/ailabsinc), [LinkedIn](https://www.linkedin.com/company/artificial-intelligence-laboratories-inc-?trk=nav_account_sub_nav_company_admin), [Facebook](https://www.facebook.com/ailabsinc), [Website](http://www.ailabs.co/#intro), 
  
  
  
-### [Instanda](http://instanda.com/) 
+ &nbsp##### [Instanda](http://instanda.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Twitter](https://www.twitter.com/instandaf2x), [LinkedIn](https://www.linkedin.com/company/instanda), [Facebook](https://www.facebook.com/170553789716527), [Website](http://instanda.com/), 
  
  
  
-### [Galaxy.AI](http://www.galaxy.ai) 
+ &nbsp##### [Galaxy.AI](http://www.galaxy.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 5
+Founded: 2015; Region: United States, California; Employees: 5
  
-Insurance (InsurTech) | Insurance (InsurTech) | Insurance (InsurTech)
+Insurance (InsurTech)
  
 [Website](http://www.galaxy.ai), 
  
  
  
-### [RedCarpetUp](https://www.redcarpetup.com/) 
+ &nbsp##### [RedCarpetUp](https://www.redcarpetup.com/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
-Credit Lending / Scoring | Credit Lending / Scoring | Credit Lending / Scoring
+Credit Lending / Scoring
  
 [Twitter](https://twitter.com/redcarpetup), [LinkedIn](https://www.linkedin.com/company/9322676), [Facebook](https://www.facebook.com/redcarpetup), [Website](https://www.redcarpetup.com/), 
  
  
  
-### [MetricStream](http://metricstream.com) 
+ &nbsp##### [MetricStream](http://metricstream.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 750
+Founded: 1999; Region: United States, California; Employees: 750
  
-Regulatory compliance | Regulatory compliance | Regulatory compliance
+Regulatory compliance
  
 [Twitter](http://twitter.com/MetricStream), [LinkedIn](https://www.linkedin.com/company/metricstream), [Facebook](https://www.facebook.com/metricstream), [Website](http://metricstream.com), [Email](info@metricstream.com)
  
  
  
-### [Trifacta](http://trifacta.com) 
+ &nbsp##### [Trifacta](http://trifacta.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 122
+Founded: 2012; Region: United States, California; Employees: 122
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -7098,9 +7098,9 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
  
  
-### [Dataminr](http://www.dataminr.com) 
+ &nbsp##### [Dataminr](http://www.dataminr.com) 
  
-Founded: 2009.0; Region: United States, New York; Employees: 240
+Founded: 2009; Region: United States, New York; Employees: 240
  
 Social media monitoring | Social media optimization | Analytics platform | Data gathering
  
@@ -7108,9 +7108,9 @@ Social media monitoring | Social media optimization | Analytics platform | Data 
  
  
  
-### [CrossChx, Inc.](http://www.crosschx.com) 
+ &nbsp##### [CrossChx, Inc.](http://www.crosschx.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 80
+Founded: 2012; Region: United States, California; Employees: 80
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -7118,9 +7118,9 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
  
  
-### [Pegasystems](http://www.pega.com) 
+ &nbsp##### [Pegasystems](http://www.pega.com) 
  
-Founded: 1983.0; Region: United States, Massachusetts; Employees: 3527
+Founded: 1983; Region: United States, Massachusetts; Employees: 3527
  
 Robotic Process Automation (RPA) | Analytics platform
  
@@ -7128,9 +7128,9 @@ Robotic Process Automation (RPA) | Analytics platform
  
  
  
-### [RavenPack](http://ravenpack.com) 
+ &nbsp##### [RavenPack](http://ravenpack.com) 
  
-Founded: 2003.0; Region: United States, California; Employees: 65
+Founded: 2003; Region: United States, California; Employees: 65
  
 Analytics platform | Analytics Services | Data Visualization | Real-Time Analytics | Fraud Detection | Financial Analytics Platform
  
@@ -7138,9 +7138,9 @@ Analytics platform | Analytics Services | Data Visualization | Real-Time Analyti
  
  
  
-### [Anodot](http://www.anodot.com/) 
+ &nbsp##### [Anodot](http://www.anodot.com/) 
  
-Founded: 2014.0; Region: Israel, Central District; Employees: 38
+Founded: 2014; Region: Israel, Central District; Employees: 38
  
 Analytics platform | Financial Analytics Platform
  
@@ -7148,9 +7148,9 @@ Analytics platform | Financial Analytics Platform
  
  
  
-### [ActionIQ](http://actioniq.com) 
+ &nbsp##### [ActionIQ](http://actioniq.com) 
  
-Founded: 2014.0; Region: United States, New York; Employees: 37
+Founded: 2014; Region: United States, New York; Employees: 37
  
 Marketing analytics | Analytics platform
  
@@ -7158,9 +7158,9 @@ Marketing analytics | Analytics platform
  
  
  
-### [Alpine Data Labs](http://www.alpinedata.com) 
+ &nbsp##### [Alpine Data Labs](http://www.alpinedata.com) 
  
-Founded: 0.0; Region: United States, California; Employees: 49
+Founded: 0; Region: United States, California; Employees: 49
  
 Analytics platform | Financial Analytics Platform
  
@@ -7168,9 +7168,9 @@ Analytics platform | Financial Analytics Platform
  
  
  
-### [Salesforce](https://www.salesforce.com) 
+ &nbsp##### [Salesforce](https://www.salesforce.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 23343
+Founded: 1999; Region: United States, California; Employees: 23343
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -7178,9 +7178,9 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
  
  
-### [Luminoso](http://www.luminoso.com) 
+ &nbsp##### [Luminoso](http://www.luminoso.com) 
  
-Founded: 2010.0; Region: United States, Massachusetts; Employees: 45
+Founded: 2010; Region: United States, Massachusetts; Employees: 45
  
 Intelligent call routing | Call intent discovery | Survey & review analytics | Call classification | Analytics platform | Real-Time Analytics
  
@@ -7188,9 +7188,9 @@ Intelligent call routing | Call intent discovery | Survey & review analytics | C
  
  
  
-### [Arimo](https://arimo.com) 
+ &nbsp##### [Arimo](https://arimo.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 37
+Founded: 2012; Region: United States, California; Employees: 37
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -7198,9 +7198,9 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
  
  
-### [IBM Watson](http://www.ibm.com/) 
+ &nbsp##### [IBM Watson](http://www.ibm.com/) 
  
-Founded: 1911.0; Region: United States, New York; Employees: 2001
+Founded: 1911; Region: United States, New York; Employees: 2001
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -7208,9 +7208,9 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
  
  
-### [DataRobot](http://datarobot.com) 
+ &nbsp##### [DataRobot](http://datarobot.com) 
  
-Founded: 2012.0; Region: United States, Massachusetts; Employees: 206
+Founded: 2012; Region: United States, Massachusetts; Employees: 206
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform | Credit Lending / Scoring | Patient data analytics
  
@@ -7218,9 +7218,9 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
  
  
-### [H2O.ai](http://h2o.ai/) 
+ &nbsp##### [H2O.ai](http://h2o.ai/) 
  
-Founded: 2011.0; Region: United States, California; Employees: 77
+Founded: 2011; Region: United States, California; Employees: 77
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -7228,9 +7228,9 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
  
  
-### [deepsense.ai](http://deepsense.ai/) 
+ &nbsp##### [deepsense.ai](http://deepsense.ai/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 75
+Founded: 2014; Region: United States, California; Employees: 75
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -7238,9 +7238,9 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
  
  
-### [Senseye](http://www.senseye.io/) 
+ &nbsp##### [Senseye](http://www.senseye.io/) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 47
+Founded: 2014; Region: United Kingdom, England; Employees: 47
  
 Predictive maintenance | Analytics platform
  
@@ -7248,9 +7248,9 @@ Predictive maintenance | Analytics platform
  
  
  
-### [RapidMiner](http://www.rapidminer.com) 
+ &nbsp##### [RapidMiner](http://www.rapidminer.com) 
  
-Founded: 2007.0; Region: United States, Massachusetts; Employees: 90
+Founded: 2007; Region: United States, Massachusetts; Employees: 90
  
 Predictive maintenance | Analytics platform
  
@@ -7258,9 +7258,9 @@ Predictive maintenance | Analytics platform
  
  
  
-### [PurePredictive](http://www.purepredictive.com/) 
+ &nbsp##### [PurePredictive](http://www.purepredictive.com/) 
  
-Founded: 2011.0; Region: United States, Utah; Employees: 0
+Founded: 2011; Region: United States, Utah; Employees: 0
  
 Marketing analytics | Analytics platform
  
@@ -7268,19 +7268,19 @@ Marketing analytics | Analytics platform
  
  
  
-### [Angoss Software](http://angoss.com) 
+ &nbsp##### [Angoss Software](http://angoss.com) 
  
-Founded: 1984.0; Region: Canada, Ontario; Employees: 62
+Founded: 1984; Region: Canada, Ontario; Employees: 62
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/Angoss), [LinkedIn](http://www.linkedin.com/company/angoss-software), [Facebook](http://www.facebook.com/angossanalytics), [Website](http://angoss.com), [Email](info@angoss.com)
  
  
  
-### [Ripjar](https://ripjar.com) 
+ &nbsp##### [Ripjar](https://ripjar.com) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 25
+Founded: 2013; Region: United Kingdom, England; Employees: 25
  
 Analytics platform | Real-Time Analytics
  
@@ -7288,9 +7288,9 @@ Analytics platform | Real-Time Analytics
  
  
  
-### [Skytree](http://www.skytree.net) 
+ &nbsp##### [Skytree](http://www.skytree.net) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
 Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial Analytics Platform | Data gathering
  
@@ -7298,9 +7298,9 @@ Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial
  
  
  
-### [SigOpt](https://sigopt.com/) 
+ &nbsp##### [SigOpt](https://sigopt.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 8
+Founded: 2014; Region: United States, California; Employees: 8
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -7308,9 +7308,9 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
  
  
-### [Sentient Technologies](http://Sentient.Ai) 
+ &nbsp##### [Sentient Technologies](http://Sentient.Ai) 
  
-Founded: 2007.0; Region: United States, California; Employees: 108
+Founded: 2007; Region: United States, California; Employees: 108
  
 Analytics platform | Financial Analytics Platform
  
@@ -7318,9 +7318,9 @@ Analytics platform | Financial Analytics Platform
  
  
  
-### [Orbital Insight](http://www.orbitalinsight.com/) 
+ &nbsp##### [Orbital Insight](http://www.orbitalinsight.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 80
+Founded: 2013; Region: United States, California; Employees: 80
  
 Inventory & supply chain optimization | Geo-analytics platform | Insurance (InsurTech)
  
@@ -7328,9 +7328,9 @@ Inventory & supply chain optimization | Geo-analytics platform | Insurance (Insu
  
  
  
-### [Descartes Labs](http://www.descarteslabs.com/) 
+ &nbsp##### [Descartes Labs](http://www.descarteslabs.com/) 
  
-Founded: 2014.0; Region: United States, New Mexico; Employees: 37
+Founded: 2014; Region: United States, New Mexico; Employees: 37
  
 Geo-analytics platform | Data gathering
  
@@ -7338,9 +7338,9 @@ Geo-analytics platform | Data gathering
  
  
  
-### [AltexSoft](http://www.altexsoft.com) 
+ &nbsp##### [AltexSoft](http://www.altexsoft.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 200
+Founded: 2007; Region: United States, California; Employees: 200
  
 AI Consultancy | AI developer | Data cleaning&validation | Image recognition and visual analytics | Voice recognition and sound analytics | e-commerce analytics
  
@@ -7348,9 +7348,9 @@ AI Consultancy | AI developer | Data cleaning&validation | Image recognition and
  
  
  
-### [Sightcorp](http://www.sightcorp.com) 
+ &nbsp##### [Sightcorp](http://www.sightcorp.com) 
  
-Founded: 2013.0; Region: Netherlands, North Holland; Employees: 17
+Founded: 2013; Region: Netherlands, North Holland; Employees: 17
  
 Social analytics & automation | Deep learning library/SDK/API | Analytics platform
  
@@ -7358,9 +7358,9 @@ Social analytics & automation | Deep learning library/SDK/API | Analytics platfo
  
  
  
-### [Dimebox](https://dimebox.com/) 
+ &nbsp##### [Dimebox](https://dimebox.com/) 
  
-Founded: 2014.0; Region: Netherlands, North Holland; Employees: 32
+Founded: 2014; Region: Netherlands, North Holland; Employees: 32
  
 Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -7368,9 +7368,9 @@ Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory
  
  
  
-### [Sisense](http://www.sisense.com) 
+ &nbsp##### [Sisense](http://www.sisense.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 361
+Founded: 2010; Region: United States, New York; Employees: 361
  
 Predictive maintenance | Analytics platform
  
@@ -7378,9 +7378,9 @@ Predictive maintenance | Analytics platform
  
  
  
-### [Bigstream Solutions](http://bigstream.co/) 
+ &nbsp##### [Bigstream Solutions](http://bigstream.co/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 15
+Founded: 2015; Region: United States, California; Employees: 15
  
 Analytics platform | Fraud Detection
  
@@ -7388,29 +7388,29 @@ Analytics platform | Fraud Detection
  
  
  
-### [Domo](http://www.domo.com) 
+ &nbsp##### [Domo](http://www.domo.com) 
  
-Founded: 2010.0; Region: United States, Utah; Employees: 1046
+Founded: 2010; Region: United States, Utah; Employees: 1046
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/domotalk), [LinkedIn](http://www.linkedin.com/company/domo-inc.), [Facebook](http://www.facebook.com/domoHQ), [Website](http://www.domo.com), [Email](info@domo.com)
  
  
  
-### [Palantir Technologies](http://www.palantir.com) 
+ &nbsp##### [Palantir Technologies](http://www.palantir.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 1963
+Founded: 2004; Region: United States, California; Employees: 1963
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/palantirtech), [LinkedIn](http://www.linkedin.com/company/palantir-technologies), [Facebook](http://www.facebook.com/Palantir), [Website](http://www.palantir.com), 
  
  
  
-### [AbsolutData](http://www.absolutdata.com) 
+ &nbsp##### [AbsolutData](http://www.absolutdata.com) 
  
-Founded: 2000.0; Region: United States, California; Employees: 309
+Founded: 2000; Region: United States, California; Employees: 309
  
 Recommendation engine | Marketing analytics | Analytics platform
  
@@ -7418,59 +7418,59 @@ Recommendation engine | Marketing analytics | Analytics platform
  
  
  
-### [Gigster](https://gigster.com/) 
+ &nbsp##### [Gigster](https://gigster.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 189
+Founded: 2013; Region: United States, California; Employees: 189
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/trygigster), [LinkedIn](https://www.linkedin.com/company/6582187), [Facebook](https://www.facebook.com/TryGigster/timeline), [Website](https://gigster.com/), [Email](support@­gigster.com)
  
  
  
-### [BigML](http://bigml.com) 
+ &nbsp##### [BigML](http://bigml.com) 
  
-Founded: 2011.0; Region: United States, Oregon; Employees: 46
+Founded: 2011; Region: United States, Oregon; Employees: 46
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/bigmlcom), [LinkedIn](http://www.linkedin.com/company/bigml-inc), [Facebook](https://www.facebook.com/BigML-132819120114893/?fref=ts), [Website](http://bigml.com), [Email](info@bigml.com)
  
  
  
-### [Bonsai](http://bons.ai) 
+ &nbsp##### [Bonsai](http://bons.ai) 
  
-Founded: 2014.0; Region: United States, California; Employees: 39
+Founded: 2014; Region: United States, California; Employees: 39
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/bonsaiai), [LinkedIn](https://www.linkedin.com/company/bonsai-ai), [Facebook](https://www.facebook.com/bonsaiai), [Website](http://bons.ai), [Video](https://www.youtube.com/watch?v=6DGxiMnx2g8), [Email](info@bons.ai)
  
  
  
-### [Alation](http://alation.com/) 
+ &nbsp##### [Alation](http://alation.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 62
+Founded: 2012; Region: United States, California; Employees: 62
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/Alation), [LinkedIn](https://www.linkedin.com/company-beta/3231829/), [Website](http://alation.com/), [Email](info@alation.com)
  
  
  
-### [AYLIEN](http://aylien.com) 
+ &nbsp##### [AYLIEN](http://aylien.com) 
  
-Founded: 2012.0; Region: Ireland, Leinster; Employees: 5
+Founded: 2012; Region: Ireland, Leinster; Employees: 5
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/_aylien), [LinkedIn](http://www.linkedin.com/company/1195911), [Facebook](http://www.facebook.com/aylieninc), [Website](http://aylien.com), [Email](hello@aylien.com)
  
  
  
-### [IBM Bluemix](http://www.ibm.com/) 
+ &nbsp##### [IBM Bluemix](http://www.ibm.com/) 
  
-Founded: 1911.0; Region: United States, New York; Employees: 1343
+Founded: 1911; Region: United States, New York; Employees: 1343
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -7478,19 +7478,19 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
  
  
-### [Software AG](http://www.softwareag.com) 
+ &nbsp##### [Software AG](http://www.softwareag.com) 
  
-Founded: 1969.0; Region: Germany, Hesse; Employees: 3190
+Founded: 1969; Region: Germany, Hesse; Employees: 3190
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/SoftwareAG), [LinkedIn](https://www.linkedin.com/company/software-ag), [Facebook](https://www.facebook.com/SoftwareAG), [Website](http://www.softwareag.com), [Email](webinfo@softwareag.com)
  
  
  
-### [Infor](http://www.infor.com) 
+ &nbsp##### [Infor](http://www.infor.com) 
  
-Founded: 2002.0; Region: United States, New York; Employees: 15453
+Founded: 2002; Region: United States, New York; Employees: 15453
  
 Predictive maintenance | Analytics platform
  
@@ -7498,9 +7498,9 @@ Predictive maintenance | Analytics platform
  
  
  
-### [Recast.AI](https://recast.ai) 
+ &nbsp##### [Recast.AI](https://recast.ai) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 25
+Founded: 2015; Region: France, Île-de-France; Employees: 25
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -7508,39 +7508,39 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
  
  
-### [Quid](https://quid.com) 
+ &nbsp##### [Quid](https://quid.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 175
+Founded: 2010; Region: United States, California; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/quid), [LinkedIn](http://www.linkedin.com/companies/quid_2), [Facebook](http://www.facebook.com/Quid.Inc), [Website](https://quid.com), 
  
  
  
-### [KisanHub.com](http://www.kisanhub.com) 
+ &nbsp##### [KisanHub.com](http://www.kisanhub.com) 
  
-Founded: 2012.0; Region: United Kingdom, England; Employees: 25
+Founded: 2012; Region: United Kingdom, England; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/KisanHub), [LinkedIn](https://www.linkedin.com/company/arjun-technology-ventures-ltd-), [Facebook](https://www.facebook.com/kisanhub), [Website](http://www.kisanhub.com), 
  
  
  
-### [Tableau](http://www.tableau.com) 
+ &nbsp##### [Tableau](http://www.tableau.com) 
  
-Founded: 2003.0; Region: United States, Wisconsin; Employees: 3593
+Founded: 2003; Region: United States, Wisconsin; Employees: 3593
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/tableau), [LinkedIn](http://www.linkedin.com/company/tableau-software), [Facebook](http://www.facebook.com/tableausw), [Website](http://www.tableau.com), [Email](info@tableau.com)
  
  
  
-### [Logz.io](http://logz.io/) 
+ &nbsp##### [Logz.io](http://logz.io/) 
  
-Founded: 2014.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 25
  
 Analytics Services | Data Visualization
  
@@ -7548,39 +7548,39 @@ Analytics Services | Data Visualization
  
  
  
-### [Evolven](http://www.evolven.com) 
+ &nbsp##### [Evolven](http://www.evolven.com) 
  
-Founded: 2007.0; Region: United States, New Jersey; Employees: 25
+Founded: 2007; Region: United States, New Jersey; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/Evolven), [LinkedIn](https://www.linkedin.com/company/evolven-software), [Facebook](http://www.facebook.com/Evolven), [Website](http://www.evolven.com), [Email](info@evolven.com)
  
  
  
-### [Aera Technology](http://www.aeratechnology.com) 
+ &nbsp##### [Aera Technology](http://www.aeratechnology.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 175
+Founded: 1999; Region: United States, California; Employees: 175
  
-Conversational Analytics | Conversational Analytics | Conversational Analytics
+Conversational Analytics
  
 [Twitter](http://twitter.com/FusionOps), [LinkedIn](http://www.linkedin.com/company/fusionops), [Facebook](http://www.facebook.com/pages/FusionOps/151745298220803), [Website](http://www.aeratechnology.com), [Email](contact@aeratechnology.com)
  
  
  
-### [Publicis.Sapient](http://publicis.sapient.com/en-us.html) 
+ &nbsp##### [Publicis.Sapient](http://publicis.sapient.com/en-us.html) 
  
-Founded: 1990.0; Region: United States, Massachusetts; Employees: 10001
+Founded: 1990; Region: United States, Massachusetts; Employees: 10001
  
-Analytics Services | Analytics Services | Analytics Services
+Analytics Services
  
 [Twitter](https://www.twitter.com/sapientnitro), [Facebook](https://www.facebook.com/sapientnitro), [Website](http://publicis.sapient.com/en-us.html), 
  
  
  
-### [Looker](http://looker.com) 
+ &nbsp##### [Looker](http://looker.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 375
+Founded: 2011; Region: United States, California; Employees: 375
  
 Marketing analytics | Analytics platform
  
@@ -7588,119 +7588,119 @@ Marketing analytics | Analytics platform
  
  
  
-### [Nara Logics](http://www.naralogics.com) 
+ &nbsp##### [Nara Logics](http://www.naralogics.com) 
  
-Founded: 2011.0; Region: United States, Massachusetts; Employees: 25
+Founded: 2011; Region: United States, Massachusetts; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/NaraLogics), [LinkedIn](http://www.linkedin.com/company/nara-me), [Facebook](http://www.facebook.com/www.nara.me), [Website](http://www.naralogics.com), 
  
  
  
-### [Qlik Technologies](http://qlik.com/) 
+ &nbsp##### [Qlik Technologies](http://qlik.com/) 
  
-Founded: 1993.0; Region: United States, Pennsylvania; Employees: 3000
+Founded: 1993; Region: United States, Pennsylvania; Employees: 3000
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/Qlik), [LinkedIn](https://www.linkedin.com/company/qlik), [Facebook](https://www.facebook.com/qlik/), [Website](http://qlik.com/), 
  
  
  
-### [Nutonian](http://www.nutonian.com) 
+ &nbsp##### [Nutonian](http://www.nutonian.com) 
  
-Founded: 2011.0; Region: United States, Massachusetts; Employees: 25
+Founded: 2011; Region: United States, Massachusetts; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/eureqa), [LinkedIn](http://www.linkedin.com/company/3215662), [Website](http://www.nutonian.com), [Email](contact@nutonian.com)
  
  
  
-### [Plotly](https://plot.ly) 
+ &nbsp##### [Plotly](https://plot.ly) 
  
-Founded: 2013.0; Region: Canada, Quebec; Employees: 25
+Founded: 2013; Region: Canada, Quebec; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/PlotlyGraphs), [LinkedIn](http://www.linkedin.com/company/plotly), [Facebook](http://www.facebook.com/Plotly), [Website](https://plot.ly), 
  
  
  
-### [Datameer](https://www.datameer.com) 
+ &nbsp##### [Datameer](https://www.datameer.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 175
+Founded: 2009; Region: United States, California; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/datameer), [LinkedIn](http://www.linkedin.com/company/datameer), [Website](https://www.datameer.com), 
  
  
  
-### [Guavus](http://www.guavus.com) 
+ &nbsp##### [Guavus](http://www.guavus.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 175
+Founded: 2006; Region: United States, California; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/guavus), [LinkedIn](http://www.linkedin.com/company/guavus), [Facebook](http://www.facebook.com/Guavus), [Website](http://www.guavus.com), 
  
  
  
-### [Chartio](http://chartio.com) 
+ &nbsp##### [Chartio](http://chartio.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 25
+Founded: 2010; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/chartio), [LinkedIn](http://www.linkedin.com/company/chart.io), [Facebook](http://www.facebook.com/Chartio/103858742995715), [Website](http://chartio.com), 
  
  
  
-### [Databricks](https://databricks.com) 
+ &nbsp##### [Databricks](https://databricks.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 375
+Founded: 2013; Region: United States, California; Employees: 375
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/databricks), [LinkedIn](http://www.linkedin.com/company/databricks), [Facebook](http://www.facebook.com/pages/Databricks/560203607379694), [Website](https://databricks.com), 
  
  
  
-### [Pivotal](http://www.pivotal.io) 
+ &nbsp##### [Pivotal](http://www.pivotal.io) 
  
-Founded: 2013.0; Region: United States, California; Employees: 3000
+Founded: 2013; Region: United States, California; Employees: 3000
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/pivotal), [LinkedIn](http://www.linkedin.com/company/3048967), [Facebook](http://www.facebook.com/pivotalsoftware), [Website](http://www.pivotal.io), 
  
  
  
-### [BlueData Software, Inc.](http://www.bluedata.com) 
+ &nbsp##### [BlueData Software, Inc.](http://www.bluedata.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/bluedata), [LinkedIn](http://www.linkedin.com/company/bluedata-software), [Facebook](http://www.facebook.com/pages/Bluedata/318457084941133), [Website](http://www.bluedata.com), 
  
  
  
-### [Cloudera](http://www.cloudera.com) 
+ &nbsp##### [Cloudera](http://www.cloudera.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 3000
+Founded: 2008; Region: United States, California; Employees: 3000
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/cloudera), [LinkedIn](http://www.linkedin.com/company/cloudera), [Facebook](http://www.facebook.com/cloudera), [Website](http://www.cloudera.com), 
  
  
  
-### [C2RO Cloud Robotics](http://c2ro.com) 
+ &nbsp##### [C2RO Cloud Robotics](http://c2ro.com) 
  
-Founded: 2016.0; Region: Canada, Quebec; Employees: 25
+Founded: 2016; Region: Canada, Quebec; Employees: 25
  
 Robotics | Collaborative Robot | Image recognition and visual analytics
  
@@ -7708,9 +7708,9 @@ Robotics | Collaborative Robot | Image recognition and visual analytics
  
  
  
-### [Amenity Analytics](http://amenityanalytics.com) 
+ &nbsp##### [Amenity Analytics](http://amenityanalytics.com) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
 Analytics platform | Robo-Advisory
  
@@ -7718,9 +7718,9 @@ Analytics platform | Robo-Advisory
  
  
  
-### [HouseCanary](http://www.housecanary.com) 
+ &nbsp##### [HouseCanary](http://www.housecanary.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 100
+Founded: 2014; Region: United States, California; Employees: 100
  
 Data preparation platform | Analytics platform | Geo-analytics platform | Robo-Advisory
  
@@ -7728,9 +7728,9 @@ Data preparation platform | Analytics platform | Geo-analytics platform | Robo-A
  
  
  
-### [Funnel](https://funnel.io/) 
+ &nbsp##### [Funnel](https://funnel.io/) 
  
-Founded: 2014.0; Region: Sweden, Stockholm; Employees: 0
+Founded: 2014; Region: Sweden, Stockholm; Employees: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -7738,139 +7738,139 @@ Marketing analytics | e-commerce analytics
  
  
  
-### [Immuta](http://www.immuta.com) 
+ &nbsp##### [Immuta](http://www.immuta.com) 
  
-Founded: 2014.0; Region: United States, Maryland; Employees: 25
+Founded: 2014; Region: United States, Maryland; Employees: 25
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](https://twitter.com/ImmutaData), [LinkedIn](http://www.linkedin.com/company/immuta/), [Facebook](https://www.facebook.com/immuta), [Website](http://www.immuta.com), 
  
  
  
-### [data Artisans](https://data-artisans.com/) 
+ &nbsp##### [data Artisans](https://data-artisans.com/) 
  
-Founded: 2014.0; Region: Germany, Berlin; Employees: 25
+Founded: 2014; Region: Germany, Berlin; Employees: 25
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](https://twitter.com/dataartisans), [LinkedIn](https://www.linkedin.com/company/data-artisans), [Website](https://data-artisans.com/), 
  
  
  
-### [Striim](http://striim.com) 
+ &nbsp##### [Striim](http://striim.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](http://twitter.com/striimteam), [LinkedIn](http://www.linkedin.com/company/striim), [Facebook](http://www.facebook.com/striim), [Website](http://striim.com), 
  
  
  
-### [Confluent](https://confluent.io/) 
+ &nbsp##### [Confluent](https://confluent.io/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 175
+Founded: 2014; Region: United States, California; Employees: 175
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](http://twitter.com/ConfluentInc), [LinkedIn](https://www.linkedin.com/company/confluent), [Facebook](https://www.facebook.com/confluentinc), [Website](https://confluent.io/), 
  
  
  
-### [GoodData](http://www.gooddata.com) 
+ &nbsp##### [GoodData](http://www.gooddata.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 375
+Founded: 2007; Region: United States, California; Employees: 375
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/gooddata), [LinkedIn](http://www.linkedin.com/company/gooddata), [Facebook](http://www.facebook.com/gooddata), [Website](http://www.gooddata.com), [Email](info@gooddata.com)
  
  
  
-### [Platfora](http://www.platfora.com) 
+ &nbsp##### [Platfora](http://www.platfora.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 175
+Founded: 2011; Region: United States, California; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/platfora), [LinkedIn](http://www.linkedin.com/company/platfora), [Facebook](http://www.facebook.com/platfora), [Website](http://www.platfora.com), 
  
  
  
-### [Kivu Technologies GmbH](http://kivu.tech) 
+ &nbsp##### [Kivu Technologies GmbH](http://kivu.tech) 
  
-Founded: 2016.0; Region: Austria, Vienna; Employees: 25
+Founded: 2016; Region: Austria, Vienna; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Website](http://kivu.tech), 
  
  
  
-### [Apache Spark](http://spark.apache.org) 
+ &nbsp##### [Apache Spark](http://spark.apache.org) 
  
-Founded: 2009.0; Region: United States, California; Employees: 375
+Founded: 2009; Region: United States, California; Employees: 375
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](http://twitter.com/apachespark), [LinkedIn](http://www.linkedin.com/groups?gid=7403611), [Facebook](http://www.facebook.com/ApacheSparkSummit), [Website](http://spark.apache.org), 
  
  
  
-### [Swiftype](https://swiftype.com) 
+ &nbsp##### [Swiftype](https://swiftype.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/swiftype), [LinkedIn](https://www.linkedin.com/company/3291944), [Facebook](http://www.facebook.com/swiftype), [Website](https://swiftype.com), 
  
  
  
-### [Q.I. Leap Analytics Inc.](https://www.qileap.com) 
+ &nbsp##### [Q.I. Leap Analytics Inc.](https://www.qileap.com) 
  
-Founded: 2014.0; Region: Canada, British Columbia; Employees: 25
+Founded: 2014; Region: Canada, British Columbia; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Website](https://www.qileap.com), 
  
  
  
-### [WatrHub](http://www.watrhub.com) 
+ &nbsp##### [WatrHub](http://www.watrhub.com) 
  
-Founded: 2011.0; Region: Canada, Ontario; Employees: 25
+Founded: 2011; Region: Canada, Ontario; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/WatrHub), [LinkedIn](http://www.linkedin.com/company/watrhub-inc-), [Facebook](http://www.facebook.com/WatrHub), [Website](http://www.watrhub.com), 
  
  
  
-### [Stitch Fix](http://stitchfix.com) 
+ &nbsp##### [Stitch Fix](http://stitchfix.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 3000
+Founded: 2011; Region: United States, California; Employees: 3000
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/stitchfix), [LinkedIn](http://www.linkedin.com/company/stitch-fix), [Facebook](http://www.facebook.com/stitchfix), [Website](http://stitchfix.com), 
  
  
  
-### [Element AI](http://www.elementai.com/) 
+ &nbsp##### [Element AI](http://www.elementai.com/) 
  
-Founded: 2016.0; Region: Canada, Quebec; Employees: 175
+Founded: 2016; Region: Canada, Quebec; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/element_ai), [LinkedIn](https://www.linkedin.com/company/element-ai), [Facebook](https://www.facebook.com/element.ai2/), [Website](http://www.elementai.com/), 
  
  
  
-### [Pilot AI](http://www.pilot.ai) 
+ &nbsp##### [Pilot AI](http://www.pilot.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 20
+Founded: 2015; Region: United States, California; Employees: 20
  
 Image recognition library/SDK/API | Smart Security Systems | Deep learning library/SDK/API | Image recognition and visual analytics | Vision systems | Driving assistant
  
@@ -7878,9 +7878,9 @@ Image recognition library/SDK/API | Smart Security Systems | Deep learning libra
  
  
  
-### [Pat Inc](http://www.pat.ai) 
+ &nbsp##### [Pat Inc](http://www.pat.ai) 
  
-Founded: 2016.0; Region: United States, California; Employees: 7
+Founded: 2016; Region: United States, California; Employees: 7
  
 Sales rep chat/email bot | Call intent discovery | Customer service chatbot (self-service solution) | Conversational Analytics | Digital assistant
  
@@ -7888,49 +7888,49 @@ Sales rep chat/email bot | Call intent discovery | Customer service chatbot (sel
  
  
  
-### [Memkite](http://memkite.com) 
+ &nbsp##### [Memkite](http://memkite.com) 
  
-Founded: 2013.0; Region: Norway, Sør-Trøndelag; Employees: 5
+Founded: 2013; Region: Norway, Sør-Trøndelag; Employees: 5
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/memkite), [LinkedIn](http://www.linkedin.com/company/5002276), [Facebook](http://www.facebook.com/Memkite), [Website](http://memkite.com), 
  
  
  
-### [Matroid](http://matroid.com) 
+ &nbsp##### [Matroid](http://matroid.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 25
+Founded: 2016; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](https://www.twitter.com/matroid), [LinkedIn](https://www.linkedin.com/company/matroid), [Facebook](https://www.facebook.com/matroid), [Website](http://matroid.com), 
  
  
  
-### [HyperVerge](http://www.hyperverge.co/) 
+ &nbsp##### [HyperVerge](http://www.hyperverge.co/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/HyperVerge), [LinkedIn](http://www.linkedin.com/company/hyperverge-inc-), [Facebook](http://www.facebook.com/HyperVerge), [Website](http://www.hyperverge.co/), 
  
  
  
-### [Graphistry, Inc.](https://www.graphistry.com/) 
+ &nbsp##### [Graphistry, Inc.](https://www.graphistry.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 0
+Founded: 2014; Region: United States, California; Employees: 0
  
-Data Visualization | Data Visualization | Data Visualization
+Data Visualization
  
 [Twitter](https://twitter.com/graphistry), [Website](https://www.graphistry.com/), 
  
  
  
-### [FloydHub](https://www.floydhub.com) 
+ &nbsp##### [FloydHub](https://www.floydhub.com) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
 Deep learning library/SDK/API | Analytics platform
  
@@ -7938,99 +7938,99 @@ Deep learning library/SDK/API | Analytics platform
  
  
  
-### [FeatureX](http://www.featurex.ai) 
+ &nbsp##### [FeatureX](http://www.featurex.ai) 
  
-Founded: 2015.0; Region: United States, Massachusetts; Employees: 0
+Founded: 2015; Region: United States, Massachusetts; Employees: 0
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/featurexai), [LinkedIn](https://www.linkedin.com/company/10357629), [Website](http://www.featurex.ai), 
  
  
  
-### [DroneDeploy](http://www.dronedeploy.com) 
+ &nbsp##### [DroneDeploy](http://www.dronedeploy.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/DroneDeploy), [LinkedIn](http://www.linkedin.com/company/dronedeploy), [Facebook](http://www.facebook.com/Dronedeploy), [Website](http://www.dronedeploy.com), 
  
  
  
-### [ABEJA](https://www.abeja.asia) 
+ &nbsp##### [ABEJA](https://www.abeja.asia) 
  
-Founded: 2012.0; Region: Japan, Tokyo; Employees: 25
+Founded: 2012; Region: Japan, Tokyo; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/abeja_inc), [LinkedIn](https://www.linkedin.com/company/abeja-inc.), [Facebook](https://www.facebook.com/abejainc), [Website](https://www.abeja.asia), 
  
  
  
-### [RetailNext](http://www.retailnext.net) 
+ &nbsp##### [RetailNext](http://www.retailnext.net) 
  
-Founded: 2007.0; Region: United States, California; Employees: 175
+Founded: 2007; Region: United States, California; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://www.twitter.com/retailnext), [LinkedIn](https://www.linkedin.com/company/retailnext), [Facebook](https://www.facebook.com/retailnext), [Website](http://www.retailnext.net), 
  
  
  
-### [Loggly](http://loggly.com) 
+ &nbsp##### [Loggly](http://loggly.com) 
  
-Founded: 2009.0; Region: United States, California; Employees: 25
+Founded: 2009; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/loggly), [LinkedIn](http://www.linkedin.com/company/loggly), [Facebook](http://www.facebook.com/loggly), [Website](http://loggly.com), 
  
  
  
-### [Sumo Logic](http://www.sumologic.com) 
+ &nbsp##### [Sumo Logic](http://www.sumologic.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 175
+Founded: 2010; Region: United States, California; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/sumologic), [LinkedIn](http://www.linkedin.com/company/sumo-logic), [Facebook](http://www.facebook.com/Sumo.Logic), [Website](http://www.sumologic.com), 
  
  
  
-### [Seeq](http://seeq.com) 
+ &nbsp##### [Seeq](http://seeq.com) 
  
-Founded: 2013.0; Region: United States, Washington; Employees: 25
+Founded: 2013; Region: United States, Washington; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/SeeqCorporation), [LinkedIn](http://www.linkedin.com/company/3126445), [Facebook](http://www.facebook.com/Seeq-Corporation/424546840977984), [Website](http://seeq.com), 
  
  
  
-### [Monospect Ltd.](https://monospect.com) 
+ &nbsp##### [Monospect Ltd.](https://monospect.com) 
  
-Founded: 2012.0; Region: Turkey, Istanbul; Employees: 0
+Founded: 2012; Region: Turkey, Istanbul; Employees: 0
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/monospect), [LinkedIn](https://linkedin.com/company/monospect), [Facebook](https://facebook.com/monospect), [Website](https://monospect.com), 
  
  
  
-### [Auro Technologies](http://www.auro-3d.com) 
+ &nbsp##### [Auro Technologies](http://www.auro-3d.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 25
+Founded: 2010; Region: United States, California; Employees: 25
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](https://twitter.com/Auro3D), [LinkedIn](https://www.linkedin.com/company/auro-technologies), [Facebook](https://www.facebook.com/Auro3D/), [Website](http://www.auro-3d.com), 
  
  
  
-### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
+ &nbsp##### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-Founded: 2015.0; Region: India, Maharashtra; Employees: 25
+Founded: 2015; Region: India, Maharashtra; Employees: 25
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -8038,159 +8038,159 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
  
  
-### [Megvii](http://www.megvii.com/) 
+ &nbsp##### [Megvii](http://www.megvii.com/) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](https://www.twitter.com/faceplusplus), [Facebook](https://www.facebook.com/megvii), [Website](http://www.megvii.com/), 
  
  
  
-### [WeSee](http://www.wesee.com) 
+ &nbsp##### [WeSee](http://www.wesee.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 25
+Founded: 2016; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/WeSEE_Ltd), [Facebook](https://www.facebook.com/weseeltd), [Website](http://www.wesee.com), 
  
  
  
-### [Evergig](http://www.evergig.com) 
+ &nbsp##### [Evergig](http://www.evergig.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/evergig), [Facebook](http://www.facebook.com/evergig), [Website](http://www.evergig.com), 
  
  
  
-### [Enswers](http://www.enswer.net) 
+ &nbsp##### [Enswers](http://www.enswer.net) 
  
-Founded: 2007.0; Region: United States, California; Employees: 75
+Founded: 2007; Region: United States, California; Employees: 75
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/enswers), [LinkedIn](http://www.linkedin.com/company/3153817), [Facebook](http://www.facebook.com/Enswers), [Website](http://www.enswer.net), 
  
  
  
-### [eXenSa](http://www.exensa.com) 
+ &nbsp##### [eXenSa](http://www.exensa.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 5
+Founded: 2011; Region: United States, California; Employees: 5
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://www.twitter.com/exensa2), [LinkedIn](https://www.linkedin.com/company/exensa), [Website](http://www.exensa.com), 
  
  
  
-### [Lexifone](http://www.lexifone.com) 
+ &nbsp##### [Lexifone](http://www.lexifone.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 25
+Founded: 2010; Region: United States, California; Employees: 25
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](http://twitter.com/Lexifone), [LinkedIn](http://www.linkedin.com/company/lexifone), [Facebook](http://www.facebook.com/Lexifone), [Website](http://www.lexifone.com), 
  
  
  
-### [Verbio Technologies](http://www.verbio.com/en/) 
+ &nbsp##### [Verbio Technologies](http://www.verbio.com/en/) 
  
-Founded: 1999.0; Region: United States, California; Employees: 25
+Founded: 1999; Region: United States, California; Employees: 25
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](https://www.twitter.com/verbiocorporate), [LinkedIn](https://www.linkedin.com/company/verbio), [Website](http://www.verbio.com/en/), 
  
  
  
-### [VoiceBase](http://www.voicebase.com) 
+ &nbsp##### [VoiceBase](http://www.voicebase.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 25
+Founded: 2010; Region: United States, California; Employees: 25
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](http://twitter.com/VoiceBase), [LinkedIn](https://www.linkedin.com/company/voicebase-inc-), [Facebook](http://www.facebook.com/VoiceBase1), [Website](http://www.voicebase.com), 
  
  
  
-### [Vilynx](http://www.vilynx.com) 
+ &nbsp##### [Vilynx](http://www.vilynx.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/Vilynxapp), [LinkedIn](https://www.linkedin.com/company/vilynx), [Facebook](http://www.facebook.com/Vilynxapp), [Website](http://www.vilynx.com), 
  
  
  
-### [Face.com](http://face.com) 
+ &nbsp##### [Face.com](http://face.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 25
+Founded: 2005; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/face), [Facebook](https://www.facebook.com/freeshoppingcom), [Website](http://face.com), 
  
  
  
-### [Percipo](http://www.percipo.com) 
+ &nbsp##### [Percipo](http://www.percipo.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 5
+Founded: 2008; Region: United States, California; Employees: 5
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Website](http://www.percipo.com), 
  
  
  
-### [Sension](http://sension.co) 
+ &nbsp##### [Sension](http://sension.co) 
  
-Founded: 2013.0; Region: United States, California; Employees: 5
+Founded: 2013; Region: United States, California; Employees: 5
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/sensiontech), [LinkedIn](http://www.linkedin.com/company/sension), [Facebook](http://www.facebook.com/sensiontechnology), [Website](http://sension.co), 
  
  
  
-### [Jetpac](http://jetpac.com) 
+ &nbsp##### [Jetpac](http://jetpac.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 0
+Founded: 2011; Region: United States, California; Employees: 0
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/JetpacApp), [Facebook](http://www.facebook.com/JetpacCityGuides), [Website](http://jetpac.com), 
  
  
  
-### [Kuznech](http://kuznech.com) 
+ &nbsp##### [Kuznech](http://kuznech.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/kuznech), [LinkedIn](http://www.linkedin.com/company/kuznech), [Facebook](http://www.facebook.com/Kuznech), [Website](http://kuznech.com), 
  
  
  
-### [Digital Signal Corporation](http://www.digitalsignalcorp.com) 
+ &nbsp##### [Digital Signal Corporation](http://www.digitalsignalcorp.com) 
  
-Founded: 2001.0; Region: United States, California; Employees: 175
+Founded: 2001; Region: United States, California; Employees: 175
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [LinkedIn](https://www.linkedin.com/company/digital-signal-corporation), [Website](http://www.digitalsignalcorp.com), 
  
  
  
-### [Universal Logic Inc. (formerly Universal Robotics Inc.)](http://www.universallogic.com) 
+ &nbsp##### [Universal Logic Inc. (formerly Universal Robotics Inc.)](http://www.universallogic.com) 
  
-Founded: 2001.0; Region: United States, Tennessee; Employees: 0
+Founded: 2001; Region: United States, Tennessee; Employees: 0
  
 Robotics | Image recognition and visual analytics
  
@@ -8198,39 +8198,39 @@ Robotics | Image recognition and visual analytics
  
  
  
-### [Tuputech](https://us.tuputech.com/) 
+ &nbsp##### [Tuputech](https://us.tuputech.com/) 
  
-Founded: 2014.0; Region: China, Guangdong; Employees: 70
+Founded: 2014; Region: China, Guangdong; Employees: 70
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](https://twitter.com/tuputech), [Facebook](https://www.facebook.com/tuputech), [Website](https://us.tuputech.com/), [Email](bd@tuputech.com)
  
  
  
-### [Tend](http://tendinsights.com) 
+ &nbsp##### [Tend](http://tendinsights.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 25
+Founded: 2008; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/tendinsights), [LinkedIn](https://www.linkedin.com/company/tend-insights), [Facebook](http://facebook.com/tendinsights), [Website](http://tendinsights.com), 
  
  
  
-### [Sportcaster](http://www.sportcaster.co/) 
+ &nbsp##### [Sportcaster](http://www.sportcaster.co/) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](https://www.twitter.com/veosharesport), [Facebook](https://www.facebook.com/veoshareyoursport), [Website](http://www.sportcaster.co/), 
  
  
  
-### [SparkCognition](http://sparkcognition.com) 
+ &nbsp##### [SparkCognition](http://sparkcognition.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 200
+Founded: 2013; Region: United States, California; Employees: 200
  
 Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
@@ -8238,159 +8238,159 @@ Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
  
  
-### [SoundHound Inc.](http://www.soundhound.com) 
+ &nbsp##### [SoundHound Inc.](http://www.soundhound.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 175
+Founded: 2005; Region: United States, California; Employees: 175
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](http://twitter.com/Houndify), [LinkedIn](https://www.linkedin.com/company/soundhound), [Facebook](https://www.facebook.com/Houndify), [Website](http://www.soundhound.com), 
  
  
  
-### [Sensifai](http://www.sensifai.com) 
+ &nbsp##### [Sensifai](http://www.sensifai.com) 
  
-Founded: 2015.0; Region: Belgium, Brussels Capital; Employees: 0
+Founded: 2015; Region: Belgium, Brussels Capital; Employees: 0
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](https://www.twitter.com/sensifai), [LinkedIn](https://www.linkedin.com/company/17888541), [Facebook](https://www.facebook.com/sensifai-1834917020083407), [Website](http://www.sensifai.com), 
  
  
  
-### [Second Spectrum](http://www.secondspectrum.com/) 
+ &nbsp##### [Second Spectrum](http://www.secondspectrum.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](https://twitter.com/SecondSpectrum), [LinkedIn](https://www.linkedin.com/company/second-spectrum-inc-), [Facebook](https://www.facebook.com/SecondSpectrum/), [Website](http://www.secondspectrum.com/), 
  
  
  
-### [Shield AI](http://www.shield.ai) 
+ &nbsp##### [Shield AI](http://www.shield.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](https://twitter.com/shieldai1), [LinkedIn](https://www.linkedin.com/company/shield-ai), [Website](http://www.shield.ai), 
  
  
  
-### [Sighthound](http://www.sighthound.com) 
+ &nbsp##### [Sighthound](http://www.sighthound.com) 
  
-Founded: 2012.0; Region: United States, Florida; Employees: 25
+Founded: 2012; Region: United States, Florida; Employees: 25
  
-Image recognition and visual analytics | Image recognition and visual analytics | Image recognition and visual analytics
+Image recognition and visual analytics
  
 [Twitter](http://twitter.com/sighthoundinc), [LinkedIn](https://www.linkedin.com/company/sighthound-inc-), [Facebook](http://www.facebook.com/pages/Sighthound-Inc/255238874603631), [Website](http://www.sighthound.com), 
  
  
  
-### [Union Crate](http://unioncrate.com) 
+ &nbsp##### [Union Crate](http://unioncrate.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Website](http://unioncrate.com), 
  
  
  
-### [Agolo](http://www.agolo.com) 
+ &nbsp##### [Agolo](http://www.agolo.com) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 25
+Founded: 2012; Region: United States, New York; Employees: 25
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](http://twitter.com/agolo), [LinkedIn](http://www.linkedin.com/company/agolo), [Facebook](http://www.facebook.com/tweetagolo), [Website](http://www.agolo.com), [Email](founders@agolo.com)
  
  
  
-### [Botskill](http://www.botskill.co.uk/) 
+ &nbsp##### [Botskill](http://www.botskill.co.uk/) 
  
-Founded: 2017.0; Region: United States, California; Employees: 4
+Founded: 2017; Region: United States, California; Employees: 4
  
-Conversational Analytics | Conversational Analytics | Conversational Analytics
+Conversational Analytics
  
 [LinkedIn](https://in.linkedin.com/company/botskill), [Website](http://www.botskill.co.uk/), 
  
  
  
-### [Glint](http://www.glintinc.com) 
+ &nbsp##### [Glint](http://www.glintinc.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 0
+Founded: 2013; Region: United States, California; Employees: 0
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](https://twitter.com/glintinc), [LinkedIn](http://www.linkedin.com/company/glint-inc-), [Facebook](https://www.facebook.com/glintinc), [Website](http://www.glintinc.com), 
  
  
  
-### [Mycroft](http://mycroft.ai) 
+ &nbsp##### [Mycroft](http://mycroft.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](https://twitter.com/mycroft_ai), [LinkedIn](https://www.linkedin.com/company/10255844), [Facebook](https://www.facebook.com/aiforeveryone), [Website](http://mycroft.ai), 
  
  
  
-### [Clarke.ai](https://www.clarke.ai/) 
+ &nbsp##### [Clarke.ai](https://www.clarke.ai/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](https://www.twitter.com/clarkedotai), [LinkedIn](https://www.linkedin.com/company/clarke.ai), [Facebook](https://www.facebook.com/clarkeai), [Website](https://www.clarke.ai/), 
  
  
  
-### [Trendalytics Innovation Labs](http://www.trendalytics.co) 
+ &nbsp##### [Trendalytics Innovation Labs](http://www.trendalytics.co) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/TrendalyticsCo), [LinkedIn](https://www.linkedin.com/company/trendalytics-innovation-labs), [Facebook](http://www.facebook.com/trendalytics), [Website](http://www.trendalytics.co), 
  
  
  
-### [Nullatech](https://www.nullatech.com/) 
+ &nbsp##### [Nullatech](https://www.nullatech.com/) 
  
-Founded: 2017.0; Region: United States, California; Employees: 5
+Founded: 2017; Region: United States, California; Employees: 5
  
-Analytics Services | Analytics Services | Analytics Services
+Analytics Services
  
 [Twitter](https://twitter.com/nullatech), [LinkedIn](https://www.linkedin.com/company/nullatech/), [Website](https://www.nullatech.com/), 
  
  
  
-### [VoiceOps](https://voiceops.com) 
+ &nbsp##### [VoiceOps](https://voiceops.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Voice recognition and sound analytics | Voice recognition and sound analytics | Voice recognition and sound analytics
+Voice recognition and sound analytics
  
 [Twitter](https://twitter.com/voice_ops), [LinkedIn](https://www.linkedin.com/company-beta/12176639/?pathWildcard=12176639), [Website](https://voiceops.com), 
  
  
  
-### [Datatron Technologies Inc](http://datatron.com) 
+ &nbsp##### [Datatron Technologies Inc](http://datatron.com) 
  
-Founded: 2016.0; Region: United States, California; Employees: 25
+Founded: 2016; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://www.twitter.com/getdatatron), [LinkedIn](https://www.linkedin.com/company/7601819), [Facebook](http://datatron.com), [Website](http://datatron.com), 
  
  
  
-### [Qloo](http://www.qloo.com) 
+ &nbsp##### [Qloo](http://www.qloo.com) 
  
-Founded: 2012.0; Region: United States, New York; Employees: 25
+Founded: 2012; Region: United States, New York; Employees: 25
  
 Recommendation engine | Marketing analytics | Context aware marketing | Merchandising optimization | Website Personalization | Omnichannel | Content Generation | Geo-analytics platform | Driving assistant
  
@@ -8398,79 +8398,79 @@ Recommendation engine | Marketing analytics | Context aware marketing | Merchand
  
  
  
-### [Boxfish](http://boxfish.com) 
+ &nbsp##### [Boxfish](http://boxfish.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 25
+Founded: 2011; Region: United States, California; Employees: 25
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://www.twitter.com/bxfsh), [Facebook](https://www.facebook.com/bxfsh), [Website](http://boxfish.com), 
  
  
  
-### [TallyFi](https://www.tallyfi.com/) 
+ &nbsp##### [TallyFi](https://www.tallyfi.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 5
+Founded: 2014; Region: United States, California; Employees: 5
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](https://twitter.com/tallyfi), [LinkedIn](https://www.linkedin.com/company/tallyfi), [Facebook](https://www.facebook.com/tallyfi), [Website](https://www.tallyfi.com/), 
  
  
  
-### [PiinPoint](http://www.piinpoint.com) 
+ &nbsp##### [PiinPoint](http://www.piinpoint.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 5
+Founded: 2013; Region: United States, California; Employees: 5
  
-Geo-analytics platform | Geo-analytics platform | Geo-analytics platform
+Geo-analytics platform
  
 [Twitter](http://twitter.com/piinpoint), [LinkedIn](http://www.linkedin.com/company/3477685), [Website](http://www.piinpoint.com), 
  
  
  
-### [MetricWire](http://metricwire.com) 
+ &nbsp##### [MetricWire](http://metricwire.com) 
  
-Founded: 2013.0; Region: Canada, Ontario; Employees: 5
+Founded: 2013; Region: Canada, Ontario; Employees: 5
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/metricwire), [LinkedIn](http://www.linkedin.com/company/3257779), [Facebook](http://www.facebook.com/metricwire), [Website](http://metricwire.com), [Email](info@metricwire.com)
  
  
  
-### [LINKETT](http://www.linkett.com) 
+ &nbsp##### [LINKETT](http://www.linkett.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 5
+Founded: 2014; Region: United States, California; Employees: 5
  
-Real-Time Analytics | Real-Time Analytics | Real-Time Analytics
+Real-Time Analytics
  
 [Twitter](https://twitter.com/westonex), [LinkedIn](https://www.linkedin.com/company/westonexpressions-inc-), [Facebook](https://www.facebook.com/WestonExpressions/), [Website](http://www.linkett.com), 
  
  
  
-### [Expertise Finder](http://www.expertisefinder.com) 
+ &nbsp##### [Expertise Finder](http://www.expertisefinder.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 5
+Founded: 2011; Region: United States, California; Employees: 5
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Website](http://www.expertisefinder.com), 
  
  
  
-### [MonkeyData](http://www.monkeydata.com) 
+ &nbsp##### [MonkeyData](http://www.monkeydata.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-e-commerce analytics | e-commerce analytics | e-commerce analytics
+e-commerce analytics
  
 [Twitter](http://twitter.com/Monkey_Data), [LinkedIn](http://www.linkedin.com/company/monkeydata-s-r-o-), [Facebook](http://www.facebook.com/monkeydata), [Website](http://www.monkeydata.com), 
  
  
  
-### [Klipfolio](http://www.klipfolio.com) 
+ &nbsp##### [Klipfolio](http://www.klipfolio.com) 
  
-Founded: 2001.0; Region: United States, California; Employees: 75
+Founded: 2001; Region: United States, California; Employees: 75
  
 Marketing analytics | e-commerce analytics
  
@@ -8478,9 +8478,9 @@ Marketing analytics | e-commerce analytics
  
  
  
-### [Heap](http://heapanalytics.com) 
+ &nbsp##### [Heap](http://heapanalytics.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
 Marketing analytics | e-commerce analytics
  
@@ -8488,79 +8488,79 @@ Marketing analytics | e-commerce analytics
  
  
  
-### [RJMetrics](http://rjmetrics.com) 
+ &nbsp##### [RJMetrics](http://rjmetrics.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 75
+Founded: 2008; Region: United States, California; Employees: 75
  
-e-commerce analytics | e-commerce analytics | e-commerce analytics
+e-commerce analytics
  
 [Twitter](http://twitter.com/RJMetrics), [Facebook](http://www.facebook.com/rjmetrics), [Website](http://rjmetrics.com), 
  
  
  
-### [Woopra](http://www.woopra.com) 
+ &nbsp##### [Woopra](http://www.woopra.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 25
+Founded: 2008; Region: United States, California; Employees: 25
  
-e-commerce analytics | e-commerce analytics | e-commerce analytics
+e-commerce analytics
  
 [Twitter](http://twitter.com/woopra), [LinkedIn](http://www.linkedin.com/company/woopra-inc-), [Facebook](http://www.facebook.com/woopra), [Website](http://www.woopra.com), 
  
  
  
-### [Kissmetrics](https://www.kissmetrics.com) 
+ &nbsp##### [Kissmetrics](https://www.kissmetrics.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 0
+Founded: 2008; Region: United States, California; Employees: 0
  
-e-commerce analytics | e-commerce analytics | e-commerce analytics
+e-commerce analytics
  
 [Website](https://www.kissmetrics.com), 
  
  
  
-### [RetentionGrid](http://retentiongrid.com/) 
+ &nbsp##### [RetentionGrid](http://retentiongrid.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 0
+Founded: 2013; Region: United States, California; Employees: 0
  
-e-commerce analytics | e-commerce analytics | e-commerce analytics
+e-commerce analytics
  
 [Twitter](https://twitter.com/retentiongrid), [LinkedIn](https://www.linkedin.com/company/retentiongrid), [Facebook](https://www.facebook.com/RetentionGridApp), [Website](http://retentiongrid.com/), 
  
  
  
-### [ThoughtSpot](http://www.thoughtspot.com) 
+ &nbsp##### [ThoughtSpot](http://www.thoughtspot.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 175
+Founded: 2012; Region: United States, California; Employees: 175
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](http://twitter.com/thoughtspot), [LinkedIn](http://www.linkedin.com/company/thoughtspot), [Facebook](http://www.facebook.com/ThoughtSpot), [Website](http://www.thoughtspot.com), 
  
  
  
-### [Scienaptic Systems](http://www.scienaptic.com/) 
+ &nbsp##### [Scienaptic Systems](http://www.scienaptic.com/) 
  
-Founded: 2014.0; Region: United States, New York; Employees: 0
+Founded: 2014; Region: United States, New York; Employees: 0
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/scienaptic), [LinkedIn](https://www.linkedin.com/company/scienaptic-systems), [Website](http://www.scienaptic.com/), 
  
  
  
-### [Quantta Analytics](http://www.quantta.com) 
+ &nbsp##### [Quantta Analytics](http://www.quantta.com) 
  
-Founded: 2012.0; Region: India, Maharashtra; Employees: 0
+Founded: 2012; Region: India, Maharashtra; Employees: 0
  
-Analytics platform | Analytics platform | Analytics platform
+Analytics platform
  
 [Twitter](https://twitter.com/quanttaplc), [LinkedIn](https://www.linkedin.com/company-beta/3206817/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bzy76WQUISIOuHfWCrQrdmg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), [Facebook](https://www.facebook.com/Quantta/), [Website](http://www.quantta.com), [Email](consult.us@quantta.com)
  
  
  
-### [CheckRecipient](http://checkrecipient.com/) 
+ &nbsp##### [CheckRecipient](http://checkrecipient.com/) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 19
+Founded: 2013; Region: United Kingdom, England; Employees: 19
  
 Secure communications | Regulatory compliance
  
@@ -8568,9 +8568,9 @@ Secure communications | Regulatory compliance
  
  
  
-### [Cylance](http://www.cylance.com) 
+ &nbsp##### [Cylance](http://www.cylance.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 758
+Founded: 2012; Region: United States, California; Employees: 758
  
 Analytics & predictive intelligence for security | Autonomous cybersecurity systems | Smart Security Systems
  
@@ -8578,9 +8578,9 @@ Analytics & predictive intelligence for security | Autonomous cybersecurity syst
  
  
  
-### [TopSpin Security](http://www.topspinsec.com/) 
+ &nbsp##### [TopSpin Security](http://www.topspinsec.com/) 
  
-Founded: 2013.0; Region: Israel, Tel Aviv; Employees: 23
+Founded: 2013; Region: Israel, Tel Aviv; Employees: 23
  
 Analytics & predictive intelligence for security | Deception security
  
@@ -8588,9 +8588,9 @@ Analytics & predictive intelligence for security | Deception security
  
  
  
-### [CrossChx, Inc.](http://www.crosschx.com) 
+ &nbsp##### [CrossChx, Inc.](http://www.crosschx.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 80
+Founded: 2012; Region: United States, California; Employees: 80
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -8598,9 +8598,9 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
  
  
-### [import.io](https://import.io) 
+ &nbsp##### [import.io](https://import.io) 
  
-Founded: 2012.0; Region: United States, California; Employees: 35
+Founded: 2012; Region: United States, California; Employees: 35
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -8608,9 +8608,9 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
  
  
-### [SalesChoice](http://www.saleschoice.com) 
+ &nbsp##### [SalesChoice](http://www.saleschoice.com) 
  
-Founded: 2012.0; Region: Canada, Ontario; Employees: 15
+Founded: 2012; Region: Canada, Ontario; Employees: 15
  
 Pricing optimization | Predictive sales | Sales forecasting | Sales rep next action suggestions | Prescriptive sales | Natural Language Processing library/SDK/API | Deep learning library/SDK/API
  
@@ -8618,19 +8618,19 @@ Pricing optimization | Predictive sales | Sales forecasting | Sales rep next act
  
  
  
-### [Sidecar](http://www.getsidecar.com) 
+ &nbsp##### [Sidecar](http://www.getsidecar.com) 
  
-Founded: 2007.0; Region: United States, Pennsylvania; Employees: 0
+Founded: 2007; Region: United States, Pennsylvania; Employees: 0
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Twitter](http://twitter.com/getsidecar), [LinkedIn](http://www.linkedin.com/company/1396027), [Facebook](http://www.facebook.com/getsidecar), [Website](http://www.getsidecar.com), [Video](https://www.youtube.com/watch?v=mZxyXIevFwE), [Email](hello@getsidecar.com)
  
  
  
-### [Gavagai](http://www.gavagai.se) 
+ &nbsp##### [Gavagai](http://www.gavagai.se) 
  
-Founded: 2008.0; Region: Sweden, Stockholm; Employees: 18
+Founded: 2008; Region: Sweden, Stockholm; Employees: 18
  
 Social analytics & automation | Natural Language Processing library/SDK/API
  
@@ -8638,9 +8638,9 @@ Social analytics & automation | Natural Language Processing library/SDK/API
  
  
  
-### [Narrative Science](http://www.narrativescience.com) 
+ &nbsp##### [Narrative Science](http://www.narrativescience.com) 
  
-Founded: 2010.0; Region: United States, Illinois; Employees: 117
+Founded: 2010; Region: United States, Illinois; Employees: 117
  
 Natural Language Processing library/SDK/API | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -8648,9 +8648,9 @@ Natural Language Processing library/SDK/API | Fraud Detection | Financial Analyt
  
  
  
-### [Salesforce](https://www.salesforce.com) 
+ &nbsp##### [Salesforce](https://www.salesforce.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 23343
+Founded: 1999; Region: United States, California; Employees: 23343
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -8658,9 +8658,9 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
  
  
-### [EdCast](http://edcast.com) 
+ &nbsp##### [EdCast](http://edcast.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 175
+Founded: 2014; Region: United States, California; Employees: 175
  
 Knowledge management | Machine learning library/SDK/API | Deep learning library/SDK/API
  
@@ -8668,9 +8668,9 @@ Knowledge management | Machine learning library/SDK/API | Deep learning library/
  
  
  
-### [IBM Watson](http://www.ibm.com/) 
+ &nbsp##### [IBM Watson](http://www.ibm.com/) 
  
-Founded: 1911.0; Region: United States, New York; Employees: 2001
+Founded: 1911; Region: United States, New York; Employees: 2001
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -8678,9 +8678,9 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
  
  
-### [Sift Science](http://siftscience.com) 
+ &nbsp##### [Sift Science](http://siftscience.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 103
+Founded: 2011; Region: United States, California; Employees: 103
  
 Analytics & predictive intelligence for security | Fraud Detection
  
@@ -8688,9 +8688,9 @@ Analytics & predictive intelligence for security | Fraud Detection
  
  
  
-### [H2O.ai](http://h2o.ai/) 
+ &nbsp##### [H2O.ai](http://h2o.ai/) 
  
-Founded: 2011.0; Region: United States, California; Employees: 77
+Founded: 2011; Region: United States, California; Employees: 77
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -8698,9 +8698,9 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
  
  
-### [deepsense.ai](http://deepsense.ai/) 
+ &nbsp##### [deepsense.ai](http://deepsense.ai/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 75
+Founded: 2014; Region: United States, California; Employees: 75
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -8708,9 +8708,9 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
  
  
-### [ViSenze](http://www.visenze.com) 
+ &nbsp##### [ViSenze](http://www.visenze.com) 
  
-Founded: 2012.0; Region: Singapore, Central Singapore; Employees: 53
+Founded: 2012; Region: Singapore, Central Singapore; Employees: 53
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Video commerce | Image recognition library/SDK/API
  
@@ -8718,9 +8718,9 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
  
  
-### [Clarifai](http://clarifai.com/) 
+ &nbsp##### [Clarifai](http://clarifai.com/) 
  
-Founded: 2013.0; Region: United States, New York; Employees: 62
+Founded: 2013; Region: United States, New York; Employees: 62
  
 Recommendation engine | Visual search capability | Image recognition library/SDK/API
  
@@ -8728,9 +8728,9 @@ Recommendation engine | Visual search capability | Image recognition library/SDK
  
  
  
-### [AlphaSense](http://www.alpha-sense.com) 
+ &nbsp##### [AlphaSense](http://www.alpha-sense.com) 
  
-Founded: 2010.0; Region: United States, New York; Employees: 86
+Founded: 2010; Region: United States, New York; Employees: 86
  
 Natural Language Processing library/SDK/API | Data gathering
  
@@ -8738,9 +8738,9 @@ Natural Language Processing library/SDK/API | Data gathering
  
  
  
-### [imagenii](http://www.imagenii.com) 
+ &nbsp##### [imagenii](http://www.imagenii.com) 
  
-Founded: 2014.0; Region: United States, Texas; Employees: 0
+Founded: 2014; Region: United States, Texas; Employees: 0
  
 Recommendation engine | Image recognition library/SDK/API
  
@@ -8748,89 +8748,89 @@ Recommendation engine | Image recognition library/SDK/API
  
  
  
-### [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services/) 
+ &nbsp##### [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services/) 
  
-Founded: 1974.0; Region: United States, Washington; Employees: 10001
+Founded: 1974; Region: United States, Washington; Employees: 10001
  
-Image recognition library/SDK/API | Image recognition library/SDK/API | Image recognition library/SDK/API
+Image recognition library/SDK/API
  
 [Twitter](http://twitter.com/Microsoft), [LinkedIn](http://www.linkedin.com/company/microsoft), [Facebook](http://www.facebook.com/MicrosoftIndia), [Website](https://www.microsoft.com/cognitive-services/), 
  
  
  
-### [Virtru](https://www.virtru.com) 
+ &nbsp##### [Virtru](https://www.virtru.com) 
  
-Founded: 2011.0; Region: United States, Washington, D.C.; Employees: 58
+Founded: 2011; Region: United States, Washington, D.C.; Employees: 58
  
-Secure communications | Secure communications | Secure communications
+Secure communications
  
 [Twitter](http://twitter.com/virtruprivacy), [LinkedIn](http://www.linkedin.com/company/virtru), [Facebook](http://www.facebook.com/virtruprivacy), [Website](https://www.virtru.com), [Video](https://www.youtube.com/watch?v=sErf3VCeaHE), [Email](feedback@virtru.com)
  
  
  
-### [Wickr](https://www.wickr.com) 
+ &nbsp##### [Wickr](https://www.wickr.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 38
+Founded: 2011; Region: United States, California; Employees: 38
  
-Secure communications | Secure communications | Secure communications
+Secure communications
  
 [Twitter](http://twitter.com/mywickr), [LinkedIn](https://www.linkedin.com/company/wickr), [Facebook](http://www.facebook.com/mywickr), [Website](https://www.wickr.com), [Video](https://www.youtube.com/watch?v=YlGECKpY92M), [Email](info@wickr.com)
  
  
  
-### [Post-Quantum (PQ Solutions)](https://post-quantum.com/) 
+ &nbsp##### [Post-Quantum (PQ Solutions)](https://post-quantum.com/) 
  
-Founded: 2009.0; Region: United Kingdom, England; Employees: 11
+Founded: 2009; Region: United Kingdom, England; Employees: 11
  
-Secure communications | Secure communications | Secure communications
+Secure communications
  
 [Twitter](https://twitter.com/post_quantum), [LinkedIn](https://www.linkedin.com/company/post-quantum), [Website](https://post-quantum.com/), [Video](https://www.youtube.com/watch?v=wCQuTSDKIF8), [Email](support@post-quantum.com)
  
  
  
-### [TrapX](http://trapx.com/) 
+ &nbsp##### [TrapX](http://trapx.com/) 
  
-Founded: 2010.0; Region: United States, California; Employees: 74
+Founded: 2010; Region: United States, California; Employees: 74
  
-Deception security | Deception security | Deception security
+Deception security
  
 [Twitter](https://twitter.com/TrapXSecurity), [LinkedIn](https://www.linkedin.com/company/trapx), [Facebook](https://www.facebook.com/pages/TrapX/258804147648401), [Website](http://trapx.com/), [Video](https://vimeo.com/206638302), [Email](info@trapx.com)
  
  
  
-### [SecBI](http://www.secbi.com) 
+ &nbsp##### [SecBI](http://www.secbi.com) 
  
-Founded: 2014.0; Region: Israel, Southern District; Employees: 15
+Founded: 2014; Region: Israel, Southern District; Employees: 15
  
-Analytics & predictive intelligence for security | Analytics & predictive intelligence for security | Analytics & predictive intelligence for security
+Analytics & predictive intelligence for security
  
 [Twitter](https://twitter.com/secbi), [LinkedIn](https://www.linkedin.com/company/5224461), [Facebook](https://www.facebook.com/385193438331013), [Website](http://www.secbi.com), 
  
  
  
-### [Cymmetria](http://www.cymmetria.com/) 
+ &nbsp##### [Cymmetria](http://www.cymmetria.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 31
+Founded: 2014; Region: United States, California; Employees: 31
  
-Deception security | Deception security | Deception security
+Deception security
  
 [Twitter](https://twitter.com/cymmetria), [LinkedIn](https://www.linkedin.com/company/cymmetria), [Facebook](https://www.facebook.com/Cymmetria/timeline), [Website](http://www.cymmetria.com/), [Video](https://www.youtube.com/watch?v=NMKmnXNiPaQ), [Email](info@cymmetria.com)
  
  
  
-### [Skybox Security](https://www.skyboxsecurity.com/) 
+ &nbsp##### [Skybox Security](https://www.skyboxsecurity.com/) 
  
-Founded: 2002.0; Region: United States, California; Employees: 198
+Founded: 2002; Region: United States, California; Employees: 198
  
-Analytics & predictive intelligence for security | Analytics & predictive intelligence for security | Analytics & predictive intelligence for security
+Analytics & predictive intelligence for security
  
 [Twitter](http://twitter.com/skyboxsecurity), [LinkedIn](http://www.linkedin.com/company/skybox-security), [Facebook](http://www.facebook.com/pages/Skybox-Security-Inc/162832530411996), [Website](https://www.skyboxsecurity.com/), [Video](https://www.youtube.com/watch?v=-hrSdK_VLgo), [Email](info@skyboxsecurity.com)
  
  
  
-### [CloudSight](http://CloudSight.ai) 
+ &nbsp##### [CloudSight](http://CloudSight.ai) 
  
-Founded: 2012.0; Region: United States, California; Employees: 14
+Founded: 2012; Region: United States, California; Employees: 14
  
 Image recognition library/SDK/API | Deep learning library/SDK/API
  
@@ -8838,19 +8838,19 @@ Image recognition library/SDK/API | Deep learning library/SDK/API
  
  
  
-### [Google Cloud Platform](http://cloud.google.com/) 
+ &nbsp##### [Google Cloud Platform](http://cloud.google.com/) 
  
-Founded: 0.0; Region: United States, California; Employees: 0
+Founded: 0; Region: United States, California; Employees: 0
  
-Image recognition library/SDK/API | Image recognition library/SDK/API | Image recognition library/SDK/API
+Image recognition library/SDK/API
  
 [Website](http://cloud.google.com/), 
  
  
  
-### [Cortexica Vision Systems](http://www.cortexica.com) 
+ &nbsp##### [Cortexica Vision Systems](http://www.cortexica.com) 
  
-Founded: 2008.0; Region: United Kingdom, England; Employees: 38
+Founded: 2008; Region: United Kingdom, England; Employees: 38
  
 Recommendation engine | Merchandising optimization | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -8858,9 +8858,9 @@ Recommendation engine | Merchandising optimization | Image tagging to improve pr
  
  
  
-### [Numenta](http://www.numenta.com) 
+ &nbsp##### [Numenta](http://www.numenta.com) 
  
-Founded: 2005.0; Region: United States, California; Employees: 22
+Founded: 2005; Region: United States, California; Employees: 22
  
 Natural Language Processing library/SDK/API | Robotics | Financial Analytics Platform
  
@@ -8868,9 +8868,9 @@ Natural Language Processing library/SDK/API | Robotics | Financial Analytics Pla
  
  
  
-### [Skytree](http://www.skytree.net) 
+ &nbsp##### [Skytree](http://www.skytree.net) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
 Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial Analytics Platform | Data gathering
  
@@ -8878,9 +8878,9 @@ Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial
  
  
  
-### [Staqu Technologies](http://www.staqu.com/) 
+ &nbsp##### [Staqu Technologies](http://www.staqu.com/) 
  
-Founded: 2015.0; Region: India, Haryana; Employees: 19
+Founded: 2015; Region: India, Haryana; Employees: 19
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -8888,9 +8888,9 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
  
  
-### [Cortical.io](http://www.cortical.io) 
+ &nbsp##### [Cortical.io](http://www.cortical.io) 
  
-Founded: 2011.0; Region: Austria, Vienna; Employees: 15
+Founded: 2011; Region: Austria, Vienna; Employees: 15
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -8898,9 +8898,9 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
  
  
-### [Paxata](http://www.paxata.com) 
+ &nbsp##### [Paxata](http://www.paxata.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 116
+Founded: 2012; Region: United States, California; Employees: 116
  
 Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial Analytics Platform | Regulatory compliance | Data gathering | Patient data analytics
  
@@ -8908,19 +8908,19 @@ Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial 
  
  
  
-### [Skymind](https://skymind.ai/) 
+ &nbsp##### [Skymind](https://skymind.ai/) 
  
-Founded: 0.0; Region: United States, California; Employees: 0
+Founded: 0; Region: United States, California; Employees: 0
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Website](https://skymind.ai/), 
  
  
  
-### [indico data solutions](http://indico.io) 
+ &nbsp##### [indico data solutions](http://indico.io) 
  
-Founded: 2013.0; Region: United States, Massachusetts; Employees: 15
+Founded: 2013; Region: United States, Massachusetts; Employees: 15
  
 Image recognition library/SDK/API | Data gathering
  
@@ -8928,9 +8928,9 @@ Image recognition library/SDK/API | Data gathering
  
  
  
-### [AltexSoft](http://www.altexsoft.com) 
+ &nbsp##### [AltexSoft](http://www.altexsoft.com) 
  
-Founded: 2007.0; Region: United States, California; Employees: 200
+Founded: 2007; Region: United States, California; Employees: 200
  
 AI Consultancy | AI developer | Data cleaning&validation | Image recognition and visual analytics | Voice recognition and sound analytics | e-commerce analytics
  
@@ -8938,9 +8938,9 @@ AI Consultancy | AI developer | Data cleaning&validation | Image recognition and
  
  
  
-### [Sightcorp](http://www.sightcorp.com) 
+ &nbsp##### [Sightcorp](http://www.sightcorp.com) 
  
-Founded: 2013.0; Region: Netherlands, North Holland; Employees: 17
+Founded: 2013; Region: Netherlands, North Holland; Employees: 17
  
 Social analytics & automation | Deep learning library/SDK/API | Analytics platform
  
@@ -8948,19 +8948,19 @@ Social analytics & automation | Deep learning library/SDK/API | Analytics platfo
  
  
  
-### [ProtectWise](http://www.protectwise.com) 
+ &nbsp##### [ProtectWise](http://www.protectwise.com) 
  
-Founded: 2013.0; Region: United States, Colorado; Employees: 94
+Founded: 2013; Region: United States, Colorado; Employees: 94
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](http://twitter.com/ProtectWise), [LinkedIn](http://www.linkedin.com/company/3087510), [Facebook](https://www.facebook.com/protectwiseinc?ref=hl), [Website](http://www.protectwise.com), [Video](https://www.youtube.com/watch?v=kPJ0dKCGBg8), [Email](info@protectwise.com)
  
  
  
-### [Kore.ai](https://kore.ai/) 
+ &nbsp##### [Kore.ai](https://kore.ai/) 
  
-Founded: 2013.0; Region: United States, Florida; Employees: 192
+Founded: 2013; Region: United States, Florida; Employees: 192
  
 Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
@@ -8968,49 +8968,49 @@ Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
  
  
-### [Wit.ai](https://www.wit.ai/) 
+ &nbsp##### [Wit.ai](https://www.wit.ai/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 50
+Founded: 2013; Region: United States, California; Employees: 50
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://www.twitter.com/WitNL), [LinkedIn](http://www.linkedin.com/company/wit-ai), [Facebook](http://www.facebook.com/pages/WitAI/659704860731385), [Website](https://www.wit.ai/), [Email](contact@wit.ai)
  
  
  
-### [Diffbot](http://www.diffbot.com) 
+ &nbsp##### [Diffbot](http://www.diffbot.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 18
+Founded: 2010; Region: United States, California; Employees: 18
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](http://twitter.com/diffbot), [LinkedIn](https://www.linkedin.com/company/diffbot), [Facebook](https://www.facebook.com/pages/Diffbot/101252024489), [Website](http://www.diffbot.com), [Email](support@diffbot.com)
  
  
  
-### [Kite](https://kite.com/) 
+ &nbsp##### [Kite](https://kite.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 12
+Founded: 2014; Region: United States, California; Employees: 12
  
-Developer assistance | Developer assistance | Developer assistance
+Developer assistance
  
 [Twitter](https://www.twitter.com/kitehq), [LinkedIn](https://www.linkedin.com/company/3817468?trk=prof-exp-company-name), [Website](https://kite.com/), [Email](contact@kite.com)
  
  
  
-### [Calipsa](http://calipsa.io/) 
+ &nbsp##### [Calipsa](http://calipsa.io/) 
  
-Founded: 2016.0; Region: United Kingdom, England; Employees: 0
+Founded: 2016; Region: United Kingdom, England; Employees: 0
  
-Image recognition library/SDK/API | Image recognition library/SDK/API | Image recognition library/SDK/API
+Image recognition library/SDK/API
  
 [Website](http://calipsa.io/), 
  
  
  
-### [IBM Bluemix](http://www.ibm.com/) 
+ &nbsp##### [IBM Bluemix](http://www.ibm.com/) 
  
-Founded: 1911.0; Region: United States, New York; Employees: 1343
+Founded: 1911; Region: United States, New York; Employees: 1343
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -9018,19 +9018,19 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
  
  
-### [Darktrace](http://www.darktrace.com/) 
+ &nbsp##### [Darktrace](http://www.darktrace.com/) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 175
+Founded: 2013; Region: United Kingdom, England; Employees: 175
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](https://twitter.com/Darktrace/), [LinkedIn](https://www.linkedin.com/company/darktrace), [Website](http://www.darktrace.com/), [Email](info@darktrace.com)
  
  
  
-### [CyberSparta](http://www.cybersparta.com/) 
+ &nbsp##### [CyberSparta](http://www.cybersparta.com/) 
  
-Founded: 2016.0; Region: United Kingdom, England; Employees: 5
+Founded: 2016; Region: United Kingdom, England; Employees: 5
  
 Analytics & predictive intelligence for security | Deep learning library/SDK/API
  
@@ -9038,9 +9038,9 @@ Analytics & predictive intelligence for security | Deep learning library/SDK/API
  
  
  
-### [Cyberlytic](http://www.cyberlytic.com/) 
+ &nbsp##### [Cyberlytic](http://www.cyberlytic.com/) 
  
-Founded: 2013.0; Region: United Kingdom, England; Employees: 12
+Founded: 2013; Region: United Kingdom, England; Employees: 12
  
 Analytics & predictive intelligence for security | Autonomous cybersecurity systems
  
@@ -9048,9 +9048,9 @@ Analytics & predictive intelligence for security | Autonomous cybersecurity syst
  
  
  
-### [Recast.AI](https://recast.ai) 
+ &nbsp##### [Recast.AI](https://recast.ai) 
  
-Founded: 2015.0; Region: France, Île-de-France; Employees: 25
+Founded: 2015; Region: France, Île-de-France; Employees: 25
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -9058,9 +9058,9 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
  
  
-### [Imagry](http://www.imagry.co) 
+ &nbsp##### [Imagry](http://www.imagry.co) 
  
-Founded: 2015.0; Region: United States, Ohio; Employees: 6
+Founded: 2015; Region: United States, Ohio; Employees: 6
  
 Image tagging to improve product discovery | Deep learning library/SDK/API
  
@@ -9068,29 +9068,29 @@ Image tagging to improve product discovery | Deep learning library/SDK/API
  
  
  
-### [Interset](http://interset.com) 
+ &nbsp##### [Interset](http://interset.com) 
  
-Founded: 2015.0; Region: Canada, Ontario; Employees: 75
+Founded: 2015; Region: Canada, Ontario; Employees: 75
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](https://www.twitter.com/intersetca), [LinkedIn](https://www.linkedin.com/company/intersetca), [Facebook](https://www.facebook.com/670507139684277), [Website](http://interset.com), 
  
  
  
-### [Two Hat Security](http://www.twohat.com) 
+ &nbsp##### [Two Hat Security](http://www.twohat.com) 
  
-Founded: 2012.0; Region: Canada, British Columbia; Employees: 25
+Founded: 2012; Region: Canada, British Columbia; Employees: 25
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](https://twitter.com/TwoHatHQ), [LinkedIn](https://www.linkedin.com/company/two-hat-security), [Facebook](https://www.facebook.com/TwoHatHQ), [Website](http://www.twohat.com), 
  
  
  
-### [LARI](https://www.lari.digital) 
+ &nbsp##### [LARI](https://www.lari.digital) 
  
-Founded: 2017.0; Region: Switzerland, Zurich; Employees: 6
+Founded: 2017; Region: Switzerland, Zurich; Employees: 6
  
 Machine learning library/SDK/API | Data Management & Monitoring
  
@@ -9098,19 +9098,19 @@ Machine learning library/SDK/API | Data Management & Monitoring
  
  
  
-### [Contrast Security](https://www.contrastsecurity.com) 
+ &nbsp##### [Contrast Security](https://www.contrastsecurity.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 75
+Founded: 2014; Region: United States, California; Employees: 75
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](https://twitter.com/contrastsec), [LinkedIn](https://www.linkedin.com/company/contrast-security), [Facebook](https://www.facebook.com/contrastsec/), [Website](https://www.contrastsecurity.com), 
  
  
  
-### [Deep Instinct](http://www.deepinstinct.com) 
+ &nbsp##### [Deep Instinct](http://www.deepinstinct.com) 
  
-Founded: 2014.0; Region: Israel, Tel Aviv; Employees: 0
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 0
  
 Analytics & predictive intelligence for security | Autonomous cybersecurity systems
  
@@ -9118,139 +9118,139 @@ Analytics & predictive intelligence for security | Autonomous cybersecurity syst
  
  
  
-### [Threat Stack](http://threatstack.com) 
+ &nbsp##### [Threat Stack](http://threatstack.com) 
  
-Founded: 2012.0; Region: United States, Massachusetts; Employees: 75
+Founded: 2012; Region: United States, Massachusetts; Employees: 75
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](http://twitter.com/threatstack), [LinkedIn](http://www.linkedin.com/company/threat-stack-inc), [Facebook](https://www.facebook.com/ThreatStack/), [Website](http://threatstack.com), 
  
  
  
-### [Bastille](https://www.bastille.net) 
+ &nbsp##### [Bastille](https://www.bastille.net) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](http://twitter.com/bastillenet), [LinkedIn](http://www.linkedin.com/company/bastille-networks), [Facebook](https://www.facebook.com/bastillenetworks), [Website](https://www.bastille.net), 
  
  
  
-### [Aqua Security](https://www.aquasec.com) 
+ &nbsp##### [Aqua Security](https://www.aquasec.com) 
  
-Founded: 2015.0; Region: Israel, Tel Aviv; Employees: 25
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](http://twitter.com/AquaSecTeam), [LinkedIn](https://www.linkedin.com/company/10034420), [Facebook](https://www.facebook.com/AquaSecTeam/), [Website](https://www.aquasec.com), 
  
  
  
-### [Umbo Computer Vision](https://umbocv.ai) 
+ &nbsp##### [Umbo Computer Vision](https://umbocv.ai) 
  
-Founded: 2014.0; Region: Taiwan, Taiwan; Employees: 25
+Founded: 2014; Region: Taiwan, Taiwan; Employees: 25
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Twitter](https://www.facebook.com/UmboCV), [LinkedIn](https://www.linkedin.com/company/umbo-cv), [Facebook](https://www.facebook.com/pg/UmboCV), [Website](https://umbocv.ai), 
  
  
  
-### [Metafor Software](http://metaforsoftware.com) 
+ &nbsp##### [Metafor Software](http://metaforsoftware.com) 
  
-Founded: 2010.0; Region: Canada, British Columbia; Employees: 3000
+Founded: 2010; Region: Canada, British Columbia; Employees: 3000
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](http://twitter.com/metaforsoftware), [LinkedIn](http://www.linkedin.com/company/metafor-software), [Facebook](http://www.facebook.com/metaforsoftware), [Website](http://metaforsoftware.com), 
  
  
  
-### [Rollbar](https://rollbar.com) 
+ &nbsp##### [Rollbar](https://rollbar.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Developer assistance | Developer assistance | Developer assistance
+Developer assistance
  
 [Twitter](http://twitter.com/rollbar), [LinkedIn](https://www.linkedin.com/company/rollbar), [Facebook](http://www.facebook.com/rollbarinc), [Website](https://rollbar.com), 
  
  
  
-### [Cirrascale](http://cirrascale.com) 
+ &nbsp##### [Cirrascale](http://cirrascale.com) 
  
-Founded: 1991.0; Region: United States, California; Employees: 75
+Founded: 1991; Region: United States, California; Employees: 75
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Twitter](http://twitter.com/Cirrascale), [LinkedIn](http://www.linkedin.com/company/cirrascale), [Facebook](http://www.facebook.com/cirrascale), [Website](http://cirrascale.com), 
  
  
  
-### [Magentiq Eye Ltd](http://www.magentiq.com/) 
+ &nbsp##### [Magentiq Eye Ltd](http://www.magentiq.com/) 
  
-Founded: 2015.0; Region: Israel, Haifa; Employees: 5
+Founded: 2015; Region: Israel, Haifa; Employees: 5
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [Twitter](https://twitter.com/magentiqeye), [LinkedIn](https://www.linkedin.com/company/magentiq-eye-ltd.), [Website](http://www.magentiq.com/), 
  
  
  
-### [Netra Inc](http://www.netra.io) 
+ &nbsp##### [Netra Inc](http://www.netra.io) 
  
-Founded: 2013.0; Region: United States, Massachusetts; Employees: 5
+Founded: 2013; Region: United States, Massachusetts; Employees: 5
  
-Image recognition library/SDK/API | Image recognition library/SDK/API | Image recognition library/SDK/API
+Image recognition library/SDK/API
  
 [LinkedIn](https://www.linkedin.com/company/netra-systems-inc?trk=biz-companies-cym), [Website](http://www.netra.io), [Email](info@netra.io)
  
  
  
-### [Loop AI Labs Cognitive Computing](http://www.loop.ai) 
+ &nbsp##### [Loop AI Labs Cognitive Computing](http://www.loop.ai) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://twitter.com/LoopAILabs), [LinkedIn](http://www.linkedin.com/company/loop-ai-labs), [Facebook](http://www.facebook.com/LoopAILabs), [Website](http://www.loop.ai), 
  
  
  
-### [LeapMind, Inc.](http://leapmind.io/) 
+ &nbsp##### [LeapMind, Inc.](http://leapmind.io/) 
  
-Founded: 2012.0; Region: Japan, Tokyo; Employees: 50
+Founded: 2012; Region: Japan, Tokyo; Employees: 50
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Twitter](https://twitter.com/leapmind_inc), [LinkedIn](https://www.linkedin.com/company/leapmind-inc/), [Facebook](https://www.facebook.com/leapmind.io), [Website](http://leapmind.io/), 
  
  
  
-### [Lighthouse](https://www.light.house/) 
+ &nbsp##### [Lighthouse](https://www.light.house/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Twitter](https://www.twitter.com/asklighthouse), [Facebook](https://www.facebook.com/AskLighthouse/), [Website](https://www.light.house/), [Email](contact@light.house)
  
  
  
-### [PointGrab Ltd.](http://www.pointgrab.com) 
+ &nbsp##### [PointGrab Ltd.](http://www.pointgrab.com) 
  
-Founded: 2008.0; Region: United States, Texas; Employees: 75
+Founded: 2008; Region: United States, Texas; Employees: 75
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Twitter](http://twitter.com/pointgrab), [LinkedIn](https://www.linkedin.com/company/452517), [Facebook](https://www.facebook.com/pointgrab), [Website](http://www.pointgrab.com), 
  
  
  
-### [Pilot AI](http://www.pilot.ai) 
+ &nbsp##### [Pilot AI](http://www.pilot.ai) 
  
-Founded: 2015.0; Region: United States, California; Employees: 20
+Founded: 2015; Region: United States, California; Employees: 20
  
 Image recognition library/SDK/API | Smart Security Systems | Deep learning library/SDK/API | Image recognition and visual analytics | Vision systems | Driving assistant
  
@@ -9258,69 +9258,69 @@ Image recognition library/SDK/API | Smart Security Systems | Deep learning libra
  
  
  
-### [Retechnica](http://www.retechnica.com/) 
+ &nbsp##### [Retechnica](http://www.retechnica.com/) 
  
-Founded: 2012.0; Region: United Kingdom, England; Employees: 25
+Founded: 2012; Region: United Kingdom, England; Employees: 25
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](https://twitter.com/retechnica), [LinkedIn](https://www.linkedin.com/company/3522132?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1435144387457%2Ctas%3A%20Retechnica), [Website](http://www.retechnica.com/), 
  
  
  
-### [minds.ai](http://minds.ai/) 
+ &nbsp##### [minds.ai](http://minds.ai/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 0
+Founded: 2014; Region: United States, California; Employees: 0
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Twitter](https://twitter.com/minds_ai), [LinkedIn](https://www.linkedin.com/company/minds-ai), [Facebook](https://www.facebook.com/minds.ai.tech/), [Website](http://minds.ai/), [Email](contact@minds.ai)
  
  
  
-### [KITT.AI](http://kitt.ai/) 
+ &nbsp##### [KITT.AI](http://kitt.ai/) 
  
-Founded: 2014.0; Region: United States, Washington; Employees: 5
+Founded: 2014; Region: United States, Washington; Employees: 5
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](https://twitter.com/kitt_ai), [LinkedIn](http://www.linkedin.com/company/kitt-ai), [Website](http://kitt.ai/), 
  
  
  
-### [Intelnics](http://www.intelnics.com/) 
+ &nbsp##### [Intelnics](http://www.intelnics.com/) 
  
-Founded: 2014.0; Region: Spain, Castille and León; Employees: 5
+Founded: 2014; Region: Spain, Castille and León; Employees: 5
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Twitter](http://twitter.com/intelnics), [LinkedIn](http://www.linkedin.com/company/5082199), [Website](http://www.intelnics.com/), 
  
  
  
-### [Intelligent Voice](http://www.intelligentvoice.com/) 
+ &nbsp##### [Intelligent Voice](http://www.intelligentvoice.com/) 
  
-Founded: 1990.0; Region: United Kingdom, England; Employees: 25
+Founded: 1990; Region: United Kingdom, England; Employees: 25
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](https://twitter.com/intelligentvox), [LinkedIn](https://www.linkedin.com/company/chase-information-technology-services-limited), [Facebook](https://www.facebook.com/intelligentvoice), [Website](http://www.intelligentvoice.com/), 
  
  
  
-### [Idio](http://idioplatform.com) 
+ &nbsp##### [Idio](http://idioplatform.com) 
  
-Founded: 2006.0; Region: United Kingdom, England; Employees: 25
+Founded: 2006; Region: United Kingdom, England; Employees: 25
  
-Machine learning library/SDK/API | Machine learning library/SDK/API | Machine learning library/SDK/API
+Machine learning library/SDK/API
  
 [Twitter](http://twitter.com/idioplatform), [LinkedIn](http://www.linkedin.com/company/idio-ltd), [Website](http://idioplatform.com), 
  
  
  
-### [FloydHub](https://www.floydhub.com) 
+ &nbsp##### [FloydHub](https://www.floydhub.com) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
 Deep learning library/SDK/API | Analytics platform
  
@@ -9328,69 +9328,69 @@ Deep learning library/SDK/API | Analytics platform
  
  
  
-### [DiffBlue](http://www.diffblue.com/) 
+ &nbsp##### [DiffBlue](http://www.diffblue.com/) 
  
-Founded: 2016.0; Region: United Kingdom, England; Employees: 25
+Founded: 2016; Region: United Kingdom, England; Employees: 25
  
-Developer assistance | Developer assistance | Developer assistance
+Developer assistance
  
 [Twitter](https://twitter.com/diffbluehq), [LinkedIn](https://www.linkedin.com/company-beta/19435186/), [Facebook](https://www.facebook.com/AIforCode/), [Website](http://www.diffblue.com/), 
  
  
  
-### [Deep Sentinel](https://www.deepsentinel.com/) 
+ &nbsp##### [Deep Sentinel](https://www.deepsentinel.com/) 
  
-Founded: None; Region: United States, California; Employees: 0
+Founded: Unknown; Region: United States, California; Employees: 0
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Website](https://www.deepsentinel.com/), 
  
  
  
-### [Deep Glint](http://www.deepglint.com) 
+ &nbsp##### [Deep Glint](http://www.deepglint.com) 
  
-Founded: 2013.0; Region: China, Beijing; Employees: 25
+Founded: 2013; Region: China, Beijing; Employees: 25
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Website](http://www.deepglint.com), 
  
  
  
-### [Arya.ai](http://arya.ai) 
+ &nbsp##### [Arya.ai](http://arya.ai) 
  
-Founded: 2013.0; Region: India, Maharashtra; Employees: 25
+Founded: 2013; Region: India, Maharashtra; Employees: 25
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [LinkedIn](https://www.linkedin.com/company/arya-ai), [Website](http://arya.ai), 
  
  
  
-### [Algocian](http://algocian.com) 
+ &nbsp##### [Algocian](http://algocian.com) 
  
-Founded: 2015.0; Region: Canada, Ontario; Employees: 5
+Founded: 2015; Region: Canada, Ontario; Employees: 5
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Twitter](https://twitter.com/algocian), [Website](http://algocian.com), [Email](info@algocian.com)
  
  
  
-### [SwiftKey](http://swiftkey.com/) 
+ &nbsp##### [SwiftKey](http://swiftkey.com/) 
  
-Founded: 2008.0; Region: United Kingdom, England; Employees: 175
+Founded: 2008; Region: United Kingdom, England; Employees: 175
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://twitter.com/swiftkey), [LinkedIn](http://www.linkedin.com/company/swiftkey), [Facebook](http://www.facebook.com/SwiftKey), [Website](http://swiftkey.com/), 
  
  
  
-### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
+ &nbsp##### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-Founded: 2015.0; Region: India, Maharashtra; Employees: 25
+Founded: 2015; Region: India, Maharashtra; Employees: 25
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -9398,9 +9398,9 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
  
  
-### [Algorithmia](http://www.algorithmia.com) 
+ &nbsp##### [Algorithmia](http://www.algorithmia.com) 
  
-Founded: 2013.0; Region: United States, Washington; Employees: 25
+Founded: 2013; Region: United States, Washington; Employees: 25
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Deep learning library/SDK/API
  
@@ -9408,69 +9408,69 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
  
  
-### [tauyou](http://www.tauyou.com) 
+ &nbsp##### [tauyou](http://www.tauyou.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 0
+Founded: 2006; Region: United States, California; Employees: 0
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://twitter.com/diegobartolome), [LinkedIn](https://www.linkedin.com/in/dbartolome), [Facebook](https://www.facebook.com/localizationworld), [Website](http://www.tauyou.com), 
  
  
  
-### [Digital Trowel](http://www.digitaltrowel.com) 
+ &nbsp##### [Digital Trowel](http://www.digitaltrowel.com) 
  
-Founded: 2008.0; Region: United States, California; Employees: 25
+Founded: 2008; Region: United States, California; Employees: 25
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://twitter.com/DigitalTrowel), [Website](http://www.digitaltrowel.com), 
  
  
  
-### [Delver Ltd](http://delver.io) 
+ &nbsp##### [Delver Ltd](http://delver.io) 
  
-Founded: 2013.0; Region: United States, California; Employees: 5
+Founded: 2013; Region: United States, California; Employees: 5
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://twitter.com/delver), [LinkedIn](http://www.linkedin.com/company/delver), [Website](http://delver.io), 
  
  
  
-### [Unisound](http://www.unisound.com/) 
+ &nbsp##### [Unisound](http://www.unisound.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 0
+Founded: 2012; Region: United States, California; Employees: 0
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Website](http://www.unisound.com/), 
  
  
  
-### [Third Eye Systems](http://thirdeye-systems.com/) 
+ &nbsp##### [Third Eye Systems](http://thirdeye-systems.com/) 
  
-Founded: 2010.0; Region: United States, California; Employees: 5
+Founded: 2010; Region: United States, California; Employees: 5
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Twitter](https://www.twitter.com/3rdeyesys), [LinkedIn](https://www.linkedin.com/company/third-eye-systems-ltd-), [Website](http://thirdeye-systems.com/), 
  
  
  
-### [Tenstorrent](http://tenstorrent.com/) 
+ &nbsp##### [Tenstorrent](http://tenstorrent.com/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 5
+Founded: 2016; Region: United States, California; Employees: 5
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Twitter](https://twitter.com/tenstorrent), [LinkedIn](https://www.linkedin.com/company/tenstorrent-inc.), [Website](http://tenstorrent.com/), 
  
  
  
-### [SparkCognition](http://sparkcognition.com) 
+ &nbsp##### [SparkCognition](http://sparkcognition.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 200
+Founded: 2013; Region: United States, California; Employees: 200
  
 Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
@@ -9478,109 +9478,109 @@ Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
  
  
-### [SenseTime](http://www.sensetime.com/) 
+ &nbsp##### [SenseTime](http://www.sensetime.com/) 
  
-Founded: 2014.0; Region: Hong Kong, Central and Western; Employees: 0
+Founded: 2014; Region: Hong Kong, Central and Western; Employees: 0
  
-Autonomous cybersecurity systems | Autonomous cybersecurity systems | Autonomous cybersecurity systems
+Autonomous cybersecurity systems
  
 [LinkedIn](https://www.linkedin.com/company-beta/9272195?pathWildcard=9272195), [Facebook](https://www.facebook.com/sensetimegroup/), [Website](http://www.sensetime.com/), [Email](media@sensetime.com)
  
  
  
-### [SaltDNA](http://www.saltdna.com/) 
+ &nbsp##### [SaltDNA](http://www.saltdna.com/) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Secure communications | Secure communications | Secure communications
+Secure communications
  
 [Twitter](https://www.twitter.com/saltcontrol), [LinkedIn](https://www.linkedin.com/company/saltdna), [Website](http://www.saltdna.com/), 
  
  
  
-### [MonkeyLearn](http://www.monkeylearn.com) 
+ &nbsp##### [MonkeyLearn](http://www.monkeylearn.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 5
+Founded: 2014; Region: United States, California; Employees: 5
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://twitter.com/monkeylearn), [LinkedIn](https://www.linkedin.com/company/monkeylearn-llc), [Website](http://www.monkeylearn.com), [Email](hello@monkeylearn.com)
  
  
  
-### [nCubeHome](https://ncubehome.co.uk/) 
+ &nbsp##### [nCubeHome](https://ncubehome.co.uk/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 5
+Founded: 2012; Region: United States, California; Employees: 5
  
-Smart Security Systems | Smart Security Systems | Smart Security Systems
+Smart Security Systems
  
 [Twitter](https://twitter.com/nCubeHome), [LinkedIn](https://www.linkedin.com/company/5335218), [Facebook](https://www.facebook.com/ncubehome), [Website](https://ncubehome.co.uk/), 
  
  
  
-### [Nexosis](http://www.nexosis.com) 
+ &nbsp##### [Nexosis](http://www.nexosis.com) 
  
-Founded: 2015.0; Region: United States, California; Employees: 25
+Founded: 2015; Region: United States, California; Employees: 25
  
-Machine learning library/SDK/API | Machine learning library/SDK/API | Machine learning library/SDK/API
+Machine learning library/SDK/API
  
 [Twitter](https://twitter.com/Nexosis), [LinkedIn](https://www.linkedin.com/company-beta/9479559/), [Facebook](https://www.facebook.com/nexosis/), [Website](http://www.nexosis.com), 
  
  
  
-### [Code Connect](http://codeconnect.io/) 
+ &nbsp##### [Code Connect](http://codeconnect.io/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 5
+Founded: 2014; Region: United States, California; Employees: 5
  
-Developer assistance | Developer assistance | Developer assistance
+Developer assistance
  
 [Twitter](https://twitter.com/getcodeconnect), [LinkedIn](https://www.linkedin.com/company/code-connect-inc-), [Facebook](https://www.facebook.com/getcodeconnect), [Website](http://codeconnect.io/), 
  
  
  
-### [Jarvis](http://jarvis.co) 
+ &nbsp##### [Jarvis](http://jarvis.co) 
  
-Founded: 2013.0; Region: United States, California; Employees: 5
+Founded: 2013; Region: United States, California; Employees: 5
  
-Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API | Natural Language Processing library/SDK/API
+Natural Language Processing library/SDK/API
  
 [Twitter](http://twitter.com/jarvisincsf), [Facebook](http://www.facebook.com/jarvisapp), [Website](http://jarvis.co), 
  
  
  
-### [TESTIM](https://testim.io/) 
+ &nbsp##### [TESTIM](https://testim.io/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Developer assistance | Developer assistance | Developer assistance
+Developer assistance
  
 [Twitter](https://twitter.com/testim_io), [LinkedIn](https://www.linkedin.com/company/testim-io), [Facebook](https://www.facebook.com/testimdotio), [Website](https://testim.io/), 
  
  
  
-### [Nervana](http://nervanasys.com) 
+ &nbsp##### [Nervana](http://nervanasys.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 0
+Founded: 2014; Region: United States, California; Employees: 0
  
-Deep learning library/SDK/API | Deep learning library/SDK/API | Deep learning library/SDK/API
+Deep learning library/SDK/API
  
 [Twitter](http://twitter.com/nervanasys), [LinkedIn](http://www.linkedin.com/company/nervana-systems), [Facebook](http://www.facebook.com/nervanasys), [Website](http://nervanasys.com), 
  
  
  
-### [SecureWorks](http://www.secureworks.com) 
+ &nbsp##### [SecureWorks](http://www.secureworks.com) 
  
-Founded: 1999.0; Region: United States, California; Employees: 10001
+Founded: 1999; Region: United States, California; Employees: 10001
  
-Deception security | Deception security | Deception security
+Deception security
  
 [Twitter](http://twitter.com/secureworks), [LinkedIn](https://www.linkedin.com/company/secureworks), [Facebook](https://www.facebook.com/secureworks), [Website](http://www.secureworks.com), 
  
  
  
-### [Deepgram](https://www.deepgram.com/) 
+ &nbsp##### [Deepgram](https://www.deepgram.com/) 
  
-Founded: 2015.0; Region: United States, California; Employees: 9
+Founded: 2015; Region: United States, California; Employees: 9
  
 Call analytics | Legal advisory
  
@@ -9588,119 +9588,119 @@ Call analytics | Legal advisory
  
  
  
-### [Doctrine](https://www.doctrine.fr) 
+ &nbsp##### [Doctrine](https://www.doctrine.fr) 
  
-Founded: 2016.0; Region: France, Île-de-France; Employees: 0
+Founded: 2016; Region: France, Île-de-France; Employees: 0
  
-Legal advisory | Legal advisory | Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](https://twitter.com/DoctrineFR), [LinkedIn](https://www.linkedin.com/company/doctrine-fr), [Facebook](http://www.facebook.com/DoctrineFR), [Website](https://www.doctrine.fr), 
  
  
  
-### [Doctrine](https://www.doctrine.fr) 
+ &nbsp##### [Doctrine](https://www.doctrine.fr) 
  
-Founded: 2016.0; Region: France, Île-de-France; Employees: 0
+Founded: 2016; Region: France, Île-de-France; Employees: 0
  
-Legal advisory | Legal advisory | Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](https://twitter.com/DoctrineFR), [LinkedIn](https://www.linkedin.com/company/doctrine-fr), [Facebook](http://www.facebook.com/DoctrineFR), [Website](https://www.doctrine.fr), [Email](contact@doctrine.fr)
  
  
  
-### [Doctrine](https://www.doctrine.fr) 
+ &nbsp##### [Doctrine](https://www.doctrine.fr) 
  
-Founded: 2016.0; Region: France, Île-de-France; Employees: 0
+Founded: 2016; Region: France, Île-de-France; Employees: 0
  
-Legal advisory | Legal advisory | Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](https://twitter.com/DoctrineFR), [LinkedIn](https://www.linkedin.com/company/doctrine-fr), [Facebook](http://www.facebook.com/DoctrineFR), [Website](https://www.doctrine.fr), 
  
  
  
-### [Luminance](https://www.luminance.com/) 
+ &nbsp##### [Luminance](https://www.luminance.com/) 
  
-Founded: 2003.0; Region: United Kingdom, England; Employees: 0
+Founded: 2003; Region: United Kingdom, England; Employees: 0
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](https://twitter.com/luminancetech/), [LinkedIn](https://www.linkedin.com/company-beta/10880283/), [Website](https://www.luminance.com/), 
  
  
  
-### [Everlaw](http://everlaw.com) 
+ &nbsp##### [Everlaw](http://everlaw.com) 
  
-Founded: 2010.0; Region: United States, California; Employees: 25
+Founded: 2010; Region: United States, California; Employees: 25
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](http://twitter.com/Everlaw), [LinkedIn](http://www.linkedin.com/company/everlaw), [Website](http://everlaw.com), 
  
  
  
-### [Judicata](http://www.judicata.com) 
+ &nbsp##### [Judicata](http://www.judicata.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Website](http://www.judicata.com), 
  
  
  
-### [Ravel Law](https://www.ravellaw.com) 
+ &nbsp##### [Ravel Law](https://www.ravellaw.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 25
+Founded: 2012; Region: United States, California; Employees: 25
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](http://twitter.com/ravellaw), [LinkedIn](http://www.linkedin.com/company/ravel-law), [Facebook](http://www.facebook.com/RavelLaw), [Website](https://www.ravellaw.com), 
  
  
  
-### [ROSS Intelligence](http://www.rossintelligence.com) 
+ &nbsp##### [ROSS Intelligence](http://www.rossintelligence.com) 
  
-Founded: 2014.0; Region: United States, California; Employees: 25
+Founded: 2014; Region: United States, California; Employees: 25
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](https://twitter.com/rossintel), [Website](http://www.rossintelligence.com), 
  
  
  
-### [Knomos Knowledge Management Inc.](http://knomos.law) 
+ &nbsp##### [Knomos Knowledge Management Inc.](http://knomos.law) 
  
-Founded: 2014.0; Region: Canada, British Columbia; Employees: 5
+Founded: 2014; Region: Canada, British Columbia; Employees: 5
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](https://twitter.com/theknomos), [LinkedIn](https://www.linkedin.com/company/3820925), [Facebook](https://www.facebook.com/theknomos), [Website](http://knomos.law), 
  
  
  
-### [Blue J Legal](http://www.bluejlegal.com/) 
+ &nbsp##### [Blue J Legal](http://www.bluejlegal.com/) 
  
-Founded: 2015.0; Region: Canada, Ontario; Employees: 18
+Founded: 2015; Region: Canada, Ontario; Employees: 18
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](https://twitter.com/BlueJLegal), [LinkedIn](https://ca.linkedin.com/company/bluejlegal), [Facebook](https://www.facebook.com/bluejlegal), [Website](http://www.bluejlegal.com/), [Email](info@bluejlegal.com)
  
  
  
-### [eBrevia](http://ebrevia.com) 
+ &nbsp##### [eBrevia](http://ebrevia.com) 
  
-Founded: 2012.0; Region: United States, Connecticut; Employees: 0
+Founded: 2012; Region: United States, Connecticut; Employees: 0
  
-Legal advisory | Legal advisory | Legal advisory
+Legal advisory
  
 [Twitter](http://twitter.com/eBrevia), [LinkedIn](http://www.linkedin.com/company/ebrevia), [Facebook](http://www.facebook.com/eBrevia), [Website](http://ebrevia.com), [Email](info@ebrevia.com)
  
  
  
-### [Go Moment](http://www.gomoment.com) 
+ &nbsp##### [Go Moment](http://www.gomoment.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 20
+Founded: 2012; Region: United States, California; Employees: 20
  
 Retail sales bot | Chatbot | HR retention management
  
@@ -9708,59 +9708,59 @@ Retail sales bot | Chatbot | HR retention management
  
  
  
-### [Lever](https://www.lever.co/) 
+ &nbsp##### [Lever](https://www.lever.co/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 133
+Founded: 2012; Region: United States, California; Employees: 133
  
-Hiring | Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/lever), [LinkedIn](http://www.linkedin.com/company/3254533), [Facebook](https://www.facebook.com/leverapp/), [Website](https://www.lever.co/), [Email](info@lever.co)
  
  
  
-### [Jobvite](http://www.jobvite.com) 
+ &nbsp##### [Jobvite](http://www.jobvite.com) 
  
-Founded: 2006.0; Region: United States, California; Employees: 252
+Founded: 2006; Region: United States, California; Employees: 252
  
-Hiring | Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/Jobvite), [LinkedIn](http://www.linkedin.com/company/jobvite), [Facebook](http://www.facebook.com/Jobvite), [Website](http://www.jobvite.com), [Email](jobvitecares@jobvite.com)
  
  
  
-### [JobScore](https://www.jobscore.com) 
+ &nbsp##### [JobScore](https://www.jobscore.com) 
  
-Founded: 2004.0; Region: United States, California; Employees: 36
+Founded: 2004; Region: United States, California; Employees: 36
  
-Hiring | Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/jobscore), [LinkedIn](http://www.linkedin.com/company/385398), [Facebook](http://www.facebook.com/jobscore), [Website](https://www.jobscore.com), [Email](info@jobscore.com)
  
  
  
-### [Reflektive](https://www.reflektive.com/) 
+ &nbsp##### [Reflektive](https://www.reflektive.com/) 
  
-Founded: 2014.0; Region: United States, California; Employees: 108
+Founded: 2014; Region: United States, California; Employees: 108
  
-Performance management | Performance management | Performance management | Performance management
+Performance management
  
 [Twitter](https://twitter.com/reflektive), [LinkedIn](https://www.linkedin.com/company/6390927), [Facebook](https://www.facebook.com/getreflektive?fref=ts), [Website](https://www.reflektive.com/), [Email](hello@reflektive.com)
  
  
  
-### [Entelo](http://www.entelo.com) 
+ &nbsp##### [Entelo](http://www.entelo.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 32
+Founded: 2011; Region: United States, California; Employees: 32
  
-Hiring | Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/entelo), [LinkedIn](http://www.linkedin.com/company/entelo), [Facebook](http://www.facebook.com/Entelo), [Website](http://www.entelo.com), [Email](contact@entelo.com)
  
  
  
-### [Julie Desk](https://www.juliedesk.com/) 
+ &nbsp##### [Julie Desk](https://www.juliedesk.com/) 
  
-Founded: 2014.0; Region: France, Île-de-France; Employees: 14
+Founded: 2014; Region: France, Île-de-France; Employees: 14
  
 Meeting setup automation | Digital assistant
  
@@ -9768,19 +9768,19 @@ Meeting setup automation | Digital assistant
  
  
  
-### [x.ai](https://x.ai) 
+ &nbsp##### [x.ai](https://x.ai) 
  
-Founded: 2014.0; Region: United States, New York; Employees: 0
+Founded: 2014; Region: United States, New York; Employees: 0
  
-Digital assistant | Digital assistant | Digital assistant
+Digital assistant
  
 [Twitter](http://twitter.com/xdotai), [LinkedIn](http://www.linkedin.com/company/5191206), [Facebook](https://www.facebook.com/xdotai), [Website](https://x.ai), [Email](hello@human.x.ai)
  
  
  
-### [Legion Technologies](https://legion.co/) 
+ &nbsp##### [Legion Technologies](https://legion.co/) 
  
-Founded: 2016.0; Region: United States, California; Employees: 25
+Founded: 2016; Region: United States, California; Employees: 25
  
 Performance management | HR retention management | HR analytics | Employee Monitoring | Regulatory compliance
  
@@ -9788,159 +9788,159 @@ Performance management | HR retention management | HR analytics | Employee Monit
  
  
  
-### [Visier](http://www.visier.com) 
+ &nbsp##### [Visier](http://www.visier.com) 
  
-Founded: 2010.0; Region: Canada, British Columbia; Employees: 219
+Founded: 2010; Region: Canada, British Columbia; Employees: 219
  
-HR analytics | HR analytics | HR analytics
+HR analytics
  
 [Twitter](http://twitter.com/visieranalytics), [LinkedIn](http://www.linkedin.com/company/1360576), [Facebook](http://www.facebook.com/VisierAnalytics), [Website](http://www.visier.com), [Email](info@visier.com)
  
  
  
-### [TalentSky](http://talentsky.com) 
+ &nbsp##### [TalentSky](http://talentsky.com) 
  
-Founded: 2013.0; Region: United States, California; Employees: 25
+Founded: 2013; Region: United States, California; Employees: 25
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/TalentSkyInc), [LinkedIn](https://www.linkedin.com/company/talentsky-inc), [Facebook](http://www.facebook.com/talentskyinc), [Website](http://talentsky.com), [Email](rick@talentsky.com)
  
  
  
-### [Field Nation](http://www.fieldnation.com) 
+ &nbsp##### [Field Nation](http://www.fieldnation.com) 
  
-Founded: 2008.0; Region: United States, Minnesota; Employees: 170
+Founded: 2008; Region: United States, Minnesota; Employees: 170
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/fieldnation), [LinkedIn](http://www.linkedin.com/company/field-nation), [Facebook](http://www.facebook.com/fieldnation), [Website](http://www.fieldnation.com), [Email](info@fieldnation.com)
  
  
  
-### [Bullhorn](http://www.bullhorn.com) 
+ &nbsp##### [Bullhorn](http://www.bullhorn.com) 
  
-Founded: 1999.0; Region: United States, Massachusetts; Employees: 250
+Founded: 1999; Region: United States, Massachusetts; Employees: 250
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/Bullhorn), [LinkedIn](http://www.linkedin.com/company/bullhorn), [Facebook](http://www.facebook.com/Bullhorn), [Website](http://www.bullhorn.com), [Email](sales@bullhorn.com)
  
  
  
-### [TalentBin](http://talentbin.com) 
+ &nbsp##### [TalentBin](http://talentbin.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 30
+Founded: 2011; Region: United States, California; Employees: 30
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/TalentBinHiring), [LinkedIn](https://www.linkedin.com/company/2504880), [Facebook](https://www.facebook.com/talentbin), [Website](http://talentbin.com), [Email](contact@talentbin.com)
  
  
  
-### [Hired](http://hired.com) 
+ &nbsp##### [Hired](http://hired.com) 
  
-Founded: 2012.0; Region: United States, California; Employees: 253
+Founded: 2012; Region: United States, California; Employees: 253
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](https://twitter.com/hired_hq), [LinkedIn](https://www.linkedin.com/company/hired-inc), [Facebook](https://www.facebook.com/HiredInc), [Website](http://hired.com), [Email](support@hired.com)
  
  
  
-### [Talemetry](https://talemetry.com/) 
+ &nbsp##### [Talemetry](https://talemetry.com/) 
  
-Founded: 0.0; Region: Canada, British Columbia; Employees: 111
+Founded: 0; Region: Canada, British Columbia; Employees: 111
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Website](https://talemetry.com/), 
  
  
  
-### [Workable](http://www.workable.com) 
+ &nbsp##### [Workable](http://www.workable.com) 
  
-Founded: 2012.0; Region: United States, Massachusetts; Employees: 183
+Founded: 2012; Region: United States, Massachusetts; Employees: 183
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/workable), [LinkedIn](http://www.linkedin.com/company/2666416), [Facebook](http://www.facebook.com/WorkableHr), [Website](http://www.workable.com), [Email](nikos@workable.com)
  
  
  
-### [SmashFly](http://www.smashfly.com) 
+ &nbsp##### [SmashFly](http://www.smashfly.com) 
  
-Founded: 2007.0; Region: United States, Massachusetts; Employees: 149
+Founded: 2007; Region: United States, Massachusetts; Employees: 149
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/smashfly), [LinkedIn](http://www.linkedin.com/company/smashfly-technologies), [Facebook](http://www.facebook.com/smashflytechnologies), [Website](http://www.smashfly.com), [Email](info@smashfly.com)
  
  
  
-### [hiQ Labs](http://www.hiqlabs.com/) 
+ &nbsp##### [hiQ Labs](http://www.hiqlabs.com/) 
  
-Founded: 2012.0; Region: United States, California; Employees: 39
+Founded: 2012; Region: United States, California; Employees: 39
  
-HR analytics | HR analytics | HR analytics
+HR analytics
  
 [Twitter](http://twitter.com/hiqlabs), [LinkedIn](http://www.linkedin.com/company/hiq-labs), [Facebook](http://www.facebook.com/hiqlabs), [Website](http://www.hiqlabs.com/), 
  
  
  
-### [Textio](https://textio.com/) 
+ &nbsp##### [Textio](https://textio.com/) 
  
-Founded: 2014.0; Region: United States, Washington; Employees: 50
+Founded: 2014; Region: United States, Washington; Employees: 50
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/textio), [LinkedIn](http://www.linkedin.com/company/textio), [Facebook](http://www.facebook.com/textioHQ), [Website](https://textio.com/), [Email](info@textio.com)
  
  
  
-### [Vettery](http://www.vettery.com) 
+ &nbsp##### [Vettery](http://www.vettery.com) 
  
-Founded: 2013.0; Region: United States, New York; Employees: 58
+Founded: 2013; Region: United States, New York; Employees: 58
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](https://twitter.com/vettery), [LinkedIn](https://www.linkedin.com/company/vettery), [Facebook](https://www.facebook.com/vettery), [Website](http://www.vettery.com), [Email](connect@vettery.com)
  
  
  
-### [Lytmus](https://www.lytmus.io/) 
+ &nbsp##### [Lytmus](https://www.lytmus.io/) 
  
-Founded: 0.0; Region: United States, California; Employees: 16
+Founded: 0; Region: United States, California; Employees: 16
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Website](https://www.lytmus.io/), 
  
  
  
-### [Phenom People](http://www.phenompeople.com/) 
+ &nbsp##### [Phenom People](http://www.phenompeople.com/) 
  
-Founded: 0.0; Region: United Kingdom, England; Employees: 261
+Founded: 0; Region: United Kingdom, England; Employees: 261
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Website](http://www.phenompeople.com/), 
  
  
  
-### [LearnUp](http://www.learnup.com) 
+ &nbsp##### [LearnUp](http://www.learnup.com) 
  
-Founded: 2011.0; Region: United States, California; Employees: 18
+Founded: 2011; Region: United States, California; Employees: 18
  
-Hiring | Hiring | Hiring
+Hiring
  
 [Twitter](http://twitter.com/learnup), [LinkedIn](https://www.linkedin.com/company/learnup), [Facebook](http://www.facebook.com/learnup), [Website](http://www.learnup.com), [Email](hello@learnup.com)
  
  
  
-### [Botego](http://www.botego.com/) 
+ &nbsp##### [Botego](http://www.botego.com/) 
  
-Founded: 2007.0; Region: United States, New York; Employees: 25
+Founded: 2007; Region: United States, New York; Employees: 25
  
 Chatbot | Digital assistant
  
@@ -9948,135 +9948,10 @@ Chatbot | Digital assistant
  
  
  
-### [Behavox](http://www.behavox.com) 
+ &nbsp##### [Behavox](http://www.behavox.com) 
  
-Founded: 2014.0; Region: United Kingdom, England; Employees: 75
+Founded: 2014; Region: United Kingdom, England; Employees: 75
  
-Employee Monitoring | Employee Monitoring | Employee Monitoring
+Employee Monitoring
  
-[Twitter](https://twitter.com/Behavox), [LinkedIn](https://www.linkedin.com/company/behavox), [Facebook](https://www.facebook.com/behavox), [Website](http://www.behavox.com), [Email](info@behavox.com)
- 
- 
- 
-### [OnboardIQ](http://www.onboardiq.com) 
- 
-Founded: 2014.0; Region: United States, California; Employees: 18
- 
-Hiring | Hiring | Hiring
- 
-[Twitter](https://twitter.com/onboardiq), [LinkedIn](https://www.linkedin.com/company/onboardiq), [Facebook](https://www.facebook.com/onboardiq), [Website](http://www.onboardiq.com), [Email](contact@onboardiq.com)
- 
- 
- 
-### [Recast.AI](https://recast.ai) 
- 
-Founded: 2015.0; Region: France, Île-de-France; Employees: 25
- 
-Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
- 
-[Twitter](https://twitter.com/RecastAI), [LinkedIn](https://www.linkedin.com/company/10246631), [Facebook](https://www.facebook.com/RecastAI), [Website](https://recast.ai), [Video](https://www.youtube.com/watch?v=YMdYpfzxgvo), [Email](hello@recast.ai)
- 
- 
- 
-### [Connectifier](https://www.connectifier.com/) 
- 
-Founded: 2012.0; Region: United States, California; Employees: 25
- 
-Hiring | Hiring | Hiring
- 
-[Twitter](http://twitter.com/connectifier), [LinkedIn](https://angel.co/connectifier), [Facebook](http://www.facebook.com/connectifier), [Website](https://www.connectifier.com/), [Email](sales@connectifier.com.)
- 
- 
- 
-### [Ideal](http://www.ideal.com) 
- 
-Founded: 2013.0; Region: Canada, Ontario; Employees: 5
- 
-Hiring | Hiring | Hiring
- 
-[Twitter](http://twitter.com/Ideal), [LinkedIn](https://www.linkedin.com/company/ideal.com), [Facebook](http://www.facebook.com/IdealDotCom), [Website](http://www.ideal.com), [Email](kaylakozan@gmail.com)
- 
- 
- 
-### [LEAP](https://www.helloleap.com) 
- 
-Founded: 2017.0; Region: United Arab Emirates, Dubai; Employees: 25
- 
-Hiring | Hiring | Hiring
- 
-[LinkedIn](https://www.linkedin.com/company/13348240/), [Facebook](https://www.facebook.com/HelloLeapHQ/), [Website](https://www.helloleap.com), 
- 
- 
- 
-### [VergeSense](http://www.vergesense.com/) 
- 
-Founded: 2017.0; Region: United States, California; Employees: 0
- 
-Building management | Building management | Building management
- 
-[Website](http://www.vergesense.com/), 
- 
- 
- 
-### [Jobcase, Inc.](http://www.jobcase.com) 
- 
-Founded: 2009.0; Region: United States, Massachusetts; Employees: 175
- 
-Hiring | Hiring | Hiring
- 
-[Twitter](https://www.twitter.com/therealjobcase), [Website](http://www.jobcase.com), 
- 
- 
- 
-### [Scoutible](http://www.scoutible.com) 
- 
-Founded: 2015.0; Region: United States, California; Employees: 5
- 
-Hiring | Hiring | Hiring
- 
-[Twitter](https://twitter.com/scoutible), [LinkedIn](https://www.linkedin.com/company/scoutible), [Facebook](https://www.facebook.com/scoutible/), [Website](http://www.scoutible.com), 
- 
- 
- 
-### [EquitySim](http://www.equitysim.com) 
- 
-Founded: 2016.0; Region: United States, California; Employees: 0
- 
-Hiring | Hiring | Hiring
- 
-[Twitter](https://twitter.com/@equitysim/), [LinkedIn](https://www.linkedin.com/company/equitysim), [Facebook](https://www.facebook.com/equitysim/), [Website](http://www.equitysim.com), 
- 
- 
- 
-### [Pat Inc](http://www.pat.ai) 
- 
-Founded: 2016.0; Region: United States, California; Employees: 7
- 
-Sales rep chat/email bot | Call intent discovery | Customer service chatbot (self-service solution) | Conversational Analytics | Digital assistant
- 
-[Twitter](https://twitter.com/PatisNLU), [LinkedIn](https://www.linkedin.com/in/becarey), [Facebook](https://www.facebook.com/pat.is.nlu), [Website](http://www.pat.ai), [Video](https://www.youtube.com/watch?v=Fdz9n3KdkC0), 
- 
- 
- 
-### [Cyra](http://www.cyra.ai/) 
- 
-Founded: 2016.0; Region: United Kingdom, England; Employees: 5
- 
-Hiring | Hiring | Hiring
- 
-[Twitter](https://twitter.com/cyra_uk), [LinkedIn](https://www.linkedin.com/company/cyra---your-ai-recruitment-assistant), [Website](http://www.cyra.ai/), 
- 
- 
- 
-### [Mobvoi Inc.](http://www.chumenwenwen.com/en/site/index.html) 
- 
-Founded: 2012.0; Region: United States, California; Employees: 25
- 
-Digital assistant | Digital assistant | Digital assistant
- 
-[Twitter](https://twitter.com/mobvoi), [LinkedIn](http://www.linkedin.com/company/3773376), [Facebook](https://www.facebook.com/chumenwenwen), [Website](http://www.chumenwenwen.com/en/site/index.html), 
- 
- 
- 
-### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
- 
+[Twitter](https://twitter.com/Behavox), [LinkedIn](https://www.linkedin.com/company/behavox), 
