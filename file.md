@@ -2,7 +2,7 @@
  
 #### [IBM Watson](http://www.ibm.com/) 
  
-*Founded: 1911; Region: United States, New York; Employees: 2001; References: *
+Founded: 1911; Region: United States, New York; Employees: 2001; References: 3
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -16,7 +16,7 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
 #### [IBM Bluemix](http://www.ibm.com/) 
  
-*Founded: 1911; Region: United States, New York; Employees: 1343; References: *
+Founded: 1911; Region: United States, New York; Employees: 1343; References: 0
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -30,7 +30,7 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
 #### [Software AG](http://www.softwareag.com) 
  
-*Founded: 1969; Region: Germany, Hesse; Employees: 3190; References: *
+Founded: 1969; Region: Germany, Hesse; Employees: 3190; References: 0
  
 Analytics platform
  
@@ -44,7 +44,7 @@ Analytics platform
  
 #### [Pegasystems](http://www.pega.com) 
  
-*Founded: 1983; Region: United States, Massachusetts; Employees: 3527; References: *
+Founded: 1983; Region: United States, Massachusetts; Employees: 3527; References: 1
  
 Robotic Process Automation (RPA) | Analytics platform
  
@@ -58,7 +58,7 @@ Robotic Process Automation (RPA) | Analytics platform
  
 #### [Angoss Software](http://angoss.com) 
  
-*Founded: 1984; Region: Canada, Ontario; Employees: 62; References: *
+Founded: 1984; Region: Canada, Ontario; Employees: 62; References: 0
  
 Analytics platform
  
@@ -72,7 +72,7 @@ Analytics platform
  
 #### [Publicis.Sapient](http://publicis.sapient.com/en-us.html) 
  
-*Founded: 1990; Region: United States, Massachusetts; Employees: 10001; References: *
+Founded: 1990; Region: United States, Massachusetts; Employees: 10001; References: 0
  
 Analytics Services
  
@@ -86,7 +86,7 @@ Analytics Services
  
 #### [Qlik Technologies](http://qlik.com/) 
  
-*Founded: 1993; Region: United States, Pennsylvania; Employees: 3000; References: *
+Founded: 1993; Region: United States, Pennsylvania; Employees: 3000; References: 0
  
 Analytics platform
  
@@ -100,7 +100,7 @@ Analytics platform
  
 #### [Salesforce](https://www.salesforce.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 23343; References: *
+Founded: 1999; Region: United States, California; Employees: 23343; References: 7
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -114,7 +114,7 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
 #### [Aera Technology](http://www.aeratechnology.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 175; References: *
+Founded: 1999; Region: United States, California; Employees: 175; References: 0
  
 Conversational Analytics
  
@@ -128,7 +128,7 @@ Conversational Analytics
  
 #### [Verbio Technologies](http://www.verbio.com/en/) 
  
-*Founded: 1999; Region: United States, California; Employees: 25; References: *
+Founded: 1999; Region: United States, California; Employees: 25; References: 0
  
 Voice recognition and sound analytics
  
@@ -142,7 +142,7 @@ Voice recognition and sound analytics
  
 #### [AbsolutData](http://www.absolutdata.com) 
  
-*Founded: 2000; Region: United States, California; Employees: 309; References: *
+Founded: 2000; Region: United States, California; Employees: 309; References: 0
  
 Recommendation engine | Marketing analytics | Analytics platform
  
@@ -156,7 +156,7 @@ Recommendation engine | Marketing analytics | Analytics platform
  
 #### [Digital Signal Corporation](http://www.digitalsignalcorp.com) 
  
-*Founded: 2001; Region: United States, California; Employees: 175; References: *
+Founded: 2001; Region: United States, California; Employees: 175; References: 0
  
 Image recognition and visual analytics
  
@@ -170,7 +170,7 @@ Image recognition and visual analytics
  
 #### [Universal Logic Inc. (formerly Universal Robotics Inc.)](http://www.universallogic.com) 
  
-*Founded: 2001; Region: United States, Tennessee; Employees: 0; References: *
+Founded: 2001; Region: United States, Tennessee; Employees: 0; References: 0
  
 Robotics | Image recognition and visual analytics
  
@@ -184,7 +184,7 @@ Robotics | Image recognition and visual analytics
  
 #### [Klipfolio](http://www.klipfolio.com) 
  
-*Founded: 2001; Region: United States, California; Employees: 75; References: *
+Founded: 2001; Region: United States, California; Employees: 75; References: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -198,7 +198,7 @@ Marketing analytics | e-commerce analytics
  
 #### [Infor](http://www.infor.com) 
  
-*Founded: 2002; Region: United States, New York; Employees: 15453; References: *
+Founded: 2002; Region: United States, New York; Employees: 15453; References: 0
  
 Predictive maintenance | Analytics platform
  
@@ -212,7 +212,7 @@ Predictive maintenance | Analytics platform
  
 #### [RavenPack](http://ravenpack.com) 
  
-*Founded: 2003; Region: United States, California; Employees: 65; References: *
+Founded: 2003; Region: United States, California; Employees: 65; References: 0
  
 Analytics platform | Analytics Services | Data Visualization | Real-Time Analytics | Fraud Detection | Financial Analytics Platform
  
@@ -226,7 +226,7 @@ Analytics platform | Analytics Services | Data Visualization | Real-Time Analyti
  
 #### [Tableau](http://www.tableau.com) 
  
-*Founded: 2003; Region: United States, Wisconsin; Employees: 3593; References: *
+Founded: 2003; Region: United States, Wisconsin; Employees: 3593; References: 0
  
 Analytics platform
  
@@ -240,7 +240,7 @@ Analytics platform
  
 #### [Palantir Technologies](http://www.palantir.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 1963; References: *
+Founded: 2004; Region: United States, California; Employees: 1963; References: 0
  
 Analytics platform
  
@@ -254,7 +254,7 @@ Analytics platform
  
 #### [Face.com](http://face.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 25; References: *
+Founded: 2005; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -268,7 +268,7 @@ Image recognition and visual analytics
  
 #### [SoundHound Inc.](http://www.soundhound.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 175; References: *
+Founded: 2005; Region: United States, California; Employees: 175; References: 0
  
 Voice recognition and sound analytics
  
@@ -282,7 +282,7 @@ Voice recognition and sound analytics
  
 #### [Guavus](http://www.guavus.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 175; References: *
+Founded: 2006; Region: United States, California; Employees: 175; References: 0
  
 Analytics platform
  
@@ -296,7 +296,7 @@ Analytics platform
  
 #### [RapidMiner](http://www.rapidminer.com) 
  
-*Founded: 2007; Region: United States, Massachusetts; Employees: 90; References: *
+Founded: 2007; Region: United States, Massachusetts; Employees: 90; References: 0
  
 Predictive maintenance | Analytics platform
  
@@ -310,7 +310,7 @@ Predictive maintenance | Analytics platform
  
 #### [Sentient Technologies](http://Sentient.Ai) 
  
-*Founded: 2007; Region: United States, California; Employees: 108; References: *
+Founded: 2007; Region: United States, California; Employees: 108; References: 0
  
 Analytics platform | Financial Analytics Platform
  
@@ -324,7 +324,7 @@ Analytics platform | Financial Analytics Platform
  
 #### [AltexSoft](http://www.altexsoft.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 200; References: *
+Founded: 2007; Region: United States, California; Employees: 200; References: 1
  
 AI Consultancy | AI developer | Data cleaning&validation | Image recognition and visual analytics | Voice recognition and sound analytics | e-commerce analytics
  
@@ -338,7 +338,7 @@ AI Consultancy | AI developer | Data cleaning&validation | Image recognition and
  
 #### [Evolven](http://www.evolven.com) 
  
-*Founded: 2007; Region: United States, New Jersey; Employees: 25; References: *
+Founded: 2007; Region: United States, New Jersey; Employees: 25; References: 0
  
 Analytics platform
  
@@ -352,7 +352,7 @@ Analytics platform
  
 #### [GoodData](http://www.gooddata.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 375; References: *
+Founded: 2007; Region: United States, California; Employees: 375; References: 0
  
 Analytics platform
  
@@ -366,7 +366,7 @@ Analytics platform
  
 #### [RetailNext](http://www.retailnext.net) 
  
-*Founded: 2007; Region: United States, California; Employees: 175; References: *
+Founded: 2007; Region: United States, California; Employees: 175; References: 0
  
 Analytics platform
  
@@ -380,7 +380,7 @@ Analytics platform
  
 #### [Enswers](http://www.enswer.net) 
  
-*Founded: 2007; Region: United States, California; Employees: 75; References: *
+Founded: 2007; Region: United States, California; Employees: 75; References: 0
  
 Image recognition and visual analytics
  
@@ -394,7 +394,7 @@ Image recognition and visual analytics
  
 #### [Cloudera](http://www.cloudera.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 3000; References: *
+Founded: 2008; Region: United States, California; Employees: 3000; References: 0
  
 Analytics platform
  
@@ -408,7 +408,7 @@ Analytics platform
  
 #### [Percipo](http://www.percipo.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 5; References: *
+Founded: 2008; Region: United States, California; Employees: 5; References: 0
  
 Image recognition and visual analytics
  
@@ -422,7 +422,7 @@ Image recognition and visual analytics
  
 #### [Tend](http://tendinsights.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 25; References: *
+Founded: 2008; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -436,7 +436,7 @@ Image recognition and visual analytics
  
 #### [RJMetrics](http://rjmetrics.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 75; References: *
+Founded: 2008; Region: United States, California; Employees: 75; References: 0
  
 e-commerce analytics
  
@@ -450,7 +450,7 @@ e-commerce analytics
  
 #### [Woopra](http://www.woopra.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 25; References: *
+Founded: 2008; Region: United States, California; Employees: 25; References: 0
  
 e-commerce analytics
  
@@ -464,7 +464,7 @@ e-commerce analytics
  
 #### [Kissmetrics](https://www.kissmetrics.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 0; References: *
+Founded: 2008; Region: United States, California; Employees: 0; References: 0
  
 e-commerce analytics
  
@@ -478,7 +478,7 @@ e-commerce analytics
  
 #### [Dataminr](http://www.dataminr.com) 
  
-*Founded: 2009; Region: United States, New York; Employees: 240; References: *
+Founded: 2009; Region: United States, New York; Employees: 240; References: 1
  
 Social media monitoring | Social media optimization | Analytics platform | Data gathering
  
@@ -492,7 +492,7 @@ Social media monitoring | Social media optimization | Analytics platform | Data 
  
 #### [Datameer](https://www.datameer.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 175; References: *
+Founded: 2009; Region: United States, California; Employees: 175; References: 0
  
 Analytics platform
  
@@ -506,7 +506,7 @@ Analytics platform
  
 #### [Apache Spark](http://spark.apache.org) 
  
-*Founded: 2009; Region: United States, California; Employees: 375; References: *
+Founded: 2009; Region: United States, California; Employees: 375; References: 0
  
 Real-Time Analytics
  
@@ -520,7 +520,7 @@ Real-Time Analytics
  
 #### [Loggly](http://loggly.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 25; References: *
+Founded: 2009; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -534,7 +534,7 @@ Analytics platform
  
 #### [Luminoso](http://www.luminoso.com) 
  
-*Founded: 2010; Region: United States, Massachusetts; Employees: 45; References: *
+Founded: 2010; Region: United States, Massachusetts; Employees: 45; References: 7
  
 Intelligent call routing | Call intent discovery | Survey & review analytics | Call classification | Analytics platform | Real-Time Analytics
  
@@ -548,7 +548,7 @@ Intelligent call routing | Call intent discovery | Survey & review analytics | C
  
 #### [Sisense](http://www.sisense.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 361; References: *
+Founded: 2010; Region: United States, New York; Employees: 361; References: 0
  
 Predictive maintenance | Analytics platform
  
@@ -562,7 +562,7 @@ Predictive maintenance | Analytics platform
  
 #### [Domo](http://www.domo.com) 
  
-*Founded: 2010; Region: United States, Utah; Employees: 1046; References: *
+Founded: 2010; Region: United States, Utah; Employees: 1046; References: 0
  
 Analytics platform
  
@@ -576,7 +576,7 @@ Analytics platform
  
 #### [Quid](https://quid.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 175; References: *
+Founded: 2010; Region: United States, California; Employees: 175; References: 0
  
 Analytics platform
  
@@ -590,7 +590,7 @@ Analytics platform
  
 #### [Chartio](http://chartio.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 25; References: *
+Founded: 2010; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -604,7 +604,7 @@ Analytics platform
  
 #### [Sumo Logic](http://www.sumologic.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 175; References: *
+Founded: 2010; Region: United States, California; Employees: 175; References: 0
  
 Analytics platform
  
@@ -618,7 +618,7 @@ Analytics platform
  
 #### [Auro Technologies](http://www.auro-3d.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 25; References: *
+Founded: 2010; Region: United States, California; Employees: 25; References: 0
  
 Voice recognition and sound analytics
  
@@ -632,7 +632,7 @@ Voice recognition and sound analytics
  
 #### [Lexifone](http://www.lexifone.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 25; References: *
+Founded: 2010; Region: United States, California; Employees: 25; References: 0
  
 Voice recognition and sound analytics
  
@@ -646,7 +646,7 @@ Voice recognition and sound analytics
  
 #### [VoiceBase](http://www.voicebase.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 25; References: *
+Founded: 2010; Region: United States, California; Employees: 25; References: 0
  
 Voice recognition and sound analytics
  
@@ -660,7 +660,7 @@ Voice recognition and sound analytics
  
 #### [H2O.ai](http://h2o.ai/) 
  
-*Founded: 2011; Region: United States, California; Employees: 77; References: *
+Founded: 2011; Region: United States, California; Employees: 77; References: 5
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -674,7 +674,7 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
 #### [PurePredictive](http://www.purepredictive.com/) 
  
-*Founded: 2011; Region: United States, Utah; Employees: 0; References: *
+Founded: 2011; Region: United States, Utah; Employees: 0; References: 0
  
 Marketing analytics | Analytics platform
  
@@ -688,7 +688,7 @@ Marketing analytics | Analytics platform
  
 #### [BigML](http://bigml.com) 
  
-*Founded: 2011; Region: United States, Oregon; Employees: 46; References: *
+Founded: 2011; Region: United States, Oregon; Employees: 46; References: 0
  
 Analytics platform
  
@@ -702,7 +702,7 @@ Analytics platform
  
 #### [Looker](http://looker.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 375; References: *
+Founded: 2011; Region: United States, California; Employees: 375; References: 0
  
 Marketing analytics | Analytics platform
  
@@ -716,7 +716,7 @@ Marketing analytics | Analytics platform
  
 #### [Nara Logics](http://www.naralogics.com) 
  
-*Founded: 2011; Region: United States, Massachusetts; Employees: 25; References: *
+Founded: 2011; Region: United States, Massachusetts; Employees: 25; References: 0
  
 Analytics platform
  
@@ -730,7 +730,7 @@ Analytics platform
  
 #### [Nutonian](http://www.nutonian.com) 
  
-*Founded: 2011; Region: United States, Massachusetts; Employees: 25; References: *
+Founded: 2011; Region: United States, Massachusetts; Employees: 25; References: 0
  
 Analytics platform
  
@@ -744,7 +744,7 @@ Analytics platform
  
 #### [Platfora](http://www.platfora.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 175; References: *
+Founded: 2011; Region: United States, California; Employees: 175; References: 0
  
 Analytics platform
  
@@ -758,7 +758,7 @@ Analytics platform
  
 #### [WatrHub](http://www.watrhub.com) 
  
-*Founded: 2011; Region: Canada, Ontario; Employees: 25; References: *
+Founded: 2011; Region: Canada, Ontario; Employees: 25; References: 0
  
 Analytics platform
  
@@ -772,7 +772,7 @@ Analytics platform
  
 #### [Stitch Fix](http://stitchfix.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 3000; References: *
+Founded: 2011; Region: United States, California; Employees: 3000; References: 0
  
 Analytics platform
  
@@ -786,7 +786,7 @@ Analytics platform
  
 #### [Megvii](http://www.megvii.com/) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -800,7 +800,7 @@ Image recognition and visual analytics
  
 #### [eXenSa](http://www.exensa.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 5; References: *
+Founded: 2011; Region: United States, California; Employees: 5; References: 0
  
 Analytics platform
  
@@ -814,7 +814,7 @@ Analytics platform
  
 #### [Vilynx](http://www.vilynx.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -828,7 +828,7 @@ Analytics platform
  
 #### [Jetpac](http://jetpac.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 0; References: *
+Founded: 2011; Region: United States, California; Employees: 0; References: 0
  
 Image recognition and visual analytics
  
@@ -842,7 +842,7 @@ Image recognition and visual analytics
  
 #### [Kuznech](http://kuznech.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -856,7 +856,7 @@ Image recognition and visual analytics
  
 #### [Boxfish](http://boxfish.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -870,7 +870,7 @@ Analytics platform
  
 #### [Expertise Finder](http://www.expertisefinder.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 5; References: *
+Founded: 2011; Region: United States, California; Employees: 5; References: 0
  
 Analytics platform
  
@@ -884,7 +884,7 @@ Analytics platform
  
 #### [Trifacta](http://trifacta.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 122; References: *
+Founded: 2012; Region: United States, California; Employees: 122; References: 6
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -898,7 +898,7 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
 #### [CrossChx, Inc.](http://www.crosschx.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 80; References: *
+Founded: 2012; Region: United States, California; Employees: 80; References: 0
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -912,7 +912,7 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
 #### [Arimo](https://arimo.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 37; References: *
+Founded: 2012; Region: United States, California; Employees: 37; References: 1
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -926,7 +926,7 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
 #### [DataRobot](http://datarobot.com) 
  
-*Founded: 2012; Region: United States, Massachusetts; Employees: 206; References: *
+Founded: 2012; Region: United States, Massachusetts; Employees: 206; References: 5
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform | Credit Lending / Scoring | Patient data analytics
  
@@ -940,7 +940,7 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
 #### [Skytree](http://www.skytree.net) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial Analytics Platform | Data gathering
  
@@ -954,7 +954,7 @@ Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial
  
 #### [Alation](http://alation.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 62; References: *
+Founded: 2012; Region: United States, California; Employees: 62; References: 0
  
 Analytics platform
  
@@ -968,7 +968,7 @@ Analytics platform
  
 #### [AYLIEN](http://aylien.com) 
  
-*Founded: 2012; Region: Ireland, Leinster; Employees: 5; References: *
+Founded: 2012; Region: Ireland, Leinster; Employees: 5; References: 0
  
 Analytics platform
  
@@ -982,7 +982,7 @@ Analytics platform
  
 #### [KisanHub.com](http://www.kisanhub.com) 
  
-*Founded: 2012; Region: United Kingdom, England; Employees: 25; References: *
+Founded: 2012; Region: United Kingdom, England; Employees: 25; References: 0
  
 Analytics platform
  
@@ -996,7 +996,7 @@ Analytics platform
  
 #### [BlueData Software, Inc.](http://www.bluedata.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1010,7 +1010,7 @@ Analytics platform
  
 #### [Striim](http://striim.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Real-Time Analytics
  
@@ -1024,7 +1024,7 @@ Real-Time Analytics
  
 #### [Swiftype](https://swiftype.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1038,7 +1038,7 @@ Analytics platform
  
 #### [ABEJA](https://www.abeja.asia) 
  
-*Founded: 2012; Region: Japan, Tokyo; Employees: 25; References: *
+Founded: 2012; Region: Japan, Tokyo; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1052,7 +1052,7 @@ Analytics platform
  
 #### [Monospect Ltd.](https://monospect.com) 
  
-*Founded: 2012; Region: Turkey, Istanbul; Employees: 0; References: *
+Founded: 2012; Region: Turkey, Istanbul; Employees: 0; References: 0
  
 Analytics platform
  
@@ -1066,7 +1066,7 @@ Analytics platform
  
 #### [Evergig](http://www.evergig.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -1080,7 +1080,7 @@ Image recognition and visual analytics
  
 #### [Sighthound](http://www.sighthound.com) 
  
-*Founded: 2012; Region: United States, Florida; Employees: 25; References: *
+Founded: 2012; Region: United States, Florida; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -1094,7 +1094,7 @@ Image recognition and visual analytics
  
 #### [Agolo](http://www.agolo.com) 
  
-*Founded: 2012; Region: United States, New York; Employees: 25; References: *
+Founded: 2012; Region: United States, New York; Employees: 25; References: 0
  
 Real-Time Analytics
  
@@ -1108,7 +1108,7 @@ Real-Time Analytics
  
 #### [Qloo](http://www.qloo.com) 
  
-*Founded: 2012; Region: United States, New York; Employees: 25; References: *
+Founded: 2012; Region: United States, New York; Employees: 25; References: 0
  
 Recommendation engine | Marketing analytics | Context aware marketing | Merchandising optimization | Website Personalization | Omnichannel | Content Generation | Geo-analytics platform | Driving assistant
  
@@ -1122,7 +1122,7 @@ Recommendation engine | Marketing analytics | Context aware marketing | Merchand
  
 #### [ThoughtSpot](http://www.thoughtspot.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 175; References: *
+Founded: 2012; Region: United States, California; Employees: 175; References: 0
  
 Analytics platform
  
@@ -1136,7 +1136,7 @@ Analytics platform
  
 #### [Quantta Analytics](http://www.quantta.com) 
  
-*Founded: 2012; Region: India, Maharashtra; Employees: 0; References: *
+Founded: 2012; Region: India, Maharashtra; Employees: 0; References: 0
  
 Analytics platform
  
@@ -1150,7 +1150,7 @@ Analytics platform
  
 #### [Ripjar](https://ripjar.com) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 25; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 25; References: 0
  
 Analytics platform | Real-Time Analytics
  
@@ -1164,7 +1164,7 @@ Analytics platform | Real-Time Analytics
  
 #### [Orbital Insight](http://www.orbitalinsight.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 80; References: *
+Founded: 2013; Region: United States, California; Employees: 80; References: 0
  
 Inventory & supply chain optimization | Geo-analytics platform | Insurance (InsurTech)
  
@@ -1178,7 +1178,7 @@ Inventory & supply chain optimization | Geo-analytics platform | Insurance (Insu
  
 #### [Sightcorp](http://www.sightcorp.com) 
  
-*Founded: 2013; Region: Netherlands, North Holland; Employees: 17; References: *
+Founded: 2013; Region: Netherlands, North Holland; Employees: 17; References: 1
  
 Social analytics & automation | Deep learning library/SDK/API | Analytics platform
  
@@ -1192,7 +1192,7 @@ Social analytics & automation | Deep learning library/SDK/API | Analytics platfo
  
 #### [Gigster](https://gigster.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 189; References: *
+Founded: 2013; Region: United States, California; Employees: 189; References: 0
  
 Analytics platform
  
@@ -1206,7 +1206,7 @@ Analytics platform
  
 #### [Plotly](https://plot.ly) 
  
-*Founded: 2013; Region: Canada, Quebec; Employees: 25; References: *
+Founded: 2013; Region: Canada, Quebec; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1220,7 +1220,7 @@ Analytics platform
  
 #### [Databricks](https://databricks.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 375; References: *
+Founded: 2013; Region: United States, California; Employees: 375; References: 0
  
 Analytics platform
  
@@ -1234,7 +1234,7 @@ Analytics platform
  
 #### [Pivotal](http://www.pivotal.io) 
  
-*Founded: 2013; Region: United States, California; Employees: 3000; References: *
+Founded: 2013; Region: United States, California; Employees: 3000; References: 0
  
 Analytics platform
  
@@ -1248,7 +1248,7 @@ Analytics platform
  
 #### [Memkite](http://memkite.com) 
  
-*Founded: 2013; Region: Norway, Sør-Trøndelag; Employees: 5; References: *
+Founded: 2013; Region: Norway, Sør-Trøndelag; Employees: 5; References: 0
  
 Image recognition and visual analytics
  
@@ -1262,7 +1262,7 @@ Image recognition and visual analytics
  
 #### [DroneDeploy](http://www.dronedeploy.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1276,7 +1276,7 @@ Analytics platform
  
 #### [Seeq](http://seeq.com) 
  
-*Founded: 2013; Region: United States, Washington; Employees: 25; References: *
+Founded: 2013; Region: United States, Washington; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1290,7 +1290,7 @@ Analytics platform
  
 #### [Sension](http://sension.co) 
  
-*Founded: 2013; Region: United States, California; Employees: 5; References: *
+Founded: 2013; Region: United States, California; Employees: 5; References: 0
  
 Image recognition and visual analytics
  
@@ -1304,7 +1304,7 @@ Image recognition and visual analytics
  
 #### [SparkCognition](http://sparkcognition.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 200; References: *
+Founded: 2013; Region: United States, California; Employees: 200; References: 0
  
 Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
@@ -1318,7 +1318,7 @@ Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
 #### [Second Spectrum](http://www.secondspectrum.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -1332,7 +1332,7 @@ Image recognition and visual analytics
  
 #### [Glint](http://www.glintinc.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 0; References: *
+Founded: 2013; Region: United States, California; Employees: 0; References: 0
  
 Real-Time Analytics
  
@@ -1346,7 +1346,7 @@ Real-Time Analytics
  
 #### [Trendalytics Innovation Labs](http://www.trendalytics.co) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1360,7 +1360,7 @@ Analytics platform
  
 #### [PiinPoint](http://www.piinpoint.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 5; References: *
+Founded: 2013; Region: United States, California; Employees: 5; References: 0
  
 Geo-analytics platform
  
@@ -1374,7 +1374,7 @@ Geo-analytics platform
  
 #### [MetricWire](http://metricwire.com) 
  
-*Founded: 2013; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2013; Region: Canada, Ontario; Employees: 5; References: 0
  
 Analytics platform
  
@@ -1388,7 +1388,7 @@ Analytics platform
  
 #### [Heap](http://heapanalytics.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -1402,7 +1402,7 @@ Marketing analytics | e-commerce analytics
  
 #### [RetentionGrid](http://retentiongrid.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 0; References: *
+Founded: 2013; Region: United States, California; Employees: 0; References: 0
  
 e-commerce analytics
  
@@ -1416,7 +1416,7 @@ e-commerce analytics
  
 #### [Anodot](http://www.anodot.com/) 
  
-*Founded: 2014; Region: Israel, Central District; Employees: 38; References: *
+Founded: 2014; Region: Israel, Central District; Employees: 38; References: 2
  
 Analytics platform | Financial Analytics Platform
  
@@ -1430,7 +1430,7 @@ Analytics platform | Financial Analytics Platform
  
 #### [ActionIQ](http://actioniq.com) 
  
-*Founded: 2014; Region: United States, New York; Employees: 37; References: *
+Founded: 2014; Region: United States, New York; Employees: 37; References: 2
  
 Marketing analytics | Analytics platform
  
@@ -1444,7 +1444,7 @@ Marketing analytics | Analytics platform
  
 #### [deepsense.ai](http://deepsense.ai/) 
  
-*Founded: 2014; Region: United States, California; Employees: 75; References: *
+Founded: 2014; Region: United States, California; Employees: 75; References: 6
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -1458,7 +1458,7 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
 #### [Senseye](http://www.senseye.io/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 47; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 47; References: 1
  
 Predictive maintenance | Analytics platform
  
@@ -1472,7 +1472,7 @@ Predictive maintenance | Analytics platform
  
 #### [SigOpt](https://sigopt.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 8; References: *
+Founded: 2014; Region: United States, California; Employees: 8; References: 0
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -1486,7 +1486,7 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
 #### [Descartes Labs](http://www.descarteslabs.com/) 
  
-*Founded: 2014; Region: United States, New Mexico; Employees: 37; References: *
+Founded: 2014; Region: United States, New Mexico; Employees: 37; References: 0
  
 Geo-analytics platform | Data gathering
  
@@ -1500,7 +1500,7 @@ Geo-analytics platform | Data gathering
  
 #### [Dimebox](https://dimebox.com/) 
  
-*Founded: 2014; Region: Netherlands, North Holland; Employees: 32; References: *
+Founded: 2014; Region: Netherlands, North Holland; Employees: 32; References: 0
  
 Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -1514,7 +1514,7 @@ Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory
  
 #### [Bonsai](http://bons.ai) 
  
-*Founded: 2014; Region: United States, California; Employees: 39; References: *
+Founded: 2014; Region: United States, California; Employees: 39; References: 0
  
 Analytics platform
  
@@ -1528,7 +1528,7 @@ Analytics platform
  
 #### [Logz.io](http://logz.io/) 
  
-*Founded: 2014; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Analytics Services | Data Visualization
  
@@ -1542,7 +1542,7 @@ Analytics Services | Data Visualization
  
 #### [HouseCanary](http://www.housecanary.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 100; References: *
+Founded: 2014; Region: United States, California; Employees: 100; References: 0
  
 Data preparation platform | Analytics platform | Geo-analytics platform | Robo-Advisory
  
@@ -1556,7 +1556,7 @@ Data preparation platform | Analytics platform | Geo-analytics platform | Robo-A
  
 #### [Funnel](https://funnel.io/) 
  
-*Founded: 2014; Region: Sweden, Stockholm; Employees: 0; References: *
+Founded: 2014; Region: Sweden, Stockholm; Employees: 0; References: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -1570,7 +1570,7 @@ Marketing analytics | e-commerce analytics
  
 #### [Immuta](http://www.immuta.com) 
  
-*Founded: 2014; Region: United States, Maryland; Employees: 25; References: *
+Founded: 2014; Region: United States, Maryland; Employees: 25; References: 0
  
 Real-Time Analytics
  
@@ -1584,7 +1584,7 @@ Real-Time Analytics
  
 #### [data Artisans](https://data-artisans.com/) 
  
-*Founded: 2014; Region: Germany, Berlin; Employees: 25; References: *
+Founded: 2014; Region: Germany, Berlin; Employees: 25; References: 0
  
 Real-Time Analytics
  
@@ -1598,7 +1598,7 @@ Real-Time Analytics
  
 #### [Confluent](https://confluent.io/) 
  
-*Founded: 2014; Region: United States, California; Employees: 175; References: *
+Founded: 2014; Region: United States, California; Employees: 175; References: 0
  
 Real-Time Analytics
  
@@ -1612,7 +1612,7 @@ Real-Time Analytics
  
 #### [Q.I. Leap Analytics Inc.](https://www.qileap.com) 
  
-*Founded: 2014; Region: Canada, British Columbia; Employees: 25; References: *
+Founded: 2014; Region: Canada, British Columbia; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1626,7 +1626,7 @@ Analytics platform
  
 #### [HyperVerge](http://www.hyperverge.co/) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -1640,7 +1640,7 @@ Image recognition and visual analytics
  
 #### [Graphistry, Inc.](https://www.graphistry.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 0; References: *
+Founded: 2014; Region: United States, California; Employees: 0; References: 0
  
 Data Visualization
  
@@ -1654,7 +1654,7 @@ Data Visualization
  
 #### [Tuputech](https://us.tuputech.com/) 
  
-*Founded: 2014; Region: China, Guangdong; Employees: 70; References: *
+Founded: 2014; Region: China, Guangdong; Employees: 70; References: 0
  
 Image recognition and visual analytics
  
@@ -1668,7 +1668,7 @@ Image recognition and visual analytics
  
 #### [TallyFi](https://www.tallyfi.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Real-Time Analytics
  
@@ -1682,7 +1682,7 @@ Real-Time Analytics
  
 #### [LINKETT](http://www.linkett.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Real-Time Analytics
  
@@ -1696,7 +1696,7 @@ Real-Time Analytics
  
 #### [MonkeyData](http://www.monkeydata.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 e-commerce analytics
  
@@ -1710,7 +1710,7 @@ e-commerce analytics
  
 #### [Scienaptic Systems](http://www.scienaptic.com/) 
  
-*Founded: 2014; Region: United States, New York; Employees: 0; References: *
+Founded: 2014; Region: United States, New York; Employees: 0; References: 0
  
 Analytics platform
  
@@ -1724,7 +1724,7 @@ Analytics platform
  
 #### [Bigstream Solutions](http://bigstream.co/) 
  
-*Founded: 2015; Region: United States, California; Employees: 15; References: *
+Founded: 2015; Region: United States, California; Employees: 15; References: 0
  
 Analytics platform | Fraud Detection
  
@@ -1738,7 +1738,7 @@ Analytics platform | Fraud Detection
  
 #### [Recast.AI](https://recast.ai) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 25; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 25; References: 0
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -1752,7 +1752,7 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
 #### [Amenity Analytics](http://amenityanalytics.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform | Robo-Advisory
  
@@ -1766,7 +1766,7 @@ Analytics platform | Robo-Advisory
  
 #### [Pilot AI](http://www.pilot.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 20; References: *
+Founded: 2015; Region: United States, California; Employees: 20; References: 0
  
 Image recognition library/SDK/API | Smart Security Systems | Deep learning library/SDK/API | Image recognition and visual analytics | Vision systems | Driving assistant
  
@@ -1780,7 +1780,7 @@ Image recognition library/SDK/API | Smart Security Systems | Deep learning libra
  
 #### [FeatureX](http://www.featurex.ai) 
  
-*Founded: 2015; Region: United States, Massachusetts; Employees: 0; References: *
+Founded: 2015; Region: United States, Massachusetts; Employees: 0; References: 0
  
 Analytics platform
  
@@ -1794,7 +1794,7 @@ Analytics platform
  
 #### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-*Founded: 2015; Region: India, Maharashtra; Employees: 25; References: *
+Founded: 2015; Region: India, Maharashtra; Employees: 25; References: 0
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -1808,7 +1808,7 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
 #### [Sensifai](http://www.sensifai.com) 
  
-*Founded: 2015; Region: Belgium, Brussels Capital; Employees: 0; References: *
+Founded: 2015; Region: Belgium, Brussels Capital; Employees: 0; References: 0
  
 Image recognition and visual analytics
  
@@ -1822,7 +1822,7 @@ Image recognition and visual analytics
  
 #### [Shield AI](http://www.shield.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Real-Time Analytics
  
@@ -1836,7 +1836,7 @@ Real-Time Analytics
  
 #### [Mycroft](http://mycroft.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Voice recognition and sound analytics
  
@@ -1850,7 +1850,7 @@ Voice recognition and sound analytics
  
 #### [C2RO Cloud Robotics](http://c2ro.com) 
  
-*Founded: 2016; Region: Canada, Quebec; Employees: 25; References: *
+Founded: 2016; Region: Canada, Quebec; Employees: 25; References: 0
  
 Robotics | Collaborative Robot | Image recognition and visual analytics
  
@@ -1864,7 +1864,7 @@ Robotics | Collaborative Robot | Image recognition and visual analytics
  
 #### [Kivu Technologies GmbH](http://kivu.tech) 
  
-*Founded: 2016; Region: Austria, Vienna; Employees: 25; References: *
+Founded: 2016; Region: Austria, Vienna; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1878,7 +1878,7 @@ Analytics platform
  
 #### [Element AI](http://www.elementai.com/) 
  
-*Founded: 2016; Region: Canada, Quebec; Employees: 175; References: *
+Founded: 2016; Region: Canada, Quebec; Employees: 175; References: 0
  
 Analytics platform
  
@@ -1892,7 +1892,7 @@ Analytics platform
  
 #### [Pat Inc](http://www.pat.ai) 
  
-*Founded: 2016; Region: United States, California; Employees: 7; References: *
+Founded: 2016; Region: United States, California; Employees: 7; References: 0
  
 Sales rep chat/email bot | Call intent discovery | Customer service chatbot (self-service solution) | Conversational Analytics | Digital assistant
  
@@ -1906,7 +1906,7 @@ Sales rep chat/email bot | Call intent discovery | Customer service chatbot (sel
  
 #### [Matroid](http://matroid.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 25; References: *
+Founded: 2016; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -1920,7 +1920,7 @@ Image recognition and visual analytics
  
 #### [WeSee](http://www.wesee.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 25; References: *
+Founded: 2016; Region: United States, California; Employees: 25; References: 0
  
 Image recognition and visual analytics
  
@@ -1934,7 +1934,7 @@ Image recognition and visual analytics
  
 #### [Union Crate](http://unioncrate.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Analytics platform
  
@@ -1948,7 +1948,7 @@ Analytics platform
  
 #### [Clarke.ai](https://www.clarke.ai/) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Voice recognition and sound analytics
  
@@ -1962,7 +1962,7 @@ Voice recognition and sound analytics
  
 #### [VoiceOps](https://voiceops.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Voice recognition and sound analytics
  
@@ -1976,7 +1976,7 @@ Voice recognition and sound analytics
  
 #### [Datatron Technologies Inc](http://datatron.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 25; References: *
+Founded: 2016; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform
  
@@ -1990,7 +1990,7 @@ Analytics platform
  
 #### [Botskill](http://www.botskill.co.uk/) 
  
-*Founded: 2017; Region: United States, California; Employees: 4; References: *
+Founded: 2017; Region: United States, California; Employees: 4; References: 0
  
 Conversational Analytics
  
@@ -2004,7 +2004,7 @@ Conversational Analytics
  
 #### [Nullatech](https://www.nullatech.com/) 
  
-*Founded: 2017; Region: United States, California; Employees: 5; References: *
+Founded: 2017; Region: United States, California; Employees: 5; References: 0
  
 Analytics Services
  
@@ -2018,7 +2018,7 @@ Analytics Services
  
 #### [FloydHub](https://www.floydhub.com) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Deep learning library/SDK/API | Analytics platform
  
@@ -2032,7 +2032,7 @@ Deep learning library/SDK/API | Analytics platform
  
 #### [Sportcaster](http://www.sportcaster.co/) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Image recognition and visual analytics
  
@@ -2048,7 +2048,7 @@ Image recognition and visual analytics
  
 #### [Interactions](http://www.interactions.com) 
  
-*Founded: 0; Region: United States, Massachusetts; Employees: 458; References: *
+Founded: 0; Region: United States, Massachusetts; Employees: 458; References: 0
  
 Chatbot | Intelligent call routing
  
@@ -2062,7 +2062,7 @@ Chatbot | Intelligent call routing
  
 #### [Botmetrics](http://www.getbotmetrics.com) 
  
-*Founded: 0; Region: United States, California; Employees: 1; References: *
+Founded: 0; Region: United States, California; Employees: 1; References: 0
  
 Chatbot analytics
  
@@ -2076,7 +2076,7 @@ Chatbot analytics
  
 #### [Gupshup](https://www.gupshup.io/) 
  
-*Founded: 0; Region: United States, California; Employees: 125; References: *
+Founded: 0; Region: United States, California; Employees: 125; References: 0
  
 Chatbot | Customer service chatbot (self-service solution) | Chatbot analytics | Chatbot testing
  
@@ -2090,7 +2090,7 @@ Chatbot | Customer service chatbot (self-service solution) | Chatbot analytics |
  
 #### [Reputology](https://www.reputology.com/) 
  
-*Founded: 0; Region: United States, California; Employees: 5; References: *
+Founded: 0; Region: United States, California; Employees: 5; References: 0
  
 Survey & review analytics
  
@@ -2104,7 +2104,7 @@ Survey & review analytics
  
 #### [NICE Systems](http://nice.com) 
  
-*Founded: 1986; Region: Israel, Central District; Employees: 4741; References: *
+Founded: 1986; Region: Israel, Central District; Employees: 4741; References: 1
  
 Intelligent call routing | Call analytics | Call intent discovery | Survey & review analytics | Customer service response suggestions | Customer contact analytics | Robotic Process Automation (RPA)
  
@@ -2118,7 +2118,7 @@ Intelligent call routing | Call analytics | Call intent discovery | Survey & rev
  
 #### [Nuance Communications](http://www.nuance.com) 
  
-*Founded: 1992; Region: United States, Massachusetts; Employees: 7291; References: *
+Founded: 1992; Region: United States, Massachusetts; Employees: 7291; References: 2
  
 Chatbot | Voice authentication
  
@@ -2132,7 +2132,7 @@ Chatbot | Voice authentication
  
 #### [Amazon](http://amazon.com) 
  
-*Founded: 1994; Region: United States, Washington; Employees: 197842; References: *
+Founded: 1994; Region: United States, Washington; Employees: 197842; References: 0
  
 Customer service chatbot (self-service solution)
  
@@ -2146,7 +2146,7 @@ Customer service chatbot (self-service solution)
  
 #### [IPsoft](http://www.ipsoft.com) 
  
-*Founded: 1998; Region: United States, New York; Employees: 1773; References: *
+Founded: 1998; Region: United States, New York; Employees: 1773; References: 0
  
 Customer service chatbot (self-service solution)
  
@@ -2160,7 +2160,7 @@ Customer service chatbot (self-service solution)
  
 #### [Salesforce](https://www.salesforce.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 23343; References: *
+Founded: 1999; Region: United States, California; Employees: 23343; References: 7
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -2174,7 +2174,7 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
 #### [ClickFox](http://www.clickfox.com) 
  
-*Founded: 2000; Region: United States, Georgia; Employees: 75; References: *
+Founded: 2000; Region: United States, Georgia; Employees: 75; References: 0
  
 Customer contact analytics
  
@@ -2188,7 +2188,7 @@ Customer contact analytics
  
 #### [Convirza](https://www.convirza.com/) 
  
-*Founded: 2001; Region: United States, Utah; Employees: 55; References: *
+Founded: 2001; Region: United States, Utah; Employees: 55; References: 3
  
 Call analytics
  
@@ -2202,7 +2202,7 @@ Call analytics
  
 #### [Five9](http://www.five9.com) 
  
-*Founded: 2001; Region: United States, California; Employees: 727; References: *
+Founded: 2001; Region: United States, California; Employees: 727; References: 0
  
 Customer contact analytics
  
@@ -2216,7 +2216,7 @@ Customer contact analytics
  
 #### [Artificial Solutions](http://www.artificial-solutions.com) 
  
-*Founded: 2001; Region: Spain, Catalonia; Employees: 137; References: *
+Founded: 2001; Region: Spain, Catalonia; Employees: 137; References: 0
  
 Customer service chatbot (self-service solution)
  
@@ -2230,7 +2230,7 @@ Customer service chatbot (self-service solution)
  
 #### [Lithium Technologies](http://www.lithium.com) 
  
-*Founded: 2001; Region: United States, California; Employees: 546; References: *
+Founded: 2001; Region: United States, California; Employees: 546; References: 0
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -2244,7 +2244,7 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
 #### [Next IT](http://www.NextIT.com) 
  
-*Founded: 2002; Region: United States, Washington; Employees: 200; References: *
+Founded: 2002; Region: United States, Washington; Employees: 200; References: 0
  
 Chatbot
  
@@ -2258,7 +2258,7 @@ Chatbot
  
 #### [Creative Virtual](http://www.creativevirtual.com) 
  
-*Founded: 2003; Region: United Kingdom, England; Employees: 75; References: *
+Founded: 2003; Region: United Kingdom, England; Employees: 75; References: 6
  
 Chatbot | Customer service response suggestions
  
@@ -2272,7 +2272,7 @@ Chatbot | Customer service response suggestions
  
 #### [NetBase Solutions](http://www.netbase.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 149; References: *
+Founded: 2004; Region: United States, California; Employees: 149; References: 1
  
 Social analytics & automation | Social listening & ticketing
  
@@ -2286,7 +2286,7 @@ Social analytics & automation | Social listening & ticketing
  
 #### [InteliWISE USA](http://www.inteliwise.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 12; References: *
+Founded: 2005; Region: United States, California; Employees: 12; References: 20
  
 Chatbot
  
@@ -2300,7 +2300,7 @@ Chatbot
  
 #### [Inbenta](https://www.inbenta.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 166; References: *
+Founded: 2005; Region: United States, California; Employees: 166; References: 0
  
 Chatbot
  
@@ -2314,7 +2314,7 @@ Chatbot
  
 #### [Clarabridge](http://www.clarabridge.com) 
  
-*Founded: 2006; Region: United States, Virginia; Employees: 262; References: *
+Founded: 2006; Region: United States, Virginia; Employees: 262; References: 4
  
 Social analytics & automation | Social media monitoring | Survey & review analytics | Customer contact analytics | Social listening & ticketing
  
@@ -2328,7 +2328,7 @@ Social analytics & automation | Social media monitoring | Survey & review analyt
  
 #### [Reputation.com](http://www.reputation.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 298; References: *
+Founded: 2006; Region: United States, California; Employees: 298; References: 0
  
 Social listening & ticketing
  
@@ -2342,7 +2342,7 @@ Social listening & ticketing
  
 #### [Zendesk](http://zendesk.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 1739; References: *
+Founded: 2007; Region: United States, California; Employees: 1739; References: 2
  
 Customer contact analytics
  
@@ -2356,7 +2356,7 @@ Customer contact analytics
  
 #### [Botego](http://www.botego.com/) 
  
-*Founded: 2007; Region: United States, New York; Employees: 25; References: *
+Founded: 2007; Region: United States, New York; Employees: 25; References: 0
  
 Chatbot | Digital assistant
  
@@ -2370,7 +2370,7 @@ Chatbot | Digital assistant
  
 #### [Gnip](http://www.gnip.com) 
  
-*Founded: 2008; Region: United States, Colorado; Employees: 15; References: *
+Founded: 2008; Region: United States, Colorado; Employees: 15; References: 0
  
 Social analytics & automation | Social listening & ticketing
  
@@ -2384,7 +2384,7 @@ Social analytics & automation | Social listening & ticketing
  
 #### [Afiniti](https://www.afiniti.com) 
  
-*Founded: 2009; Region: United States, Washington, D.C.; Employees: 357; References: *
+Founded: 2009; Region: United States, Washington, D.C.; Employees: 357; References: 3
  
 Intelligent call routing
  
@@ -2398,7 +2398,7 @@ Intelligent call routing
  
 #### [SmartAction](http://www.smartaction.ai) 
  
-*Founded: 2009; Region: United States, California; Employees: 75; References: *
+Founded: 2009; Region: United States, California; Employees: 75; References: 4
  
 Intelligent call routing | Customer service chatbot (self-service solution) | Voice authentication | Billing | Debt Collection
  
@@ -2412,7 +2412,7 @@ Intelligent call routing | Customer service chatbot (self-service solution) | Vo
  
 #### [Nanorep](http://nanorep.com) 
  
-*Founded: 2009; Region: Israel, Tel Aviv; Employees: 76; References: *
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 76; References: 0
  
 Chatbot
  
@@ -2426,7 +2426,7 @@ Chatbot
  
 #### [Talkwalker](http://www.talkwalker.com) 
  
-*Founded: 2009; Region: Luxembourg, Luxembourg; Employees: 140; References: *
+Founded: 2009; Region: Luxembourg, Luxembourg; Employees: 140; References: 0
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -2440,7 +2440,7 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
 #### [StellaService](http://stellaservice.com) 
  
-*Founded: 2009; Region: United States, New York; Employees: 175; References: *
+Founded: 2009; Region: United States, New York; Employees: 175; References: 0
  
 Customer contact analytics
  
@@ -2454,7 +2454,7 @@ Customer contact analytics
  
 #### [Luminoso](http://www.luminoso.com) 
  
-*Founded: 2010; Region: United States, Massachusetts; Employees: 45; References: *
+Founded: 2010; Region: United States, Massachusetts; Employees: 45; References: 7
  
 Intelligent call routing | Call intent discovery | Survey & review analytics | Call classification | Analytics platform | Real-Time Analytics
  
@@ -2468,7 +2468,7 @@ Intelligent call routing | Call intent discovery | Survey & review analytics | C
  
 #### [Personetics Technologies](http://www.personetics.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 88; References: *
+Founded: 2010; Region: United States, New York; Employees: 88; References: 3
  
 Chatbot | Robo-Advisory
  
@@ -2482,7 +2482,7 @@ Chatbot | Robo-Advisory
  
 #### [WorkFusion](http://www.workfusion.com/) 
  
-*Founded: 2010; Region: United States, New York; Employees: 140; References: *
+Founded: 2010; Region: United States, New York; Employees: 140; References: 0
  
 Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
@@ -2496,7 +2496,7 @@ Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
 #### [DataSift](http://www.datasift.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 70; References: *
+Founded: 2010; Region: United States, California; Employees: 70; References: 0
  
 Social analytics & automation | Social media monitoring | Social listening & ticketing
  
@@ -2510,7 +2510,7 @@ Social analytics & automation | Social media monitoring | Social listening & tic
  
 #### [Intercom](http://www.intercom.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 576; References: *
+Founded: 2011; Region: United States, California; Employees: 576; References: 2
  
 Customer service response suggestions
  
@@ -2524,7 +2524,7 @@ Customer service response suggestions
  
 #### [Aivo](http://www.aivo.co) 
  
-*Founded: 2011; Region: Argentina, Cordoba; Employees: 49; References: *
+Founded: 2011; Region: Argentina, Cordoba; Employees: 49; References: 1
  
 Chatbot
  
@@ -2538,7 +2538,7 @@ Chatbot
  
 #### [H2O.ai](http://h2o.ai/) 
  
-*Founded: 2011; Region: United States, California; Employees: 77; References: *
+Founded: 2011; Region: United States, California; Employees: 77; References: 5
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -2552,7 +2552,7 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
 #### [MindMeld](https://www.mindmeld.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Chatbot
  
@@ -2566,7 +2566,7 @@ Chatbot
  
 #### [CogniCor Technologies](http://www.cognicor.com) 
  
-*Founded: 2011; Region: Spain, Catalonia; Employees: 30; References: *
+Founded: 2011; Region: Spain, Catalonia; Employees: 30; References: 0
  
 Chatbot | Customer service chatbot (self-service solution)
  
@@ -2580,7 +2580,7 @@ Chatbot | Customer service chatbot (self-service solution)
  
 #### [Cortical.io](http://www.cortical.io) 
  
-*Founded: 2011; Region: Austria, Vienna; Employees: 15; References: *
+Founded: 2011; Region: Austria, Vienna; Employees: 15; References: 0
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -2594,7 +2594,7 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
 #### [Talkdesk](http://talkdesk.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 282; References: *
+Founded: 2011; Region: United States, California; Employees: 282; References: 0
  
 Intelligent call routing | Call analytics | Customer service chatbot (self-service solution)
  
@@ -2608,7 +2608,7 @@ Intelligent call routing | Call analytics | Customer service chatbot (self-servi
  
 #### [ReviewPush](http://www.reviewpush.com/) 
  
-*Founded: 2011; Region: United States, Texas; Employees: 8; References: *
+Founded: 2011; Region: United States, Texas; Employees: 8; References: 0
  
 Survey & review analytics
  
@@ -2622,7 +2622,7 @@ Survey & review analytics
  
 #### [Chatmeter](http://www.chatmeter.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 33; References: *
+Founded: 2011; Region: United States, California; Employees: 33; References: 0
  
 Social analytics & automation | Survey & review analytics
  
@@ -2636,7 +2636,7 @@ Social analytics & automation | Survey & review analytics
  
 #### [CallRail](https://www.callrail.com) 
  
-*Founded: 2011; Region: United States, Georgia; Employees: 75; References: *
+Founded: 2011; Region: United States, Georgia; Employees: 75; References: 0
  
 Call analytics
  
@@ -2650,7 +2650,7 @@ Call analytics
  
 #### [Go Moment](http://www.gomoment.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 20; References: *
+Founded: 2012; Region: United States, California; Employees: 20; References: 1
  
 Retail sales bot | Chatbot | HR retention management
  
@@ -2664,7 +2664,7 @@ Retail sales bot | Chatbot | HR retention management
  
 #### [BirdEye](http://birdeye.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 130; References: *
+Founded: 2012; Region: United States, California; Employees: 130; References: 1
  
 Social analytics & automation | Survey & review analytics | Social listening & ticketing
  
@@ -2678,7 +2678,7 @@ Social analytics & automation | Survey & review analytics | Social listening & t
  
 #### [ReviewTrackers](http://www.reviewtrackers.com) 
  
-*Founded: 2012; Region: United States, Illinois; Employees: 61; References: *
+Founded: 2012; Region: United States, Illinois; Employees: 61; References: 1
  
 Survey & review analytics
  
@@ -2692,7 +2692,7 @@ Survey & review analytics
  
 #### [Wise.io](http://wise.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 12; References: *
+Founded: 2012; Region: United States, California; Employees: 12; References: 3
  
 Customer sales contact analytics | Chatbot | Intelligent call routing | Customer service response suggestions
  
@@ -2706,7 +2706,7 @@ Customer sales contact analytics | Chatbot | Intelligent call routing | Customer
  
 #### [LeanData](http://www.leandatainc.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 33; References: *
+Founded: 2012; Region: United States, California; Employees: 33; References: 0
  
 Sales attribution | Customer contact analytics
  
@@ -2720,7 +2720,7 @@ Sales attribution | Customer contact analytics
  
 #### [Appuri](http://www.appuri.com) 
  
-*Founded: 2012; Region: United States, Washington; Employees: 25; References: *
+Founded: 2012; Region: United States, Washington; Employees: 25; References: 0
  
 Customer contact analytics
  
@@ -2734,7 +2734,7 @@ Customer contact analytics
  
 #### [DigitalGenius](http://digitalgenius.com) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 70; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 70; References: 1
  
 Recommendation engine | Social analytics & automation | Chatbot | Customer service response suggestions
  
@@ -2748,7 +2748,7 @@ Recommendation engine | Social analytics & automation | Chatbot | Customer servi
  
 #### [Antuit](http://www.antuit.com) 
  
-*Founded: 2013; Region: Singapore, Central Singapore; Employees: 178; References: *
+Founded: 2013; Region: Singapore, Central Singapore; Employees: 178; References: 2
  
 Recommendation engine | Social analytics & automation | Marketing analytics | Pricing optimization | Omnichannel | Customer contact analytics
  
@@ -2762,7 +2762,7 @@ Recommendation engine | Social analytics & automation | Marketing analytics | Pr
  
 #### [Gridspace](http://www.gridspace.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 13; References: *
+Founded: 2013; Region: United States, California; Employees: 13; References: 0
  
 Call analytics
  
@@ -2776,7 +2776,7 @@ Call analytics
  
 #### [Kore.ai](https://kore.ai/) 
  
-*Founded: 2013; Region: United States, Florida; Employees: 192; References: *
+Founded: 2013; Region: United States, Florida; Employees: 192; References: 0
  
 Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
@@ -2790,7 +2790,7 @@ Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
 #### [Semantic Machines](http://www.semanticmachines.com/) 
  
-*Founded: 2014; Region: United States, Massachusetts; Employees: 25; References: *
+Founded: 2014; Region: United States, Massachusetts; Employees: 25; References: 0
  
 Sales rep chat/email bot | Chatbot
  
@@ -2804,7 +2804,7 @@ Sales rep chat/email bot | Chatbot
  
 #### [Deepgram](https://www.deepgram.com/) 
  
-*Founded: 2015; Region: United States, California; Employees: 9; References: *
+Founded: 2015; Region: United States, California; Employees: 9; References: 1
  
 Call analytics | Legal advisory
  
@@ -2818,7 +2818,7 @@ Call analytics | Legal advisory
  
 #### [Pypestream](https://pypestream.com/) 
  
-*Founded: 2015; Region: United States, New York; Employees: 54; References: *
+Founded: 2015; Region: United States, New York; Employees: 54; References: 1
  
 Sales rep chat/email bot | Chatbot
  
@@ -2832,7 +2832,7 @@ Sales rep chat/email bot | Chatbot
  
 #### [msg.ai](http://msg.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 40; References: *
+Founded: 2015; Region: United States, California; Employees: 40; References: 5
  
 Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Customer service response suggestions | Chatbot analytics
  
@@ -2846,7 +2846,7 @@ Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Custo
  
 #### [True AI](http://trueai.io) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 7; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 7; References: 0
  
 Customer service response suggestions
  
@@ -2860,7 +2860,7 @@ Customer service response suggestions
  
 #### [Wantoo](http://wantoo.io/) 
  
-*Founded: 2015; Region: Canada, British Columbia; Employees: 0; References: *
+Founded: 2015; Region: Canada, British Columbia; Employees: 0; References: 0
  
 Survey & review analytics
  
@@ -2874,7 +2874,7 @@ Survey & review analytics
  
 #### [fred knows](http://www.fredknows.IT) 
  
-*Founded: 2015; Region: Germany, Berlin; Employees: 11; References: *
+Founded: 2015; Region: Germany, Berlin; Employees: 11; References: 0
  
 Chatbot | Customer service chatbot (self-service solution)
  
@@ -2888,7 +2888,7 @@ Chatbot | Customer service chatbot (self-service solution)
  
 #### [Recast.AI](https://recast.ai) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 25; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 25; References: 0
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -2902,7 +2902,7 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
 #### [Techsee](http://www.techsee.me) 
  
-*Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Call analytics
  
@@ -2916,7 +2916,7 @@ Call analytics
  
 #### [Siwa Inc.](http://siwa.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Chatbot
  
@@ -2930,7 +2930,7 @@ Chatbot
  
 #### [Bottr](https://bottr.me) 
  
-*Founded: 2015; Region: United States, California; Employees: 0; References: *
+Founded: 2015; Region: United States, California; Employees: 0; References: 0
  
 Customer service chatbot (self-service solution)
  
@@ -2944,7 +2944,7 @@ Customer service chatbot (self-service solution)
  
 #### [Hiya](http://www.hiya.com) 
  
-*Founded: 2016; Region: United States, Washington; Employees: 25; References: *
+Founded: 2016; Region: United States, Washington; Employees: 25; References: 0
  
 Call intent discovery
  
@@ -2958,7 +2958,7 @@ Call intent discovery
  
 #### [Eloquent Labs](https://www.eloquent.ai/) 
  
-*Founded: 2016; Region: United States, California; Employees: 4; References: *
+Founded: 2016; Region: United States, California; Employees: 4; References: 0
  
 Chatbot
  
@@ -2972,7 +2972,7 @@ Chatbot
  
 #### [Botanalytics](https://botanalytics.co) 
  
-*Founded: 2016; Region: United States, California; Employees: 12; References: *
+Founded: 2016; Region: United States, California; Employees: 12; References: 0
  
 Chatbot analytics
  
@@ -2986,7 +2986,7 @@ Chatbot analytics
  
 #### [Dashbot](http://www.dashbot.io) 
  
-*Founded: 2016; Region: United States, California; Employees: 10; References: *
+Founded: 2016; Region: United States, California; Employees: 10; References: 0
  
 Chatbot analytics | Chatbot testing
  
@@ -3000,7 +3000,7 @@ Chatbot analytics | Chatbot testing
  
 #### [Octane AI](http://octaneai.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 11; References: *
+Founded: 2016; Region: United States, California; Employees: 11; References: 0
  
 Customer service chatbot (self-service solution) | Chatbot analytics
  
@@ -3014,7 +3014,7 @@ Customer service chatbot (self-service solution) | Chatbot analytics
  
 #### [Reply.ai](http://reply.ai) 
  
-*Founded: 2016; Region: United States, New York; Employees: 17; References: *
+Founded: 2016; Region: United States, New York; Employees: 17; References: 0
  
 Customer service chatbot (self-service solution)
  
@@ -3028,7 +3028,7 @@ Customer service chatbot (self-service solution)
  
 #### [DeepPIXEL Inc.](http://www.deeppixel.ai) 
  
-*Founded: 2016; Region: Canada, Ontario; Employees: 8; References: *
+Founded: 2016; Region: Canada, Ontario; Employees: 8; References: 0
  
 Omnichannel | Chatbot | Customer service response suggestions
  
@@ -3042,7 +3042,7 @@ Omnichannel | Chatbot | Customer service response suggestions
  
 #### [Pat Inc](http://www.pat.ai) 
  
-*Founded: 2016; Region: United States, California; Employees: 7; References: *
+Founded: 2016; Region: United States, California; Employees: 7; References: 0
  
 Sales rep chat/email bot | Call intent discovery | Customer service chatbot (self-service solution) | Conversational Analytics | Digital assistant
  
@@ -3056,7 +3056,7 @@ Sales rep chat/email bot | Call intent discovery | Customer service chatbot (sel
  
 #### [VoiceOps](https://voiceops.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Call analytics
  
@@ -3070,7 +3070,7 @@ Call analytics
  
 #### [Serdoo](https://www.serdoo.com) 
  
-*Founded: 2016; Region: United States, Illinois; Employees: 0; References: *
+Founded: 2016; Region: United States, Illinois; Employees: 0; References: 0
  
 Chatbot
  
@@ -3086,7 +3086,7 @@ Chatbot
  
 #### [Informatica](https://www.informatica.com) 
  
-*Founded: 1993; Region: United States, California; Employees: 3000; References: *
+Founded: 1993; Region: United States, California; Employees: 3000; References: 0
  
 Data Integration | Data cleaning&validation
  
@@ -3100,7 +3100,7 @@ Data Integration | Data cleaning&validation
  
 #### [Unity Technologies](http://unity3d.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 3000; References: *
+Founded: 2004; Region: United States, California; Employees: 3000; References: 0
  
 AppDev
  
@@ -3114,7 +3114,7 @@ AppDev
  
 #### [Apigee](http://www.apigee.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 75; References: *
+Founded: 2004; Region: United States, California; Employees: 75; References: 0
  
 AppDev
  
@@ -3128,7 +3128,7 @@ AppDev
  
 #### [MuleSoft](http://www.mulesoft.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 750; References: *
+Founded: 2006; Region: United States, California; Employees: 750; References: 0
  
 Data Integration
  
@@ -3142,7 +3142,7 @@ Data Integration
  
 #### [AltexSoft](http://www.altexsoft.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 200; References: *
+Founded: 2007; Region: United States, California; Employees: 200; References: 1
  
 AI Consultancy | AI developer | Data cleaning&validation | Image recognition and visual analytics | Voice recognition and sound analytics | e-commerce analytics
  
@@ -3156,7 +3156,7 @@ AI Consultancy | AI developer | Data cleaning&validation | Image recognition and
  
 #### [CrowdFlower Inc.](https://www.crowdflower.com/) 
  
-*Founded: 2007; Region: United States, California; Employees: 75; References: *
+Founded: 2007; Region: United States, California; Employees: 75; References: 0
  
 Data Integration
  
@@ -3170,7 +3170,7 @@ Data Integration
  
 #### [AppDynamics](http://www.appdynamics.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 750; References: *
+Founded: 2008; Region: United States, California; Employees: 750; References: 0
  
 Data Management & Monitoring
  
@@ -3184,7 +3184,7 @@ Data Management & Monitoring
  
 #### [New Relic](http://newrelic.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 3000; References: *
+Founded: 2008; Region: United States, California; Employees: 3000; References: 0
  
 Data Management & Monitoring
  
@@ -3198,7 +3198,7 @@ Data Management & Monitoring
  
 #### [Actifio](http://www.actifio.com) 
  
-*Founded: 2009; Region: United States, Massachusetts; Employees: 375; References: *
+Founded: 2009; Region: United States, Massachusetts; Employees: 375; References: 0
  
 Data Management & Monitoring
  
@@ -3212,7 +3212,7 @@ Data Management & Monitoring
  
 #### [MoBagel](https://mobagel.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 25; References: *
+Founded: 2009; Region: United States, California; Employees: 25; References: 0
  
 Data Transformation
  
@@ -3226,7 +3226,7 @@ Data Transformation
  
 #### [CloudFactory](http://cloudfactory.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 175; References: *
+Founded: 2010; Region: United States, California; Employees: 175; References: 0
  
 Data labeling
  
@@ -3240,7 +3240,7 @@ Data labeling
  
 #### [Lightbend](http://www.lightbend.com/) 
  
-*Founded: 2011; Region: United States, California; Employees: 75; References: *
+Founded: 2011; Region: United States, California; Employees: 75; References: 0
  
 AppDev
  
@@ -3254,7 +3254,7 @@ AppDev
  
 #### [Cask](http://cask.co) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 AppDev
  
@@ -3268,7 +3268,7 @@ AppDev
  
 #### [Trifacta](http://trifacta.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 122; References: *
+Founded: 2012; Region: United States, California; Employees: 122; References: 6
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -3282,7 +3282,7 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
 #### [CrossChx, Inc.](http://www.crosschx.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 80; References: *
+Founded: 2012; Region: United States, California; Employees: 80; References: 0
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -3296,7 +3296,7 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
 #### [import.io](https://import.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 35; References: *
+Founded: 2012; Region: United States, California; Employees: 35; References: 2
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -3310,7 +3310,7 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
 #### [Numerify](http://www.numerify.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 175; References: *
+Founded: 2012; Region: United States, California; Employees: 175; References: 0
  
 Data Management & Monitoring
  
@@ -3324,7 +3324,7 @@ Data Management & Monitoring
  
 #### [Bedrock Data](http://www.bedrockdata.com) 
  
-*Founded: 2012; Region: United States, Massachusetts; Employees: 25; References: *
+Founded: 2012; Region: United States, Massachusetts; Employees: 25; References: 0
  
 Data Integration
  
@@ -3338,7 +3338,7 @@ Data Integration
  
 #### [Tamr](http://www.tamr.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics | Data Transformation
  
@@ -3352,7 +3352,7 @@ Marketing analytics | Data Transformation
  
 #### [Kairos AR](https://www.kairos.com) 
  
-*Founded: 2012; Region: United States, Florida; Employees: 25; References: *
+Founded: 2012; Region: United States, Florida; Employees: 25; References: 0
  
 Emotion Recognition | Data labeling
  
@@ -3366,7 +3366,7 @@ Emotion Recognition | Data labeling
  
 #### [Optalysys Ltd](http://www.optalysys.com) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 5; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 5; References: 0
  
 Data Management & Monitoring
  
@@ -3380,7 +3380,7 @@ Data Management & Monitoring
  
 #### [HouseCanary](http://www.housecanary.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 100; References: *
+Founded: 2014; Region: United States, California; Employees: 100; References: 0
  
 Data preparation platform | Analytics platform | Geo-analytics platform | Robo-Advisory
  
@@ -3394,7 +3394,7 @@ Data preparation platform | Analytics platform | Geo-analytics platform | Robo-A
  
 #### [Rocana](http://rocana.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 75; References: *
+Founded: 2014; Region: United States, California; Employees: 75; References: 0
  
 Data Management & Monitoring
  
@@ -3408,7 +3408,7 @@ Data Management & Monitoring
  
 #### [NexLP](http://www.nexlp.com/) 
  
-*Founded: 2014; Region: United States, Illinois; Employees: 5; References: *
+Founded: 2014; Region: United States, Illinois; Employees: 5; References: 0
  
 Data Integration
  
@@ -3422,7 +3422,7 @@ Data Integration
  
 #### [INNAAS](http://www.innaas.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Data Transformation
  
@@ -3436,7 +3436,7 @@ Data Transformation
  
 #### [Stepsize](http://stepsize.com/) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 5; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 5; References: 0
  
 AppDev
  
@@ -3450,7 +3450,7 @@ AppDev
  
 #### [Sentenai](http://www.sentenai.com/) 
  
-*Founded: 2015; Region: United States, Massachusetts; Employees: 5; References: *
+Founded: 2015; Region: United States, Massachusetts; Employees: 5; References: 0
  
 Data Integration
  
@@ -3464,7 +3464,7 @@ Data Integration
  
 #### [Scale](https://scaleapi.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Data labeling
  
@@ -3478,7 +3478,7 @@ Data labeling
  
 #### [LARI](https://www.lari.digital) 
  
-*Founded: 2017; Region: Switzerland, Zurich; Employees: 6; References: *
+Founded: 2017; Region: Switzerland, Zurich; Employees: 6; References: 0
  
 Machine learning library/SDK/API | Data Management & Monitoring
  
@@ -3492,7 +3492,7 @@ Machine learning library/SDK/API | Data Management & Monitoring
  
 #### [TileDB](http://tiledb.io/) 
  
-*Founded: 2017; Region: United States, Massachusetts; Employees: 5; References: *
+Founded: 2017; Region: United States, Massachusetts; Employees: 5; References: 0
  
 Data Management & Monitoring
  
@@ -3506,7 +3506,7 @@ Data Management & Monitoring
  
 #### [SeetaTech](http://www.seetatech.com/) 
  
-*Founded: Unknown; Region: China, Beijing; Employees: 0; References: 0*
+Founded: Unknown; Region: China, Beijing; Employees: 0; References: 0
  
 AppDev
  
@@ -3522,7 +3522,7 @@ AppDev
  
 #### [Alpine Data Labs](http://www.alpinedata.com) 
  
-*Founded: 0; Region: United States, California; Employees: 49; References: *
+Founded: 0; Region: United States, California; Employees: 49; References: 0
  
 Analytics platform | Financial Analytics Platform
  
@@ -3536,7 +3536,7 @@ Analytics platform | Financial Analytics Platform
  
 #### [Tractable](https://tractable.ai/) 
  
-*Founded: 0; Region: United Kingdom, England; Employees: 41; References: *
+Founded: 0; Region: United Kingdom, England; Employees: 41; References: 0
  
 Insurance (InsurTech)
  
@@ -3550,7 +3550,7 @@ Insurance (InsurTech)
  
 #### [RiskGenius](https://riskgenius.com/) 
  
-*Founded: 0; Region: United States, Kansas; Employees: 4; References: *
+Founded: 0; Region: United States, Kansas; Employees: 4; References: 0
  
 Insurance (InsurTech) | Regulatory compliance
  
@@ -3564,7 +3564,7 @@ Insurance (InsurTech) | Regulatory compliance
  
 #### [Clone Algo](http://www.clonealgo.us) 
  
-*Founded: 0; Region: Singapore, Central Singapore; Employees: 9; References: *
+Founded: 0; Region: Singapore, Central Singapore; Employees: 9; References: 0
  
 Insurance (InsurTech) | Financial Analytics Platform
  
@@ -3578,7 +3578,7 @@ Insurance (InsurTech) | Financial Analytics Platform
  
 #### [SmartZip Analytics](http://www.SmartZip.com) 
  
-*Founded: 0; Region: United States, California; Employees: 176; References: *
+Founded: 0; Region: United States, California; Employees: 176; References: 0
  
 Financial Analytics Platform
  
@@ -3592,7 +3592,7 @@ Financial Analytics Platform
  
 #### [Aidyia](http://www.aidyia.com) 
  
-*Founded: 0; Region: Hong Kong, Central and Western; Employees: 7; References: *
+Founded: 0; Region: Hong Kong, Central and Western; Employees: 7; References: 0
  
 Financial Analytics Platform
  
@@ -3606,7 +3606,7 @@ Financial Analytics Platform
  
 #### [Binatix](http://www.binatix.com) 
  
-*Founded: 0; Region: United States, California; Employees: 5; References: *
+Founded: 0; Region: United States, California; Employees: 5; References: 0
  
 Financial Analytics Platform
  
@@ -3620,7 +3620,7 @@ Financial Analytics Platform
  
 #### [Polly Portfolio](https://www.pollyport.com) 
  
-*Founded: 0; Region: United States, New York; Employees: 0; References: *
+Founded: 0; Region: United States, New York; Employees: 0; References: 0
  
 Robo-Advisory
  
@@ -3634,7 +3634,7 @@ Robo-Advisory
  
 #### [MetricStream](http://metricstream.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 750; References: *
+Founded: 1999; Region: United States, California; Employees: 750; References: 0
  
 Regulatory compliance
  
@@ -3648,7 +3648,7 @@ Regulatory compliance
  
 #### [Digital Reasoning](http://digitalreasoning.com) 
  
-*Founded: 2000; Region: United States, Tennessee; Employees: 172; References: *
+Founded: 2000; Region: United States, Tennessee; Employees: 172; References: 0
  
 Fraud Detection | Regulatory compliance | Patient data analytics
  
@@ -3662,7 +3662,7 @@ Fraud Detection | Regulatory compliance | Patient data analytics
  
 #### [Insly](http://insly.com) 
  
-*Founded: 2000; Region: United States, California; Employees: 25; References: *
+Founded: 2000; Region: United States, California; Employees: 25; References: 0
  
 Insurance (InsurTech)
  
@@ -3676,7 +3676,7 @@ Insurance (InsurTech)
  
 #### [Transactis](http://www.transactis.com) 
  
-*Founded: 2001; Region: United States, New York; Employees: 0; References: *
+Founded: 2001; Region: United States, New York; Employees: 0; References: 0
  
 Billing
  
@@ -3690,7 +3690,7 @@ Billing
  
 #### [RavenPack](http://ravenpack.com) 
  
-*Founded: 2003; Region: United States, California; Employees: 65; References: *
+Founded: 2003; Region: United States, California; Employees: 65; References: 0
  
 Analytics platform | Analytics Services | Data Visualization | Real-Time Analytics | Fraud Detection | Financial Analytics Platform
  
@@ -3704,7 +3704,7 @@ Analytics platform | Analytics Services | Data Visualization | Real-Time Analyti
  
 #### [Opera Solutions](http://www.operasolutions.com) 
  
-*Founded: 2004; Region: United States, New Jersey; Employees: 609; References: *
+Founded: 2004; Region: United States, New Jersey; Employees: 609; References: 0
  
 Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -3718,7 +3718,7 @@ Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
 #### [Numenta](http://www.numenta.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 22; References: *
+Founded: 2005; Region: United States, California; Employees: 22; References: 0
  
 Natural Language Processing library/SDK/API | Robotics | Financial Analytics Platform
  
@@ -3732,7 +3732,7 @@ Natural Language Processing library/SDK/API | Robotics | Financial Analytics Pla
  
 #### [BehavioSec](http://www.behaviosec.com) 
  
-*Founded: 2007; Region: Sweden, Stockholm; Employees: 24; References: *
+Founded: 2007; Region: Sweden, Stockholm; Employees: 24; References: 0
  
 Fraud Detection
  
@@ -3746,7 +3746,7 @@ Fraud Detection
  
 #### [Sentient Technologies](http://Sentient.Ai) 
  
-*Founded: 2007; Region: United States, California; Employees: 108; References: *
+Founded: 2007; Region: United States, California; Employees: 108; References: 0
  
 Analytics platform | Financial Analytics Platform
  
@@ -3760,7 +3760,7 @@ Analytics platform | Financial Analytics Platform
  
 #### [Evercompliant](http://www.evercompliant.com/) 
  
-*Founded: 2007; Region: Israel, Tel Aviv; Employees: 26; References: *
+Founded: 2007; Region: Israel, Tel Aviv; Employees: 26; References: 0
  
 Insurance (InsurTech)
  
@@ -3774,7 +3774,7 @@ Insurance (InsurTech)
  
 #### [Ayasdi](http://www.ayasdi.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 131; References: *
+Founded: 2008; Region: United States, California; Employees: 131; References: 9
  
 Fraud Detection | Financial Analytics Platform | Regulatory compliance | Patient data analytics | Assisted or automated diagnosis & prescription | Healthcare market research | Device and drug comparative effectiveness
  
@@ -3788,7 +3788,7 @@ Fraud Detection | Financial Analytics Platform | Regulatory compliance | Patient
  
 #### [Rimilia](https://www.rimilia.com/) 
  
-*Founded: 2008; Region: United Kingdom, England; Employees: 90; References: *
+Founded: 2008; Region: United Kingdom, England; Employees: 90; References: 1
  
 Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulatory compliance | Debt Collection
  
@@ -3802,7 +3802,7 @@ Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulato
  
 #### [Featurespace](http://www.featurespace.co.uk) 
  
-*Founded: 2008; Region: United Kingdom, England; Employees: 75; References: *
+Founded: 2008; Region: United Kingdom, England; Employees: 75; References: 0
  
 Fraud Detection
  
@@ -3816,7 +3816,7 @@ Fraud Detection
  
 #### [Cerebellum Capital](http://www.cerebellumcapital.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 5; References: *
+Founded: 2008; Region: United States, California; Employees: 5; References: 0
  
 Robo-Advisory
  
@@ -3830,7 +3830,7 @@ Robo-Advisory
  
 #### [Dataminr](http://www.dataminr.com) 
  
-*Founded: 2009; Region: United States, New York; Employees: 240; References: *
+Founded: 2009; Region: United States, New York; Employees: 240; References: 1
  
 Social media monitoring | Social media optimization | Analytics platform | Data gathering
  
@@ -3844,7 +3844,7 @@ Social media monitoring | Social media optimization | Analytics platform | Data 
  
 #### [SmartAction](http://www.smartaction.ai) 
  
-*Founded: 2009; Region: United States, California; Employees: 75; References: *
+Founded: 2009; Region: United States, California; Employees: 75; References: 4
  
 Intelligent call routing | Customer service chatbot (self-service solution) | Voice authentication | Billing | Debt Collection
  
@@ -3858,7 +3858,7 @@ Intelligent call routing | Customer service chatbot (self-service solution) | Vo
  
 #### [Feedzai](http://www.feedzai.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 168; References: *
+Founded: 2009; Region: United States, California; Employees: 168; References: 0
  
 Fraud Detection
  
@@ -3872,7 +3872,7 @@ Fraud Detection
  
 #### [ZestFinance](http://zestfinance.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 85; References: *
+Founded: 2009; Region: United States, California; Employees: 85; References: 0
  
 Financial Analytics Platform | Credit Lending / Scoring
  
@@ -3886,7 +3886,7 @@ Financial Analytics Platform | Credit Lending / Scoring
  
 #### [PayNearMe](http://www.paynearme.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 0; References: *
+Founded: 2009; Region: United States, California; Employees: 0; References: 0
  
 Billing
  
@@ -3900,7 +3900,7 @@ Billing
  
 #### [Zighra](http://www.zighra.com) 
  
-*Founded: 2009; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2009; Region: Canada, Ontario; Employees: 5; References: 0
  
 Fraud Detection
  
@@ -3914,7 +3914,7 @@ Fraud Detection
  
 #### [I Know First](http://www.iknowfirst.com) 
  
-*Founded: 2009; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Robo-Advisory
  
@@ -3928,7 +3928,7 @@ Robo-Advisory
  
 #### [Narrative Science](http://www.narrativescience.com) 
  
-*Founded: 2010; Region: United States, Illinois; Employees: 117; References: *
+Founded: 2010; Region: United States, Illinois; Employees: 117; References: 4
  
 Natural Language Processing library/SDK/API | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -3942,7 +3942,7 @@ Natural Language Processing library/SDK/API | Fraud Detection | Financial Analyt
  
 #### [Personetics Technologies](http://www.personetics.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 88; References: *
+Founded: 2010; Region: United States, New York; Employees: 88; References: 3
  
 Chatbot | Robo-Advisory
  
@@ -3956,7 +3956,7 @@ Chatbot | Robo-Advisory
  
 #### [AlphaSense](http://www.alpha-sense.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 86; References: *
+Founded: 2010; Region: United States, New York; Employees: 86; References: 0
  
 Natural Language Processing library/SDK/API | Data gathering
  
@@ -3970,7 +3970,7 @@ Natural Language Processing library/SDK/API | Data gathering
  
 #### [iSENTIUM](http://www.isentium.com) 
  
-*Founded: 2010; Region: United States, Florida; Employees: 15; References: *
+Founded: 2010; Region: United States, Florida; Employees: 15; References: 0
  
 Social media monitoring | Financial Analytics Platform | Data gathering
  
@@ -3984,7 +3984,7 @@ Social media monitoring | Financial Analytics Platform | Data gathering
  
 #### [WorkFusion](http://www.workfusion.com/) 
  
-*Founded: 2010; Region: United States, New York; Employees: 140; References: *
+Founded: 2010; Region: United States, New York; Employees: 140; References: 0
  
 Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
@@ -3998,7 +3998,7 @@ Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
 #### [Sift Science](http://siftscience.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 103; References: *
+Founded: 2011; Region: United States, California; Employees: 103; References: 5
  
 Analytics & predictive intelligence for security | Fraud Detection
  
@@ -4012,7 +4012,7 @@ Analytics & predictive intelligence for security | Fraud Detection
  
 #### [H2O.ai](http://h2o.ai/) 
  
-*Founded: 2011; Region: United States, California; Employees: 77; References: *
+Founded: 2011; Region: United States, California; Employees: 77; References: 5
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -4026,7 +4026,7 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
 #### [Lucena Research](http://lucenaresearch.com) 
  
-*Founded: 2011; Region: United States, Georgia; Employees: 9; References: *
+Founded: 2011; Region: United States, Georgia; Employees: 9; References: 0
  
 3rd party data | Financial Analytics Platform
  
@@ -4040,7 +4040,7 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
 #### [Cortical.io](http://www.cortical.io) 
  
-*Founded: 2011; Region: Austria, Vienna; Employees: 15; References: *
+Founded: 2011; Region: Austria, Vienna; Employees: 15; References: 0
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -4054,7 +4054,7 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
 #### [Captricity](http://captricity.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 77; References: *
+Founded: 2011; Region: United States, California; Employees: 77; References: 0
  
 Insurance (InsurTech)
  
@@ -4068,7 +4068,7 @@ Insurance (InsurTech)
  
 #### [FeedVisor](http://feedvisor.com) 
  
-*Founded: 2011; Region: United States, New York; Employees: 176; References: *
+Founded: 2011; Region: United States, New York; Employees: 176; References: 0
  
 Robo-Advisory
  
@@ -4082,7 +4082,7 @@ Robo-Advisory
  
 #### [Driveway](http://driveway.ai) 
  
-*Founded: 2011; Region: United States, California; Employees: 26; References: *
+Founded: 2011; Region: United States, California; Employees: 26; References: 0
  
 Insurance (InsurTech)
  
@@ -4096,7 +4096,7 @@ Insurance (InsurTech)
  
 #### [Meteo Logic](http://www.meteo-logic.com) 
  
-*Founded: 2011; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2011; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Robo-Advisory
  
@@ -4110,7 +4110,7 @@ Robo-Advisory
  
 #### [Trifacta](http://trifacta.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 122; References: *
+Founded: 2012; Region: United States, California; Employees: 122; References: 6
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -4124,7 +4124,7 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
 #### [AppZen](http://www.appzen.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 18; References: *
+Founded: 2012; Region: United States, California; Employees: 18; References: 1
  
 Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
@@ -4138,7 +4138,7 @@ Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
 #### [Versive](http://www.versive.com) 
  
-*Founded: 2012; Region: United States, Washington; Employees: 61; References: *
+Founded: 2012; Region: United States, Washington; Employees: 61; References: 2
  
 Financial Analytics Platform | Regulatory compliance
  
@@ -4152,7 +4152,7 @@ Financial Analytics Platform | Regulatory compliance
  
 #### [Arimo](https://arimo.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 37; References: *
+Founded: 2012; Region: United States, California; Employees: 37; References: 1
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -4166,7 +4166,7 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
 #### [DataRobot](http://datarobot.com) 
  
-*Founded: 2012; Region: United States, Massachusetts; Employees: 206; References: *
+Founded: 2012; Region: United States, Massachusetts; Employees: 206; References: 5
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform | Credit Lending / Scoring | Patient data analytics
  
@@ -4180,7 +4180,7 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
 #### [Onfido](http://www.onfido.com) 
  
-*Founded: 2012; Region: United Kingdom, England; Employees: 149; References: *
+Founded: 2012; Region: United Kingdom, England; Employees: 149; References: 3
  
 Fraud Detection
  
@@ -4194,7 +4194,7 @@ Fraud Detection
  
 #### [Skytree](http://www.skytree.net) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial Analytics Platform | Data gathering
  
@@ -4208,7 +4208,7 @@ Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial
  
 #### [CreditVidya](http://www.creditvidya.com/) 
  
-*Founded: 2012; Region: India, Maharashtra; Employees: 57; References: *
+Founded: 2012; Region: India, Maharashtra; Employees: 57; References: 0
  
 Credit Lending / Scoring
  
@@ -4222,7 +4222,7 @@ Credit Lending / Scoring
  
 #### [Creamfinance](https://www.creamfinance.com/) 
  
-*Founded: 2012; Region: Poland, Mazovia; Employees: 92; References: *
+Founded: 2012; Region: Poland, Mazovia; Employees: 92; References: 0
  
 Credit Lending / Scoring
  
@@ -4236,7 +4236,7 @@ Credit Lending / Scoring
  
 #### [Socure](http://www.socure.com) 
  
-*Founded: 2012; Region: United States, New York; Employees: 34; References: *
+Founded: 2012; Region: United States, New York; Employees: 34; References: 0
  
 Fraud Detection
  
@@ -4250,7 +4250,7 @@ Fraud Detection
  
 #### [Paxata](http://www.paxata.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 116; References: *
+Founded: 2012; Region: United States, California; Employees: 116; References: 0
  
 Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial Analytics Platform | Regulatory compliance | Data gathering | Patient data analytics
  
@@ -4264,7 +4264,7 @@ Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial 
  
 #### [Understory](http://understoryweather.com) 
  
-*Founded: 2012; Region: United States, Massachusetts; Employees: 17; References: *
+Founded: 2012; Region: United States, Massachusetts; Employees: 17; References: 0
  
 Insurance (InsurTech)
  
@@ -4278,7 +4278,7 @@ Insurance (InsurTech)
  
 #### [Fortia Financial Solutions](http://fortia.fr) 
  
-*Founded: 2012; Region: France, Île-de-France; Employees: 19; References: *
+Founded: 2012; Region: France, Île-de-France; Employees: 19; References: 0
  
 Fraud Detection
  
@@ -4292,7 +4292,7 @@ Fraud Detection
  
 #### [Riskified](https://www.riskified.com/) 
  
-*Founded: 2012; Region: Israel, Tel Aviv; Employees: 176; References: *
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 176; References: 0
  
 Fraud Detection
  
@@ -4306,7 +4306,7 @@ Fraud Detection
  
 #### [RevenueStream](http://www.revenue-stream.com/) 
  
-*Founded: 2012; Region: Israel, Tel Aviv; Employees: 26; References: *
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 26; References: 0
  
 Fraud Detection
  
@@ -4320,7 +4320,7 @@ Fraud Detection
  
 #### [TipRanks](http://www.tipranks.com) 
  
-*Founded: 2012; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Robo-Advisory
  
@@ -4334,7 +4334,7 @@ Robo-Advisory
  
 #### [Instanda](http://instanda.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Insurance (InsurTech)
  
@@ -4348,7 +4348,7 @@ Insurance (InsurTech)
  
 #### [CheckRecipient](http://checkrecipient.com/) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 19; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 19; References: 1
  
 Secure communications | Regulatory compliance
  
@@ -4362,7 +4362,7 @@ Secure communications | Regulatory compliance
  
 #### [Acuity Trading](http://www.acuitytrading.com) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 2; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 2; References: 0
  
 Data gathering
  
@@ -4376,7 +4376,7 @@ Data gathering
  
 #### [Orbital Insight](http://www.orbitalinsight.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 80; References: *
+Founded: 2013; Region: United States, California; Employees: 80; References: 0
  
 Inventory & supply chain optimization | Geo-analytics platform | Insurance (InsurTech)
  
@@ -4390,7 +4390,7 @@ Inventory & supply chain optimization | Geo-analytics platform | Insurance (Insu
  
 #### [Kensho](https://www.kensho.com) 
  
-*Founded: 2013; Region: United States, Massachusetts; Employees: 83; References: *
+Founded: 2013; Region: United States, Massachusetts; Employees: 83; References: 0
  
 Financial Analytics Platform
  
@@ -4404,7 +4404,7 @@ Financial Analytics Platform
  
 #### [indico data solutions](http://indico.io) 
  
-*Founded: 2013; Region: United States, Massachusetts; Employees: 15; References: *
+Founded: 2013; Region: United States, Massachusetts; Employees: 15; References: 0
  
 Image recognition library/SDK/API | Data gathering
  
@@ -4418,7 +4418,7 @@ Image recognition library/SDK/API | Data gathering
  
 #### [Shift Technology](http://www.shift-technology.com/) 
  
-*Founded: 2013; Region: France, Île-de-France; Employees: 61; References: *
+Founded: 2013; Region: France, Île-de-France; Employees: 61; References: 0
  
 Fraud Detection | Insurance (InsurTech)
  
@@ -4432,7 +4432,7 @@ Fraud Detection | Insurance (InsurTech)
  
 #### [PredicSis](http://predicsis.ai) 
  
-*Founded: 2013; Region: France, Brittany; Employees: 17; References: *
+Founded: 2013; Region: France, Brittany; Employees: 17; References: 0
  
 Fraud Detection | Credit Lending / Scoring
  
@@ -4446,7 +4446,7 @@ Fraud Detection | Credit Lending / Scoring
  
 #### [Zendrive](http://www.zendrive.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 65; References: *
+Founded: 2013; Region: United States, California; Employees: 65; References: 0
  
 Insurance (InsurTech)
  
@@ -4460,7 +4460,7 @@ Insurance (InsurTech)
  
 #### [TrueAccord](https://www.trueaccord.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 51; References: *
+Founded: 2013; Region: United States, California; Employees: 51; References: 0
  
 Debt Collection
  
@@ -4474,7 +4474,7 @@ Debt Collection
  
 #### [Enter](http://enter.financial) 
  
-*Founded: 2013; Region: United States, California; Employees: 0; References: *
+Founded: 2013; Region: United States, California; Employees: 0; References: 0
  
 Billing
  
@@ -4488,7 +4488,7 @@ Billing
  
 #### [Forter](http://www.forter.com) 
  
-*Founded: 2013; Region: United States, New York; Employees: 76; References: *
+Founded: 2013; Region: United States, New York; Employees: 76; References: 0
  
 Fraud Detection
  
@@ -4502,7 +4502,7 @@ Fraud Detection
  
 #### [ThetaRay](http://www.thetaray.com) 
  
-*Founded: 2013; Region: Israel, Jerusalem; Employees: 26; References: *
+Founded: 2013; Region: Israel, Jerusalem; Employees: 26; References: 0
  
 Insurance (InsurTech)
  
@@ -4516,7 +4516,7 @@ Insurance (InsurTech)
  
 #### [Compit](http://360by360competition.com/) 
  
-*Founded: 2013; Region: Italy, Lombardy; Employees: 0; References: *
+Founded: 2013; Region: Italy, Lombardy; Employees: 0; References: 0
  
 Robo-Advisory
  
@@ -4530,7 +4530,7 @@ Robo-Advisory
  
 #### [Ravelin](http://ravelin.com) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 35; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 35; References: 2
  
 Fraud Detection
  
@@ -4544,7 +4544,7 @@ Fraud Detection
  
 #### [Anodot](http://www.anodot.com/) 
  
-*Founded: 2014; Region: Israel, Central District; Employees: 38; References: *
+Founded: 2014; Region: Israel, Central District; Employees: 38; References: 2
  
 Analytics platform | Financial Analytics Platform
  
@@ -4558,7 +4558,7 @@ Analytics platform | Financial Analytics Platform
  
 #### [deepsense.ai](http://deepsense.ai/) 
  
-*Founded: 2014; Region: United States, California; Employees: 75; References: *
+Founded: 2014; Region: United States, California; Employees: 75; References: 6
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -4572,7 +4572,7 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
 #### [Jewel Paymentech](http://www.jewelpaymentech.com/) 
  
-*Founded: 2014; Region: Singapore, Central Singapore; Employees: 17; References: *
+Founded: 2014; Region: Singapore, Central Singapore; Employees: 17; References: 0
  
 Fraud Detection
  
@@ -4586,7 +4586,7 @@ Fraud Detection
  
 #### [ComplyAdvantage](https://complyadvantage.com) 
  
-*Founded: 2014; Region: United States, New York; Employees: 55; References: *
+Founded: 2014; Region: United States, New York; Employees: 55; References: 0
  
 Fraud Detection | Regulatory compliance
  
@@ -4600,7 +4600,7 @@ Fraud Detection | Regulatory compliance
  
 #### [SigOpt](https://sigopt.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 8; References: *
+Founded: 2014; Region: United States, California; Employees: 8; References: 0
  
 Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -4614,7 +4614,7 @@ Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analyti
  
 #### [Cape Analytics](https://capeanalytics.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 21; References: *
+Founded: 2014; Region: United States, California; Employees: 21; References: 0
  
 Insurance (InsurTech)
  
@@ -4628,7 +4628,7 @@ Insurance (InsurTech)
  
 #### [Aire](http://aire.io) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 18; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 18; References: 0
  
 Credit Lending / Scoring
  
@@ -4642,7 +4642,7 @@ Credit Lending / Scoring
  
 #### [Trooly](http://troo.ly) 
  
-*Founded: 2014; Region: United States, California; Employees: 20; References: *
+Founded: 2014; Region: United States, California; Employees: 20; References: 0
  
 Fraud Detection | Regulatory compliance
  
@@ -4656,7 +4656,7 @@ Fraud Detection | Regulatory compliance
  
 #### [Applied Data Finance](http://www.applieddatafinance.com/) 
  
-*Founded: 2014; Region: United States, New York; Employees: 76; References: *
+Founded: 2014; Region: United States, New York; Employees: 76; References: 0
  
 Credit Lending / Scoring
  
@@ -4670,7 +4670,7 @@ Credit Lending / Scoring
  
 #### [Descartes Labs](http://www.descarteslabs.com/) 
  
-*Founded: 2014; Region: United States, New Mexico; Employees: 37; References: *
+Founded: 2014; Region: United States, New Mexico; Employees: 37; References: 0
  
 Geo-analytics platform | Data gathering
  
@@ -4684,7 +4684,7 @@ Geo-analytics platform | Data gathering
  
 #### [Dimebox](https://dimebox.com/) 
  
-*Founded: 2014; Region: Netherlands, North Holland; Employees: 32; References: *
+Founded: 2014; Region: Netherlands, North Holland; Employees: 32; References: 0
  
 Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -4698,7 +4698,7 @@ Analytics platform | Fraud Detection | Financial Analytics Platform | Regulatory
  
 #### [Cyence](https://www.cyence.net/) 
  
-*Founded: 2014; Region: United States, California; Employees: 65; References: *
+Founded: 2014; Region: United States, California; Employees: 65; References: 0
  
 Insurance (InsurTech)
  
@@ -4712,7 +4712,7 @@ Insurance (InsurTech)
  
 #### [Trumid Financial](https://www.trumid.com/) 
  
-*Founded: 2014; Region: United States, New York; Employees: 48; References: *
+Founded: 2014; Region: United States, New York; Employees: 48; References: 0
  
 Financial Analytics Platform
  
@@ -4726,7 +4726,7 @@ Financial Analytics Platform
  
 #### [Fraugster](https://fraugster.com/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 24; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 24; References: 0
  
 Fraud Detection
  
@@ -4740,7 +4740,7 @@ Fraud Detection
  
 #### [AlgoDynamix](http://www.algodynamix.com) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 4; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 4; References: 0
  
 Financial Analytics Platform
  
@@ -4754,7 +4754,7 @@ Financial Analytics Platform
  
 #### [HouseCanary](http://www.housecanary.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 100; References: *
+Founded: 2014; Region: United States, California; Employees: 100; References: 0
  
 Data preparation platform | Analytics platform | Geo-analytics platform | Robo-Advisory
  
@@ -4768,7 +4768,7 @@ Data preparation platform | Analytics platform | Geo-analytics platform | Robo-A
  
 #### [Cuvva](https://cuvva.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Insurance (InsurTech)
  
@@ -4782,7 +4782,7 @@ Insurance (InsurTech)
  
 #### [Walnut Algorithms](http://www.walnutalgorithms.com) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 16; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 16; References: 0
  
 Financial Analytics Platform
  
@@ -4796,7 +4796,7 @@ Financial Analytics Platform
  
 #### [Neurensic](http://www.neurensic.com) 
  
-*Founded: 2015; Region: United States, Illinois; Employees: 16; References: *
+Founded: 2015; Region: United States, Illinois; Employees: 16; References: 0
  
 Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -4810,7 +4810,7 @@ Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
 #### [Zeitgold](https://www.zeitgold.com/) 
  
-*Founded: 2015; Region: Germany, Berlin; Employees: 21; References: *
+Founded: 2015; Region: Germany, Berlin; Employees: 21; References: 0
  
 Expense reporting
  
@@ -4824,7 +4824,7 @@ Expense reporting
  
 #### [Cleo](https://www.meetcleo.com) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 5; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 5; References: 0
  
 Robo-Advisory
  
@@ -4838,7 +4838,7 @@ Robo-Advisory
  
 #### [Bigstream Solutions](http://bigstream.co/) 
  
-*Founded: 2015; Region: United States, California; Employees: 15; References: *
+Founded: 2015; Region: United States, California; Employees: 15; References: 0
  
 Analytics platform | Fraud Detection
  
@@ -4852,7 +4852,7 @@ Analytics platform | Fraud Detection
  
 #### [Algoriz](https://algoriz.com/) 
  
-*Founded: 2015; Region: United States, New York; Employees: 2; References: *
+Founded: 2015; Region: United States, New York; Employees: 2; References: 0
  
 Financial Analytics Platform
  
@@ -4866,7 +4866,7 @@ Financial Analytics Platform
  
 #### [FeedStock](https://feedstock.com/) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 12; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 12; References: 0
  
 Financial Analytics Platform | Regulatory compliance | Data gathering
  
@@ -4880,7 +4880,7 @@ Financial Analytics Platform | Regulatory compliance | Data gathering
  
 #### [ForwardLane](http://www.forwardlane.com) 
  
-*Founded: 2015; Region: United States, New York; Employees: 13; References: *
+Founded: 2015; Region: United States, New York; Employees: 13; References: 0
  
 Financial Analytics Platform
  
@@ -4894,7 +4894,7 @@ Financial Analytics Platform
  
 #### [Homebot](http://homebot.ai/) 
  
-*Founded: 2015; Region: United States, Colorado; Employees: 6; References: *
+Founded: 2015; Region: United States, Colorado; Employees: 6; References: 0
  
 Robo-Advisory
  
@@ -4908,7 +4908,7 @@ Robo-Advisory
  
 #### [Lemonade](http://www.lemonade.com) 
  
-*Founded: 2015; Region: United States, New York; Employees: 26; References: *
+Founded: 2015; Region: United States, New York; Employees: 26; References: 0
  
 Insurance (InsurTech)
  
@@ -4922,7 +4922,7 @@ Insurance (InsurTech)
  
 #### [Vault](http://www.vaultml.com) 
  
-*Founded: 2015; Region: Israel, Tel Aviv; Employees: 0; References: *
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 0; References: 0
  
 Marketing analytics | Financial Analytics Platform
  
@@ -4936,7 +4936,7 @@ Marketing analytics | Financial Analytics Platform
  
 #### [Amenity Analytics](http://amenityanalytics.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Analytics platform | Robo-Advisory
  
@@ -4950,7 +4950,7 @@ Analytics platform | Robo-Advisory
  
 #### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-*Founded: 2015; Region: India, Maharashtra; Employees: 25; References: *
+Founded: 2015; Region: India, Maharashtra; Employees: 25; References: 0
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -4964,7 +4964,7 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
 #### [AI Labs](http://www.ailabs.co/#intro) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Financial Analytics Platform
  
@@ -4978,7 +4978,7 @@ Financial Analytics Platform
  
 #### [Galaxy.AI](http://www.galaxy.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Insurance (InsurTech)
  
@@ -4992,7 +4992,7 @@ Insurance (InsurTech)
  
 #### [RedCarpetUp](https://www.redcarpetup.com/) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Credit Lending / Scoring
  
@@ -5006,7 +5006,7 @@ Credit Lending / Scoring
  
 #### [MotionsCloud](http://motionscloud.com) 
  
-*Founded: 2016; Region: Germany, Baden-Württemberg; Employees: 5; References: *
+Founded: 2016; Region: Germany, Baden-Württemberg; Employees: 5; References: 1
  
 Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
@@ -5020,7 +5020,7 @@ Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
 #### [Fyle](http://www.fyle.in) 
  
-*Founded: 2016; Region: India, Karnataka; Employees: 9; References: *
+Founded: 2016; Region: India, Karnataka; Employees: 9; References: 2
  
 Expense reporting
  
@@ -5034,7 +5034,7 @@ Expense reporting
  
 #### [Clarity Money](http://www.claritymoney.com) 
  
-*Founded: 2016; Region: United States, New York; Employees: 21; References: *
+Founded: 2016; Region: United States, New York; Employees: 21; References: 0
  
 Robo-Advisory
  
@@ -5048,7 +5048,7 @@ Robo-Advisory
  
 #### [Legion Technologies](https://legion.co/) 
  
-*Founded: 2016; Region: United States, California; Employees: 25; References: *
+Founded: 2016; Region: United States, California; Employees: 25; References: 0
  
 Performance management | HR retention management | HR analytics | Employee Monitoring | Regulatory compliance
  
@@ -5062,7 +5062,7 @@ Performance management | HR retention management | HR analytics | Employee Monit
  
 #### [Active.ai](http://active.ai/) 
  
-*Founded: 2016; Region: Singapore, Central Singapore; Employees: 30; References: *
+Founded: 2016; Region: Singapore, Central Singapore; Employees: 30; References: 0
  
 Robo-Advisory
  
@@ -5076,7 +5076,7 @@ Robo-Advisory
  
 #### [collectAI](http://www.collect.ai/) 
  
-*Founded: 2016; Region: Germany, Hamburg; Employees: 23; References: *
+Founded: 2016; Region: Germany, Hamburg; Employees: 23; References: 0
  
 Debt Collection
  
@@ -5090,7 +5090,7 @@ Debt Collection
  
 #### [Brolly](http://www.heybrolly.com) 
  
-*Founded: 2016; Region: United Kingdom, England; Employees: 0; References: *
+Founded: 2016; Region: United Kingdom, England; Employees: 0; References: 0
  
 Insurance (InsurTech)
  
@@ -5104,7 +5104,7 @@ Insurance (InsurTech)
  
 #### [Zelros](http://www.zelros.com/) 
  
-*Founded: 2016; Region: France, Île-de-France; Employees: 12; References: *
+Founded: 2016; Region: France, Île-de-France; Employees: 12; References: 0
  
 Insurance (InsurTech)
  
@@ -5118,7 +5118,7 @@ Insurance (InsurTech)
  
 #### [Pit.AI Technologies](https://www.pit.ai/) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Financial Analytics Platform
  
@@ -5132,7 +5132,7 @@ Financial Analytics Platform
  
 #### [RightIndem](http://rightindem.com/) 
  
-*Founded: 2016; Region: United States, California; Employees: 25; References: *
+Founded: 2016; Region: United States, California; Employees: 25; References: 0
  
 Insurance (InsurTech)
  
@@ -5146,7 +5146,7 @@ Insurance (InsurTech)
  
 #### [Apiax](http://www.apiax.com) 
  
-*Founded: 2017; Region: Switzerland, Zurich; Employees: 5; References: *
+Founded: 2017; Region: Switzerland, Zurich; Employees: 5; References: 0
  
 Regulatory compliance
  
@@ -5160,7 +5160,7 @@ Regulatory compliance
  
 #### [ SpotDraft](https://www.spotdraft.com/) 
  
-*Founded: 2017; Region: India, Uttar Pradesh; Employees: 5; References: *
+Founded: 2017; Region: India, Uttar Pradesh; Employees: 5; References: 0
  
 Regulatory compliance
  
@@ -5174,7 +5174,7 @@ Regulatory compliance
  
 #### [SamurAI](http://samurai.finance/) 
  
-*Founded: Unknown; Region: Israel, Tel Aviv; Employees: 0; References: 0*
+Founded: Unknown; Region: Israel, Tel Aviv; Employees: 0; References: 0
  
 Robo-Advisory
  
@@ -5188,7 +5188,7 @@ Robo-Advisory
  
 #### [Atidot](http://atidot.com/) 
  
-*Founded: Unknown; Region: Israel, Tel Aviv; Employees: 0; References: 0*
+Founded: Unknown; Region: Israel, Tel Aviv; Employees: 0; References: 0
  
 Insurance (InsurTech)
  
@@ -5202,7 +5202,7 @@ Insurance (InsurTech)
  
 #### [Fluid AI](http://fluid.ai) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Financial Analytics Platform
  
@@ -5216,7 +5216,7 @@ Financial Analytics Platform
  
 #### [InMyBag](https://inmybag.co/) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Insurance (InsurTech)
  
@@ -5232,7 +5232,7 @@ Insurance (InsurTech)
  
 #### [Talemetry](https://talemetry.com/) 
  
-*Founded: 0; Region: Canada, British Columbia; Employees: 111; References: *
+Founded: 0; Region: Canada, British Columbia; Employees: 111; References: 0
  
 Hiring
  
@@ -5246,7 +5246,7 @@ Hiring
  
 #### [Lytmus](https://www.lytmus.io/) 
  
-*Founded: 0; Region: United States, California; Employees: 16; References: *
+Founded: 0; Region: United States, California; Employees: 16; References: 0
  
 Hiring
  
@@ -5260,7 +5260,7 @@ Hiring
  
 #### [Phenom People](http://www.phenompeople.com/) 
  
-*Founded: 0; Region: United Kingdom, England; Employees: 261; References: *
+Founded: 0; Region: United Kingdom, England; Employees: 261; References: 0
  
 Hiring
  
@@ -5274,7 +5274,7 @@ Hiring
  
 #### [Bullhorn](http://www.bullhorn.com) 
  
-*Founded: 1999; Region: United States, Massachusetts; Employees: 250; References: *
+Founded: 1999; Region: United States, Massachusetts; Employees: 250; References: 0
  
 Hiring
  
@@ -5288,7 +5288,7 @@ Hiring
  
 #### [JobScore](https://www.jobscore.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 36; References: *
+Founded: 2004; Region: United States, California; Employees: 36; References: 1
  
 Hiring
  
@@ -5302,7 +5302,7 @@ Hiring
  
 #### [Jobvite](http://www.jobvite.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 252; References: *
+Founded: 2006; Region: United States, California; Employees: 252; References: 1
  
 Hiring
  
@@ -5316,7 +5316,7 @@ Hiring
  
 #### [Vlingo](http://www.vlingo.com) 
  
-*Founded: 2006; Region: United States, Massachusetts; Employees: 0; References: *
+Founded: 2006; Region: United States, Massachusetts; Employees: 0; References: 0
  
 Digital assistant
  
@@ -5330,7 +5330,7 @@ Digital assistant
  
 #### [SmashFly](http://www.smashfly.com) 
  
-*Founded: 2007; Region: United States, Massachusetts; Employees: 149; References: *
+Founded: 2007; Region: United States, Massachusetts; Employees: 149; References: 0
  
 Hiring
  
@@ -5344,7 +5344,7 @@ Hiring
  
 #### [Botego](http://www.botego.com/) 
  
-*Founded: 2007; Region: United States, New York; Employees: 25; References: *
+Founded: 2007; Region: United States, New York; Employees: 25; References: 0
  
 Chatbot | Digital assistant
  
@@ -5358,7 +5358,7 @@ Chatbot | Digital assistant
  
 #### [Field Nation](http://www.fieldnation.com) 
  
-*Founded: 2008; Region: United States, Minnesota; Employees: 170; References: *
+Founded: 2008; Region: United States, Minnesota; Employees: 170; References: 0
  
 Hiring
  
@@ -5372,7 +5372,7 @@ Hiring
  
 #### [Jobcase, Inc.](http://www.jobcase.com) 
  
-*Founded: 2009; Region: United States, Massachusetts; Employees: 175; References: *
+Founded: 2009; Region: United States, Massachusetts; Employees: 175; References: 0
  
 Hiring
  
@@ -5386,7 +5386,7 @@ Hiring
  
 #### [Visier](http://www.visier.com) 
  
-*Founded: 2010; Region: Canada, British Columbia; Employees: 219; References: *
+Founded: 2010; Region: Canada, British Columbia; Employees: 219; References: 0
  
 HR analytics
  
@@ -5400,7 +5400,7 @@ HR analytics
  
 #### [Entelo](http://www.entelo.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 32; References: *
+Founded: 2011; Region: United States, California; Employees: 32; References: 1
  
 Hiring
  
@@ -5414,7 +5414,7 @@ Hiring
  
 #### [TalentBin](http://talentbin.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 30; References: *
+Founded: 2011; Region: United States, California; Employees: 30; References: 0
  
 Hiring
  
@@ -5428,7 +5428,7 @@ Hiring
  
 #### [LearnUp](http://www.learnup.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 18; References: *
+Founded: 2011; Region: United States, California; Employees: 18; References: 0
  
 Hiring
  
@@ -5442,7 +5442,7 @@ Hiring
  
 #### [Go Moment](http://www.gomoment.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 20; References: *
+Founded: 2012; Region: United States, California; Employees: 20; References: 1
  
 Retail sales bot | Chatbot | HR retention management
  
@@ -5456,7 +5456,7 @@ Retail sales bot | Chatbot | HR retention management
  
 #### [Lever](https://www.lever.co/) 
  
-*Founded: 2012; Region: United States, California; Employees: 133; References: *
+Founded: 2012; Region: United States, California; Employees: 133; References: 1
  
 Hiring
  
@@ -5470,7 +5470,7 @@ Hiring
  
 #### [Hired](http://hired.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 253; References: *
+Founded: 2012; Region: United States, California; Employees: 253; References: 0
  
 Hiring
  
@@ -5484,7 +5484,7 @@ Hiring
  
 #### [Workable](http://www.workable.com) 
  
-*Founded: 2012; Region: United States, Massachusetts; Employees: 183; References: *
+Founded: 2012; Region: United States, Massachusetts; Employees: 183; References: 0
  
 Hiring
  
@@ -5498,7 +5498,7 @@ Hiring
  
 #### [hiQ Labs](http://www.hiqlabs.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 39; References: *
+Founded: 2012; Region: United States, California; Employees: 39; References: 0
  
 HR analytics
  
@@ -5512,7 +5512,7 @@ HR analytics
  
 #### [Connectifier](https://www.connectifier.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Hiring
  
@@ -5526,7 +5526,7 @@ Hiring
  
 #### [Mobvoi Inc.](http://www.chumenwenwen.com/en/site/index.html) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Digital assistant
  
@@ -5540,7 +5540,7 @@ Digital assistant
  
 #### [HiringSolved](http://hiringsolved.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Hiring
  
@@ -5554,7 +5554,7 @@ Hiring
  
 #### [Kira Talent](http://www.kiratalent.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Hiring
  
@@ -5568,7 +5568,7 @@ Hiring
  
 #### [TalentSky](http://talentsky.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Hiring
  
@@ -5582,7 +5582,7 @@ Hiring
  
 #### [Vettery](http://www.vettery.com) 
  
-*Founded: 2013; Region: United States, New York; Employees: 58; References: *
+Founded: 2013; Region: United States, New York; Employees: 58; References: 0
  
 Hiring
  
@@ -5596,7 +5596,7 @@ Hiring
  
 #### [Ideal](http://www.ideal.com) 
  
-*Founded: 2013; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2013; Region: Canada, Ontario; Employees: 5; References: 0
  
 Hiring
  
@@ -5610,7 +5610,7 @@ Hiring
  
 #### [Reflektive](https://www.reflektive.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 108; References: *
+Founded: 2014; Region: United States, California; Employees: 108; References: 1
  
 Performance management
  
@@ -5624,7 +5624,7 @@ Performance management
  
 #### [Julie Desk](https://www.juliedesk.com/) 
  
-*Founded: 2014; Region: France, Île-de-France; Employees: 14; References: *
+Founded: 2014; Region: France, Île-de-France; Employees: 14; References: 0
  
 Meeting setup automation | Digital assistant
  
@@ -5638,7 +5638,7 @@ Meeting setup automation | Digital assistant
  
 #### [x.ai](https://x.ai) 
  
-*Founded: 2014; Region: United States, New York; Employees: 0; References: *
+Founded: 2014; Region: United States, New York; Employees: 0; References: 0
  
 Digital assistant
  
@@ -5652,7 +5652,7 @@ Digital assistant
  
 #### [Textio](https://textio.com/) 
  
-*Founded: 2014; Region: United States, Washington; Employees: 50; References: *
+Founded: 2014; Region: United States, Washington; Employees: 50; References: 0
  
 Hiring
  
@@ -5666,7 +5666,7 @@ Hiring
  
 #### [Behavox](http://www.behavox.com) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 75; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 75; References: 0
  
 Employee Monitoring
  
@@ -5680,7 +5680,7 @@ Employee Monitoring
  
 #### [OnboardIQ](http://www.onboardiq.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 18; References: *
+Founded: 2014; Region: United States, California; Employees: 18; References: 0
  
 Hiring
  
@@ -5694,7 +5694,7 @@ Hiring
  
 #### [Seamless.AI](http://www.seamless.ai) 
  
-*Founded: 2014; Region: United States, Ohio; Employees: 25; References: *
+Founded: 2014; Region: United States, Ohio; Employees: 25; References: 0
  
 Digital assistant
  
@@ -5708,7 +5708,7 @@ Digital assistant
  
 #### [Boon](http://www.goboon.co) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Hiring
  
@@ -5722,7 +5722,7 @@ Hiring
  
 #### [Yodas.com](https://www.yodas.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Hiring
  
@@ -5736,7 +5736,7 @@ Hiring
  
 #### [Recast.AI](https://recast.ai) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 25; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 25; References: 0
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -5750,7 +5750,7 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
 #### [Scoutible](http://www.scoutible.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Hiring
  
@@ -5764,7 +5764,7 @@ Hiring
  
 #### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-*Founded: 2015; Region: India, Maharashtra; Employees: 25; References: *
+Founded: 2015; Region: India, Maharashtra; Employees: 25; References: 0
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -5778,7 +5778,7 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
 #### [My Ally](https://www.myally.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Hiring
  
@@ -5792,7 +5792,7 @@ Hiring
  
 #### [Talla](http://talla.com/) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Hiring
  
@@ -5806,7 +5806,7 @@ Hiring
  
 #### [Legion Technologies](https://legion.co/) 
  
-*Founded: 2016; Region: United States, California; Employees: 25; References: *
+Founded: 2016; Region: United States, California; Employees: 25; References: 0
  
 Performance management | HR retention management | HR analytics | Employee Monitoring | Regulatory compliance
  
@@ -5820,7 +5820,7 @@ Performance management | HR retention management | HR analytics | Employee Monit
  
 #### [EquitySim](http://www.equitysim.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 0; References: *
+Founded: 2016; Region: United States, California; Employees: 0; References: 0
  
 Hiring
  
@@ -5834,7 +5834,7 @@ Hiring
  
 #### [Pat Inc](http://www.pat.ai) 
  
-*Founded: 2016; Region: United States, California; Employees: 7; References: *
+Founded: 2016; Region: United States, California; Employees: 7; References: 0
  
 Sales rep chat/email bot | Call intent discovery | Customer service chatbot (self-service solution) | Conversational Analytics | Digital assistant
  
@@ -5848,7 +5848,7 @@ Sales rep chat/email bot | Call intent discovery | Customer service chatbot (sel
  
 #### [Cyra](http://www.cyra.ai/) 
  
-*Founded: 2016; Region: United Kingdom, England; Employees: 5; References: *
+Founded: 2016; Region: United Kingdom, England; Employees: 5; References: 0
  
 Hiring
  
@@ -5862,7 +5862,7 @@ Hiring
  
 #### [LEAP](https://www.helloleap.com) 
  
-*Founded: 2017; Region: United Arab Emirates, Dubai; Employees: 25; References: *
+Founded: 2017; Region: United Arab Emirates, Dubai; Employees: 25; References: 0
  
 Hiring
  
@@ -5876,7 +5876,7 @@ Hiring
  
 #### [VergeSense](http://www.vergesense.com/) 
  
-*Founded: 2017; Region: United States, California; Employees: 0; References: *
+Founded: 2017; Region: United States, California; Employees: 0; References: 0
  
 Building management
  
@@ -5892,7 +5892,7 @@ Building management
  
 #### [Google Cloud Platform](http://cloud.google.com/) 
  
-*Founded: 0; Region: United States, California; Employees: 0; References: *
+Founded: 0; Region: United States, California; Employees: 0; References: 0
  
 Image recognition library/SDK/API
  
@@ -5906,7 +5906,7 @@ Image recognition library/SDK/API
  
 #### [Skymind](https://skymind.ai/) 
  
-*Founded: 0; Region: United States, California; Employees: 0; References: *
+Founded: 0; Region: United States, California; Employees: 0; References: 0
  
 Deep learning library/SDK/API
  
@@ -5920,7 +5920,7 @@ Deep learning library/SDK/API
  
 #### [IBM Watson](http://www.ibm.com/) 
  
-*Founded: 1911; Region: United States, New York; Employees: 2001; References: *
+Founded: 1911; Region: United States, New York; Employees: 2001; References: 3
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -5934,7 +5934,7 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
 #### [IBM Bluemix](http://www.ibm.com/) 
  
-*Founded: 1911; Region: United States, New York; Employees: 1343; References: *
+Founded: 1911; Region: United States, New York; Employees: 1343; References: 0
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -5948,7 +5948,7 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
 #### [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services/) 
  
-*Founded: 1974; Region: United States, Washington; Employees: 10001; References: *
+Founded: 1974; Region: United States, Washington; Employees: 10001; References: 0
  
 Image recognition library/SDK/API
  
@@ -5962,7 +5962,7 @@ Image recognition library/SDK/API
  
 #### [Intelligent Voice](http://www.intelligentvoice.com/) 
  
-*Founded: 1990; Region: United Kingdom, England; Employees: 25; References: *
+Founded: 1990; Region: United Kingdom, England; Employees: 25; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -5976,7 +5976,7 @@ Natural Language Processing library/SDK/API
  
 #### [Cirrascale](http://cirrascale.com) 
  
-*Founded: 1991; Region: United States, California; Employees: 75; References: *
+Founded: 1991; Region: United States, California; Employees: 75; References: 0
  
 Deep learning library/SDK/API
  
@@ -5990,7 +5990,7 @@ Deep learning library/SDK/API
  
 #### [Salesforce](https://www.salesforce.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 23343; References: *
+Founded: 1999; Region: United States, California; Employees: 23343; References: 7
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -6004,7 +6004,7 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
 #### [SecureWorks](http://www.secureworks.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 10001; References: *
+Founded: 1999; Region: United States, California; Employees: 10001; References: 0
  
 Deception security
  
@@ -6018,7 +6018,7 @@ Deception security
  
 #### [Skybox Security](https://www.skyboxsecurity.com/) 
  
-*Founded: 2002; Region: United States, California; Employees: 198; References: *
+Founded: 2002; Region: United States, California; Employees: 198; References: 0
  
 Analytics & predictive intelligence for security
  
@@ -6032,7 +6032,7 @@ Analytics & predictive intelligence for security
  
 #### [Numenta](http://www.numenta.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 22; References: *
+Founded: 2005; Region: United States, California; Employees: 22; References: 0
  
 Natural Language Processing library/SDK/API | Robotics | Financial Analytics Platform
  
@@ -6046,7 +6046,7 @@ Natural Language Processing library/SDK/API | Robotics | Financial Analytics Pla
  
 #### [Idio](http://idioplatform.com) 
  
-*Founded: 2006; Region: United Kingdom, England; Employees: 25; References: *
+Founded: 2006; Region: United Kingdom, England; Employees: 25; References: 0
  
 Machine learning library/SDK/API
  
@@ -6060,7 +6060,7 @@ Machine learning library/SDK/API
  
 #### [tauyou](http://www.tauyou.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 0; References: *
+Founded: 2006; Region: United States, California; Employees: 0; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6074,7 +6074,7 @@ Natural Language Processing library/SDK/API
  
 #### [Sidecar](http://www.getsidecar.com) 
  
-*Founded: 2007; Region: United States, Pennsylvania; Employees: 0; References: *
+Founded: 2007; Region: United States, Pennsylvania; Employees: 0; References: 2
  
 Deep learning library/SDK/API
  
@@ -6088,7 +6088,7 @@ Deep learning library/SDK/API
  
 #### [AltexSoft](http://www.altexsoft.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 200; References: *
+Founded: 2007; Region: United States, California; Employees: 200; References: 1
  
 AI Consultancy | AI developer | Data cleaning&validation | Image recognition and visual analytics | Voice recognition and sound analytics | e-commerce analytics
  
@@ -6102,7 +6102,7 @@ AI Consultancy | AI developer | Data cleaning&validation | Image recognition and
  
 #### [Gavagai](http://www.gavagai.se) 
  
-*Founded: 2008; Region: Sweden, Stockholm; Employees: 18; References: *
+Founded: 2008; Region: Sweden, Stockholm; Employees: 18; References: 3
  
 Social analytics & automation | Natural Language Processing library/SDK/API
  
@@ -6116,7 +6116,7 @@ Social analytics & automation | Natural Language Processing library/SDK/API
  
 #### [Cortexica Vision Systems](http://www.cortexica.com) 
  
-*Founded: 2008; Region: United Kingdom, England; Employees: 38; References: *
+Founded: 2008; Region: United Kingdom, England; Employees: 38; References: 0
  
 Recommendation engine | Merchandising optimization | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -6130,7 +6130,7 @@ Recommendation engine | Merchandising optimization | Image tagging to improve pr
  
 #### [PointGrab Ltd.](http://www.pointgrab.com) 
  
-*Founded: 2008; Region: United States, Texas; Employees: 75; References: *
+Founded: 2008; Region: United States, Texas; Employees: 75; References: 0
  
 Smart Security Systems
  
@@ -6144,7 +6144,7 @@ Smart Security Systems
  
 #### [SwiftKey](http://swiftkey.com/) 
  
-*Founded: 2008; Region: United Kingdom, England; Employees: 175; References: *
+Founded: 2008; Region: United Kingdom, England; Employees: 175; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6158,7 +6158,7 @@ Natural Language Processing library/SDK/API
  
 #### [Digital Trowel](http://www.digitaltrowel.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 25; References: *
+Founded: 2008; Region: United States, California; Employees: 25; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6172,7 +6172,7 @@ Natural Language Processing library/SDK/API
  
 #### [Post-Quantum (PQ Solutions)](https://post-quantum.com/) 
  
-*Founded: 2009; Region: United Kingdom, England; Employees: 11; References: *
+Founded: 2009; Region: United Kingdom, England; Employees: 11; References: 0
  
 Secure communications
  
@@ -6186,7 +6186,7 @@ Secure communications
  
 #### [Narrative Science](http://www.narrativescience.com) 
  
-*Founded: 2010; Region: United States, Illinois; Employees: 117; References: *
+Founded: 2010; Region: United States, Illinois; Employees: 117; References: 4
  
 Natural Language Processing library/SDK/API | Fraud Detection | Financial Analytics Platform | Regulatory compliance
  
@@ -6200,7 +6200,7 @@ Natural Language Processing library/SDK/API | Fraud Detection | Financial Analyt
  
 #### [AlphaSense](http://www.alpha-sense.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 86; References: *
+Founded: 2010; Region: United States, New York; Employees: 86; References: 0
  
 Natural Language Processing library/SDK/API | Data gathering
  
@@ -6214,7 +6214,7 @@ Natural Language Processing library/SDK/API | Data gathering
  
 #### [TrapX](http://trapx.com/) 
  
-*Founded: 2010; Region: United States, California; Employees: 74; References: *
+Founded: 2010; Region: United States, California; Employees: 74; References: 0
  
 Deception security
  
@@ -6228,7 +6228,7 @@ Deception security
  
 #### [Diffbot](http://www.diffbot.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 18; References: *
+Founded: 2010; Region: United States, California; Employees: 18; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6242,7 +6242,7 @@ Autonomous cybersecurity systems
  
 #### [Metafor Software](http://metaforsoftware.com) 
  
-*Founded: 2010; Region: Canada, British Columbia; Employees: 3000; References: *
+Founded: 2010; Region: Canada, British Columbia; Employees: 3000; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6256,7 +6256,7 @@ Autonomous cybersecurity systems
  
 #### [Third Eye Systems](http://thirdeye-systems.com/) 
  
-*Founded: 2010; Region: United States, California; Employees: 5; References: *
+Founded: 2010; Region: United States, California; Employees: 5; References: 0
  
 Smart Security Systems
  
@@ -6270,7 +6270,7 @@ Smart Security Systems
  
 #### [Sift Science](http://siftscience.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 103; References: *
+Founded: 2011; Region: United States, California; Employees: 103; References: 5
  
 Analytics & predictive intelligence for security | Fraud Detection
  
@@ -6284,7 +6284,7 @@ Analytics & predictive intelligence for security | Fraud Detection
  
 #### [H2O.ai](http://h2o.ai/) 
  
-*Founded: 2011; Region: United States, California; Employees: 77; References: *
+Founded: 2011; Region: United States, California; Employees: 77; References: 5
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -6298,7 +6298,7 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
 #### [Virtru](https://www.virtru.com) 
  
-*Founded: 2011; Region: United States, Washington, D.C.; Employees: 58; References: *
+Founded: 2011; Region: United States, Washington, D.C.; Employees: 58; References: 0
  
 Secure communications
  
@@ -6312,7 +6312,7 @@ Secure communications
  
 #### [Wickr](https://www.wickr.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 38; References: *
+Founded: 2011; Region: United States, California; Employees: 38; References: 0
  
 Secure communications
  
@@ -6326,7 +6326,7 @@ Secure communications
  
 #### [Cortical.io](http://www.cortical.io) 
  
-*Founded: 2011; Region: Austria, Vienna; Employees: 15; References: *
+Founded: 2011; Region: Austria, Vienna; Employees: 15; References: 0
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -6340,7 +6340,7 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
 #### [Cylance](http://www.cylance.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 758; References: *
+Founded: 2012; Region: United States, California; Employees: 758; References: 1
  
 Analytics & predictive intelligence for security | Autonomous cybersecurity systems | Smart Security Systems
  
@@ -6354,7 +6354,7 @@ Analytics & predictive intelligence for security | Autonomous cybersecurity syst
  
 #### [CrossChx, Inc.](http://www.crosschx.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 80; References: *
+Founded: 2012; Region: United States, California; Employees: 80; References: 0
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -6368,7 +6368,7 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
 #### [import.io](https://import.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 35; References: *
+Founded: 2012; Region: United States, California; Employees: 35; References: 2
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -6382,7 +6382,7 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
 #### [SalesChoice](http://www.saleschoice.com) 
  
-*Founded: 2012; Region: Canada, Ontario; Employees: 15; References: *
+Founded: 2012; Region: Canada, Ontario; Employees: 15; References: 2
  
 Pricing optimization | Predictive sales | Sales forecasting | Sales rep next action suggestions | Prescriptive sales | Natural Language Processing library/SDK/API | Deep learning library/SDK/API
  
@@ -6396,7 +6396,7 @@ Pricing optimization | Predictive sales | Sales forecasting | Sales rep next act
  
 #### [ViSenze](http://www.visenze.com) 
  
-*Founded: 2012; Region: Singapore, Central Singapore; Employees: 53; References: *
+Founded: 2012; Region: Singapore, Central Singapore; Employees: 53; References: 3
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Video commerce | Image recognition library/SDK/API
  
@@ -6410,7 +6410,7 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
 #### [CloudSight](http://CloudSight.ai) 
  
-*Founded: 2012; Region: United States, California; Employees: 14; References: *
+Founded: 2012; Region: United States, California; Employees: 14; References: 0
  
 Image recognition library/SDK/API | Deep learning library/SDK/API
  
@@ -6424,7 +6424,7 @@ Image recognition library/SDK/API | Deep learning library/SDK/API
  
 #### [Skytree](http://www.skytree.net) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial Analytics Platform | Data gathering
  
@@ -6438,7 +6438,7 @@ Deep learning library/SDK/API | Analytics platform | Fraud Detection | Financial
  
 #### [Paxata](http://www.paxata.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 116; References: *
+Founded: 2012; Region: United States, California; Employees: 116; References: 0
  
 Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial Analytics Platform | Regulatory compliance | Data gathering | Patient data analytics
  
@@ -6452,7 +6452,7 @@ Natural Language Processing library/SDK/API | Insurance (InsurTech) | Financial 
  
 #### [Two Hat Security](http://www.twohat.com) 
  
-*Founded: 2012; Region: Canada, British Columbia; Employees: 25; References: *
+Founded: 2012; Region: Canada, British Columbia; Employees: 25; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6466,7 +6466,7 @@ Autonomous cybersecurity systems
  
 #### [Threat Stack](http://threatstack.com) 
  
-*Founded: 2012; Region: United States, Massachusetts; Employees: 75; References: *
+Founded: 2012; Region: United States, Massachusetts; Employees: 75; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6480,7 +6480,7 @@ Autonomous cybersecurity systems
  
 #### [Rollbar](https://rollbar.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Developer assistance
  
@@ -6494,7 +6494,7 @@ Developer assistance
  
 #### [Loop AI Labs Cognitive Computing](http://www.loop.ai) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6508,7 +6508,7 @@ Natural Language Processing library/SDK/API
  
 #### [LeapMind, Inc.](http://leapmind.io/) 
  
-*Founded: 2012; Region: Japan, Tokyo; Employees: 50; References: *
+Founded: 2012; Region: Japan, Tokyo; Employees: 50; References: 0
  
 Deep learning library/SDK/API
  
@@ -6522,7 +6522,7 @@ Deep learning library/SDK/API
  
 #### [Retechnica](http://www.retechnica.com/) 
  
-*Founded: 2012; Region: United Kingdom, England; Employees: 25; References: *
+Founded: 2012; Region: United Kingdom, England; Employees: 25; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6536,7 +6536,7 @@ Natural Language Processing library/SDK/API
  
 #### [Unisound](http://www.unisound.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 0; References: *
+Founded: 2012; Region: United States, California; Employees: 0; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6550,7 +6550,7 @@ Natural Language Processing library/SDK/API
  
 #### [nCubeHome](https://ncubehome.co.uk/) 
  
-*Founded: 2012; Region: United States, California; Employees: 5; References: *
+Founded: 2012; Region: United States, California; Employees: 5; References: 0
  
 Smart Security Systems
  
@@ -6564,7 +6564,7 @@ Smart Security Systems
  
 #### [CheckRecipient](http://checkrecipient.com/) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 19; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 19; References: 1
  
 Secure communications | Regulatory compliance
  
@@ -6578,7 +6578,7 @@ Secure communications | Regulatory compliance
  
 #### [TopSpin Security](http://www.topspinsec.com/) 
  
-*Founded: 2013; Region: Israel, Tel Aviv; Employees: 23; References: *
+Founded: 2013; Region: Israel, Tel Aviv; Employees: 23; References: 1
  
 Analytics & predictive intelligence for security | Deception security
  
@@ -6592,7 +6592,7 @@ Analytics & predictive intelligence for security | Deception security
  
 #### [Clarifai](http://clarifai.com/) 
  
-*Founded: 2013; Region: United States, New York; Employees: 62; References: *
+Founded: 2013; Region: United States, New York; Employees: 62; References: 3
  
 Recommendation engine | Visual search capability | Image recognition library/SDK/API
  
@@ -6606,7 +6606,7 @@ Recommendation engine | Visual search capability | Image recognition library/SDK
  
 #### [indico data solutions](http://indico.io) 
  
-*Founded: 2013; Region: United States, Massachusetts; Employees: 15; References: *
+Founded: 2013; Region: United States, Massachusetts; Employees: 15; References: 0
  
 Image recognition library/SDK/API | Data gathering
  
@@ -6620,7 +6620,7 @@ Image recognition library/SDK/API | Data gathering
  
 #### [Sightcorp](http://www.sightcorp.com) 
  
-*Founded: 2013; Region: Netherlands, North Holland; Employees: 17; References: *
+Founded: 2013; Region: Netherlands, North Holland; Employees: 17; References: 1
  
 Social analytics & automation | Deep learning library/SDK/API | Analytics platform
  
@@ -6634,7 +6634,7 @@ Social analytics & automation | Deep learning library/SDK/API | Analytics platfo
  
 #### [ProtectWise](http://www.protectwise.com) 
  
-*Founded: 2013; Region: United States, Colorado; Employees: 94; References: *
+Founded: 2013; Region: United States, Colorado; Employees: 94; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6648,7 +6648,7 @@ Autonomous cybersecurity systems
  
 #### [Kore.ai](https://kore.ai/) 
  
-*Founded: 2013; Region: United States, Florida; Employees: 192; References: *
+Founded: 2013; Region: United States, Florida; Employees: 192; References: 0
  
 Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
@@ -6662,7 +6662,7 @@ Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
 #### [Wit.ai](https://www.wit.ai/) 
  
-*Founded: 2013; Region: United States, California; Employees: 50; References: *
+Founded: 2013; Region: United States, California; Employees: 50; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6676,7 +6676,7 @@ Natural Language Processing library/SDK/API
  
 #### [Darktrace](http://www.darktrace.com/) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 175; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 175; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6690,7 +6690,7 @@ Autonomous cybersecurity systems
  
 #### [Cyberlytic](http://www.cyberlytic.com/) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 12; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 12; References: 0
  
 Analytics & predictive intelligence for security | Autonomous cybersecurity systems
  
@@ -6704,7 +6704,7 @@ Analytics & predictive intelligence for security | Autonomous cybersecurity syst
  
 #### [Netra Inc](http://www.netra.io) 
  
-*Founded: 2013; Region: United States, Massachusetts; Employees: 5; References: *
+Founded: 2013; Region: United States, Massachusetts; Employees: 5; References: 0
  
 Image recognition library/SDK/API
  
@@ -6718,7 +6718,7 @@ Image recognition library/SDK/API
  
 #### [Deep Glint](http://www.deepglint.com) 
  
-*Founded: 2013; Region: China, Beijing; Employees: 25; References: *
+Founded: 2013; Region: China, Beijing; Employees: 25; References: 0
  
 Smart Security Systems
  
@@ -6732,7 +6732,7 @@ Smart Security Systems
  
 #### [Arya.ai](http://arya.ai) 
  
-*Founded: 2013; Region: India, Maharashtra; Employees: 25; References: *
+Founded: 2013; Region: India, Maharashtra; Employees: 25; References: 0
  
 Deep learning library/SDK/API
  
@@ -6746,7 +6746,7 @@ Deep learning library/SDK/API
  
 #### [Algorithmia](http://www.algorithmia.com) 
  
-*Founded: 2013; Region: United States, Washington; Employees: 25; References: *
+Founded: 2013; Region: United States, Washington; Employees: 25; References: 0
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Deep learning library/SDK/API
  
@@ -6760,7 +6760,7 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
 #### [Delver Ltd](http://delver.io) 
  
-*Founded: 2013; Region: United States, California; Employees: 5; References: *
+Founded: 2013; Region: United States, California; Employees: 5; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6774,7 +6774,7 @@ Natural Language Processing library/SDK/API
  
 #### [SparkCognition](http://sparkcognition.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 200; References: *
+Founded: 2013; Region: United States, California; Employees: 200; References: 0
  
 Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
@@ -6788,7 +6788,7 @@ Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
 #### [SaltDNA](http://www.saltdna.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Secure communications
  
@@ -6802,7 +6802,7 @@ Secure communications
  
 #### [Jarvis](http://jarvis.co) 
  
-*Founded: 2013; Region: United States, California; Employees: 5; References: *
+Founded: 2013; Region: United States, California; Employees: 5; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6816,7 +6816,7 @@ Natural Language Processing library/SDK/API
  
 #### [EdCast](http://edcast.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 175; References: *
+Founded: 2014; Region: United States, California; Employees: 175; References: 0
  
 Knowledge management | Machine learning library/SDK/API | Deep learning library/SDK/API
  
@@ -6830,7 +6830,7 @@ Knowledge management | Machine learning library/SDK/API | Deep learning library/
  
 #### [deepsense.ai](http://deepsense.ai/) 
  
-*Founded: 2014; Region: United States, California; Employees: 75; References: *
+Founded: 2014; Region: United States, California; Employees: 75; References: 6
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -6844,7 +6844,7 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
 #### [imagenii](http://www.imagenii.com) 
  
-*Founded: 2014; Region: United States, Texas; Employees: 0; References: *
+Founded: 2014; Region: United States, Texas; Employees: 0; References: 0
  
 Recommendation engine | Image recognition library/SDK/API
  
@@ -6858,7 +6858,7 @@ Recommendation engine | Image recognition library/SDK/API
  
 #### [SecBI](http://www.secbi.com) 
  
-*Founded: 2014; Region: Israel, Southern District; Employees: 15; References: *
+Founded: 2014; Region: Israel, Southern District; Employees: 15; References: 0
  
 Analytics & predictive intelligence for security
  
@@ -6872,7 +6872,7 @@ Analytics & predictive intelligence for security
  
 #### [Cymmetria](http://www.cymmetria.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 31; References: *
+Founded: 2014; Region: United States, California; Employees: 31; References: 0
  
 Deception security
  
@@ -6886,7 +6886,7 @@ Deception security
  
 #### [Kite](https://kite.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 12; References: *
+Founded: 2014; Region: United States, California; Employees: 12; References: 0
  
 Developer assistance
  
@@ -6900,7 +6900,7 @@ Developer assistance
  
 #### [Contrast Security](https://www.contrastsecurity.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 75; References: *
+Founded: 2014; Region: United States, California; Employees: 75; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6914,7 +6914,7 @@ Autonomous cybersecurity systems
  
 #### [Deep Instinct](http://www.deepinstinct.com) 
  
-*Founded: 2014; Region: Israel, Tel Aviv; Employees: 0; References: *
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 0; References: 0
  
 Analytics & predictive intelligence for security | Autonomous cybersecurity systems
  
@@ -6928,7 +6928,7 @@ Analytics & predictive intelligence for security | Autonomous cybersecurity syst
  
 #### [Bastille](https://www.bastille.net) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Autonomous cybersecurity systems
  
@@ -6942,7 +6942,7 @@ Autonomous cybersecurity systems
  
 #### [Umbo Computer Vision](https://umbocv.ai) 
  
-*Founded: 2014; Region: Taiwan, Taiwan; Employees: 25; References: *
+Founded: 2014; Region: Taiwan, Taiwan; Employees: 25; References: 0
  
 Smart Security Systems
  
@@ -6956,7 +6956,7 @@ Smart Security Systems
  
 #### [Lighthouse](https://www.light.house/) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Smart Security Systems
  
@@ -6970,7 +6970,7 @@ Smart Security Systems
  
 #### [minds.ai](http://minds.ai/) 
  
-*Founded: 2014; Region: United States, California; Employees: 0; References: *
+Founded: 2014; Region: United States, California; Employees: 0; References: 0
  
 Deep learning library/SDK/API
  
@@ -6984,7 +6984,7 @@ Deep learning library/SDK/API
  
 #### [KITT.AI](http://kitt.ai/) 
  
-*Founded: 2014; Region: United States, Washington; Employees: 5; References: *
+Founded: 2014; Region: United States, Washington; Employees: 5; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -6998,7 +6998,7 @@ Natural Language Processing library/SDK/API
  
 #### [Intelnics](http://www.intelnics.com/) 
  
-*Founded: 2014; Region: Spain, Castille and León; Employees: 5; References: *
+Founded: 2014; Region: Spain, Castille and León; Employees: 5; References: 0
  
 Deep learning library/SDK/API
  
@@ -7012,7 +7012,7 @@ Deep learning library/SDK/API
  
 #### [SenseTime](http://www.sensetime.com/) 
  
-*Founded: 2014; Region: Hong Kong, Central and Western; Employees: 0; References: *
+Founded: 2014; Region: Hong Kong, Central and Western; Employees: 0; References: 0
  
 Autonomous cybersecurity systems
  
@@ -7026,7 +7026,7 @@ Autonomous cybersecurity systems
  
 #### [MonkeyLearn](http://www.monkeylearn.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Natural Language Processing library/SDK/API
  
@@ -7040,7 +7040,7 @@ Natural Language Processing library/SDK/API
  
 #### [Code Connect](http://codeconnect.io/) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Developer assistance
  
@@ -7054,7 +7054,7 @@ Developer assistance
  
 #### [TESTIM](https://testim.io/) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Developer assistance
  
@@ -7068,7 +7068,7 @@ Developer assistance
  
 #### [Nervana](http://nervanasys.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 0; References: *
+Founded: 2014; Region: United States, California; Employees: 0; References: 0
  
 Deep learning library/SDK/API
  
@@ -7082,7 +7082,7 @@ Deep learning library/SDK/API
  
 #### [Staqu Technologies](http://www.staqu.com/) 
  
-*Founded: 2015; Region: India, Haryana; Employees: 19; References: *
+Founded: 2015; Region: India, Haryana; Employees: 19; References: 0
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -7096,7 +7096,7 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
 #### [Recast.AI](https://recast.ai) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 25; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 25; References: 0
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -7110,7 +7110,7 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
 #### [Imagry](http://www.imagry.co) 
  
-*Founded: 2015; Region: United States, Ohio; Employees: 6; References: *
+Founded: 2015; Region: United States, Ohio; Employees: 6; References: 0
  
 Image tagging to improve product discovery | Deep learning library/SDK/API
  
@@ -7124,7 +7124,7 @@ Image tagging to improve product discovery | Deep learning library/SDK/API
  
 #### [Interset](http://interset.com) 
  
-*Founded: 2015; Region: Canada, Ontario; Employees: 75; References: *
+Founded: 2015; Region: Canada, Ontario; Employees: 75; References: 0
  
 Autonomous cybersecurity systems
  
@@ -7138,7 +7138,7 @@ Autonomous cybersecurity systems
  
 #### [Aqua Security](https://www.aquasec.com) 
  
-*Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Autonomous cybersecurity systems
  
@@ -7152,7 +7152,7 @@ Autonomous cybersecurity systems
  
 #### [Magentiq Eye Ltd](http://www.magentiq.com/) 
  
-*Founded: 2015; Region: Israel, Haifa; Employees: 5; References: *
+Founded: 2015; Region: Israel, Haifa; Employees: 5; References: 0
  
 Autonomous cybersecurity systems
  
@@ -7166,7 +7166,7 @@ Autonomous cybersecurity systems
  
 #### [Pilot AI](http://www.pilot.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 20; References: *
+Founded: 2015; Region: United States, California; Employees: 20; References: 0
  
 Image recognition library/SDK/API | Smart Security Systems | Deep learning library/SDK/API | Image recognition and visual analytics | Vision systems | Driving assistant
  
@@ -7180,7 +7180,7 @@ Image recognition library/SDK/API | Smart Security Systems | Deep learning libra
  
 #### [Algocian](http://algocian.com) 
  
-*Founded: 2015; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2015; Region: Canada, Ontario; Employees: 5; References: 0
  
 Smart Security Systems
  
@@ -7194,7 +7194,7 @@ Smart Security Systems
  
 #### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-*Founded: 2015; Region: India, Maharashtra; Employees: 25; References: *
+Founded: 2015; Region: India, Maharashtra; Employees: 25; References: 0
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -7208,7 +7208,7 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
 #### [Nexosis](http://www.nexosis.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Machine learning library/SDK/API
  
@@ -7222,7 +7222,7 @@ Machine learning library/SDK/API
  
 #### [Calipsa](http://calipsa.io/) 
  
-*Founded: 2016; Region: United Kingdom, England; Employees: 0; References: *
+Founded: 2016; Region: United Kingdom, England; Employees: 0; References: 0
  
 Image recognition library/SDK/API
  
@@ -7236,7 +7236,7 @@ Image recognition library/SDK/API
  
 #### [CyberSparta](http://www.cybersparta.com/) 
  
-*Founded: 2016; Region: United Kingdom, England; Employees: 5; References: *
+Founded: 2016; Region: United Kingdom, England; Employees: 5; References: 0
  
 Analytics & predictive intelligence for security | Deep learning library/SDK/API
  
@@ -7250,7 +7250,7 @@ Analytics & predictive intelligence for security | Deep learning library/SDK/API
  
 #### [DiffBlue](http://www.diffblue.com/) 
  
-*Founded: 2016; Region: United Kingdom, England; Employees: 25; References: *
+Founded: 2016; Region: United Kingdom, England; Employees: 25; References: 0
  
 Developer assistance
  
@@ -7264,7 +7264,7 @@ Developer assistance
  
 #### [Tenstorrent](http://tenstorrent.com/) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Deep learning library/SDK/API
  
@@ -7278,7 +7278,7 @@ Deep learning library/SDK/API
  
 #### [LARI](https://www.lari.digital) 
  
-*Founded: 2017; Region: Switzerland, Zurich; Employees: 6; References: *
+Founded: 2017; Region: Switzerland, Zurich; Employees: 6; References: 0
  
 Machine learning library/SDK/API | Data Management & Monitoring
  
@@ -7292,7 +7292,7 @@ Machine learning library/SDK/API | Data Management & Monitoring
  
 #### [FloydHub](https://www.floydhub.com) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Deep learning library/SDK/API | Analytics platform
  
@@ -7306,7 +7306,7 @@ Deep learning library/SDK/API | Analytics platform
  
 #### [Deep Sentinel](https://www.deepsentinel.com/) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Smart Security Systems
  
@@ -7322,7 +7322,7 @@ Smart Security Systems
  
 #### [Luminance](https://www.luminance.com/) 
  
-*Founded: 2003; Region: United Kingdom, England; Employees: 0; References: *
+Founded: 2003; Region: United Kingdom, England; Employees: 0; References: 0
  
 Legal advisory
  
@@ -7336,7 +7336,7 @@ Legal advisory
  
 #### [Everlaw](http://everlaw.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 25; References: *
+Founded: 2010; Region: United States, California; Employees: 25; References: 0
  
 Legal advisory
  
@@ -7350,7 +7350,7 @@ Legal advisory
  
 #### [Judicata](http://www.judicata.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Legal advisory
  
@@ -7364,7 +7364,7 @@ Legal advisory
  
 #### [Ravel Law](https://www.ravellaw.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Legal advisory
  
@@ -7378,7 +7378,7 @@ Legal advisory
  
 #### [eBrevia](http://ebrevia.com) 
  
-*Founded: 2012; Region: United States, Connecticut; Employees: 0; References: *
+Founded: 2012; Region: United States, Connecticut; Employees: 0; References: 0
  
 Legal advisory
  
@@ -7392,7 +7392,7 @@ Legal advisory
  
 #### [ROSS Intelligence](http://www.rossintelligence.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Legal advisory
  
@@ -7406,7 +7406,7 @@ Legal advisory
  
 #### [Knomos Knowledge Management Inc.](http://knomos.law) 
  
-*Founded: 2014; Region: Canada, British Columbia; Employees: 5; References: *
+Founded: 2014; Region: Canada, British Columbia; Employees: 5; References: 0
  
 Legal advisory
  
@@ -7420,7 +7420,7 @@ Legal advisory
  
 #### [Deepgram](https://www.deepgram.com/) 
  
-*Founded: 2015; Region: United States, California; Employees: 9; References: *
+Founded: 2015; Region: United States, California; Employees: 9; References: 1
  
 Call analytics | Legal advisory
  
@@ -7434,7 +7434,7 @@ Call analytics | Legal advisory
  
 #### [Blue J Legal](http://www.bluejlegal.com/) 
  
-*Founded: 2015; Region: Canada, Ontario; Employees: 18; References: *
+Founded: 2015; Region: Canada, Ontario; Employees: 18; References: 0
  
 Legal advisory
  
@@ -7448,7 +7448,7 @@ Legal advisory
  
 #### [Doctrine](https://www.doctrine.fr) 
  
-*Founded: 2016; Region: France, Île-de-France; Employees: 0; References: *
+Founded: 2016; Region: France, Île-de-France; Employees: 0; References: 0
  
 Legal advisory
  
@@ -7462,7 +7462,7 @@ Legal advisory
  
 #### [Doctrine](https://www.doctrine.fr) 
  
-*Founded: 2016; Region: France, Île-de-France; Employees: 0; References: *
+Founded: 2016; Region: France, Île-de-France; Employees: 0; References: 0
  
 Legal advisory
  
@@ -7476,7 +7476,7 @@ Legal advisory
  
 #### [Doctrine](https://www.doctrine.fr) 
  
-*Founded: 2016; Region: France, Île-de-France; Employees: 0; References: *
+Founded: 2016; Region: France, Île-de-France; Employees: 0; References: 0
  
 Legal advisory
  
@@ -7492,7 +7492,7 @@ Legal advisory
  
 #### [Relativity6](http://www.relativity6.com) 
  
-*Founded: 0; Region: United States, Massachusetts; Employees: 13; References: *
+Founded: 0; Region: United States, Massachusetts; Employees: 13; References: 0
  
 Recommendation engine
  
@@ -7506,7 +7506,7 @@ Recommendation engine
  
 #### [Ditto Labs](http://dittolabs.io/) 
  
-*Founded: 0; Region: United States, Massachusetts; Employees: 19; References: *
+Founded: 0; Region: United States, Massachusetts; Employees: 19; References: 0
  
 Social analytics & automation | Visual search capability
  
@@ -7520,7 +7520,7 @@ Social analytics & automation | Visual search capability
  
 #### [Grey Jean Technologies](http://gjny.com/) 
  
-*Founded: 0; Region: United States, New York; Employees: 4; References: *
+Founded: 0; Region: United States, New York; Employees: 4; References: 0
  
 Retargeting | Recommendation engine
  
@@ -7534,7 +7534,7 @@ Retargeting | Recommendation engine
  
 #### [Agility Multichannel](http://www.agilitymultichannel.com/) 
  
-*Founded: 0; Region: United States, Illinois; Employees: 27; References: *
+Founded: 0; Region: United States, Illinois; Employees: 27; References: 1
  
 Product Information Management
  
@@ -7548,7 +7548,7 @@ Product Information Management
  
 #### [Perfion](https://www.perfion.com/) 
  
-*Founded: 0; Region: Denmark, North Denmark; Employees: 29; References: *
+Founded: 0; Region: Denmark, North Denmark; Employees: 29; References: 0
  
 Product Information Management
  
@@ -7562,7 +7562,7 @@ Product Information Management
  
 #### [OpusCapita Group Oy](http://www.opuscapita.com/) 
  
-*Founded: 0; Region: Finland, Uusimaa; Employees: 978; References: *
+Founded: 0; Region: Finland, Uusimaa; Employees: 978; References: 1
  
 Product Information Management
  
@@ -7576,7 +7576,7 @@ Product Information Management
  
 #### [Layer 6 AI](http://layer6.ai/) 
  
-*Founded: 0; Region: Canada, Ontario; Employees: 11; References: *
+Founded: 0; Region: Canada, Ontario; Employees: 11; References: 0
  
 Recommendation engine
  
@@ -7590,7 +7590,7 @@ Recommendation engine
  
 #### [Heuritech]() 
  
-*Founded: 0; Region: France, Île-de-France; Employees: 22; References: *
+Founded: 0; Region: France, Île-de-France; Employees: 22; References: 0
  
 Visual search capability
  
@@ -7604,7 +7604,7 @@ Visual search capability
  
 #### [Adacado](http://www.adacado.com) 
  
-*Founded: 0; Region: Canada, British Columbia; Employees: 0; References: *
+Founded: 0; Region: Canada, British Columbia; Employees: 0; References: 0
  
 Retargeting
  
@@ -7618,7 +7618,7 @@ Retargeting
  
 #### [IBM Watson](http://www.ibm.com/) 
  
-*Founded: 1911; Region: United States, New York; Employees: 2001; References: *
+Founded: 1911; Region: United States, New York; Employees: 2001; References: 3
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -7632,7 +7632,7 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
 #### [IBM Bluemix](http://www.ibm.com/) 
  
-*Founded: 1911; Region: United States, New York; Employees: 1343; References: *
+Founded: 1911; Region: United States, New York; Employees: 1343; References: 0
  
 Visual search capability | Image recognition library/SDK/API | Deep learning library/SDK/API | Analytics platform | Patient data analytics | Assisted or automated diagnosis & prescription | Medical imaging insights
  
@@ -7646,7 +7646,7 @@ Visual search capability | Image recognition library/SDK/API | Deep learning lib
  
 #### [SAS](http://www.sas.com) 
  
-*Founded: 1976; Region: United States, North Carolina; Employees: 23378; References: *
+Founded: 1976; Region: United States, North Carolina; Employees: 23378; References: 0
  
 Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
@@ -7660,7 +7660,7 @@ Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
 #### [Adobe Systems](http://www.adobe.com) 
  
-*Founded: 1982; Region: United States, California; Employees: 10; References: *
+Founded: 1982; Region: United States, California; Employees: 10; References: 0
  
 Recommendation engine | Merchandising optimization | Visual search capability
  
@@ -7674,7 +7674,7 @@ Recommendation engine | Merchandising optimization | Visual search capability
  
 #### [GestureTek](http://www.gesturetek.com) 
  
-*Founded: 1986; Region: United States, California; Employees: 75; References: *
+Founded: 1986; Region: United States, California; Employees: 75; References: 0
  
 Gesture Control
  
@@ -7688,7 +7688,7 @@ Gesture Control
  
 #### [Grapeshot](http://www.grapeshot.com) 
  
-*Founded: 1992; Region: United States, New York; Employees: 99; References: *
+Founded: 1992; Region: United States, New York; Employees: 99; References: 0
  
 Retargeting | Context aware marketing
  
@@ -7702,7 +7702,7 @@ Retargeting | Context aware marketing
  
 #### [Enterworks](http://www.enterworks.com/) 
  
-*Founded: 1994; Region: United States, Virginia; Employees: 44; References: *
+Founded: 1994; Region: United States, Virginia; Employees: 44; References: 0
  
 Product Information Management
  
@@ -7716,7 +7716,7 @@ Product Information Management
  
 #### [hybris](http://www.hybris.com) 
  
-*Founded: 1997; Region: Canada, Quebec; Employees: 1518; References: *
+Founded: 1997; Region: Canada, Quebec; Employees: 1518; References: 0
  
 Recommendation engine | Predictive sales
  
@@ -7730,7 +7730,7 @@ Recommendation engine | Predictive sales
  
 #### [Vendavo](http://www.vendavo.com) 
  
-*Founded: 1998; Region: United States, Colorado; Employees: 385; References: *
+Founded: 1998; Region: United States, Colorado; Employees: 385; References: 0
  
 Pricing optimization
  
@@ -7744,7 +7744,7 @@ Pricing optimization
  
 #### [prudsys](https://prudsys.de) 
  
-*Founded: 1998; Region: Germany, Saxony; Employees: 15; References: *
+Founded: 1998; Region: Germany, Saxony; Employees: 15; References: 0
  
 Recommendation engine
  
@@ -7758,7 +7758,7 @@ Recommendation engine
  
 #### [Salesforce](https://www.salesforce.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 23343; References: *
+Founded: 1999; Region: United States, California; Employees: 23343; References: 7
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -7772,7 +7772,7 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
 #### [Zilliant](http://www.zilliant.com) 
  
-*Founded: 1999; Region: United States, Texas; Employees: 186; References: *
+Founded: 1999; Region: United States, Texas; Employees: 186; References: 0
  
 Pricing optimization
  
@@ -7786,7 +7786,7 @@ Pricing optimization
  
 #### [Audible Magic](http://audiblemagic.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 25; References: *
+Founded: 1999; Region: United States, California; Employees: 25; References: 0
  
 Context aware marketing
  
@@ -7800,7 +7800,7 @@ Context aware marketing
  
 #### [Burning Glass Technologies](http://www.burning-glass.com/) 
  
-*Founded: 1999; Region: United States, California; Employees: 375; References: *
+Founded: 1999; Region: United States, California; Employees: 375; References: 0
  
 Marketing analytics
  
@@ -7814,7 +7814,7 @@ Marketing analytics
  
 #### [Emarsys](http://emarsys.com) 
  
-*Founded: 2000; Region: Austria, Vienna; Employees: 1000; References: *
+Founded: 2000; Region: Austria, Vienna; Employees: 1000; References: 1
  
 Recommendation engine | Marketing analytics | Pricing optimization | Omnichannel
  
@@ -7828,7 +7828,7 @@ Recommendation engine | Marketing analytics | Pricing optimization | Omnichannel
  
 #### [AbsolutData](http://www.absolutdata.com) 
  
-*Founded: 2000; Region: United States, California; Employees: 309; References: *
+Founded: 2000; Region: United States, California; Employees: 309; References: 0
  
 Recommendation engine | Marketing analytics | Analytics platform
  
@@ -7842,7 +7842,7 @@ Recommendation engine | Marketing analytics | Analytics platform
  
 #### [Alpha I](http://alpha-i.co/) 
  
-*Founded: 2000; Region: United Kingdom, England; Employees: 0; References: *
+Founded: 2000; Region: United Kingdom, England; Employees: 0; References: 0
  
 Marketing analytics
  
@@ -7856,7 +7856,7 @@ Marketing analytics
  
 #### [Pure360](http://pure360.com) 
  
-*Founded: 2001; Region: United Kingdom, England; Employees: 111; References: *
+Founded: 2001; Region: United Kingdom, England; Employees: 111; References: 0
  
 Email Marketing
  
@@ -7870,7 +7870,7 @@ Email Marketing
  
 #### [Riversand](http://www.riversand.com/) 
  
-*Founded: 2001; Region: United States, Texas; Employees: 177; References: *
+Founded: 2001; Region: United States, Texas; Employees: 177; References: 0
  
 Product Information Management
  
@@ -7884,7 +7884,7 @@ Product Information Management
  
 #### [Lithium Technologies](http://www.lithium.com) 
  
-*Founded: 2001; Region: United States, California; Employees: 546; References: *
+Founded: 2001; Region: United States, California; Employees: 546; References: 0
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -7898,7 +7898,7 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
 #### [Klipfolio](http://www.klipfolio.com) 
  
-*Founded: 2001; Region: United States, California; Employees: 75; References: *
+Founded: 2001; Region: United States, California; Employees: 75; References: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -7912,7 +7912,7 @@ Marketing analytics | e-commerce analytics
  
 #### [SalesBrain](http://www.salesbrain.com/) 
  
-*Founded: 2002; Region: United States, California; Employees: 10; References: *
+Founded: 2002; Region: United States, California; Employees: 10; References: 1
  
 Neuromarketing for pre-testing
  
@@ -7926,7 +7926,7 @@ Neuromarketing for pre-testing
  
 #### [Acrolinx](http://www.acrolinx.com) 
  
-*Founded: 2002; Region: Germany, Berlin; Employees: 175; References: *
+Founded: 2002; Region: Germany, Berlin; Employees: 175; References: 0
  
 Context aware marketing
  
@@ -7940,7 +7940,7 @@ Context aware marketing
  
 #### [Acquisio](http://www.acquisio.com) 
  
-*Founded: 2003; Region: Canada, Quebec; Employees: 170; References: *
+Founded: 2003; Region: Canada, Quebec; Employees: 170; References: 0
  
 Social media optimization | Omnichannel
  
@@ -7954,7 +7954,7 @@ Social media optimization | Omnichannel
  
 #### [Lexalytics](http://www.lexalytics.com) 
  
-*Founded: 2003; Region: United States, Massachusetts; Employees: 38; References: *
+Founded: 2003; Region: United States, Massachusetts; Employees: 38; References: 0
  
 Marketing analytics | Social media monitoring
  
@@ -7968,7 +7968,7 @@ Marketing analytics | Social media monitoring
  
 #### [STRANDS](https://finance.strands.com/) 
  
-*Founded: 2003; Region: Spain, Catalonia; Employees: 164; References: *
+Founded: 2003; Region: Spain, Catalonia; Employees: 164; References: 0
  
 Recommendation engine
  
@@ -7982,7 +7982,7 @@ Recommendation engine
  
 #### [Sensory Networks](http://www.sensorynetworks.com) 
  
-*Founded: 2003; Region: United States, California; Employees: 26; References: *
+Founded: 2003; Region: United States, California; Employees: 26; References: 0
  
 Image tagging to improve product discovery
  
@@ -7996,7 +7996,7 @@ Image tagging to improve product discovery
  
 #### [PlayMotion](http://www.playmotion.com) 
  
-*Founded: 2003; Region: United States, California; Employees: 25; References: *
+Founded: 2003; Region: United States, California; Employees: 25; References: 0
  
 Gesture Control
  
@@ -8010,7 +8010,7 @@ Gesture Control
  
 #### [NetBase Solutions](http://www.netbase.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 149; References: *
+Founded: 2004; Region: United States, California; Employees: 149; References: 1
  
 Social analytics & automation | Social listening & ticketing
  
@@ -8024,7 +8024,7 @@ Social analytics & automation | Social listening & ticketing
  
 #### [Certona](http://www.certona.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 145; References: *
+Founded: 2004; Region: United States, California; Employees: 145; References: 0
  
 Recommendation engine
  
@@ -8038,7 +8038,7 @@ Recommendation engine
  
 #### [Protagonist](http://www.protagonist.io) 
  
-*Founded: 2004; Region: United States, California; Employees: 60; References: *
+Founded: 2004; Region: United States, California; Employees: 60; References: 0
  
 Marketing analytics | Omnichannel | Sales content personalization and analytics
  
@@ -8052,7 +8052,7 @@ Marketing analytics | Omnichannel | Sales content personalization and analytics
  
 #### [Ysance](http://www.ysance.com/en) 
  
-*Founded: 2005; Region: France, Île-de-France; Employees: 150; References: *
+Founded: 2005; Region: France, Île-de-France; Employees: 150; References: 2
  
 Retargeting | Recommendation engine | Marketing analytics | Context aware marketing | Merchandising optimization | Social media optimization | Website Personalization | Omnichannel | Email Marketing | Advocacy & Loyalty Marketing
  
@@ -8066,7 +8066,7 @@ Retargeting | Recommendation engine | Marketing analytics | Context aware market
  
 #### [Criteo](http://www.criteo.com) 
  
-*Founded: 2005; Region: France, Île-de-France; Employees: 2601; References: *
+Founded: 2005; Region: France, Île-de-France; Employees: 2601; References: 9
  
 Retargeting
  
@@ -8080,7 +8080,7 @@ Retargeting
  
 #### [OneSpot](http://www.onespot.com) 
  
-*Founded: 2005; Region: United States, Texas; Employees: 0; References: *
+Founded: 2005; Region: United States, Texas; Employees: 0; References: 0
  
 Recommendation engine
  
@@ -8094,7 +8094,7 @@ Recommendation engine
  
 #### [iMotions A/S](http://www.imotions.com) 
  
-*Founded: 2005; Region: Denmark, Capital Region; Employees: 25; References: *
+Founded: 2005; Region: Denmark, Capital Region; Employees: 25; References: 0
  
 Emotion Recognition
  
@@ -8108,7 +8108,7 @@ Emotion Recognition
  
 #### [EyeSight Mobile Technologies](http://www.eyesight-tech.com) 
  
-*Founded: 2005; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2005; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Gesture Control
  
@@ -8122,7 +8122,7 @@ Gesture Control
  
 #### [RichRelevance](http://www.richrelevance.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 151; References: *
+Founded: 2006; Region: United States, California; Employees: 151; References: 1
  
 Recommendation engine | Merchandising optimization | Omnichannel
  
@@ -8136,7 +8136,7 @@ Recommendation engine | Merchandising optimization | Omnichannel
  
 #### [AgilOne](http://www.agilone.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 114; References: *
+Founded: 2006; Region: United States, California; Employees: 114; References: 1
  
 Marketing analytics | Omnichannel
  
@@ -8150,7 +8150,7 @@ Marketing analytics | Omnichannel
  
 #### [Clarabridge](http://www.clarabridge.com) 
  
-*Founded: 2006; Region: United States, Virginia; Employees: 262; References: *
+Founded: 2006; Region: United States, Virginia; Employees: 262; References: 4
  
 Social analytics & automation | Social media monitoring | Survey & review analytics | Customer contact analytics | Social listening & ticketing
  
@@ -8164,7 +8164,7 @@ Social analytics & automation | Social media monitoring | Survey & review analyt
  
 #### [AdRoll](http://www.adroll.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 735; References: *
+Founded: 2006; Region: United States, California; Employees: 735; References: 0
  
 Recommendation engine | Social media monitoring
  
@@ -8178,7 +8178,7 @@ Recommendation engine | Social media monitoring
  
 #### [Quantcast](http://www.quantcast.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 985; References: *
+Founded: 2006; Region: United States, California; Employees: 985; References: 0
  
 Recommendation engine
  
@@ -8192,7 +8192,7 @@ Recommendation engine
  
 #### [Marin Software](http://www.marinsoftware.com/) 
  
-*Founded: 2006; Region: United States, California; Employees: 0; References: *
+Founded: 2006; Region: United States, California; Employees: 0; References: 0
  
 Marketing analytics
  
@@ -8206,7 +8206,7 @@ Marketing analytics
  
 #### [MediaMath](http://www.mediamath.com) 
  
-*Founded: 2007; Region: United States, New York; Employees: 669; References: *
+Founded: 2007; Region: United States, New York; Employees: 669; References: 3
  
 Marketing analytics | Omnichannel
  
@@ -8220,7 +8220,7 @@ Marketing analytics | Omnichannel
  
 #### [Crimson Hexagon](http://crimsonhexagon.com) 
  
-*Founded: 2007; Region: United States, Massachusetts; Employees: 247; References: *
+Founded: 2007; Region: United States, Massachusetts; Employees: 247; References: 1
  
 Social analytics & automation
  
@@ -8234,7 +8234,7 @@ Social analytics & automation
  
 #### [Leadspace](http://www.leadspace.com) 
  
-*Founded: 2007; Region: Israel, Central District; Employees: 93; References: *
+Founded: 2007; Region: Israel, Central District; Employees: 93; References: 2
  
 Marketing analytics | Predictive sales
  
@@ -8248,7 +8248,7 @@ Marketing analytics | Predictive sales
  
 #### [AppNexus](http://www.appnexus.com) 
  
-*Founded: 2007; Region: United States, New York; Employees: 1100; References: *
+Founded: 2007; Region: United States, New York; Employees: 1100; References: 0
  
 Marketing analytics | Omnichannel
  
@@ -8262,7 +8262,7 @@ Marketing analytics | Omnichannel
  
 #### [Demandbase](http://www.demandbase.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 175; References: *
+Founded: 2007; Region: United States, California; Employees: 175; References: 0
  
 Website Personalization
  
@@ -8276,7 +8276,7 @@ Website Personalization
  
 #### [Peerius](http://peerius.com) 
  
-*Founded: 2007; Region: United Kingdom, England; Employees: 37; References: *
+Founded: 2007; Region: United Kingdom, England; Employees: 37; References: 0
  
 Recommendation engine
  
@@ -8290,7 +8290,7 @@ Recommendation engine
  
 #### [inRiver](http://www.inriver.com) 
  
-*Founded: 2007; Region: Sweden, Skåne; Employees: 89; References: *
+Founded: 2007; Region: Sweden, Skåne; Employees: 89; References: 0
  
 Product Information Management
  
@@ -8304,7 +8304,7 @@ Product Information Management
  
 #### [Cortica](http://www.cortica.com) 
  
-*Founded: 2007; Region: Israel, Tel Aviv; Employees: 76; References: *
+Founded: 2007; Region: Israel, Tel Aviv; Employees: 76; References: 0
  
 Image tagging to improve product discovery | Visual search capability
  
@@ -8318,7 +8318,7 @@ Image tagging to improve product discovery | Visual search capability
  
 #### [Jivox](http://www.jivox.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 75; References: *
+Founded: 2007; Region: United States, California; Employees: 75; References: 0
  
 Omnichannel
  
@@ -8332,7 +8332,7 @@ Omnichannel
  
 #### [WordStream](http://www.wordstream.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 175; References: *
+Founded: 2007; Region: United States, California; Employees: 175; References: 0
  
 Marketing analytics
  
@@ -8346,7 +8346,7 @@ Marketing analytics
  
 #### [Radius](http://radius.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 168; References: *
+Founded: 2008; Region: United States, California; Employees: 168; References: 1
  
 Marketing analytics | Predictive sales
  
@@ -8360,7 +8360,7 @@ Marketing analytics | Predictive sales
  
 #### [Blue Yonder](http://www.blue-yonder.com/) 
  
-*Founded: 2008; Region: Germany, Baden-Württemberg; Employees: 118; References: *
+Founded: 2008; Region: Germany, Baden-Württemberg; Employees: 118; References: 1
  
 Pricing optimization
  
@@ -8374,7 +8374,7 @@ Pricing optimization
  
 #### [GumGum](http://gumgum.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 226; References: *
+Founded: 2008; Region: United States, California; Employees: 226; References: 1
  
 Social analytics & automation | Context aware marketing
  
@@ -8388,7 +8388,7 @@ Social analytics & automation | Context aware marketing
  
 #### [Rocket Fuel](http://rocketfuel.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 832; References: *
+Founded: 2008; Region: United States, California; Employees: 832; References: 3
  
 Marketing analytics
  
@@ -8402,7 +8402,7 @@ Marketing analytics
  
 #### [Gavagai](http://www.gavagai.se) 
  
-*Founded: 2008; Region: Sweden, Stockholm; Employees: 18; References: *
+Founded: 2008; Region: Sweden, Stockholm; Employees: 18; References: 3
  
 Social analytics & automation | Natural Language Processing library/SDK/API
  
@@ -8416,7 +8416,7 @@ Social analytics & automation | Natural Language Processing library/SDK/API
  
 #### [MarketChorus](http://www.marketchorus.com) 
  
-*Founded: 2008; Region: United States, Texas; Employees: 10; References: *
+Founded: 2008; Region: United States, Texas; Employees: 10; References: 0
  
 Recommendation engine | Context aware marketing | Pricing optimization
  
@@ -8430,7 +8430,7 @@ Recommendation engine | Context aware marketing | Pricing optimization
  
 #### [Invoca](http://www.invoca.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 135; References: *
+Founded: 2008; Region: United States, California; Employees: 135; References: 0
  
 Marketing analytics
  
@@ -8444,7 +8444,7 @@ Marketing analytics
  
 #### [Cortexica Vision Systems](http://www.cortexica.com) 
  
-*Founded: 2008; Region: United Kingdom, England; Employees: 38; References: *
+Founded: 2008; Region: United Kingdom, England; Employees: 38; References: 0
  
 Recommendation engine | Merchandising optimization | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -8458,7 +8458,7 @@ Recommendation engine | Merchandising optimization | Image tagging to improve pr
  
 #### [Monetate](http://www.monetate.com) 
  
-*Founded: 2008; Region: United States, Pennsylvania; Employees: 151; References: *
+Founded: 2008; Region: United States, Pennsylvania; Employees: 151; References: 0
  
 Recommendation engine
  
@@ -8472,7 +8472,7 @@ Recommendation engine
  
 #### [Dstillery](http://dstillery.com) 
  
-*Founded: 2008; Region: United States, New York; Employees: 154; References: *
+Founded: 2008; Region: United States, New York; Employees: 154; References: 0
  
 Retargeting | Marketing analytics
  
@@ -8486,7 +8486,7 @@ Retargeting | Marketing analytics
  
 #### [Sailthru](http://sailthru.com) 
  
-*Founded: 2008; Region: United States, New York; Employees: 194; References: *
+Founded: 2008; Region: United States, New York; Employees: 194; References: 0
  
 Recommendation engine
  
@@ -8500,7 +8500,7 @@ Recommendation engine
  
 #### [Gnip](http://www.gnip.com) 
  
-*Founded: 2008; Region: United States, Colorado; Employees: 15; References: *
+Founded: 2008; Region: United States, Colorado; Employees: 15; References: 0
  
 Social analytics & automation | Social listening & ticketing
  
@@ -8514,7 +8514,7 @@ Social analytics & automation | Social listening & ticketing
  
 #### [Vendasta Technologies](http://www.vendasta.com) 
  
-*Founded: 2008; Region: Canada, Saskatchewan; Employees: 253; References: *
+Founded: 2008; Region: Canada, Saskatchewan; Employees: 253; References: 0
  
 Marketing analytics | Social media monitoring
  
@@ -8528,7 +8528,7 @@ Marketing analytics | Social media monitoring
  
 #### [TrustYou](http://www.trustyou.com) 
  
-*Founded: 2008; Region: United States, Texas; Employees: 96; References: *
+Founded: 2008; Region: United States, Texas; Employees: 96; References: 0
  
 Social analytics & automation
  
@@ -8542,7 +8542,7 @@ Social analytics & automation
  
 #### [Socialbakers](http://www.socialbakers.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 375; References: *
+Founded: 2008; Region: United States, California; Employees: 375; References: 0
  
 Marketing analytics
  
@@ -8556,7 +8556,7 @@ Marketing analytics
  
 #### [Bitly](http://bitly.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 75; References: *
+Founded: 2008; Region: United States, California; Employees: 75; References: 0
  
 Marketing analytics
  
@@ -8570,7 +8570,7 @@ Marketing analytics
  
 #### [Dataminr](http://www.dataminr.com) 
  
-*Founded: 2009; Region: United States, New York; Employees: 240; References: *
+Founded: 2009; Region: United States, New York; Employees: 240; References: 1
  
 Social media monitoring | Social media optimization | Analytics platform | Data gathering
  
@@ -8584,7 +8584,7 @@ Social media monitoring | Social media optimization | Analytics platform | Data 
  
 #### [SocialFlow](http://www.socialflow.com) 
  
-*Founded: 2009; Region: United States, New York; Employees: 63; References: *
+Founded: 2009; Region: United States, New York; Employees: 63; References: 2
  
 Social media optimization
  
@@ -8598,7 +8598,7 @@ Social media optimization
  
 #### [BloomReach](http://www.bloomreach.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 245; References: *
+Founded: 2009; Region: United States, California; Employees: 245; References: 5
  
 Recommendation engine | Merchandising optimization
  
@@ -8612,7 +8612,7 @@ Recommendation engine | Merchandising optimization
  
 #### [TellApart](http://www.tellapart.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 0; References: *
+Founded: 2009; Region: United States, California; Employees: 0; References: 0
  
 Retargeting | Email Marketing
  
@@ -8626,7 +8626,7 @@ Retargeting | Email Marketing
  
 #### [Gravity](http://www.gravity.com/) 
  
-*Founded: 2009; Region: United States, California; Employees: 0; References: *
+Founded: 2009; Region: United States, California; Employees: 0; References: 0
  
 Recommendation engine
  
@@ -8640,7 +8640,7 @@ Recommendation engine
  
 #### [Integral Ad Science](http://www.integralads.com) 
  
-*Founded: 2009; Region: United States, New York; Employees: 500; References: *
+Founded: 2009; Region: United States, New York; Employees: 500; References: 0
  
 Marketing analytics | Context aware marketing
  
@@ -8654,7 +8654,7 @@ Marketing analytics | Context aware marketing
  
 #### [Sociomantic Labs](http://www.sociomantic.com) 
  
-*Founded: 2009; Region: Germany, Berlin; Employees: 300; References: *
+Founded: 2009; Region: Germany, Berlin; Employees: 300; References: 0
  
 Recommendation engine
  
@@ -8668,7 +8668,7 @@ Recommendation engine
  
 #### [dataxu](http://www.dataxu.com) 
  
-*Founded: 2009; Region: United States, Massachusetts; Employees: 380; References: *
+Founded: 2009; Region: United States, Massachusetts; Employees: 380; References: 0
  
 Marketing analytics
  
@@ -8682,7 +8682,7 @@ Marketing analytics
  
 #### [LiveIntent](http://liveintent.com) 
  
-*Founded: 2009; Region: United States, New York; Employees: 215; References: *
+Founded: 2009; Region: United States, New York; Employees: 215; References: 0
  
 Email Marketing
  
@@ -8696,7 +8696,7 @@ Email Marketing
  
 #### [Optimizely](http://optimizely.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 460; References: *
+Founded: 2009; Region: United States, California; Employees: 460; References: 0
  
 Recommendation engine
  
@@ -8710,7 +8710,7 @@ Recommendation engine
  
 #### [Blueknow](http://www.blueknow.com) 
  
-*Founded: 2009; Region: Spain, Catalonia; Employees: 16; References: *
+Founded: 2009; Region: Spain, Catalonia; Employees: 16; References: 0
  
 Recommendation engine | Email Marketing
  
@@ -8724,7 +8724,7 @@ Recommendation engine | Email Marketing
  
 #### [Talkwalker](http://www.talkwalker.com) 
  
-*Founded: 2009; Region: Luxembourg, Luxembourg; Employees: 140; References: *
+Founded: 2009; Region: Luxembourg, Luxembourg; Employees: 140; References: 0
  
 Social analytics & automation | Social media monitoring | Social media optimization | Social listening & ticketing
  
@@ -8738,7 +8738,7 @@ Social analytics & automation | Social media monitoring | Social media optimizat
  
 #### [Barilliance](http://www.barilliance.com) 
  
-*Founded: 2009; Region: Israel, Tel Aviv; Employees: 0; References: *
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 0; References: 0
  
 Retargeting | Recommendation engine | Website Personalization
  
@@ -8752,7 +8752,7 @@ Retargeting | Recommendation engine | Website Personalization
  
 #### [Hager Environmental & Atmospheric Technologies](http://heatremotesensing.com) 
  
-*Founded: 2009; Region: United States, Tennessee; Employees: 6; References: *
+Founded: 2009; Region: United States, Tennessee; Employees: 6; References: 0
  
 Image tagging to improve product discovery
  
@@ -8766,7 +8766,7 @@ Image tagging to improve product discovery
  
 #### [Affectiva](http://www.affectiva.com) 
  
-*Founded: 2009; Region: United States, Massachusetts; Employees: 75; References: *
+Founded: 2009; Region: United States, Massachusetts; Employees: 75; References: 0
  
 Emotion Recognition
  
@@ -8780,7 +8780,7 @@ Emotion Recognition
  
 #### [TapClicks](http://www.tapclicks.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 75; References: *
+Founded: 2009; Region: United States, California; Employees: 75; References: 0
  
 Marketing analytics
  
@@ -8794,7 +8794,7 @@ Marketing analytics
  
 #### [Clicksco](http://clicksco.com/) 
  
-*Founded: 2009; Region: United Kingdom, England; Employees: 0; References: *
+Founded: 2009; Region: United Kingdom, England; Employees: 0; References: 0
  
 Marketing analytics
  
@@ -8808,7 +8808,7 @@ Marketing analytics
  
 #### [ADmantX](http://www.admantx.com) 
  
-*Founded: 2010; Region: United States, Connecticut; Employees: 19; References: *
+Founded: 2010; Region: United States, Connecticut; Employees: 19; References: 3
  
 Context aware marketing
  
@@ -8822,7 +8822,7 @@ Context aware marketing
  
 #### [Trax Image Recognition](http://traxretail.com/) 
  
-*Founded: 2010; Region: Singapore, Central Singapore; Employees: 0; References: *
+Founded: 2010; Region: Singapore, Central Singapore; Employees: 0; References: 1
  
 Shelf audit/analytics
  
@@ -8836,7 +8836,7 @@ Shelf audit/analytics
  
 #### [Nanigans](http://www.nanigans.com) 
  
-*Founded: 2010; Region: United States, Massachusetts; Employees: 0; References: *
+Founded: 2010; Region: United States, Massachusetts; Employees: 0; References: 1
  
 Retargeting
  
@@ -8850,7 +8850,7 @@ Retargeting
  
 #### [BlueConic](http://www.BlueConic.com) 
  
-*Founded: 2010; Region: United States, Massachusetts; Employees: 41; References: *
+Founded: 2010; Region: United States, Massachusetts; Employees: 41; References: 2
  
 Retargeting
  
@@ -8864,7 +8864,7 @@ Retargeting
  
 #### [Tinyclues](http://www.tinyclues.com) 
  
-*Founded: 2010; Region: France, Île-de-France; Employees: 54; References: *
+Founded: 2010; Region: France, Île-de-France; Employees: 54; References: 4
  
 Retargeting | Recommendation engine | Omnichannel
  
@@ -8878,7 +8878,7 @@ Retargeting | Recommendation engine | Omnichannel
  
 #### [Drawbridge](http://www.drawbridge.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 169; References: *
+Founded: 2010; Region: United States, California; Employees: 169; References: 2
  
 Retargeting | Marketing analytics | Omnichannel
  
@@ -8892,7 +8892,7 @@ Retargeting | Marketing analytics | Omnichannel
  
 #### [SmarterHQ](http://www.smarterhq.com) 
  
-*Founded: 2010; Region: United States, Indiana; Employees: 73; References: *
+Founded: 2010; Region: United States, Indiana; Employees: 73; References: 8
  
 Recommendation engine | Omnichannel | Email Marketing
  
@@ -8906,7 +8906,7 @@ Recommendation engine | Omnichannel | Email Marketing
  
 #### [iSENTIUM](http://www.isentium.com) 
  
-*Founded: 2010; Region: United States, Florida; Employees: 15; References: *
+Founded: 2010; Region: United States, Florida; Employees: 15; References: 0
  
 Social media monitoring | Financial Analytics Platform | Data gathering
  
@@ -8920,7 +8920,7 @@ Social media monitoring | Financial Analytics Platform | Data gathering
  
 #### [Full Circle Insights](http://fullcircleinsights.com/) 
  
-*Founded: 2010; Region: United States, California; Employees: 47; References: *
+Founded: 2010; Region: United States, California; Employees: 47; References: 0
  
 Marketing analytics | Predictive sales
  
@@ -8934,7 +8934,7 @@ Marketing analytics | Predictive sales
  
 #### [Moat](http://www.moat.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 299; References: *
+Founded: 2010; Region: United States, New York; Employees: 299; References: 0
  
 Marketing analytics
  
@@ -8948,7 +8948,7 @@ Marketing analytics
  
 #### [Tapad](http://www.tapad.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 211; References: *
+Founded: 2010; Region: United States, New York; Employees: 211; References: 0
  
 Omnichannel
  
@@ -8962,7 +8962,7 @@ Omnichannel
  
 #### [Qubit](http://www.qubit.com) 
  
-*Founded: 2010; Region: United Kingdom, England; Employees: 250; References: *
+Founded: 2010; Region: United Kingdom, England; Employees: 250; References: 0
  
 Recommendation engine
  
@@ -8976,7 +8976,7 @@ Recommendation engine
  
 #### [CustomerAdvocacy.com](http://www.customeradvocacy.com) 
  
-*Founded: 2010; Region: United States, Virginia; Employees: 0; References: *
+Founded: 2010; Region: United States, Virginia; Employees: 0; References: 0
  
 Advocacy & Loyalty Marketing
  
@@ -8990,7 +8990,7 @@ Advocacy & Loyalty Marketing
  
 #### [Movable Ink](http://movableink.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 0; References: *
+Founded: 2010; Region: United States, New York; Employees: 0; References: 0
  
 Email Marketing
  
@@ -9004,7 +9004,7 @@ Email Marketing
  
 #### [DataSift](http://www.datasift.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 70; References: *
+Founded: 2010; Region: United States, California; Employees: 70; References: 0
  
 Social analytics & automation | Social media monitoring | Social listening & ticketing
  
@@ -9018,7 +9018,7 @@ Social analytics & automation | Social media monitoring | Social listening & tic
  
 #### [SimpleReach](http://simplereach.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 75; References: *
+Founded: 2010; Region: United States, California; Employees: 75; References: 0
  
 Merchandising optimization
  
@@ -9032,7 +9032,7 @@ Merchandising optimization
  
 #### [Conductrics](http://www.conductrics.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 5; References: *
+Founded: 2010; Region: United States, California; Employees: 5; References: 0
  
 Website Personalization
  
@@ -9046,7 +9046,7 @@ Website Personalization
  
 #### [DigitalMR](http://www.digital-mr.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 5; References: *
+Founded: 2010; Region: United States, California; Employees: 5; References: 0
  
 Social analytics & automation
  
@@ -9060,7 +9060,7 @@ Social analytics & automation
  
 #### [Supermetrics](http://supermetrics.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 5; References: *
+Founded: 2010; Region: United States, California; Employees: 5; References: 0
  
 Marketing analytics
  
@@ -9074,7 +9074,7 @@ Marketing analytics
  
 #### [Kapost](http://kapost.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 375; References: *
+Founded: 2010; Region: United States, California; Employees: 375; References: 0
  
 Marketing analytics
  
@@ -9088,7 +9088,7 @@ Marketing analytics
  
 #### [Simply Measured](http://simplymeasured.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 175; References: *
+Founded: 2010; Region: United States, California; Employees: 175; References: 0
  
 Marketing analytics
  
@@ -9102,7 +9102,7 @@ Marketing analytics
  
 #### [Lytics](http://lytics.ai/) 
  
-*Founded: 2011; Region: Sweden, Skåne; Employees: 4; References: *
+Founded: 2011; Region: Sweden, Skåne; Employees: 4; References: 0
  
 Marketing analytics | Website Personalization | Email Marketing
  
@@ -9116,7 +9116,7 @@ Marketing analytics | Website Personalization | Email Marketing
  
 #### [AirPR](http://www.airpr.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 31; References: *
+Founded: 2011; Region: United States, California; Employees: 31; References: 2
  
 PR analytics
  
@@ -9130,7 +9130,7 @@ PR analytics
  
 #### [Fellow Robots](http://www.fellowrobots.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 19; References: *
+Founded: 2011; Region: United States, California; Employees: 19; References: 3
  
 Shelf audit/analytics
  
@@ -9144,7 +9144,7 @@ Shelf audit/analytics
  
 #### [Dynamic Yield](https://www.dynamicyield.com) 
  
-*Founded: 2011; Region: United States, New York; Employees: 129; References: *
+Founded: 2011; Region: United States, New York; Employees: 129; References: 6
  
 Retargeting | Recommendation engine | Context aware marketing | Mobile Marketing | Website Personalization | Omnichannel | Email Marketing | Advocacy & Loyalty Marketing
  
@@ -9158,7 +9158,7 @@ Retargeting | Recommendation engine | Context aware marketing | Mobile Marketing
  
 #### [Retention Science](http://retentionscience.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 44; References: *
+Founded: 2011; Region: United States, California; Employees: 44; References: 3
  
 Recommendation engine | Marketing analytics | Omnichannel
  
@@ -9172,7 +9172,7 @@ Recommendation engine | Marketing analytics | Omnichannel
  
 #### [Kahuna](http://www.kahuna.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 80; References: *
+Founded: 2011; Region: United States, California; Employees: 80; References: 3
  
 Omnichannel
  
@@ -9186,7 +9186,7 @@ Omnichannel
  
 #### [PurePredictive](http://www.purepredictive.com/) 
  
-*Founded: 2011; Region: United States, Utah; Employees: 0; References: *
+Founded: 2011; Region: United States, Utah; Employees: 0; References: 0
  
 Marketing analytics | Analytics platform
  
@@ -9200,7 +9200,7 @@ Marketing analytics | Analytics platform
  
 #### [Lucena Research](http://lucenaresearch.com) 
  
-*Founded: 2011; Region: United States, Georgia; Employees: 9; References: *
+Founded: 2011; Region: United States, Georgia; Employees: 9; References: 0
  
 3rd party data | Financial Analytics Platform
  
@@ -9214,7 +9214,7 @@ Marketing analytics | Analytics platform
  
 #### [Cortical.io](http://www.cortical.io) 
  
-*Founded: 2011; Region: Austria, Vienna; Employees: 15; References: *
+Founded: 2011; Region: Austria, Vienna; Employees: 15; References: 0
  
 Recommendation engine | Social media monitoring | Customer service response suggestions | Natural Language Processing library/SDK/API | Regulatory compliance | Data gathering
  
@@ -9228,7 +9228,7 @@ Recommendation engine | Social media monitoring | Customer service response sugg
  
 #### [Jetlore](http://www.jetlore.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 34; References: *
+Founded: 2011; Region: United States, California; Employees: 34; References: 0
  
 Recommendation engine | Marketing analytics
  
@@ -9242,7 +9242,7 @@ Recommendation engine | Marketing analytics
  
 #### [Nosto](http://www.nosto.com) 
  
-*Founded: 2011; Region: Finland, Uusimaa; Employees: 100; References: *
+Founded: 2011; Region: Finland, Uusimaa; Employees: 100; References: 0
  
 Recommendation engine
  
@@ -9256,7 +9256,7 @@ Recommendation engine
  
 #### [Chatmeter](http://www.chatmeter.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 33; References: *
+Founded: 2011; Region: United States, California; Employees: 33; References: 0
  
 Social analytics & automation | Survey & review analytics
  
@@ -9270,7 +9270,7 @@ Social analytics & automation | Survey & review analytics
  
 #### [YouAppi](http://www.youappi.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 75; References: *
+Founded: 2011; Region: United States, California; Employees: 75; References: 0
  
 Mobile Marketing
  
@@ -9284,7 +9284,7 @@ Mobile Marketing
  
 #### [Unbxd](http://www.unbxd.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Product Information Management
  
@@ -9298,7 +9298,7 @@ Product Information Management
  
 #### [Looker](http://looker.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 375; References: *
+Founded: 2011; Region: United States, California; Employees: 375; References: 0
  
 Marketing analytics | Analytics platform
  
@@ -9312,7 +9312,7 @@ Marketing analytics | Analytics platform
  
 #### [Boxever](http://www.boxever.com) 
  
-*Founded: 2011; Region: Ireland, Leinster; Employees: 75; References: *
+Founded: 2011; Region: Ireland, Leinster; Employees: 75; References: 0
  
 Omnichannel
  
@@ -9326,7 +9326,7 @@ Omnichannel
  
 #### [Gnowit](http://www.gnowit.com) 
  
-*Founded: 2011; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2011; Region: Canada, Ontario; Employees: 5; References: 0
  
 Social media monitoring
  
@@ -9340,7 +9340,7 @@ Social media monitoring
  
 #### [WebyClip](http://www.webyclip.com/) 
  
-*Founded: 2011; Region: Israel, Tel Aviv; Employees: 5; References: *
+Founded: 2011; Region: Israel, Tel Aviv; Employees: 5; References: 0
  
 Image tagging to improve product discovery
  
@@ -9354,7 +9354,7 @@ Image tagging to improve product discovery
  
 #### [Wibbitz](http://www.wibbitz.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 75; References: *
+Founded: 2011; Region: United States, California; Employees: 75; References: 0
  
 Content Generation
  
@@ -9368,7 +9368,7 @@ Content Generation
  
 #### [Appforma](http://www.appforma.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Social media monitoring
  
@@ -9382,7 +9382,7 @@ Social media monitoring
  
 #### [Sensum](http://www.sensum.co) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Emotion Recognition
  
@@ -9396,7 +9396,7 @@ Emotion Recognition
  
 #### [Percolate](http://percolate.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 175; References: *
+Founded: 2011; Region: United States, California; Employees: 175; References: 0
  
 Marketing analytics
  
@@ -9410,7 +9410,7 @@ Marketing analytics
  
 #### [Bizible](http://bizible.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 175; References: *
+Founded: 2011; Region: United States, California; Employees: 175; References: 0
  
 Marketing analytics
  
@@ -9424,7 +9424,7 @@ Marketing analytics
  
 #### [Segment](http://segment.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 175; References: *
+Founded: 2011; Region: United States, California; Employees: 175; References: 0
  
 Marketing analytics
  
@@ -9438,7 +9438,7 @@ Marketing analytics
  
 #### [BirdEye](http://birdeye.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 130; References: *
+Founded: 2012; Region: United States, California; Employees: 130; References: 1
  
 Social analytics & automation | Survey & review analytics | Social listening & ticketing
  
@@ -9452,7 +9452,7 @@ Social analytics & automation | Survey & review analytics | Social listening & t
  
 #### [import.io](https://import.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 35; References: *
+Founded: 2012; Region: United States, California; Employees: 35; References: 2
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -9466,7 +9466,7 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
 #### [SalesChoice](http://www.saleschoice.com) 
  
-*Founded: 2012; Region: Canada, Ontario; Employees: 15; References: *
+Founded: 2012; Region: Canada, Ontario; Employees: 15; References: 2
  
 Pricing optimization | Predictive sales | Sales forecasting | Sales rep next action suggestions | Prescriptive sales | Natural Language Processing library/SDK/API | Deep learning library/SDK/API
  
@@ -9480,7 +9480,7 @@ Pricing optimization | Predictive sales | Sales forecasting | Sales rep next act
  
 #### [BrightFunnel](http://www.brightfunnel.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 44; References: *
+Founded: 2012; Region: United States, California; Employees: 44; References: 3
  
 Marketing analytics | Sales forecasting | Sales attribution
  
@@ -9494,7 +9494,7 @@ Marketing analytics | Sales forecasting | Sales attribution
  
 #### [Datorama](http://datorama.com) 
  
-*Founded: 2012; Region: United States, New York; Employees: 202; References: *
+Founded: 2012; Region: United States, New York; Employees: 202; References: 4
  
 Marketing analytics
  
@@ -9508,7 +9508,7 @@ Marketing analytics
  
 #### [boomtrain](http://boomtrain.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 82; References: *
+Founded: 2012; Region: United States, California; Employees: 82; References: 2
  
 Recommendation engine | Omnichannel | Email Marketing
  
@@ -9522,7 +9522,7 @@ Recommendation engine | Omnichannel | Email Marketing
  
 #### [Youneeq](http://www.youneeq.ca) 
  
-*Founded: 2012; Region: Canada, British Columbia; Employees: 8; References: *
+Founded: 2012; Region: Canada, British Columbia; Employees: 8; References: 0
  
 Recommendation engine | Social analytics & automation | Marketing analytics | Context aware marketing | Mobile Marketing | Merchandising optimization | Website Personalization | Advocacy & Loyalty Marketing | 3rd party data
  
@@ -9536,7 +9536,7 @@ Recommendation engine | Social analytics & automation | Marketing analytics | Co
  
 #### [Arimo](https://arimo.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 37; References: *
+Founded: 2012; Region: United States, California; Employees: 37; References: 1
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -9550,7 +9550,7 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
 #### [Reflektion](http://www.reflektion.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 68; References: *
+Founded: 2012; Region: United States, California; Employees: 68; References: 5
  
 Recommendation engine | Visual search capability | Email Marketing
  
@@ -9564,7 +9564,7 @@ Recommendation engine | Visual search capability | Email Marketing
  
 #### [ViSenze](http://www.visenze.com) 
  
-*Founded: 2012; Region: Singapore, Central Singapore; Employees: 53; References: *
+Founded: 2012; Region: Singapore, Central Singapore; Employees: 53; References: 3
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Video commerce | Image recognition library/SDK/API
  
@@ -9578,7 +9578,7 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
 #### [Ematic Solutions](http://www.ematicsolutions.com/) 
  
-*Founded: 2012; Region: Indonesia, Jakarta; Employees: 90; References: *
+Founded: 2012; Region: Indonesia, Jakarta; Employees: 90; References: 0
  
 Retargeting | Email Marketing
  
@@ -9592,7 +9592,7 @@ Retargeting | Email Marketing
  
 #### [Persado](http://www.persado.com/) 
  
-*Founded: 2012; Region: United States, New York; Employees: 227; References: *
+Founded: 2012; Region: United States, New York; Employees: 227; References: 0
  
 Omnichannel
  
@@ -9606,7 +9606,7 @@ Omnichannel
  
 #### [Salsify](http://salsify.com) 
  
-*Founded: 2012; Region: United States, Massachusetts; Employees: 169; References: *
+Founded: 2012; Region: United States, Massachusetts; Employees: 169; References: 1
  
 Product Information Management
  
@@ -9620,7 +9620,7 @@ Product Information Management
  
 #### [Akeneo](http://www.akeneo.com) 
  
-*Founded: 2012; Region: France, Pays de la Loire; Employees: 72; References: *
+Founded: 2012; Region: France, Pays de la Loire; Employees: 72; References: 1
  
 Product Information Management
  
@@ -9634,7 +9634,7 @@ Product Information Management
  
 #### [Beyond Verbal](http://beyondverbal.com) 
  
-*Founded: 2012; Region: Israel, Tel Aviv; Employees: 26; References: *
+Founded: 2012; Region: Israel, Tel Aviv; Employees: 26; References: 0
  
 Emotion Recognition
  
@@ -9648,7 +9648,7 @@ Emotion Recognition
  
 #### [Wiser Solutions, Inc.](http://www.wiser.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 130; References: *
+Founded: 2012; Region: United States, California; Employees: 130; References: 0
  
 Pricing optimization | Merchandising optimization
  
@@ -9662,7 +9662,7 @@ Pricing optimization | Merchandising optimization
  
 #### [kmoEye](http://www.kmoeye.com/) 
  
-*Founded: 2012; Region: Israel, Haifa; Employees: 6; References: *
+Founded: 2012; Region: Israel, Haifa; Employees: 6; References: 0
  
 Image tagging to improve product discovery
  
@@ -9676,7 +9676,7 @@ Image tagging to improve product discovery
  
 #### [Ubimo](http://www.ubimo.com) 
  
-*Founded: 2012; Region: United States, New York; Employees: 25; References: *
+Founded: 2012; Region: United States, New York; Employees: 25; References: 0
  
 Marketing analytics
  
@@ -9690,7 +9690,7 @@ Marketing analytics
  
 #### [Adello Inc](http://www.adello.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics
  
@@ -9704,7 +9704,7 @@ Marketing analytics
  
 #### [Wriber](http://wriber.com) 
  
-*Founded: 2012; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2012; Region: Canada, Ontario; Employees: 5; References: 0
  
 Context aware marketing
  
@@ -9718,7 +9718,7 @@ Context aware marketing
  
 #### [Kimera Systems](http://kimera.ai/) 
  
-*Founded: 2012; Region: United States, Oregon; Employees: 5; References: *
+Founded: 2012; Region: United States, Oregon; Employees: 5; References: 0
  
 Retargeting
  
@@ -9732,7 +9732,7 @@ Retargeting
  
 #### [Semusi](http://www.semusi.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 5; References: *
+Founded: 2012; Region: United States, California; Employees: 5; References: 0
  
 Context aware marketing
  
@@ -9746,7 +9746,7 @@ Context aware marketing
  
 #### [LikeWhere](http://business.likewhere.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 5; References: *
+Founded: 2012; Region: United States, California; Employees: 5; References: 0
  
 Context aware marketing
  
@@ -9760,7 +9760,7 @@ Context aware marketing
  
 #### [Paletly](http://paletly.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 5; References: *
+Founded: 2012; Region: United States, California; Employees: 5; References: 0
  
 Visual search capability
  
@@ -9774,7 +9774,7 @@ Visual search capability
  
 #### [Emotient](http://emotient.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 0; References: *
+Founded: 2012; Region: United States, California; Employees: 0; References: 0
  
 Emotion Recognition
  
@@ -9788,7 +9788,7 @@ Emotion Recognition
  
 #### [Tamr](http://www.tamr.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics | Data Transformation
  
@@ -9802,7 +9802,7 @@ Marketing analytics | Data Transformation
  
 #### [Curalate](http://curalate.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 175; References: *
+Founded: 2012; Region: United States, California; Employees: 175; References: 0
  
 Recommendation engine
  
@@ -9816,7 +9816,7 @@ Recommendation engine
  
 #### [Qloo](http://www.qloo.com) 
  
-*Founded: 2012; Region: United States, New York; Employees: 25; References: *
+Founded: 2012; Region: United States, New York; Employees: 25; References: 0
  
 Recommendation engine | Marketing analytics | Context aware marketing | Merchandising optimization | Website Personalization | Omnichannel | Content Generation | Geo-analytics platform | Driving assistant
  
@@ -9830,7 +9830,7 @@ Recommendation engine | Marketing analytics | Context aware marketing | Merchand
  
 #### [AdStage](https://www.adstage.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics
  
@@ -9844,7 +9844,7 @@ Marketing analytics
  
 #### [Cyfe](http://www.cyfe.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 0; References: *
+Founded: 2012; Region: United States, California; Employees: 0; References: 0
  
 Marketing analytics
  
@@ -9858,7 +9858,7 @@ Marketing analytics
  
 #### [Kairos AR](https://www.kairos.com) 
  
-*Founded: 2012; Region: United States, Florida; Employees: 25; References: *
+Founded: 2012; Region: United States, Florida; Employees: 25; References: 0
  
 Emotion Recognition | Data labeling
  
@@ -9872,7 +9872,7 @@ Emotion Recognition | Data labeling
  
 #### [Hookit.cc](http://hookit.cc) 
  
-*Founded: 2012; Region: United States, California; Employees: 5; References: *
+Founded: 2012; Region: United States, California; Employees: 5; References: 0
  
 Recommendation engine
  
@@ -9886,7 +9886,7 @@ Recommendation engine
  
 #### [Intelligence Node](http://www.intelligencenode.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 75; References: *
+Founded: 2012; Region: United States, California; Employees: 75; References: 0
  
 Merchandising optimization
  
@@ -9900,7 +9900,7 @@ Merchandising optimization
  
 #### [Celect](http://celect.com) 
  
-*Founded: 2013; Region: United States, Massachusetts; Employees: 41; References: *
+Founded: 2013; Region: United States, Massachusetts; Employees: 41; References: 1
  
 Recommendation engine | Pricing optimization | Merchandising optimization
  
@@ -9914,7 +9914,7 @@ Recommendation engine | Pricing optimization | Merchandising optimization
  
 #### [DigitalGenius](http://digitalgenius.com) 
  
-*Founded: 2013; Region: United Kingdom, England; Employees: 70; References: *
+Founded: 2013; Region: United Kingdom, England; Employees: 70; References: 1
  
 Recommendation engine | Social analytics & automation | Chatbot | Customer service response suggestions
  
@@ -9928,7 +9928,7 @@ Recommendation engine | Social analytics & automation | Chatbot | Customer servi
  
 #### [Antuit](http://www.antuit.com) 
  
-*Founded: 2013; Region: Singapore, Central Singapore; Employees: 178; References: *
+Founded: 2013; Region: Singapore, Central Singapore; Employees: 178; References: 2
  
 Recommendation engine | Social analytics & automation | Marketing analytics | Pricing optimization | Omnichannel | Customer contact analytics
  
@@ -9942,7 +9942,7 @@ Recommendation engine | Social analytics & automation | Marketing analytics | Pr
  
 #### [Clarifai](http://clarifai.com/) 
  
-*Founded: 2013; Region: United States, New York; Employees: 62; References: *
+Founded: 2013; Region: United States, New York; Employees: 62; References: 3
  
 Recommendation engine | Visual search capability | Image recognition library/SDK/API
  
@@ -9956,7 +9956,7 @@ Recommendation engine | Visual search capability | Image recognition library/SDK
  
 #### [Synetiq](http://synetiq.net) 
  
-*Founded: 2013; Region: Hungary, Budapest; Employees: 19; References: *
+Founded: 2013; Region: Hungary, Budapest; Employees: 19; References: 0
  
 Neuromarketing for pre-testing
  
@@ -9970,7 +9970,7 @@ Neuromarketing for pre-testing
  
 #### [Sightcorp](http://www.sightcorp.com) 
  
-*Founded: 2013; Region: Netherlands, North Holland; Employees: 17; References: *
+Founded: 2013; Region: Netherlands, North Holland; Employees: 17; References: 1
  
 Social analytics & automation | Deep learning library/SDK/API | Analytics platform
  
@@ -9984,7 +9984,7 @@ Social analytics & automation | Deep learning library/SDK/API | Analytics platfo
  
 #### [TasteHit](https://tastehit.com) 
  
-*Founded: 2013; Region: France, Île-de-France; Employees: 8; References: *
+Founded: 2013; Region: France, Île-de-France; Employees: 8; References: 0
  
 Recommendation engine | Merchandising optimization | Website Personalization
  
@@ -9998,7 +9998,7 @@ Recommendation engine | Merchandising optimization | Website Personalization
  
 #### [Socialdraft](http://socialdraft.com/) 
  
-*Founded: 2013; Region: United States, New York; Employees: 17; References: *
+Founded: 2013; Region: United States, New York; Employees: 17; References: 0
  
 Social media monitoring
  
@@ -10012,7 +10012,7 @@ Social media monitoring
  
 #### [TapReason](http://www.tapreason.com) 
  
-*Founded: 2013; Region: Israel, Haifa; Employees: 5; References: *
+Founded: 2013; Region: Israel, Haifa; Employees: 5; References: 0
  
 Mobile Marketing
  
@@ -10026,7 +10026,7 @@ Mobile Marketing
  
 #### [Interana](http://www.interana.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 75; References: *
+Founded: 2013; Region: United States, California; Employees: 75; References: 0
  
 Gesture Control
  
@@ -10040,7 +10040,7 @@ Gesture Control
  
 #### [Bright Info](http://www.brightinfo.com) 
  
-*Founded: 2013; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2013; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Website Personalization
  
@@ -10054,7 +10054,7 @@ Website Personalization
  
 #### [Segmanta](http://segmanta.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 5; References: *
+Founded: 2013; Region: United States, California; Employees: 5; References: 0
  
 Marketing analytics
  
@@ -10068,7 +10068,7 @@ Marketing analytics
  
 #### [Aspectiva](http://www.aspectiva.com) 
  
-*Founded: 2013; Region: Israel, Jerusalem; Employees: 25; References: *
+Founded: 2013; Region: Israel, Jerusalem; Employees: 25; References: 0
  
 Marketing analytics
  
@@ -10082,7 +10082,7 @@ Marketing analytics
  
 #### [Mashgin](http://www.mashgin.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 5; References: *
+Founded: 2013; Region: United States, California; Employees: 5; References: 0
  
 Cashierless checkout
  
@@ -10096,7 +10096,7 @@ Cashierless checkout
  
 #### [Mad Street Den](http://www.vue.ai) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Image tagging to improve product discovery
  
@@ -10110,7 +10110,7 @@ Image tagging to improve product discovery
  
 #### [ReSnap](http://www.resnap.com) 
  
-*Founded: 2013; Region: Netherlands, Gelderland; Employees: 25; References: *
+Founded: 2013; Region: Netherlands, Gelderland; Employees: 25; References: 0
  
 Visual search capability
  
@@ -10124,7 +10124,7 @@ Visual search capability
  
 #### [Revuze](http://www.revuze.it) 
  
-*Founded: 2013; Region: Israel, Central District; Employees: 5; References: *
+Founded: 2013; Region: Israel, Central District; Employees: 5; References: 0
  
 Marketing analytics
  
@@ -10138,7 +10138,7 @@ Marketing analytics
  
 #### [Vidora](http://www.vidora.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics
  
@@ -10152,7 +10152,7 @@ Marketing analytics
  
 #### [NextUser](http://www.nextuser.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Recommendation engine
  
@@ -10166,7 +10166,7 @@ Recommendation engine
  
 #### [TrendRadius](http://trendradius.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 5; References: *
+Founded: 2013; Region: United States, California; Employees: 5; References: 0
  
 Marketing analytics
  
@@ -10180,7 +10180,7 @@ Marketing analytics
  
 #### [Lumotune](http://www.lumotune.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Context aware marketing
  
@@ -10194,7 +10194,7 @@ Context aware marketing
  
 #### [Keyhole.co](http://keyhole.co) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics
  
@@ -10208,7 +10208,7 @@ Marketing analytics
  
 #### [Heap](http://heapanalytics.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -10222,7 +10222,7 @@ Marketing analytics | e-commerce analytics
  
 #### [ActionIQ](http://actioniq.com) 
  
-*Founded: 2014; Region: United States, New York; Employees: 37; References: *
+Founded: 2014; Region: United States, New York; Employees: 37; References: 2
  
 Marketing analytics | Analytics platform
  
@@ -10236,7 +10236,7 @@ Marketing analytics | Analytics platform
  
 #### [imagenii](http://www.imagenii.com) 
  
-*Founded: 2014; Region: United States, Texas; Employees: 0; References: *
+Founded: 2014; Region: United States, Texas; Employees: 0; References: 0
  
 Recommendation engine | Image recognition library/SDK/API
  
@@ -10250,7 +10250,7 @@ Recommendation engine | Image recognition library/SDK/API
  
 #### [Simbe Robotics](http://www.simberobotics.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 6; References: *
+Founded: 2014; Region: United States, California; Employees: 6; References: 0
  
 Shelf audit/analytics | Merchandising optimization
  
@@ -10264,7 +10264,7 @@ Shelf audit/analytics | Merchandising optimization
  
 #### [Singular Intelligence](http://www.singularintelligence.com/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 0; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 0; References: 1
  
 Pricing optimization | Predictive sales
  
@@ -10278,7 +10278,7 @@ Pricing optimization | Predictive sales
  
 #### [Crobox](http://crobox.com) 
  
-*Founded: 2014; Region: Netherlands, North Holland; Employees: 24; References: *
+Founded: 2014; Region: Netherlands, North Holland; Employees: 24; References: 0
  
 Recommendation engine
  
@@ -10292,7 +10292,7 @@ Recommendation engine
  
 #### [Findify](http://www.findify.io/) 
  
-*Founded: 2014; Region: Sweden, Stockholm; Employees: 11; References: *
+Founded: 2014; Region: Sweden, Stockholm; Employees: 11; References: 0
  
 Recommendation engine
  
@@ -10306,7 +10306,7 @@ Recommendation engine
  
 #### [ROIALTY](http://www.roialty.com/) 
  
-*Founded: 2014; Region: Italy, Lombardy; Employees: 0; References: *
+Founded: 2014; Region: Italy, Lombardy; Employees: 0; References: 0
  
 Social media monitoring
  
@@ -10320,7 +10320,7 @@ Social media monitoring
  
 #### [Deepomatic](http://www.deepomatic.com) 
  
-*Founded: 2014; Region: France, Île-de-France; Employees: 25; References: *
+Founded: 2014; Region: France, Île-de-France; Employees: 25; References: 0
  
 Image tagging to improve product discovery
  
@@ -10334,7 +10334,7 @@ Image tagging to improve product discovery
  
 #### [Faception](http://www.faception.com/) 
  
-*Founded: 2014; Region: Israel, Tel Aviv; Employees: 6; References: *
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 6; References: 0
  
 Image tagging to improve product discovery | Emotion Recognition
  
@@ -10348,7 +10348,7 @@ Image tagging to improve product discovery | Emotion Recognition
  
 #### [Imperson](http://imperson.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Retargeting
  
@@ -10362,7 +10362,7 @@ Retargeting
  
 #### [Spotad](http://www.spotad.co) 
  
-*Founded: 2014; Region: Israel, Central District; Employees: 45; References: *
+Founded: 2014; Region: Israel, Central District; Employees: 45; References: 0
  
 Mobile Marketing
  
@@ -10376,7 +10376,7 @@ Mobile Marketing
  
 #### [viisight](http://www.viisights.com) 
  
-*Founded: 2014; Region: Israel, Tel Aviv; Employees: 5; References: *
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 5; References: 0
  
 Image tagging to improve product discovery
  
@@ -10390,7 +10390,7 @@ Image tagging to improve product discovery
  
 #### [Funnel](https://funnel.io/) 
  
-*Founded: 2014; Region: Sweden, Stockholm; Employees: 0; References: *
+Founded: 2014; Region: Sweden, Stockholm; Employees: 0; References: 0
  
 Marketing analytics | e-commerce analytics
  
@@ -10404,7 +10404,7 @@ Marketing analytics | e-commerce analytics
  
 #### [Xesto](http://xesto.io) 
  
-*Founded: 2014; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2014; Region: Canada, Ontario; Employees: 5; References: 0
  
 Gesture Control
  
@@ -10418,7 +10418,7 @@ Gesture Control
  
 #### [Vispera](http://vispera.co/) 
  
-*Founded: 2014; Region: Turkey, Istanbul; Employees: 25; References: *
+Founded: 2014; Region: Turkey, Istanbul; Employees: 25; References: 0
  
 Image tagging to improve product discovery
  
@@ -10432,7 +10432,7 @@ Image tagging to improve product discovery
  
 #### [Synx](https://synx.co) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Merchandising optimization
  
@@ -10446,7 +10446,7 @@ Merchandising optimization
  
 #### [Blueshift](http://www.blueshift.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Recommendation engine
  
@@ -10460,7 +10460,7 @@ Recommendation engine
  
 #### [msg.ai](http://msg.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 40; References: *
+Founded: 2015; Region: United States, California; Employees: 40; References: 5
  
 Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Customer service response suggestions | Chatbot analytics
  
@@ -10474,7 +10474,7 @@ Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Custo
  
 #### [Phrasee](https://phrasee.co) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 20; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 20; References: 0
  
 Email Marketing
  
@@ -10488,7 +10488,7 @@ Email Marketing
  
 #### [Staqu Technologies](http://www.staqu.com/) 
  
-*Founded: 2015; Region: India, Haryana; Employees: 19; References: *
+Founded: 2015; Region: India, Haryana; Employees: 19; References: 0
  
 Recommendation engine | Image tagging to improve product discovery | Visual search capability | Image recognition library/SDK/API
  
@@ -10502,7 +10502,7 @@ Recommendation engine | Image tagging to improve product discovery | Visual sear
  
 #### [SendPulse](https://sendpulse.com) 
  
-*Founded: 2015; Region: United States, New York; Employees: 33; References: *
+Founded: 2015; Region: United States, New York; Employees: 33; References: 0
  
 Website Personalization | Omnichannel | Email Marketing
  
@@ -10516,7 +10516,7 @@ Website Personalization | Omnichannel | Email Marketing
  
 #### [Emteq](https://emteq.net) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 25; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 25; References: 0
  
 Emotion Recognition
  
@@ -10530,7 +10530,7 @@ Emotion Recognition
  
 #### [Recast.AI](https://recast.ai) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 25; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 25; References: 0
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
@@ -10544,7 +10544,7 @@ Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup au
  
 #### [Imagry](http://www.imagry.co) 
  
-*Founded: 2015; Region: United States, Ohio; Employees: 6; References: *
+Founded: 2015; Region: United States, Ohio; Employees: 6; References: 0
  
 Image tagging to improve product discovery | Deep learning library/SDK/API
  
@@ -10558,7 +10558,7 @@ Image tagging to improve product discovery | Deep learning library/SDK/API
  
 #### [AnyVision](http://anyvision.co) 
  
-*Founded: 2015; Region: Israel, Tel Aviv; Employees: 26; References: *
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 26; References: 0
  
 Image tagging to improve product discovery
  
@@ -10572,7 +10572,7 @@ Image tagging to improve product discovery
  
 #### [Voxedia](https://voxedia.com) 
  
-*Founded: 2015; Region: Canada, Quebec; Employees: 5; References: *
+Founded: 2015; Region: Canada, Quebec; Employees: 5; References: 0
  
 Context aware marketing
  
@@ -10586,7 +10586,7 @@ Context aware marketing
  
 #### [Nuviad](http://nuviad.com/) 
  
-*Founded: 2015; Region: Israel, Central District; Employees: 0; References: *
+Founded: 2015; Region: Israel, Central District; Employees: 0; References: 0
  
 Mobile Marketing
  
@@ -10600,7 +10600,7 @@ Mobile Marketing
  
 #### [Bigabid](http://www.bigabid.com/) 
  
-*Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Mobile Marketing
  
@@ -10614,7 +10614,7 @@ Mobile Marketing
  
 #### [Vault](http://www.vaultml.com) 
  
-*Founded: 2015; Region: Israel, Tel Aviv; Employees: 0; References: *
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 0; References: 0
  
 Marketing analytics | Financial Analytics Platform
  
@@ -10628,7 +10628,7 @@ Marketing analytics | Financial Analytics Platform
  
 #### [Competitoor](https://competitoor.com/) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 5; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 5; References: 0
  
 Pricing optimization
  
@@ -10642,7 +10642,7 @@ Pricing optimization
  
 #### [Foodvisor](http://www.foodvisor.io) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 5; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 5; References: 0
  
 Image tagging to improve product discovery
  
@@ -10656,7 +10656,7 @@ Image tagging to improve product discovery
  
 #### [Artifacia](http://www.artifacia.com/) 
  
-*Founded: 2015; Region: United States, California; Employees: 25; References: *
+Founded: 2015; Region: United States, California; Employees: 25; References: 0
  
 Image tagging to improve product discovery
  
@@ -10670,7 +10670,7 @@ Image tagging to improve product discovery
  
 #### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-*Founded: 2015; Region: India, Maharashtra; Employees: 25; References: *
+Founded: 2015; Region: India, Maharashtra; Employees: 25; References: 0
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -10684,7 +10684,7 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
 #### [Thread Genius](http://threadgenius.co) 
  
-*Founded: 2015; Region: United States, New York; Employees: 5; References: *
+Founded: 2015; Region: United States, New York; Employees: 5; References: 0
  
 Recommendation engine | Visual search capability
  
@@ -10698,7 +10698,7 @@ Recommendation engine | Visual search capability
  
 #### [XXII GROUP](http://www.xxii.fr) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 75; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 75; References: 0
  
 Emotion Recognition
  
@@ -10712,7 +10712,7 @@ Emotion Recognition
  
 #### [Cien](https://www.cien.ai) 
  
-*Founded: 2016; Region: United States, Texas; Employees: 32; References: *
+Founded: 2016; Region: United States, Texas; Employees: 32; References: 4
  
 Marketing analytics | Predictive sales | Sales data input automation | Sales forecasting | Customer sales contact analytics | Sales rep next action suggestions | Prescriptive sales | Sales attribution | Sales compensation
  
@@ -10726,7 +10726,7 @@ Marketing analytics | Predictive sales | Sales data input automation | Sales for
  
 #### [Automat](http://www.automat.ai/) 
  
-*Founded: 2016; Region: Canada, Quebec; Employees: 10; References: *
+Founded: 2016; Region: Canada, Quebec; Employees: 10; References: 0
  
 Marketing analytics | Omnichannel
  
@@ -10740,7 +10740,7 @@ Marketing analytics | Omnichannel
  
 #### [BrandTotal](https://www.brandtotal.com) 
  
-*Founded: 2016; Region: Israel, Tel Aviv; Employees: 11; References: *
+Founded: 2016; Region: Israel, Tel Aviv; Employees: 11; References: 0
  
 Marketing analytics
  
@@ -10754,7 +10754,7 @@ Marketing analytics
  
 #### [Neowize](http://www.neowize.com/) 
  
-*Founded: 2016; Region: Israel, Tel Aviv; Employees: 5; References: *
+Founded: 2016; Region: Israel, Tel Aviv; Employees: 5; References: 0
  
 Marketing analytics
  
@@ -10768,7 +10768,7 @@ Marketing analytics
  
 #### [DeepPIXEL Inc.](http://www.deeppixel.ai) 
  
-*Founded: 2016; Region: Canada, Ontario; Employees: 8; References: *
+Founded: 2016; Region: Canada, Ontario; Employees: 8; References: 0
  
 Omnichannel | Chatbot | Customer service response suggestions
  
@@ -10782,7 +10782,7 @@ Omnichannel | Chatbot | Customer service response suggestions
  
 #### [CrowdAI](https://crowdai.com/) 
  
-*Founded: 2016; Region: United States, California; Employees: 0; References: *
+Founded: 2016; Region: United States, California; Employees: 0; References: 0
  
 Image tagging to improve product discovery
  
@@ -10796,7 +10796,7 @@ Image tagging to improve product discovery
  
 #### [Birds.ai](http://www.birds.ai) 
  
-*Founded: 2016; Region: Netherlands, South Holland; Employees: 5; References: *
+Founded: 2016; Region: Netherlands, South Holland; Employees: 5; References: 0
  
 Visual search capability
  
@@ -10810,7 +10810,7 @@ Visual search capability
  
 #### [Amplero](http://amplero.com/) 
  
-*Founded: 2016; Region: United States, Washington; Employees: 25; References: *
+Founded: 2016; Region: United States, Washington; Employees: 25; References: 0
  
 Marketing analytics
  
@@ -10824,7 +10824,7 @@ Marketing analytics
  
 #### [XIX.ai](http://xix.ai/) 
  
-*Founded: 2016; Region: United States, California; Employees: 0; References: *
+Founded: 2016; Region: United States, California; Employees: 0; References: 0
  
 Emotion Recognition
  
@@ -10838,7 +10838,7 @@ Emotion Recognition
  
 #### [Grokstyle](https://grokstyle.com/) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Visual search capability
  
@@ -10852,7 +10852,7 @@ Visual search capability
  
 #### [AmplifAI](http://amplifai.co/) 
  
-*Founded: 2017; Region: Israel, Tel Aviv; Employees: 0; References: *
+Founded: 2017; Region: Israel, Tel Aviv; Employees: 0; References: 0
  
 Image tagging to improve product discovery
  
@@ -10866,7 +10866,7 @@ Image tagging to improve product discovery
  
 #### [Standard Cognition](https://www.standardcognition.com/) 
  
-*Founded: 2017; Region: United States, California; Employees: 0; References: *
+Founded: 2017; Region: United States, California; Employees: 0; References: 0
  
 Cashierless checkout
  
@@ -10880,7 +10880,7 @@ Cashierless checkout
  
 #### [PlayFresco](http://playfresco.com) 
  
-*Founded: Unknown; Region: United States, California; Employees: 5; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 5; References: 0
  
 Gesture Control
  
@@ -10894,7 +10894,7 @@ Gesture Control
  
 #### [Muse.ai](https://muse.ai/) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Visual search capability
  
@@ -10910,7 +10910,7 @@ Visual search capability
  
 #### [Siemens](http://www.siemens.co.in/sts) 
  
-*Founded: 0; Region: Germany, Bavaria; Employees: 4116; References: *
+Founded: 0; Region: Germany, Bavaria; Employees: 4116; References: 0
  
 Predictive maintenance
  
@@ -10924,7 +10924,7 @@ Predictive maintenance
  
 #### [Clearpath Robotics](https://www.clearpathrobotics.com/) 
  
-*Founded: 0; Region: Canada, Ontario; Employees: 50; References: *
+Founded: 0; Region: Canada, Ontario; Employees: 50; References: 0
  
 Robotics
  
@@ -10938,7 +10938,7 @@ Robotics
  
 #### [Kindred.ai](https://www.kindred.ai) 
  
-*Founded: 0; Region: Canada, British Columbia; Employees: 44; References: *
+Founded: 0; Region: Canada, British Columbia; Employees: 44; References: 0
  
 Collaborative Robot
  
@@ -10952,7 +10952,7 @@ Collaborative Robot
  
 #### [Brain Corp](https://www.braincorp.com/) 
  
-*Founded: 0; Region: United States, California; Employees: 41; References: *
+Founded: 0; Region: United States, California; Employees: 41; References: 0
  
 Robotics
  
@@ -10966,7 +10966,7 @@ Robotics
  
 #### [OpenConnect](https://www.openconnect.com) 
  
-*Founded: 0; Region: United States, Texas; Employees: 44; References: *
+Founded: 0; Region: United States, Texas; Employees: 44; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -10980,7 +10980,7 @@ Robotic Process Automation (RPA)
  
 #### [Schneider Electric](http://www.schneider-electric.com) 
  
-*Founded: 1836; Region: France, Île-de-France; Employees: 60206; References: *
+Founded: 1836; Region: France, Île-de-France; Employees: 60206; References: 0
  
 Predictive maintenance
  
@@ -10994,7 +10994,7 @@ Predictive maintenance
  
 #### [Siemens AG](http://www.siemens.com) 
  
-*Founded: 1847; Region: Germany, Bavaria; Employees: 239028; References: *
+Founded: 1847; Region: Germany, Bavaria; Employees: 239028; References: 0
  
 Predictive maintenance
  
@@ -11008,7 +11008,7 @@ Predictive maintenance
  
 #### [Ingersoll Rand](http://company.ingersollrand.com/ircorp/en/index.html) 
  
-*Founded: 1871; Region: Ireland, Leinster; Employees: 26635; References: *
+Founded: 1871; Region: Ireland, Leinster; Employees: 26635; References: 0
  
 Predictive maintenance
  
@@ -11022,7 +11022,7 @@ Predictive maintenance
  
 #### [General Electric (GE)](http://www.ge.com) 
  
-*Founded: 1878; Region: United States, Connecticut; Employees: 230795; References: *
+Founded: 1878; Region: United States, Connecticut; Employees: 230795; References: 0
  
 Predictive maintenance
  
@@ -11036,7 +11036,7 @@ Predictive maintenance
  
 #### [Johnson Controls International](http://www.johnsoncontrols.com) 
  
-*Founded: 1885; Region: United States, Wisconsin; Employees: 2; References: *
+Founded: 1885; Region: United States, Wisconsin; Employees: 2; References: 0
  
 Predictive maintenance
  
@@ -11050,7 +11050,7 @@ Predictive maintenance
  
 #### [Bosch](http://www.bosch.com) 
  
-*Founded: 1886; Region: Germany, Baden-Württemberg; Employees: 93820; References: *
+Founded: 1886; Region: Germany, Baden-Württemberg; Employees: 93820; References: 0
  
 Predictive maintenance
  
@@ -11064,7 +11064,7 @@ Predictive maintenance
  
 #### [Rockwell Automation](http://www.rockwellautomation.com) 
  
-*Founded: 1903; Region: United States, Wisconsin; Employees: 19165; References: *
+Founded: 1903; Region: United States, Wisconsin; Employees: 19165; References: 0
  
 Predictive maintenance
  
@@ -11078,7 +11078,7 @@ Predictive maintenance
  
 #### [EATON](http://www.eaton.com) 
  
-*Founded: 1911; Region: United States, Ohio; Employees: 41673; References: *
+Founded: 1911; Region: United States, Ohio; Employees: 41673; References: 0
  
 Predictive maintenance
  
@@ -11092,7 +11092,7 @@ Predictive maintenance
  
 #### [FESTO](http://www.festo.com/net/startpage/) 
  
-*Founded: 1925; Region: Germany, Baden-Württemberg; Employees: 6058; References: *
+Founded: 1925; Region: Germany, Baden-Württemberg; Employees: 6058; References: 0
  
 Predictive maintenance
  
@@ -11106,7 +11106,7 @@ Predictive maintenance
  
 #### [SAS](http://www.sas.com) 
  
-*Founded: 1976; Region: United States, North Carolina; Employees: 23378; References: *
+Founded: 1976; Region: United States, North Carolina; Employees: 23378; References: 0
  
 Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
@@ -11120,7 +11120,7 @@ Marketing analytics | Predictive maintenance | Manufacturing Analytics
  
 #### [Oracle](http://oracle.com) 
  
-*Founded: 1977; Region: United States, California; Employees: 161264; References: *
+Founded: 1977; Region: United States, California; Employees: 161264; References: 0
  
 Predictive maintenance
  
@@ -11134,7 +11134,7 @@ Predictive maintenance
  
 #### [Northwest Analytics](http://www.nwasoft.com) 
  
-*Founded: 1980; Region: United States, Oregon; Employees: 33; References: *
+Founded: 1980; Region: United States, Oregon; Employees: 33; References: 0
  
 Predictive maintenance
  
@@ -11148,7 +11148,7 @@ Predictive maintenance
  
 #### [OSIsoft](http://www.osisoft.com) 
  
-*Founded: 1980; Region: United States, California; Employees: 1307; References: *
+Founded: 1980; Region: United States, California; Employees: 1307; References: 0
  
 Predictive maintenance
  
@@ -11162,7 +11162,7 @@ Predictive maintenance
  
 #### [Aspen Technology](http://www.aspentech.com) 
  
-*Founded: 1981; Region: United States, Massachusetts; Employees: 1710; References: *
+Founded: 1981; Region: United States, Massachusetts; Employees: 1710; References: 0
  
 Predictive maintenance
  
@@ -11176,7 +11176,7 @@ Predictive maintenance
  
 #### [Progress](https://www.progress.com) 
  
-*Founded: 1981; Region: United States, Massachusetts; Employees: 2923; References: *
+Founded: 1981; Region: United States, Massachusetts; Employees: 2923; References: 0
  
 Predictive maintenance
  
@@ -11190,7 +11190,7 @@ Predictive maintenance
  
 #### [Autodesk](http://www.autodesk.com) 
  
-*Founded: 1982; Region: United States, California; Employees: 9654; References: *
+Founded: 1982; Region: United States, California; Employees: 9654; References: 0
  
 Predictive maintenance
  
@@ -11204,7 +11204,7 @@ Predictive maintenance
  
 #### [Pegasystems](http://www.pega.com) 
  
-*Founded: 1983; Region: United States, Massachusetts; Employees: 3527; References: *
+Founded: 1983; Region: United States, Massachusetts; Employees: 3527; References: 1
  
 Robotic Process Automation (RPA) | Analytics platform
  
@@ -11218,7 +11218,7 @@ Robotic Process Automation (RPA) | Analytics platform
  
 #### [Sarcos](http://www.sarcos.com/) 
  
-*Founded: 1983; Region: United States, Utah; Employees: 50; References: *
+Founded: 1983; Region: United States, Utah; Employees: 50; References: 0
  
 Robotics
  
@@ -11232,7 +11232,7 @@ Robotics
  
 #### [Cisco](http://www.cisco.com) 
  
-*Founded: 1984; Region: United States, California; Employees: 87159; References: *
+Founded: 1984; Region: United States, California; Employees: 87159; References: 0
  
 Predictive maintenance
  
@@ -11246,7 +11246,7 @@ Predictive maintenance
  
 #### [Parametric Technology (PTC)](http://www.ptc.com) 
  
-*Founded: 1985; Region: United States, Massachusetts; Employees: 6268; References: *
+Founded: 1985; Region: United States, Massachusetts; Employees: 6268; References: 0
  
 Predictive maintenance
  
@@ -11260,7 +11260,7 @@ Predictive maintenance
  
 #### [Honeywell](http://www.honeywell.com) 
  
-*Founded: 1985; Region: United States, New Jersey; Employees: 107485; References: *
+Founded: 1985; Region: United States, New Jersey; Employees: 107485; References: 0
  
 Predictive maintenance
  
@@ -11274,7 +11274,7 @@ Predictive maintenance
  
 #### [NICE Systems](http://nice.com) 
  
-*Founded: 1986; Region: Israel, Central District; Employees: 4741; References: *
+Founded: 1986; Region: Israel, Central District; Employees: 4741; References: 1
  
 Intelligent call routing | Call analytics | Call intent discovery | Survey & review analytics | Customer service response suggestions | Customer contact analytics | Robotic Process Automation (RPA)
  
@@ -11288,7 +11288,7 @@ Intelligent call routing | Call analytics | Call intent discovery | Survey & rev
  
 #### [COPA-DATA](https://www.copadata.com/ja-jp) 
  
-*Founded: 1987; Region: Austria, Salzburg; Employees: 128; References: *
+Founded: 1987; Region: Austria, Salzburg; Employees: 128; References: 0
  
 Predictive maintenance
  
@@ -11302,7 +11302,7 @@ Predictive maintenance
  
 #### [ABB](http://www.abb.com) 
  
-*Founded: 1988; Region: Switzerland, Zurich; Employees: 87520; References: *
+Founded: 1988; Region: Switzerland, Zurich; Employees: 87520; References: 0
  
 Collaborative Robot
  
@@ -11316,7 +11316,7 @@ Collaborative Robot
  
 #### [IQMS](http://www.iqms.com) 
  
-*Founded: 1989; Region: United States, California; Employees: 302; References: *
+Founded: 1989; Region: United States, California; Employees: 302; References: 0
  
 Predictive maintenance
  
@@ -11330,7 +11330,7 @@ Predictive maintenance
  
 #### [Jacada](http://www.jacada.com) 
  
-*Founded: 1990; Region: United States, Georgia; Employees: 187; References: *
+Founded: 1990; Region: United States, Georgia; Employees: 187; References: 1
  
 Robotic Process Automation (RPA)
  
@@ -11344,7 +11344,7 @@ Robotic Process Automation (RPA)
  
 #### [iRobot](http://www.irobot.com) 
  
-*Founded: 1990; Region: United States, California; Employees: 750; References: *
+Founded: 1990; Region: United States, California; Employees: 750; References: 0
  
 Robotics
  
@@ -11358,7 +11358,7 @@ Robotics
  
 #### [Kofax](http://www.kofax.com) 
  
-*Founded: 1991; Region: United States, California; Employees: 1465; References: *
+Founded: 1991; Region: United States, California; Employees: 1465; References: 6
  
 Robotic Process Automation (RPA)
  
@@ -11372,7 +11372,7 @@ Robotic Process Automation (RPA)
  
 #### [Arago](https://arago.co) 
  
-*Founded: 1995; Region: Germany, Hesse; Employees: 124; References: *
+Founded: 1995; Region: Germany, Hesse; Employees: 124; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -11386,7 +11386,7 @@ Robotic Process Automation (RPA)
  
 #### [Acumence](http://www.acumence.com/index.php) 
  
-*Founded: 1997; Region: United States, Illinois; Employees: 0; References: *
+Founded: 1997; Region: United States, Illinois; Employees: 0; References: 0
  
 Predictive maintenance
  
@@ -11400,7 +11400,7 @@ Predictive maintenance
  
 #### [Aptean](http://www.aptean.com/en/Solutions/By-Product-Name-AZ/Made2Manage-ERP) 
  
-*Founded: 1997; Region: United States, Indiana; Employees: 2071; References: *
+Founded: 1997; Region: United States, Indiana; Employees: 2071; References: 0
  
 Predictive maintenance
  
@@ -11414,7 +11414,7 @@ Predictive maintenance
  
 #### [Blue Prism](http://www.blueprism.com/) 
  
-*Founded: 2001; Region: United States, Texas; Employees: 650; References: *
+Founded: 2001; Region: United States, Texas; Employees: 650; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -11428,7 +11428,7 @@ Robotic Process Automation (RPA)
  
 #### [Universal Logic Inc. (formerly Universal Robotics Inc.)](http://www.universallogic.com) 
  
-*Founded: 2001; Region: United States, Tennessee; Employees: 0; References: *
+Founded: 2001; Region: United States, Tennessee; Employees: 0; References: 0
  
 Robotics | Image recognition and visual analytics
  
@@ -11442,7 +11442,7 @@ Robotics | Image recognition and visual analytics
  
 #### [Universal Logic Inc.](http://www.universallogic.com) 
  
-*Founded: 2001; Region: United States, Tennessee; Employees: 0; References: *
+Founded: 2001; Region: United States, Tennessee; Employees: 0; References: 0
  
 Robotics
  
@@ -11456,7 +11456,7 @@ Robotics
  
 #### [Infor](http://www.infor.com) 
  
-*Founded: 2002; Region: United States, New York; Employees: 15453; References: *
+Founded: 2002; Region: United States, New York; Employees: 15453; References: 0
  
 Predictive maintenance | Analytics platform
  
@@ -11470,7 +11470,7 @@ Predictive maintenance | Analytics platform
  
 #### [Device Insight](http://www.device-insight.com/) 
  
-*Founded: 2003; Region: Germany, Bavaria; Employees: 27; References: *
+Founded: 2003; Region: Germany, Bavaria; Employees: 27; References: 0
  
 Predictive maintenance
  
@@ -11484,7 +11484,7 @@ Predictive maintenance
  
 #### [Omative Systems](http://www.omative.com/) 
  
-*Founded: 2003; Region: Israel, Jerusalem; Employees: 2; References: *
+Founded: 2003; Region: Israel, Jerusalem; Employees: 2; References: 0
  
 Predictive maintenance
  
@@ -11498,7 +11498,7 @@ Predictive maintenance
  
 #### [Splunk](http://www.splunk.com) 
  
-*Founded: 2003; Region: United States, California; Employees: 3128; References: *
+Founded: 2003; Region: United States, California; Employees: 3128; References: 0
  
 Predictive maintenance
  
@@ -11512,7 +11512,7 @@ Predictive maintenance
  
 #### [OnviSource](http://www.onvisource.com) 
  
-*Founded: 2004; Region: United States, Texas; Employees: 71; References: *
+Founded: 2004; Region: United States, Texas; Employees: 71; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -11526,7 +11526,7 @@ Robotic Process Automation (RPA)
  
 #### [Celaton](http://www.celaton.com) 
  
-*Founded: 2004; Region: United Kingdom, England; Employees: 35; References: *
+Founded: 2004; Region: United Kingdom, England; Employees: 35; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -11540,7 +11540,7 @@ Robotic Process Automation (RPA)
  
 #### [Another Monday](https://anothermonday.com/) 
  
-*Founded: 2005; Region: Germany, North Rhine-Westphalia; Employees: 80; References: *
+Founded: 2005; Region: Germany, North Rhine-Westphalia; Employees: 80; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -11554,7 +11554,7 @@ Robotic Process Automation (RPA)
  
 #### [Numenta](http://www.numenta.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 22; References: *
+Founded: 2005; Region: United States, California; Employees: 22; References: 0
  
 Natural Language Processing library/SDK/API | Robotics | Financial Analytics Platform
  
@@ -11568,7 +11568,7 @@ Natural Language Processing library/SDK/API | Robotics | Financial Analytics Pla
  
 #### [Universal Robots](http://www.universal-robots.com) 
  
-*Founded: 2005; Region: Denmark, South Denmark; Employees: 289; References: *
+Founded: 2005; Region: Denmark, South Denmark; Employees: 289; References: 0
  
 Collaborative Robot
  
@@ -11582,7 +11582,7 @@ Collaborative Robot
  
 #### [Neato Robotics, Inc.](http://www.neatorobotics.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 75; References: *
+Founded: 2005; Region: United States, California; Employees: 75; References: 0
  
 Robotics
  
@@ -11596,7 +11596,7 @@ Robotics
  
 #### [Mtell](http://www.mtell.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 8; References: *
+Founded: 2006; Region: United States, California; Employees: 8; References: 0
  
 Predictive maintenance
  
@@ -11610,7 +11610,7 @@ Predictive maintenance
  
 #### [RapidMiner](http://www.rapidminer.com) 
  
-*Founded: 2007; Region: United States, Massachusetts; Employees: 90; References: *
+Founded: 2007; Region: United States, Massachusetts; Employees: 90; References: 0
  
 Predictive maintenance | Analytics platform
  
@@ -11624,7 +11624,7 @@ Predictive maintenance | Analytics platform
  
 #### [ServiceMax](http://www.servicemax.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 482; References: *
+Founded: 2007; Region: United States, California; Employees: 482; References: 0
  
 Predictive maintenance
  
@@ -11638,7 +11638,7 @@ Predictive maintenance
  
 #### [ClearBlade](http://www.clearblade.com) 
  
-*Founded: 2007; Region: United States, Texas; Employees: 26; References: *
+Founded: 2007; Region: United States, Texas; Employees: 26; References: 0
  
 Predictive maintenance
  
@@ -11652,7 +11652,7 @@ Predictive maintenance
  
 #### [ColdLight Solutions](http://www.coldlight.com) 
  
-*Founded: 2007; Region: United States, Pennsylvania; Employees: 165; References: *
+Founded: 2007; Region: United States, Pennsylvania; Employees: 165; References: 0
  
 Predictive maintenance
  
@@ -11666,7 +11666,7 @@ Predictive maintenance
  
 #### [ZenRobotics](http://www.zenrobotics.com) 
  
-*Founded: 2007; Region: Finland, Uusimaa; Employees: 75; References: *
+Founded: 2007; Region: Finland, Uusimaa; Employees: 75; References: 0
  
 Robotics
  
@@ -11680,7 +11680,7 @@ Robotics
  
 #### [Vekia](http://www.vekia.fr/) 
  
-*Founded: 2008; Region: France, Hauts-de-France; Employees: 57; References: *
+Founded: 2008; Region: France, Hauts-de-France; Employees: 57; References: 1
  
 Inventory & supply chain optimization
  
@@ -11694,7 +11694,7 @@ Inventory & supply chain optimization
  
 #### [Rimilia](https://www.rimilia.com/) 
  
-*Founded: 2008; Region: United Kingdom, England; Employees: 90; References: *
+Founded: 2008; Region: United Kingdom, England; Employees: 90; References: 1
  
 Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulatory compliance | Debt Collection
  
@@ -11708,7 +11708,7 @@ Robotic Process Automation (RPA) | Credit Lending / Scoring | Billing | Regulato
  
 #### [Rethink Robotics](http://www.Rethinkrobotics.com) 
  
-*Founded: 2008; Region: United States, Massachusetts; Employees: 121; References: *
+Founded: 2008; Region: United States, Massachusetts; Employees: 121; References: 0
  
 Collaborative Robot
  
@@ -11722,7 +11722,7 @@ Collaborative Robot
  
 #### [C-Labs](http://www.c-labs.com/) 
  
-*Founded: 2009; Region: United States, Washington; Employees: 12; References: *
+Founded: 2009; Region: United States, Washington; Employees: 12; References: 0
  
 Predictive maintenance
  
@@ -11736,7 +11736,7 @@ Predictive maintenance
  
 #### [Panoramic Power](http://www.panpwr.com) 
  
-*Founded: 2009; Region: Israel, Central District; Employees: 57; References: *
+Founded: 2009; Region: Israel, Central District; Employees: 57; References: 0
  
 Predictive maintenance
  
@@ -11750,7 +11750,7 @@ Predictive maintenance
  
 #### [WorkFusion](http://www.workfusion.com/) 
  
-*Founded: 2010; Region: United States, New York; Employees: 140; References: *
+Founded: 2010; Region: United States, New York; Employees: 140; References: 0
  
 Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
@@ -11764,7 +11764,7 @@ Chatbot | Robotic Process Automation (RPA) | Fraud Detection
  
 #### [Sisense](http://www.sisense.com) 
  
-*Founded: 2010; Region: United States, New York; Employees: 361; References: *
+Founded: 2010; Region: United States, New York; Employees: 361; References: 0
  
 Predictive maintenance | Analytics platform
  
@@ -11778,7 +11778,7 @@ Predictive maintenance | Analytics platform
  
 #### [Vicarious](http://vicarious.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 2; References: *
+Founded: 2010; Region: United States, California; Employees: 2; References: 0
  
 Collaborative Robot
  
@@ -11792,7 +11792,7 @@ Collaborative Robot
  
 #### [SageClarity](http://sageclarity.com) 
  
-*Founded: 2010; Region: United States, Illinois; Employees: 4; References: *
+Founded: 2010; Region: United States, Illinois; Employees: 4; References: 0
  
 Predictive maintenance
  
@@ -11806,7 +11806,7 @@ Predictive maintenance
  
 #### [Qualtera](http://www.qualtera.com/) 
  
-*Founded: 2010; Region: France, Occitanie; Employees: 29; References: *
+Founded: 2010; Region: France, Occitanie; Employees: 29; References: 0
  
 Predictive maintenance
  
@@ -11820,7 +11820,7 @@ Predictive maintenance
  
 #### [FORCAM](http://orcam.com) 
  
-*Founded: 2010; Region: Israel, Jerusalem; Employees: 78; References: *
+Founded: 2010; Region: Israel, Jerusalem; Employees: 78; References: 0
  
 Predictive maintenance
  
@@ -11834,7 +11834,7 @@ Predictive maintenance
  
 #### [Nanotronics Imaging](http://www.nanotronics.co/) 
  
-*Founded: 2010; Region: United States, Ohio; Employees: 25; References: *
+Founded: 2010; Region: United States, Ohio; Employees: 25; References: 0
  
 Manufacturing Analytics
  
@@ -11848,7 +11848,7 @@ Manufacturing Analytics
  
 #### [Anki](http://anki.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 175; References: *
+Founded: 2010; Region: United States, California; Employees: 175; References: 0
  
 Robotics
  
@@ -11862,7 +11862,7 @@ Robotics
  
 #### [Turbo Monitoring](http://www.turbomonitoring.com/) 
  
-*Founded: 2011; Region: Germany, Bavaria; Employees: 0; References: *
+Founded: 2011; Region: Germany, Bavaria; Employees: 0; References: 0
  
 Predictive maintenance
  
@@ -11876,7 +11876,7 @@ Predictive maintenance
  
 #### [GreyOrange](http://www.greyorange.com/) 
  
-*Founded: 2011; Region: Singapore, Central Singapore; Employees: 1000; References: *
+Founded: 2011; Region: Singapore, Central Singapore; Employees: 1000; References: 0
  
 Inventory & supply chain optimization | Robotics
  
@@ -11890,7 +11890,7 @@ Inventory & supply chain optimization | Robotics
  
 #### [Fero Labs](https://www.ferolabs.com/) 
  
-*Founded: 2011; Region: United States, New York; Employees: 5; References: *
+Founded: 2011; Region: United States, New York; Employees: 5; References: 0
  
 Predictive maintenance
  
@@ -11904,7 +11904,7 @@ Predictive maintenance
  
 #### [Augury](http://www.augury.com/) 
  
-*Founded: 2011; Region: United States, New York; Employees: 66; References: *
+Founded: 2011; Region: United States, New York; Employees: 66; References: 0
  
 Predictive maintenance
  
@@ -11918,7 +11918,7 @@ Predictive maintenance
  
 #### [Milvus Robotics](http://milvusrobotics.com) 
  
-*Founded: 2011; Region: Turkey, Ankara; Employees: 6; References: *
+Founded: 2011; Region: Turkey, Ankara; Employees: 6; References: 0
  
 Robotics
  
@@ -11932,7 +11932,7 @@ Robotics
  
 #### [EZ-Robot Inc.](http://www.ez-robot.com) 
  
-*Founded: 2011; Region: Canada, Alberta; Employees: 25; References: *
+Founded: 2011; Region: Canada, Alberta; Employees: 25; References: 0
  
 Robotics
  
@@ -11946,7 +11946,7 @@ Robotics
  
 #### [Andrew Alliance](http://andrewalliance.com) 
  
-*Founded: 2011; Region: Switzerland, Geneva; Employees: 25; References: *
+Founded: 2011; Region: Switzerland, Geneva; Employees: 25; References: 0
  
 Robotics
  
@@ -11960,7 +11960,7 @@ Robotics
  
 #### [AppZen](http://www.appzen.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 18; References: *
+Founded: 2012; Region: United States, California; Employees: 18; References: 1
  
 Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
@@ -11974,7 +11974,7 @@ Robotic Process Automation (RPA) | Fraud Detection | Regulatory compliance
  
 #### [CrossChx, Inc.](http://www.crosschx.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 80; References: *
+Founded: 2012; Region: United States, California; Employees: 80; References: 0
  
 Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Machine learning library/SDK/API | Robotic Process Automation (RPA) | Robotic Process Automation (RPA) implementation | Data cleaning&validation | Data Transformation | Image recognition and visual analytics | Patient data analytics | Assisted or automated diagnosis & prescription
  
@@ -11988,7 +11988,7 @@ Natural Language Processing library/SDK/API | Image recognition library/SDK/API 
  
 #### [Genfour](http://genfour.net) 
  
-*Founded: 2012; Region: United Kingdom, Wales; Employees: 39; References: *
+Founded: 2012; Region: United Kingdom, Wales; Employees: 39; References: 1
  
 Robotic Process Automation (RPA)
  
@@ -12002,7 +12002,7 @@ Robotic Process Automation (RPA)
  
 #### [Flutura Business Solutions](http://www.flutura.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 85; References: *
+Founded: 2012; Region: United States, California; Employees: 85; References: 0
  
 Predictive maintenance | Manufacturing Analytics
  
@@ -12016,7 +12016,7 @@ Predictive maintenance | Manufacturing Analytics
  
 #### [Maana](http://www.maana.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 51; References: *
+Founded: 2012; Region: United States, California; Employees: 51; References: 2
  
 Predictive maintenance
  
@@ -12030,7 +12030,7 @@ Predictive maintenance
  
 #### [Arimo](https://arimo.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 37; References: *
+Founded: 2012; Region: United States, California; Employees: 37; References: 1
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -12044,7 +12044,7 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
 #### [Sight Machine](http://sightmachine.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 78; References: *
+Founded: 2012; Region: United States, California; Employees: 78; References: 0
  
 Predictive maintenance | Manufacturing Analytics
  
@@ -12058,7 +12058,7 @@ Predictive maintenance | Manufacturing Analytics
  
 #### [DataRPM](http://www.DataRPM.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 57; References: *
+Founded: 2012; Region: United States, California; Employees: 57; References: 0
  
 Predictive maintenance
  
@@ -12072,7 +12072,7 @@ Predictive maintenance
  
 #### [Authentise](http://www.authentise.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 12; References: *
+Founded: 2012; Region: United States, California; Employees: 12; References: 0
  
 Predictive maintenance
  
@@ -12086,7 +12086,7 @@ Predictive maintenance
  
 #### [Eigen Innovations](http://www.eigeninnovations.com/) 
  
-*Founded: 2012; Region: Canada, New Brunswick; Employees: 17; References: *
+Founded: 2012; Region: Canada, New Brunswick; Employees: 17; References: 0
  
 Predictive maintenance | Manufacturing Analytics
  
@@ -12100,7 +12100,7 @@ Predictive maintenance | Manufacturing Analytics
  
 #### [Beanworks](https://www.beanworks.com/) 
  
-*Founded: 2012; Region: Canada, British Columbia; Employees: 25; References: *
+Founded: 2012; Region: Canada, British Columbia; Employees: 25; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -12114,7 +12114,7 @@ Robotic Process Automation (RPA)
  
 #### [Wonder Workshop (Formerly Play-i)](http://makewonder.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 75; References: *
+Founded: 2012; Region: United States, California; Employees: 75; References: 0
  
 Robotics
  
@@ -12128,7 +12128,7 @@ Robotics
  
 #### [SP Robotic Works Pvt Ltd](http://www.sproboticworks.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Robotics
  
@@ -12142,7 +12142,7 @@ Robotics
  
 #### [Jibo](https://www.jibo.com/) 
  
-*Founded: 2012; Region: United States, California; Employees: 25; References: *
+Founded: 2012; Region: United States, California; Employees: 25; References: 0
  
 Robotics
  
@@ -12156,7 +12156,7 @@ Robotics
  
 #### [Monsieur](http://monsieur.co) 
  
-*Founded: 2012; Region: United States, California; Employees: 5; References: *
+Founded: 2012; Region: United States, California; Employees: 5; References: 0
  
 Robotics
  
@@ -12170,7 +12170,7 @@ Robotics
  
 #### [Falkonry](http://falkonry.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 25; References: *
+Founded: 2013; Region: United States, California; Employees: 25; References: 1
  
 Predictive maintenance
  
@@ -12184,7 +12184,7 @@ Predictive maintenance
  
 #### [Orbital Insight](http://www.orbitalinsight.com/) 
  
-*Founded: 2013; Region: United States, California; Employees: 80; References: *
+Founded: 2013; Region: United States, California; Employees: 80; References: 0
  
 Inventory & supply chain optimization | Geo-analytics platform | Insurance (InsurTech)
  
@@ -12198,7 +12198,7 @@ Inventory & supply chain optimization | Geo-analytics platform | Insurance (Insu
  
 #### [Predikto](http://www.predikto.com) 
  
-*Founded: 2013; Region: United States, Georgia; Employees: 26; References: *
+Founded: 2013; Region: United States, Georgia; Employees: 26; References: 0
  
 Predictive maintenance
  
@@ -12212,7 +12212,7 @@ Predictive maintenance
  
 #### [DATTUS](https://www.dattus.com/) 
  
-*Founded: 2013; Region: United States, Indiana; Employees: 17; References: *
+Founded: 2013; Region: United States, Indiana; Employees: 17; References: 0
  
 Predictive maintenance
  
@@ -12226,7 +12226,7 @@ Predictive maintenance
  
 #### [SparkCognition](http://sparkcognition.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 200; References: *
+Founded: 2013; Region: United States, California; Employees: 200; References: 0
  
 Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
@@ -12240,7 +12240,7 @@ Autonomous cybersecurity systems | Predictive maintenance | Real-Time Analytics
  
 #### [Majik Systems](http://majik.io) 
  
-*Founded: 2013; Region: Canada, Ontario; Employees: 5; References: *
+Founded: 2013; Region: Canada, Ontario; Employees: 5; References: 0
  
 Manufacturing Analytics
  
@@ -12254,7 +12254,7 @@ Manufacturing Analytics
  
 #### [deepsense.ai](http://deepsense.ai/) 
  
-*Founded: 2014; Region: United States, California; Employees: 75; References: *
+Founded: 2014; Region: United States, California; Employees: 75; References: 6
  
 Analytics & predictive intelligence for security | AI Consultancy | Predictive maintenance | Manufacturing Analytics | Image recognition and visual analytics | Data Visualization | Real-Time Analytics | Fraud Detection | Patient data analytics | Early diagnosis
  
@@ -12268,7 +12268,7 @@ Analytics & predictive intelligence for security | AI Consultancy | Predictive m
  
 #### [Senseye](http://www.senseye.io/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 47; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 47; References: 1
  
 Predictive maintenance | Analytics platform
  
@@ -12282,7 +12282,7 @@ Predictive maintenance | Analytics platform
  
 #### [Uptake](http://www.uptake.com) 
  
-*Founded: 2014; Region: United States, Illinois; Employees: 615; References: *
+Founded: 2014; Region: United States, Illinois; Employees: 615; References: 0
  
 Predictive maintenance
  
@@ -12296,7 +12296,7 @@ Predictive maintenance
  
 #### [Symphony Ventures](http://www.symphonyhq.com/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 91; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 91; References: 0
  
 Robotic Process Automation (RPA)
  
@@ -12310,7 +12310,7 @@ Robotic Process Automation (RPA)
  
 #### [KONUX](http://konux.com) 
  
-*Founded: 2014; Region: Germany, Bavaria; Employees: 34; References: *
+Founded: 2014; Region: Germany, Bavaria; Employees: 34; References: 0
  
 Predictive maintenance
  
@@ -12324,7 +12324,7 @@ Predictive maintenance
  
 #### [FogHorn](http://www.foghorn-systems.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 44; References: *
+Founded: 2014; Region: United States, California; Employees: 44; References: 0
  
 Predictive maintenance
  
@@ -12338,7 +12338,7 @@ Predictive maintenance
  
 #### [MachineMetrics](http://www.machinemetrics.com/) 
  
-*Founded: 2014; Region: United States, Massachusetts; Employees: 21; References: *
+Founded: 2014; Region: United States, Massachusetts; Employees: 21; References: 0
  
 Predictive maintenance
  
@@ -12352,7 +12352,7 @@ Predictive maintenance
  
 #### [Starship Technologies](https://www.starship.xyz/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 75; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 75; References: 0
  
 Robotics
  
@@ -12366,7 +12366,7 @@ Robotics
  
 #### [Rovenso](http://rovenso.com) 
  
-*Founded: 2014; Region: Switzerland, Vaud; Employees: 5; References: *
+Founded: 2014; Region: Switzerland, Vaud; Employees: 5; References: 0
  
 Robotics
  
@@ -12380,7 +12380,7 @@ Robotics
  
 #### [ClearMetal](http://www.clearmetal.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Inventory & supply chain optimization
  
@@ -12394,7 +12394,7 @@ Inventory & supply chain optimization
  
 #### [Avidbots](http://www.avidbots.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 75; References: *
+Founded: 2014; Region: United States, California; Employees: 75; References: 0
  
 Robotics
  
@@ -12408,7 +12408,7 @@ Robotics
  
 #### [Skydio](https://www.skydio.com/) 
  
-*Founded: 2014; Region: United States, California; Employees: 5; References: *
+Founded: 2014; Region: United States, California; Employees: 5; References: 0
  
 Robotics
  
@@ -12422,7 +12422,7 @@ Robotics
  
 #### [UiPath](http://www.uipath.com) 
  
-*Founded: 2015; Region: Romania, Bucureşti; Employees: 270; References: *
+Founded: 2015; Region: Romania, Bucureşti; Employees: 270; References: 2
  
 Robotic Process Automation (RPA)
  
@@ -12436,7 +12436,7 @@ Robotic Process Automation (RPA)
  
 #### [Alluvium](http://www.alluvium.io) 
  
-*Founded: 2015; Region: United States, New York; Employees: 10; References: *
+Founded: 2015; Region: United States, New York; Employees: 10; References: 0
  
 Predictive maintenance
  
@@ -12450,7 +12450,7 @@ Predictive maintenance
  
 #### [Presenso](http://www.presenso.com/) 
  
-*Founded: 2015; Region: Israel, Haifa; Employees: 14; References: *
+Founded: 2015; Region: Israel, Haifa; Employees: 14; References: 0
  
 Predictive maintenance
  
@@ -12464,7 +12464,7 @@ Predictive maintenance
  
 #### [Element Analytics](http://www.elementanalytics.com/) 
  
-*Founded: 2015; Region: United States, California; Employees: 26; References: *
+Founded: 2015; Region: United States, California; Employees: 26; References: 0
  
 Predictive maintenance
  
@@ -12478,7 +12478,7 @@ Predictive maintenance
  
 #### [Infinite Uptime](http://www.infinite-uptime.com/) 
  
-*Founded: 2015; Region: United States, California; Employees: 4; References: *
+Founded: 2015; Region: United States, California; Employees: 4; References: 0
  
 Predictive maintenance
  
@@ -12492,7 +12492,7 @@ Predictive maintenance
  
 #### [VIMANA](http://vimana.global) 
  
-*Founded: 2015; Region: United States, California; Employees: 42; References: *
+Founded: 2015; Region: United States, California; Employees: 42; References: 0
  
 Predictive maintenance
  
@@ -12506,7 +12506,7 @@ Predictive maintenance
  
 #### [Actvcontent](http://www.actvcontent.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Predictive maintenance
  
@@ -12520,7 +12520,7 @@ Predictive maintenance
  
 #### [SensrTrx](http://www.sensrtrx.com) 
  
-*Founded: 2015; Region: United States, Missouri; Employees: 2; References: *
+Founded: 2015; Region: United States, Missouri; Employees: 2; References: 0
  
 Predictive maintenance
  
@@ -12534,7 +12534,7 @@ Predictive maintenance
  
 #### [Instrumental](http://www.instrumental.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 20; References: *
+Founded: 2015; Region: United States, California; Employees: 20; References: 0
  
 Predictive maintenance
  
@@ -12548,7 +12548,7 @@ Predictive maintenance
  
 #### [ThingTrax](http://www.thingtrax.com/) 
  
-*Founded: 2015; Region: United Kingdom, England; Employees: 5; References: *
+Founded: 2015; Region: United Kingdom, England; Employees: 5; References: 0
  
 Predictive maintenance
  
@@ -12562,7 +12562,7 @@ Predictive maintenance
  
 #### [Intuition Robotics](http://www.intuitionrobotics.com) 
  
-*Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2015; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Robotics
  
@@ -12576,7 +12576,7 @@ Robotics
  
 #### [Ambyint](http://ambyint.com/) 
  
-*Founded: 2015; Region: Canada, Alberta; Employees: 25; References: *
+Founded: 2015; Region: Canada, Alberta; Employees: 25; References: 0
  
 Manufacturing Analytics
  
@@ -12590,7 +12590,7 @@ Manufacturing Analytics
  
 #### [Acerta Analytics Solutions](http://acerta.ca/) 
  
-*Founded: 2015; Region: Canada, Ontario; Employees: 15; References: *
+Founded: 2015; Region: Canada, Ontario; Employees: 15; References: 0
  
 Predictive maintenance | Manufacturing Analytics | Self driving cars
  
@@ -12604,7 +12604,7 @@ Predictive maintenance | Manufacturing Analytics | Self driving cars
  
 #### [Imubit Inc.](http://www.imubit.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Predictive maintenance
  
@@ -12618,7 +12618,7 @@ Predictive maintenance
  
 #### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
  
-*Founded: 2015; Region: India, Maharashtra; Employees: 25; References: *
+Founded: 2015; Region: India, Maharashtra; Employees: 25; References: 0
  
 Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
  
@@ -12632,7 +12632,7 @@ Marketing analytics | Merchandising optimization | Sales content personalization
  
 #### [SupplyAI: Cognified Commerce](http://www.supply.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Inventory & supply chain optimization
  
@@ -12646,7 +12646,7 @@ Inventory & supply chain optimization
  
 #### [Marble](http://www.marble.io/) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Robotics
  
@@ -12660,7 +12660,7 @@ Robotics
  
 #### [MotionsCloud](http://motionscloud.com) 
  
-*Founded: 2016; Region: Germany, Baden-Württemberg; Employees: 5; References: *
+Founded: 2016; Region: Germany, Baden-Württemberg; Employees: 5; References: 1
  
 Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
@@ -12674,7 +12674,7 @@ Robotic Process Automation (RPA) | Fraud Detection | Insurance (InsurTech)
  
 #### [C2RO Cloud Robotics](http://c2ro.com) 
  
-*Founded: 2016; Region: Canada, Quebec; Employees: 25; References: *
+Founded: 2016; Region: Canada, Quebec; Employees: 25; References: 0
  
 Robotics | Collaborative Robot | Image recognition and visual analytics
  
@@ -12688,7 +12688,7 @@ Robotics | Collaborative Robot | Image recognition and visual analytics
  
 #### [Acutronic Robotics](https://www.acutronicrobotics.com/) 
  
-*Founded: 2016; Region: Switzerland, Zurich; Employees: 0; References: *
+Founded: 2016; Region: Switzerland, Zurich; Employees: 0; References: 0
  
 Robotics
  
@@ -12702,7 +12702,7 @@ Robotics
  
 #### [ANYbotics](https://www.anybotics.com) 
  
-*Founded: 2016; Region: Switzerland, Zurich; Employees: 25; References: *
+Founded: 2016; Region: Switzerland, Zurich; Employees: 25; References: 0
  
 Robotics
  
@@ -12716,7 +12716,7 @@ Robotics
  
 #### [Veo Robotics](https://www.veobot.com/) 
  
-*Founded: 2016; Region: United States, Massachusetts; Employees: 0; References: *
+Founded: 2016; Region: United States, Massachusetts; Employees: 0; References: 0
  
 Robotics
  
@@ -12730,7 +12730,7 @@ Robotics
  
 #### [Abundant Robotics](http://www.abundantrobotics.com/) 
  
-*Founded: 2016; Region: United States, California; Employees: 0; References: *
+Founded: 2016; Region: United States, California; Employees: 0; References: 0
  
 Robotics
  
@@ -12744,7 +12744,7 @@ Robotics
  
 #### [Pathover](https://www.pathover.com) 
  
-*Founded: 2016; Region: United States, California; Employees: 5; References: *
+Founded: 2016; Region: United States, California; Employees: 5; References: 0
  
 Manufacturing Analytics
  
@@ -12758,7 +12758,7 @@ Manufacturing Analytics
  
 #### [Robotiq](http://robotiq.com/) 
  
-*Founded: Unknown; Region: Canada, Quebec; Employees: 65; References: 0*
+Founded: Unknown; Region: Canada, Quebec; Employees: 65; References: 0
  
 Collaborative Robot
  
@@ -12772,7 +12772,7 @@ Collaborative Robot
  
 #### [Epson Robots](http://epsonrobots.com) 
  
-*Founded: Unknown; Region: United States, California; Employees: 1047; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 1047; References: 0
  
 Collaborative Robot
  
@@ -12786,7 +12786,7 @@ Collaborative Robot
  
 #### [Cogniac](https://cogniac.co/) 
  
-*Founded: Unknown; Region: United States, California; Employees: 0; References: 0*
+Founded: Unknown; Region: United States, California; Employees: 0; References: 0
  
 Manufacturing Analytics
  
@@ -12802,7 +12802,7 @@ Manufacturing Analytics
  
 #### [Zero Keyboard](http://zerokeyboard.com/) 
  
-*Founded: 0; Region: United States, California; Employees: 10; References: *
+Founded: 0; Region: United States, California; Employees: 10; References: 0
  
 Sales data input automation
  
@@ -12816,7 +12816,7 @@ Sales data input automation
  
 #### [Qurious.io](http://www.qurious.io/) 
  
-*Founded: 0; Region: United States, California; Employees: 0; References: *
+Founded: 0; Region: United States, California; Employees: 0; References: 2
  
 Sales call analytics | Sales rep response suggestions
  
@@ -12830,7 +12830,7 @@ Sales call analytics | Sales rep response suggestions
  
 #### [Zensight](http://www.zensight.ai/) 
  
-*Founded: 0; Region: United States, Massachusetts; Employees: 6; References: *
+Founded: 0; Region: United States, Massachusetts; Employees: 6; References: 0
  
 Predictive sales | Sales forecasting
  
@@ -12844,7 +12844,7 @@ Predictive sales | Sales forecasting
  
 #### [Optymyze](http://www.optymyze.com) 
  
-*Founded: 0; Region: United States, Pennsylvania; Employees: 586; References: *
+Founded: 0; Region: United States, Pennsylvania; Employees: 586; References: 0
  
 Predictive sales
  
@@ -12858,7 +12858,7 @@ Predictive sales
  
 #### [Episerver](http://www.episerver.com) 
  
-*Founded: 1994; Region: United States, New Hampshire; Employees: 350; References: *
+Founded: 1994; Region: United States, New Hampshire; Employees: 350; References: 3
  
 Lead generation
  
@@ -12872,7 +12872,7 @@ Lead generation
  
 #### [hybris](http://www.hybris.com) 
  
-*Founded: 1997; Region: Canada, Quebec; Employees: 1518; References: *
+Founded: 1997; Region: Canada, Quebec; Employees: 1518; References: 0
  
 Recommendation engine | Predictive sales
  
@@ -12886,7 +12886,7 @@ Recommendation engine | Predictive sales
  
 #### [Salesforce](https://www.salesforce.com) 
  
-*Founded: 1999; Region: United States, California; Employees: 23343; References: *
+Founded: 1999; Region: United States, California; Employees: 23343; References: 7
  
 Recommendation engine | Social analytics & automation | Website Personalization | Predictive sales | Sales forecasting | Intelligent call routing | Social listening & ticketing | Natural Language Processing library/SDK/API | Image recognition library/SDK/API | Analytics platform
  
@@ -12900,7 +12900,7 @@ Recommendation engine | Social analytics & automation | Website Personalization 
  
 #### [ZoomInfo](http://www.zoominfo.com) 
  
-*Founded: 2000; Region: United States, Massachusetts; Employees: 230; References: *
+Founded: 2000; Region: United States, Massachusetts; Employees: 230; References: 0
  
 Lead generation
  
@@ -12914,7 +12914,7 @@ Lead generation
  
 #### [SESTEK](http://www.sestek.com) 
  
-*Founded: 2000; Region: Turkey, Istanbul; Employees: 25; References: *
+Founded: 2000; Region: Turkey, Istanbul; Employees: 25; References: 0
  
 Sales call analytics
  
@@ -12928,7 +12928,7 @@ Sales call analytics
  
 #### [Lead411](http://www.lead411.com) 
  
-*Founded: 2001; Region: United States, Colorado; Employees: 17; References: *
+Founded: 2001; Region: United States, Colorado; Employees: 17; References: 0
  
 Lead generation
  
@@ -12942,7 +12942,7 @@ Lead generation
  
 #### [Velocify](http://www.velocify.com) 
  
-*Founded: 2004; Region: United States, California; Employees: 198; References: *
+Founded: 2004; Region: United States, California; Employees: 198; References: 2
  
 Predictive sales | Sales rep response suggestions | Sales rep next action suggestions
  
@@ -12956,7 +12956,7 @@ Predictive sales | Sales rep response suggestions | Sales rep next action sugges
  
 #### [InsideSales.com](http://www.insidesales.com) 
  
-*Founded: 2004; Region: United States, Utah; Employees: 602; References: *
+Founded: 2004; Region: United States, Utah; Employees: 602; References: 3
  
 Predictive sales | Sales forecasting | Customer sales contact analytics
  
@@ -12970,7 +12970,7 @@ Predictive sales | Sales forecasting | Customer sales contact analytics
  
 #### [Protagonist](http://www.protagonist.io) 
  
-*Founded: 2004; Region: United States, California; Employees: 60; References: *
+Founded: 2004; Region: United States, California; Employees: 60; References: 0
  
 Marketing analytics | Omnichannel | Sales content personalization and analytics
  
@@ -12984,7 +12984,7 @@ Marketing analytics | Omnichannel | Sales content personalization and analytics
  
 #### [InsideView](http://www.insideview.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 317; References: *
+Founded: 2005; Region: United States, California; Employees: 317; References: 1
  
 Lead generation
  
@@ -12998,7 +12998,7 @@ Lead generation
  
 #### [Xactly](http://www.xactlycorp.com) 
  
-*Founded: 2005; Region: United States, California; Employees: 583; References: *
+Founded: 2005; Region: United States, California; Employees: 583; References: 0
  
 Sales compensation
  
@@ -13012,7 +13012,7 @@ Sales compensation
  
 #### [DiscoverOrg](http://www.discoverorg.com) 
  
-*Founded: 2006; Region: United States, Washington; Employees: 389; References: *
+Founded: 2006; Region: United States, Washington; Employees: 389; References: 2
  
 Lead generation
  
@@ -13026,7 +13026,7 @@ Lead generation
  
 #### [Lattice Engines](http://www.lattice-engines.com) 
  
-*Founded: 2006; Region: United States, California; Employees: 146; References: *
+Founded: 2006; Region: United States, California; Employees: 146; References: 2
  
 Predictive sales | Sales forecasting
  
@@ -13040,7 +13040,7 @@ Predictive sales | Sales forecasting
  
 #### [LatentView Analytics](http://www.latentview.com) 
  
-*Founded: 2006; Region: United States, New Jersey; Employees: 554; References: *
+Founded: 2006; Region: United States, New Jersey; Employees: 554; References: 0
  
 Predictive sales
  
@@ -13054,7 +13054,7 @@ Predictive sales
  
 #### [KnowledgeTree](http://www.knowledgetree.com) 
  
-*Founded: 2006; Region: United States, North Carolina; Employees: 31; References: *
+Founded: 2006; Region: United States, North Carolina; Employees: 31; References: 0
  
 Sales content personalization and analytics
  
@@ -13068,7 +13068,7 @@ Sales content personalization and analytics
  
 #### [Leadspace](http://www.leadspace.com) 
  
-*Founded: 2007; Region: Israel, Central District; Employees: 93; References: *
+Founded: 2007; Region: Israel, Central District; Employees: 93; References: 2
  
 Marketing analytics | Predictive sales
  
@@ -13082,7 +13082,7 @@ Marketing analytics | Predictive sales
  
 #### [Conversica](http://www.conversica.com) 
  
-*Founded: 2007; Region: United States, California; Employees: 155; References: *
+Founded: 2007; Region: United States, California; Employees: 155; References: 1
  
 Meeting setup automation
  
@@ -13096,7 +13096,7 @@ Meeting setup automation
  
 #### [Cogito](http://www.cogitocorp.com) 
  
-*Founded: 2007; Region: United States, Massachusetts; Employees: 75; References: *
+Founded: 2007; Region: United States, Massachusetts; Employees: 75; References: 0
  
 Sales rep response suggestions
  
@@ -13110,7 +13110,7 @@ Sales rep response suggestions
  
 #### [RainKing](http://www.rainkingonline.com) 
  
-*Founded: 2007; Region: United States, Maryland; Employees: 329; References: *
+Founded: 2007; Region: United States, Maryland; Employees: 329; References: 0
  
 Lead generation
  
@@ -13124,7 +13124,7 @@ Lead generation
  
 #### [Radius](http://radius.com) 
  
-*Founded: 2008; Region: United States, California; Employees: 168; References: *
+Founded: 2008; Region: United States, California; Employees: 168; References: 1
  
 Marketing analytics | Predictive sales
  
@@ -13138,7 +13138,7 @@ Marketing analytics | Predictive sales
  
 #### [Nimble CRM](http://www.nimble.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 24; References: *
+Founded: 2009; Region: United States, California; Employees: 24; References: 1
  
 Sales data input automation | Sales rep response suggestions
  
@@ -13152,7 +13152,7 @@ Sales data input automation | Sales rep response suggestions
  
 #### [Mintigo](http://www.mintigo.com) 
  
-*Founded: 2009; Region: United States, California; Employees: 81; References: *
+Founded: 2009; Region: United States, California; Employees: 81; References: 4
  
 Predictive sales
  
@@ -13166,7 +13166,7 @@ Predictive sales
  
 #### [Optimove](http://www.optimove.com) 
  
-*Founded: 2009; Region: Israel, Tel Aviv; Employees: 175; References: *
+Founded: 2009; Region: Israel, Tel Aviv; Employees: 175; References: 0
  
 Predictive sales
  
@@ -13180,7 +13180,7 @@ Predictive sales
  
 #### [Yesware](http://www.yesware.com) 
  
-*Founded: 2010; Region: United States, Massachusetts; Employees: 93; References: *
+Founded: 2010; Region: United States, Massachusetts; Employees: 93; References: 2
  
 Sales data input automation
  
@@ -13194,7 +13194,7 @@ Sales data input automation
  
 #### [IKO System](http://www.iko-system.com) 
  
-*Founded: 2010; Region: France, Île-de-France; Employees: 34; References: *
+Founded: 2010; Region: France, Île-de-France; Employees: 34; References: 2
  
 Sales data input automation | Lead generation
  
@@ -13208,7 +13208,7 @@ Sales data input automation | Lead generation
  
 #### [Full Circle Insights](http://fullcircleinsights.com/) 
  
-*Founded: 2010; Region: United States, California; Employees: 47; References: *
+Founded: 2010; Region: United States, California; Employees: 47; References: 0
  
 Marketing analytics | Predictive sales
  
@@ -13222,7 +13222,7 @@ Marketing analytics | Predictive sales
  
 #### [InsightSquared](http://www.insightsquared.com) 
  
-*Founded: 2010; Region: United States, Massachusetts; Employees: 163; References: *
+Founded: 2010; Region: United States, Massachusetts; Employees: 163; References: 0
  
 Predictive sales
  
@@ -13236,7 +13236,7 @@ Predictive sales
  
 #### [Infer](http://www.infer.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 48; References: *
+Founded: 2010; Region: United States, California; Employees: 48; References: 0
  
 Predictive sales
  
@@ -13250,7 +13250,7 @@ Predictive sales
  
 #### [Speed To Contact](http://www.speedtocontact.com/) 
  
-*Founded: 2010; Region: United States, California; Employees: 6; References: *
+Founded: 2010; Region: United States, California; Employees: 6; References: 0
  
 Sales rep chat/email bot
  
@@ -13264,7 +13264,7 @@ Sales rep chat/email bot
  
 #### [Colabo](http://colabo.com) 
  
-*Founded: 2010; Region: United States, California; Employees: 26; References: *
+Founded: 2010; Region: United States, California; Employees: 26; References: 0
  
 Sales call analytics
  
@@ -13278,7 +13278,7 @@ Sales call analytics
  
 #### [SalesLoft](http://salesloft.com) 
  
-*Founded: 2011; Region: United States, Georgia; Employees: 148; References: *
+Founded: 2011; Region: United States, Georgia; Employees: 148; References: 2
  
 Predictive sales | Sales content personalization and analytics
  
@@ -13292,7 +13292,7 @@ Predictive sales | Sales content personalization and analytics
  
 #### [Cirrus Insight](https://www.cirrusinsight.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 77; References: *
+Founded: 2011; Region: United States, California; Employees: 77; References: 1
  
 Sales data input automation
  
@@ -13306,7 +13306,7 @@ Sales data input automation
  
 #### [Showpad](http://www.showpad.com) 
  
-*Founded: 2011; Region: Belgium, Flanders; Employees: 224; References: *
+Founded: 2011; Region: Belgium, Flanders; Employees: 224; References: 1
  
 Sales content personalization and analytics
  
@@ -13320,7 +13320,7 @@ Sales content personalization and analytics
  
 #### [ToutApp](https://toutapp.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 49; References: *
+Founded: 2011; Region: United States, California; Employees: 49; References: 2
  
 Sales data input automation | Customer sales contact analytics | Sales rep next action suggestions | Sales content personalization and analytics
  
@@ -13334,7 +13334,7 @@ Sales data input automation | Customer sales contact analytics | Sales rep next 
  
 #### [H2O.ai](http://h2o.ai/) 
  
-*Founded: 2011; Region: United States, California; Employees: 77; References: *
+Founded: 2011; Region: United States, California; Employees: 77; References: 5
  
 Sales content personalization and analytics | Survey & review analytics | Deep learning library/SDK/API | Analytics platform | Fraud Detection | Insurance (InsurTech) | Financial Analytics Platform
  
@@ -13348,7 +13348,7 @@ Sales content personalization and analytics | Survey & review analytics | Deep l
  
 #### [BRIDGEi2i Analytics Solutions](http://www.bridgei2i.com) 
  
-*Founded: 2011; Region: India, Karnataka; Employees: 500; References: *
+Founded: 2011; Region: India, Karnataka; Employees: 500; References: 0
  
 Predictive sales
  
@@ -13362,7 +13362,7 @@ Predictive sales
  
 #### [GrowthIntel](http://growthintel.com) 
  
-*Founded: 2011; Region: United Kingdom, England; Employees: 17; References: *
+Founded: 2011; Region: United Kingdom, England; Employees: 17; References: 0
  
 Predictive sales | Lead generation
  
@@ -13376,7 +13376,7 @@ Predictive sales | Lead generation
  
 #### [LeadGenius](https://leadgenius.com) 
  
-*Founded: 2011; Region: United States, California; Employees: 551; References: *
+Founded: 2011; Region: United States, California; Employees: 551; References: 0
  
 Lead generation
  
@@ -13390,7 +13390,7 @@ Lead generation
  
 #### [Bananatag](http://www.bananatag.com) 
  
-*Founded: 2011; Region: Canada, British Columbia; Employees: 43; References: *
+Founded: 2011; Region: Canada, British Columbia; Employees: 43; References: 0
  
 Sales data input automation
  
@@ -13404,7 +13404,7 @@ Sales data input automation
  
 #### [Personali](http://www.personali.com/) 
  
-*Founded: 2011; Region: United States, New York; Employees: 25; References: *
+Founded: 2011; Region: United States, New York; Employees: 25; References: 0
  
 Lead generation
  
@@ -13418,7 +13418,7 @@ Lead generation
  
 #### [Tempo AI](http://tempo.ai) 
  
-*Founded: 2011; Region: United States, California; Employees: 25; References: *
+Founded: 2011; Region: United States, California; Employees: 25; References: 0
  
 Meeting setup automation
  
@@ -13432,7 +13432,7 @@ Meeting setup automation
  
 #### [Trifacta](http://trifacta.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 122; References: *
+Founded: 2012; Region: United States, California; Employees: 122; References: 6
  
 Sales data input automation | Data preparation platform | Analytics platform | Fraud Detection | Regulatory compliance | Data gathering
  
@@ -13446,7 +13446,7 @@ Sales data input automation | Data preparation platform | Analytics platform | F
  
 #### [Highspot](https://www.highspot.com) 
  
-*Founded: 2012; Region: United States, Washington; Employees: 40; References: *
+Founded: 2012; Region: United States, Washington; Employees: 40; References: 1
  
 Sales content personalization and analytics
  
@@ -13460,7 +13460,7 @@ Sales content personalization and analytics
  
 #### [Go Moment](http://www.gomoment.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 20; References: *
+Founded: 2012; Region: United States, California; Employees: 20; References: 1
  
 Retail sales bot | Chatbot | HR retention management
  
@@ -13474,7 +13474,7 @@ Retail sales bot | Chatbot | HR retention management
  
 #### [Ebsta](http://www.ebsta.com) 
  
-*Founded: 2012; Region: United Kingdom, England; Employees: 42; References: *
+Founded: 2012; Region: United Kingdom, England; Employees: 42; References: 1
  
 Sales data input automation
  
@@ -13488,7 +13488,7 @@ Sales data input automation
  
 #### [import.io](https://import.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 35; References: *
+Founded: 2012; Region: United States, California; Employees: 35; References: 2
  
 Product Information Management | Pricing optimization | Lead generation | Image recognition library/SDK/API | Data preparation platform
  
@@ -13502,7 +13502,7 @@ Product Information Management | Pricing optimization | Lead generation | Image 
  
 #### [SalesChoice](http://www.saleschoice.com) 
  
-*Founded: 2012; Region: Canada, Ontario; Employees: 15; References: *
+Founded: 2012; Region: Canada, Ontario; Employees: 15; References: 2
  
 Pricing optimization | Predictive sales | Sales forecasting | Sales rep next action suggestions | Prescriptive sales | Natural Language Processing library/SDK/API | Deep learning library/SDK/API
  
@@ -13516,7 +13516,7 @@ Pricing optimization | Predictive sales | Sales forecasting | Sales rep next act
  
 #### [Fusemachines](http://fusemachines.com/) 
  
-*Founded: 2012; Region: United States, New York; Employees: 164; References: *
+Founded: 2012; Region: United States, New York; Employees: 164; References: 2
  
 Predictive sales | Sales forecasting | Sales rep response suggestions | Meeting setup automation
  
@@ -13530,7 +13530,7 @@ Predictive sales | Sales forecasting | Sales rep response suggestions | Meeting 
  
 #### [Clari](http://www.clari.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 107; References: *
+Founded: 2012; Region: United States, California; Employees: 107; References: 2
  
 Predictive sales | Sales forecasting
  
@@ -13544,7 +13544,7 @@ Predictive sales | Sales forecasting
  
 #### [EverString](http://everstring.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 106; References: *
+Founded: 2012; Region: United States, California; Employees: 106; References: 3
  
 Predictive sales
  
@@ -13558,7 +13558,7 @@ Predictive sales
  
 #### [BrightFunnel](http://www.brightfunnel.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 44; References: *
+Founded: 2012; Region: United States, California; Employees: 44; References: 3
  
 Marketing analytics | Sales forecasting | Sales attribution
  
@@ -13572,7 +13572,7 @@ Marketing analytics | Sales forecasting | Sales attribution
  
 #### [Wise.io](http://wise.io) 
  
-*Founded: 2012; Region: United States, California; Employees: 12; References: *
+Founded: 2012; Region: United States, California; Employees: 12; References: 3
  
 Customer sales contact analytics | Chatbot | Intelligent call routing | Customer service response suggestions
  
@@ -13586,7 +13586,7 @@ Customer sales contact analytics | Chatbot | Intelligent call routing | Customer
  
 #### [Tact](https://tact.ai) 
  
-*Founded: 2012; Region: United States, California; Employees: 70; References: *
+Founded: 2012; Region: United States, California; Employees: 70; References: 2
  
 Customer sales contact analytics
  
@@ -13600,7 +13600,7 @@ Customer sales contact analytics
  
 #### [Aviso](http://www.aviso.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 65; References: *
+Founded: 2012; Region: United States, California; Employees: 65; References: 2
  
 Predictive sales | Sales forecasting
  
@@ -13614,7 +13614,7 @@ Predictive sales | Sales forecasting
  
 #### [Arimo](https://arimo.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 37; References: *
+Founded: 2012; Region: United States, California; Employees: 37; References: 1
  
 Recommendation engine | Pricing optimization | Merchandising optimization | Website Personalization | Sales forecasting | Predictive maintenance | Analytics platform | Fraud Detection
  
@@ -13628,7 +13628,7 @@ Recommendation engine | Pricing optimization | Merchandising optimization | Webs
  
 #### [SalesPredict](http://www.salespredict.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 22; References: *
+Founded: 2012; Region: United States, California; Employees: 22; References: 0
  
 Predictive sales
  
@@ -13642,7 +13642,7 @@ Predictive sales
  
 #### [Datanyze](http://www.datanyze.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 57; References: *
+Founded: 2012; Region: United States, California; Employees: 57; References: 0
  
 Predictive sales
  
@@ -13656,7 +13656,7 @@ Predictive sales
  
 #### [LeanData](http://www.leandatainc.com) 
  
-*Founded: 2012; Region: United States, California; Employees: 33; References: *
+Founded: 2012; Region: United States, California; Employees: 33; References: 0
  
 Sales attribution | Customer contact analytics
  
@@ -13670,7 +13670,7 @@ Sales attribution | Customer contact analytics
  
 #### [ContactUs.com](http://www.contactus.com) 
  
-*Founded: 2012; Region: United States, Florida; Employees: 3; References: *
+Founded: 2012; Region: United States, Florida; Employees: 3; References: 0
  
 Lead generation
  
@@ -13684,7 +13684,7 @@ Lead generation
  
 #### [LeadSift](http://www.leadsift.com) 
  
-*Founded: 2012; Region: Canada, Nova Scotia; Employees: 5; References: *
+Founded: 2012; Region: Canada, Nova Scotia; Employees: 5; References: 0
  
 Lead generation
  
@@ -13698,7 +13698,7 @@ Lead generation
  
 #### [SalesforceIQ](https://www.salesforceiq.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 133; References: *
+Founded: 2013; Region: United States, California; Employees: 133; References: 1
  
 Sales data input automation
  
@@ -13712,7 +13712,7 @@ Sales data input automation
  
 #### [6sense](http://www.6sense.com) 
  
-*Founded: 2013; Region: United States, California; Employees: 64; References: *
+Founded: 2013; Region: United States, California; Employees: 64; References: 1
  
 Predictive sales | Sales forecasting
  
@@ -13726,7 +13726,7 @@ Predictive sales | Sales forecasting
  
 #### [Outreach](http://www.outreach.io/) 
  
-*Founded: 2013; Region: United States, Washington; Employees: 190; References: *
+Founded: 2013; Region: United States, Washington; Employees: 190; References: 1
  
 Sales data input automation | Sales content personalization and analytics
  
@@ -13740,7 +13740,7 @@ Sales data input automation | Sales content personalization and analytics
  
 #### [Kore.ai](https://kore.ai/) 
  
-*Founded: 2013; Region: United States, Florida; Employees: 192; References: *
+Founded: 2013; Region: United States, Florida; Employees: 192; References: 0
  
 Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
@@ -13754,7 +13754,7 @@ Sales rep chat/email bot | Chatbot | Natural Language Processing library/SDK/API
  
 #### [Close.io](http://close.io) 
  
-*Founded: 2013; Region: United States, California; Employees: 27; References: *
+Founded: 2013; Region: United States, California; Employees: 27; References: 0
  
 Sales data input automation
  
@@ -13768,7 +13768,7 @@ Sales data input automation
  
 #### [Tethr](https://www.tethr.com/) 
  
-*Founded: 2013; Region: United States, Texas; Employees: 25; References: *
+Founded: 2013; Region: United States, Texas; Employees: 25; References: 0
  
 Sales call analytics
  
@@ -13782,7 +13782,7 @@ Sales call analytics
  
 #### [TalkIQ](https://www.talkiq.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 20; References: *
+Founded: 2014; Region: United States, California; Employees: 20; References: 1
  
 Sales call analytics
  
@@ -13796,7 +13796,7 @@ Sales call analytics
  
 #### [Salesflare](http://www.salesflare.com) 
  
-*Founded: 2014; Region: Belgium, Flanders; Employees: 6; References: *
+Founded: 2014; Region: Belgium, Flanders; Employees: 6; References: 1
  
 Sales data input automation | Meeting setup automation
  
@@ -13810,7 +13810,7 @@ Sales data input automation | Meeting setup automation
  
 #### [Mariana](http://marianaiq.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 6; References: *
+Founded: 2014; Region: United States, California; Employees: 6; References: 1
  
 Predictive sales | Sales forecasting
  
@@ -13824,7 +13824,7 @@ Predictive sales | Sales forecasting
  
 #### [FunnelWise](https://www.funnelwise.com/) 
  
-*Founded: 2014; Region: United States, Iowa; Employees: 40; References: *
+Founded: 2014; Region: United States, Iowa; Employees: 40; References: 1
  
 Predictive sales | Customer sales contact analytics | Sales rep next action suggestions
  
@@ -13838,7 +13838,7 @@ Predictive sales | Customer sales contact analytics | Sales rep next action sugg
  
 #### [Spiro Technologies](http://spiro.ai) 
  
-*Founded: 2014; Region: United States, Massachusetts; Employees: 14; References: *
+Founded: 2014; Region: United States, Massachusetts; Employees: 14; References: 2
  
 Sales data input automation | Sales rep next action suggestions
  
@@ -13852,7 +13852,7 @@ Sales data input automation | Sales rep next action suggestions
  
 #### [Julie Desk](https://www.juliedesk.com/) 
  
-*Founded: 2014; Region: France, Île-de-France; Employees: 14; References: *
+Founded: 2014; Region: France, Île-de-France; Employees: 14; References: 0
  
 Meeting setup automation | Digital assistant
  
@@ -13866,7 +13866,7 @@ Meeting setup automation | Digital assistant
  
 #### [Nitrio](http://nitr.io) 
  
-*Founded: 2014; Region: United States, California; Employees: 3; References: *
+Founded: 2014; Region: United States, California; Employees: 3; References: 0
  
 Sales rep response suggestions
  
@@ -13880,7 +13880,7 @@ Sales rep response suggestions
  
 #### [Singular Intelligence](http://www.singularintelligence.com/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 0; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 0; References: 1
  
 Pricing optimization | Predictive sales
  
@@ -13894,7 +13894,7 @@ Pricing optimization | Predictive sales
  
 #### [TopOPPS](http://www.topopps.com) 
  
-*Founded: 2014; Region: United States, Missouri; Employees: 35; References: *
+Founded: 2014; Region: United States, Missouri; Employees: 35; References: 0
  
 Predictive sales
  
@@ -13908,7 +13908,7 @@ Predictive sales
  
 #### [Semantic Machines](http://www.semanticmachines.com/) 
  
-*Founded: 2014; Region: United States, Massachusetts; Employees: 25; References: *
+Founded: 2014; Region: United States, Massachusetts; Employees: 25; References: 0
  
 Sales rep chat/email bot | Chatbot
  
@@ -13922,7 +13922,7 @@ Sales rep chat/email bot | Chatbot
  
 #### [BrightTarget](http://www.brighttarget.com/) 
  
-*Founded: 2014; Region: United Kingdom, England; Employees: 9; References: *
+Founded: 2014; Region: United Kingdom, England; Employees: 9; References: 0
  
 Predictive sales
  
@@ -13936,7 +13936,7 @@ Predictive sales
  
 #### [Pixoneye](http://www.pixoneye.com/) 
  
-*Founded: 2014; Region: Israel, Tel Aviv; Employees: 25; References: *
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 25; References: 0
  
 Predictive sales
  
@@ -13950,7 +13950,7 @@ Predictive sales
  
 #### [Intervyo](http://www.intervyo.com) 
  
-*Founded: 2014; Region: Israel, Tel Aviv; Employees: 6; References: *
+Founded: 2014; Region: Israel, Tel Aviv; Employees: 6; References: 0
  
 Sales call analytics
  
@@ -13964,7 +13964,7 @@ Sales call analytics
  
 #### [Stellar](https://www.stellar.org) 
  
-*Founded: 2014; Region: United States, California; Employees: 25; References: *
+Founded: 2014; Region: United States, California; Employees: 25; References: 0
  
 Sales call analytics
  
@@ -13978,7 +13978,7 @@ Sales call analytics
  
 #### [Kemvi](http://kemvi.com) 
  
-*Founded: 2014; Region: United States, California; Employees: 0; References: *
+Founded: 2014; Region: United States, California; Employees: 0; References: 0
  
 Lead generation
  
@@ -13992,7 +13992,7 @@ Lead generation
  
 #### [Relatas - Sales AI](https://relatas.com/) 
  
-*Founded: 2015; Region: India, Karnataka; Employees: 7; References: *
+Founded: 2015; Region: India, Karnataka; Employees: 7; References: 6
  
 Predictive sales | Sales data input automation | Customer sales contact analytics | Sales rep next action suggestions | Sales content personalization and analytics
  
@@ -14006,7 +14006,7 @@ Predictive sales | Sales data input automation | Customer sales contact analytic
  
 #### [Chorus.ai](http://www.chorus.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 35; References: *
+Founded: 2015; Region: United States, California; Employees: 35; References: 1
  
 Sales call analytics
  
@@ -14020,7 +14020,7 @@ Sales call analytics
  
 #### [Pypestream](https://pypestream.com/) 
  
-*Founded: 2015; Region: United States, New York; Employees: 54; References: *
+Founded: 2015; Region: United States, New York; Employees: 54; References: 1
  
 Sales rep chat/email bot | Chatbot
  
@@ -14034,7 +14034,7 @@ Sales rep chat/email bot | Chatbot
  
 #### [Nova](http://www.nova.ai/) 
  
-*Founded: 2015; Region: United States, California; Employees: 18; References: *
+Founded: 2015; Region: United States, California; Employees: 18; References: 2
  
 Sales rep chat/email bot
  
@@ -14048,7 +14048,7 @@ Sales rep chat/email bot
  
 #### [Gong.io](https://www.gong.io/) 
  
-*Founded: 2015; Region: United States, California; Employees: 26; References: *
+Founded: 2015; Region: United States, California; Employees: 26; References: 2
  
 Sales call analytics
  
@@ -14062,7 +14062,7 @@ Sales call analytics
  
 #### [msg.ai](http://msg.ai) 
  
-*Founded: 2015; Region: United States, California; Employees: 40; References: *
+Founded: 2015; Region: United States, California; Employees: 40; References: 5
  
 Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Customer service response suggestions | Chatbot analytics
  
@@ -14076,7 +14076,7 @@ Mobile Marketing | Sales rep chat/email bot | Retail sales bot | Chatbot | Custo
  
 #### [NEXD](https://www.nexd.ai) 
  
-*Founded: 2015; Region: United States, Texas; Employees: 14; References: *
+Founded: 2015; Region: United States, Texas; Employees: 14; References: 0
  
 Sales data input automation | Sales rep next action suggestions
  
@@ -14090,7 +14090,7 @@ Sales data input automation | Sales rep next action suggestions
  
 #### [Saleswhale](http://saleswhale.com) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Sales rep chat/email bot
  
@@ -14104,7 +14104,7 @@ Sales rep chat/email bot
  
 #### [Attentive.us](https://attentive.us/) 
  
-*Founded: 2015; Region: United States, California; Employees: 5; References: *
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
  
 Lead generation
  
@@ -14118,8 +14118,50 @@ Lead generation
  
 #### [Recast.AI](https://recast.ai) 
  
-*Founded: 2015; Region: France, Île-de-France; Employees: 25; References: *
+Founded: 2015; Region: France, Île-de-France; Employees: 25; References: 0
  
 Mobile Marketing | Lead generation | Sales rep chat/email bot | Meeting setup automation | Customer service chatbot (self-service solution) | Social listening & ticketing | Chatbot analytics | Natural Language Processing library/SDK/API | Conversational Analytics | Digital assistant
  
-[Twitter](https://twitter.com/RecastAI), [LinkedIn](https://www.linkedin.com/company/10246631), [Facebook](https://www.facebook.com/RecastAI), [Website](https://recast.ai), [Video](https://www.youtube.com/watch?v=YMdYpfzxgvo), 
+[Twitter](https://twitter.com/RecastAI), [LinkedIn](https://www.linkedin.com/company/10246631), [Facebook](https://www.facebook.com/RecastAI), [Website](https://recast.ai), [Video](https://www.youtube.com/watch?v=YMdYpfzxgvo), [Email](hello@recast.ai)
+ 
+ </br> 
+ 
+ 
+ 
+ </br> 
+ 
+#### [Propulse Analytics](http://propulseanalytics.com) 
+ 
+Founded: 2015; Region: Canada, Quebec; Employees: 5; References: 0
+ 
+Sales forecasting
+ 
+[Twitter](https://twitter.com/PropulseAI), [LinkedIn](https://www.linkedin.com/company/10327834), [Website](http://propulseanalytics.com), 
+ 
+ </br> 
+ 
+ 
+ 
+ </br> 
+ 
+#### [vPhrase Analytics Solutions Pvt. Ltd.](http://www.vphrase.com) 
+ 
+Founded: 2015; Region: India, Maharashtra; Employees: 25; References: 0
+ 
+Marketing analytics | Merchandising optimization | Sales content personalization and analytics | Natural Language Processing library/SDK/API | Robotic Process Automation (RPA) | Analytics platform | Performance management | HR analytics | Fraud Detection | Regulatory compliance
+ 
+[Twitter](https://www.twitter.com/vphrase), [LinkedIn](https://www.linkedin.com/company/6441996?trk=prof-exp-company-name), [Facebook](https://www.facebook.com/vphrase), [Website](http://www.vphrase.com), [Video](https://youtu.be/0azX9xMbGF0), [Email](contact@vphrase.com)
+ 
+ </br> 
+ 
+ 
+ 
+ </br> 
+ 
+#### [Staffjoy](https://www.staffjoy.com/) 
+ 
+Founded: 2015; Region: United States, California; Employees: 5; References: 0
+ 
+Meeting setup automation
+ 
+[Twitter](https://twitter.com/staffjoy), [LinkedIn](https://www.linkedin.com/company/6612912), 
