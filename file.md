@@ -1,4 +1,4 @@
-##### [**ADmantX**](http://www.admantx.com)
+##### *__[ADmantX](http://www.admantx.com)__
  
 Founded: 2010; Region: United States, Connecticut; Employees: 19
  
